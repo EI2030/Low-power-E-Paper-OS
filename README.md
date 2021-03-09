@@ -25,7 +25,7 @@ RTOS/Linux OS development
 **Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
 # Collaboration Tools
-This repository serves as a template for EI-2030 Working Groups. This repository contains templates for **agendas**, **notes** and a **wiki**.
+This repository contains templates for **agendas**, **notes** and a **wiki**.
 
 All meetings occur via video conference. Check the [`agendas/`](./agendas) for the exact date and time of upcoming meetings.
 
