@@ -8,7 +8,7 @@ Template for EI2030 Working Groups
 
 **Timeline:** 3/14/2021-4/13/2021
 
-**Members:** @scrunch, open to new members, including after project started.
+**Members:** @scrunch, @alexsotodev open to new members, including after project started.
 
 **Contact:** giovanni.lostumbo@gmail.com
 
