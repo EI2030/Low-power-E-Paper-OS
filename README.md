@@ -14,7 +14,7 @@ Template for EI2030 Working Groups
 
 **URL:** https://forum.ei2030.org/t/low-power-e-paper-os/138
 
-**Hardware:** Redboard Artemis, SAMD51, Dialog 14695, ESP32, STM32, other MCUs/MPUs with can be used, including ones with E-paper already connected, like M5Paper, or LilyT5.
+**Hardware:** Redboard Artemis, SAMD51, Dialog 14695, ESP32, STM32, other MCUs/MPUs with can be used, including ones with E-paper already connected, like M5Paper, or LILYGO® TTGO T5.
 Looking for: People with experience in:
 
 **Looking for:** Microcontrollers
