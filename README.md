@@ -1,24 +1,27 @@
 Template for EI2030 Working Groups
 =====================
-**Status:**
+**Status:** Approved
 
-**Name:** 
+**Name:** Low-power OS
 
-**Objective:** 
+**Objective:**  The goal of this project is to run an OS on an ultra low-power CPU/MCU that can output terminal or a window manager to an e-paper display.
 
-**Timeline:** 
+**Timeline:** 3/14/2021-4/13/2021
 
-**Members:** 
+**Members:** @scrunch, open to new members, including after project started.
 
-**Contact:** 
+**Contact:** giovanni.lostumbo@gmail.com
 
-**URL:**
+**URL:** https://forum.ei2030.org/t/low-power-e-paper-os/138
 
-**Hardware:**
+**Hardware:** Redboard Artemis, SAMD51, Dialog 14695, ESP32, STM32, other MCUs/MPUs with can be used, including ones with E-paper already connected, like M5Paper, or LilyT5.
+Looking for: People with experience in:
 
-**Looking for:**
+**Looking for:** Microcontrollers
+E-paper display drivers
+RTOS/Linux OS development
 
-**Items:**
+**Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
 # Collaboration Tools
 This repository serves as a template for EI-2030 Working Groups. This repository contains templates for **agendas**, **notes** and a **wiki**.
