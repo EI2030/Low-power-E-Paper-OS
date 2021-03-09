@@ -1,9 +1,9 @@
-Low-power-E-Paper-OS
+Low-power-E-Paper-OS Working Group
 
 =====================
 **Status:** Approved
 
-**Name:** Low-power OS
+**Name:** Low-power E-Paper OS
 
 **Objective:**  The goal of this project is to run an OS on an ultra low-power CPU/MCU that can output terminal or a window manager to an e-paper display.
 
