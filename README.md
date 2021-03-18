@@ -29,6 +29,12 @@ https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 E-paper display drivers
 RTOS/Linux OS development
 
+PCB Design:
+https://alc.sparkfun.com/
+https://forum.sparkfun.com/viewtopic.php?f=170&t=51685
+https://oshpark.com/
+https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
+
 RT/OSes of interest:
 https://www.tockos.org/documentation/walkthrough
 https://github.com/embox/embox
