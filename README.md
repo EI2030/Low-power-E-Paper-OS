@@ -21,7 +21,7 @@ https://discord.com/invite/nnxKnxh
 **Hardware:** Redboard Artemis, SAMD51, Dialog 14695, ESP32, STM32, other MCUs/MPUs with can be used, including ones with E-paper already connected, like M5Paper, or LILYGO® TTGO T5.
 Looking for: People with experience in:
 
-Solar Power Managers being considered:
+Solar Power Managers (integrated):
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 
