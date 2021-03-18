@@ -46,15 +46,10 @@ https://en.wikipedia.org/wiki/Twm
 
 **Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
-Tri-Design approach
+Tri-Design approach 
 
-The aim of the Low-power E-Paper is ideally to be able to run on solar panels that can fit on a laptop chassis such as the Pi-Top. Therefore, for each consideration of hardware choice (e.g E-Paper/RLCD,,MCU & Memory) and software (OS), they should, at least in the long term, be chosen only if they can be solar powered using ambient indoor light by meeting three criteria: Power, memory and size.
-
-1. Power refers to the thermal design power of the MCU, SRAM & Display. In Sparkfun Artemis, for example (not limited to the Artemis), the Ambiq Apollo3 uses 6uA/mhz,  and 576uA at 96mhz. Therefore, at 3.3V, the MCU alone uses around 1.9mW and w/SRAM & peripherals around 5mW. A 5 watt solar panel is able to power 5mW with a single 10.5W LED bulb without any outdoor sunlight. https://www.youtube.com/watch?v=txj-0iy4xJw In Epaper, the power consumption for each refresh of a Waveshare display can be as low as 26mW: https://www.waveshare.com/5.83inch-e-Paper.htm Other displays such as SHARP Memory or MIP (Memory-In-Pixel) displays may use an overall lower average consumption for more frequent refreshes: https://www.adafruit.com/product/4694
-
-2. Memory refers to the total SRAM and any storage actvity that the OS uses during normal utilization. In the Sparkfun Artemis Nano (Apollo3), it is 384KB. The solar panel does not require extra power to run an RTOS, therefore an RTOS can be fully solar powered with an indoor light. If wanting to choose a larger OS that requires 2-8MB of RAM, the added or included RAM (such as on the Apollo4) must be low power enough so that the extra power consumption (whether it is 3mA-20mA) can be powered by a single light bulb. Possible considerations include MRAM and FRAM via QSPI/OPI.
-
-3. Size refers to the disk space of the onboard flash and any additional external storage added. The criteria mentioned in #2 also apply. If the external storage medium uses a power consumption exceeding the amount of power that a solar panel on a laptop can produce, then it cannot be chosen to be as the permanent storage device for the solar laptop to be fully ambient-light harvesting. The energy harvested from the solar panel onto an integrated battery such as the Epishine Evaluation Kit from a typical day of exposure to indoor light should equal twice the amount of power consumed by the MCU, RAM, Storage & Display, so that it can be recharged daily along with topping-up the battery via pass-through charging.
+For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the Tri-Design Criteria:
+https://github.com/EI2030/Low-power-E-Paper-OS/commit/b832e9ddee9dcf0eeb47a6a98715f32642a9fa53
 
 # Collaboration Tools
 This repository contains templates for **agendas**, **notes** and a **wiki**.
