@@ -49,7 +49,7 @@ https://en.wikipedia.org/wiki/Twm
 Tri-Design approach 
 
 For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the Tri-Design Criteria:
-https://github.com/EI2030/Low-power-E-Paper-OS/commit/b832e9ddee9dcf0eeb47a6a98715f32642a9fa53
+https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/wiki/tri-design-approach.md
 
 # Collaboration Tools
 This repository contains templates for **agendas**, **notes** and a **wiki**.
