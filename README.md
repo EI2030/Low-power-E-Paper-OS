@@ -1,6 +1,7 @@
 Low-power-E-Paper-OS Working Group
 
 =====================
+
 **Status:** Approved
 
 **Name:** Low-power E-Paper OS
