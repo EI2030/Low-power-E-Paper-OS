@@ -46,10 +46,7 @@ https://en.wikipedia.org/wiki/Twm
 
 **Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
-[Tri-Design approach](/wiki/tri-design-approach.md)
-
-For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the Tri-Design Criteria:
-https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/wiki/tri-design-approach.md
+For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the [Tri-Design approach](/wiki/tri-design-approach.md)
 
 # Collaboration Tools
 This repository contains templates for **agendas**, **notes** and a **wiki**.
