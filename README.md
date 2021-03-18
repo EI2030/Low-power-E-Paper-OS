@@ -25,6 +25,14 @@ Looking for: People with experience in:
 E-paper display drivers
 RTOS/Linux OS development
 
+RT/OSes of interest:
+https://www.tockos.org/documentation/walkthrough
+https://github.com/embox/embox
+
+Window Managers: 
+https://github.com/mackstann/tinywm (0.2MB RAM)
+https://unauthorised.org/dhog/9wm.html 
+
 **Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
 # Collaboration Tools
