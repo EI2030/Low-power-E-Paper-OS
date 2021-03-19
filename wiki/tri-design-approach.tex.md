@@ -12,9 +12,5 @@ A mathematical representation of this can be expressed as (Power) x/1 + (Memory)
 
 It may be possible to further separate the hardware into w/1 for the display since it might represent a larger fraction of the consumption, but at a higher level, the hardware  (including the RAM) is best considered just 1.5 categories, since the software has an equal focus in the design, and is therefore is weighed more evenly with RAM (0.5) & Storage criteria (1).
 
-Also, as (x+y+z)/1 should equal 1, assume 1 also represents the half the Amp hours harvested in an 8-12 hr period of ambient light. 
-
-
-$ \sum_{\forall i}{x_i^{2}} $
-  
+Also, as (x+y+z)/1 should equal 1, assume 1 also represents the half the Amp hours harvested in an 8-12 hr period of ambient light.   
                                                             
