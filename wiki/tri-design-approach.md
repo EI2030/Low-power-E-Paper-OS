@@ -10,6 +10,8 @@ The aim of the Low-power E-Paper OS is ideally to be able to run on solar panels
 
 A mathematical representation of this can be expressed as (Power) x/1 + (Memory) y/1 + (Size) z/1 =1/1, where x refers to the power consumption of MCU, display, keyboard, trackpad and must be a value less than 1. y refers to the power consumption of the RAM, and is <1. z refers to the power consumption of the storage, and must also be <1. 
 
-It may be possible to further separate the hardware into w/1 for the display since it might represent a larger fraction of the consumption, but at a higher level, the hardware  (including the RAM) is best considered just two categories, since the software has an equal focus in the design, and is therefore is weighed more evenly with RAM & Storage criteria.
+It may be possible to further separate the hardware into w/1 for the display since it might represent a larger fraction of the consumption, but at a higher level, the hardware  (including the RAM) is best considered just 1.5 categories, since the software has an equal focus in the design, and is therefore is weighed more evenly with RAM (0.5) & Storage criteria (1).
+
+Also, as (x+y+z)/1 should equal 1, assume 1 also represents the half the Amp hours harvested in an 8-12 hr period of ambient light. 
   
                                                             
