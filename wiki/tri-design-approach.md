@@ -24,4 +24,6 @@ On a deeper level, these constraints are designed to change what we think of a m
 
 Other projects that  this include https://www.crowdsupply.com/eoma68/micro-desktop 
 
+http://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
+
 https://ploum.net/the-computer-built-to-last-50-years/ A great background on computing and typewriters.
