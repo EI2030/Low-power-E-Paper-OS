@@ -13,4 +13,15 @@ A mathematical representation of this can be expressed as (Power) x/1 + (Memory)
 It may be possible to further separate the hardware into w/1 for the display since it might represent a larger fraction of the consumption, but at a higher level, the hardware  (including the RAM) is best considered just 1.5 categories, since the software has an equal focus in the design, and is therefore is weighed more evenly with RAM (0.5) & Storage criteria (1).
 
 Also, as (x+y+z)/1 should equal 1, assume 1 also represents half of the Amp hours harvested in an 8-12 hr period of ambient light.   
+
+
                                                             
+https://www.brainyquote.com/quotes/saul_alinsky_138507 "Change means movement. Movement means friction. Only in the frictionless vacuum of a nonexistent abstract world can movement or change occur without that abrasive friction of conflict."
+
+My belief is that laptops, compared to standardized ATX desktop, cases are largely wasted and non-reusable plastic.
+
+On a deeper level, these constraints are designed to change what we think of a mobile device chassis- raw materials that, being non-recyclable bricks after their planned obsolescence, can now be reused as a shell since its decomposition is effectively non-existent. https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled The alernative is to use materials that can be recycled, however, this would typically apply to the chassis, and not the electronics. Additional research is also needed for organic electronics.
+
+Other projects that  this include https://www.crowdsupply.com/eoma68/micro-desktop 
+
+https://ploum.net/the-computer-built-to-last-50-years/ A great background on computing and typewriters.
