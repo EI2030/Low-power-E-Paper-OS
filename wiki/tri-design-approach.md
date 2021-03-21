@@ -14,7 +14,9 @@ It may be possible to further separate the hardware into w/1 for the display sin
 
 Also, as (x+y+z)/1 should equal 1, assume 1 also represents half of the Amp hours harvested in an 8-12 hr period of ambient light.   
 
+----------------------------------------------------------------------------------------------------------------------------------
 
+Background:
                                                             
 https://www.brainyquote.com/quotes/saul_alinsky_138507 "Change means movement. Movement means friction. Only in the frictionless vacuum of a nonexistent abstract world can movement or change occur without that abrasive friction of conflict."
 
