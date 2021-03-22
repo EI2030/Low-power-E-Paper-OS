@@ -43,6 +43,9 @@ https://github.com/embox/embox
 https://linuxgazette.net/issue01to08/linuxita_mar96.html 
 http://lfs.mirror.fileplanet.com/
 https://lwn.net/Kernel/LDD3/
+https://bootlin.com/pub/conferences/2017/jdll/opdenacker-embedded-linux-in-less-than-4mb-of-ram/opdenacker-embedded-linux-in-less-than-4mb-of-ram.pdf
+https://www.elinux.org/images/6/67/Linux_In_a_Lightbulb-Where_are_we_on_tinification-ELCE2015.pdf
+https://tiny.wiki.kernel.org/
 
 Window Managers: 
 https://github.com/mackstann/tinywm (0.2MB RAM)
