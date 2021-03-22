@@ -40,6 +40,9 @@ https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.pn
 RT/OSes of interest:
 https://www.tockos.org/documentation/walkthrough
 https://github.com/embox/embox
+https://linuxgazette.net/issue01to08/linuxita_mar96.html 
+http://lfs.mirror.fileplanet.com/
+https://lwn.net/Kernel/LDD3/
 
 Window Managers: 
 https://github.com/mackstann/tinywm (0.2MB RAM)
