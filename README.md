@@ -37,9 +37,15 @@ https://forum.sparkfun.com/viewtopic.php?f=170&t=51685
 https://oshpark.com/
 https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
 
-RT/OSes of interest:
+RT/OSes & Tools of interest:
 https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
+
+https://tiny.wiki.kernel.org/use_cases
+
+https://www.coreboot.org/
+
+http://jk.ozlabs.org/projects/petitboot/
 
 https://linuxgazette.net/issue01to08/linuxita_mar96.html 
 
