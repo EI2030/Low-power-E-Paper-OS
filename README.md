@@ -38,7 +38,7 @@ https://oshpark.com/
 https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
 
 RT/OSes of interest:
-https://www.tockos.org/documentation/walkthrough
+https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
 https://linuxgazette.net/issue01to08/linuxita_mar96.html 
 http://lfs.mirror.fileplanet.com/
