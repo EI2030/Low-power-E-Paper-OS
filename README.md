@@ -40,12 +40,24 @@ https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.pn
 RT/OSes of interest:
 https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
+
 https://linuxgazette.net/issue01to08/linuxita_mar96.html 
+
 http://lfs.mirror.fileplanet.com/
+
 https://lwn.net/Kernel/LDD3/
+
 https://bootlin.com/pub/conferences/2017/jdll/opdenacker-embedded-linux-in-less-than-4mb-of-ram/opdenacker-embedded-linux-in-less-than-4mb-of-ram.pdf
+
 https://www.elinux.org/images/6/67/Linux_In_a_Lightbulb-Where_are_we_on_tinification-ELCE2015.pdf
+
 https://tiny.wiki.kernel.org/
+
+https://elinux.org/Kernel_Size_Reduction_Work
+
+https://www.elinux.org/images/9/90/Linux_for_Microcontrollers-_From_Marginal_to_Mainstream.pdf
+
+https://electronics.stackexchange.com/questions/27594/what-operating-systems-have-been-ported-to-cortex-m3
 
 Window Managers: 
 https://github.com/mackstann/tinywm (0.2MB RAM)
