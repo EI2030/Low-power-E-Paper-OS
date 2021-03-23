@@ -24,7 +24,7 @@ https://discord.com/invite/nnxKnxh
 Looking for: People with experience in:
 
 RAM:
-https://www.apmemory.com/products/psram-iot-ram/
+https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & OPI)
 
 https://www.eejournal.com/industry_news/ambiq-and-ap-memory-partner-to-enable-richer-experiences-in-intelligent-endpoints/
 "AP Memory solutions offer low signal pin count (6 for QSPI, 11 for OPI), low power (standby from 20µA to 80µA, active from 3mA to 8mA), and high transfer rate options needed to meet the demanding power and space constraints of wearable and other battery-powered smart consumer devices."
