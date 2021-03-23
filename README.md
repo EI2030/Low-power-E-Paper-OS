@@ -31,7 +31,7 @@ https://www.eejournal.com/industry_news/ambiq-and-ap-memory-partner-to-enable-ri
 
 One approach is to run linux via external memory, using XIP:
 https://en.wikipedia.org/wiki/Execute_in_place
-
+https://www.embeddedcomputing.com/technology/storage/execute-in-place-xip-an-external-flash-architecture-ideal-for-the-code-and-performance-requirements-of-edge-iot-and-ai
 of which Apollo3 has 64MB-96MB of aperture:
 
 "The Apollo3 Blue Plus adds two additional MSPI modules (3 total), and increases the external memory execute-in-place (XiP) aperture from 64MB to 96MB (32MB/ MSPI instance). Additionally, internal flash increases from IMB to 2MB, SRAM from 384KB to 768KB (TCM size remains at 64KB) and the GPIO count increases from 50 to 74."
