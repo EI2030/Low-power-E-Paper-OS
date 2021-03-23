@@ -29,7 +29,10 @@ https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & 
 https://www.eejournal.com/industry_news/ambiq-and-ap-memory-partner-to-enable-richer-experiences-in-intelligent-endpoints/
 "AP Memory solutions offer low signal pin count (6 for QSPI, 11 for OPI), low power (standby from 20µA to 80µA, active from 3mA to 8mA), and high transfer rate options needed to meet the demanding power and space constraints of wearable and other battery-powered smart consumer devices."
 
-One approach is to run linux via external memory, using XiP, of which Apollo3 has 64MB-96MB of aperture:
+One approach is to run linux via external memory, using XIP:
+https://en.wikipedia.org/wiki/Execute_in_place
+
+of which Apollo3 has 64MB-96MB of aperture:
 
 "The Apollo3 Blue Plus adds two additional MSPI modules (3 total), and increases the external memory execute-in-place (XiP) aperture from 64MB to 96MB (32MB/ MSPI instance). Additionally, internal flash increases from IMB to 2MB, SRAM from 384KB to 768KB (TCM size remains at 64KB) and the GPIO count increases from 50 to 74."
 https://www.top-electronics.com/en/apollo3-blue-plus-mcu-768kb-108pin-bga
