@@ -41,6 +41,12 @@ MSPI: Dual/Quad/Octal-SPI Master (3x) 48Mhz SDR ISO7816 Master
 Apollo4: https://ambiq.com/wp-content/uploads/2020/10/Apollo-MCU-SoC-Selector-Guide.pdf
 MSPI: Dual/Quad/Octal-SPI Master (3x) 96Mhz SDR 48Mhz DDR
 
+https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
+"Ultra-Low Supply Current
+3 μA/MHz executing from MRAM (with cache)
+3 μA/MHz executing from SRAM
+1.5 μA low power sleep mode with RTC and 8KB SRAM retention"
+
 Solar Power Managers (integrated):
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
