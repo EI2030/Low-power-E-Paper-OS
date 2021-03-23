@@ -25,6 +25,7 @@ Looking for: People with experience in:
 
 RAM:
 https://www.apmemory.com/products/psram-iot-ram/
+
 https://www.eejournal.com/industry_news/ambiq-and-ap-memory-partner-to-enable-richer-experiences-in-intelligent-endpoints/
 "AP Memory solutions offer low signal pin count (6 for QSPI, 11 for OPI), low power (standby from 20µA to 80µA, active from 3mA to 8mA), and high transfer rate options needed to meet the demanding power and space constraints of wearable and other battery-powered smart consumer devices."
 Running linux via external memory, potentially via XiP, of which Apollo3 has 64MB-96MB of aperture:
@@ -41,8 +42,11 @@ RTOS/Linux OS development
 
 PCB Design:
 https://alc.sparkfun.com/
+
 https://forum.sparkfun.com/viewtopic.php?f=170&t=51685
+
 https://oshpark.com/
+
 https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
 
 RT/OSes & Tools of interest:
