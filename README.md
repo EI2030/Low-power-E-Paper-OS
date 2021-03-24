@@ -166,6 +166,8 @@ impossible to convince them of the problems you see. Instead of spending your
 energy fighting, commit to developing an alternative proposal so future
 discussion can be about substance.
 
+https://berjon.com/w3c-open-license/
+
 ### Block progress as a last resort
 
 This working group is only effective when consensus can be reached, even though
