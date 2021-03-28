@@ -73,6 +73,7 @@ https://tiny.wiki.kernel.org/use_cases
 https://www.coreboot.org/
 
 http://jk.ozlabs.org/projects/petitboot/
+https://forum.odroid.com/viewtopic.php?t=33873
 
 https://linuxgazette.net/issue01to08/linuxita_mar96.html 
 
