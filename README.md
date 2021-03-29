@@ -54,6 +54,7 @@ https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 **Looking for:** Microcontrollers
 E-paper display drivers
 RTOS/Linux OS development
+https://github.com/tock/tock/pull/1857
 
 PCB Design:
 https://alc.sparkfun.com/
