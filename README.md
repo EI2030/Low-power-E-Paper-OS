@@ -45,7 +45,8 @@ The origins of NTV are earlier, from the Phoenix processor: https://news.umich.e
 
 Technology that optimizes low-power cpus for both sleep and active modes has a benefit for not only wearables and IoT, but also user interface applications. This avenue (Cortex A series processors, as opposed to Cortex M0 or M4) has rarely been developed for, due to the likely power needs of the most performance-hungry apps.
 
-But what if not every person needed an app that uses lots of bandwidth and cpu utilization?
+But what if not every person needed an app that uses lots of bandwidth and cpu utilization? See this article for reference: 
+http://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
 
 At least one company in recent news claims to operate an application processor in the NTV range: http://www.micromagic.com/news/eeNewsAnalog_Santoro_Interview.pdf
 
