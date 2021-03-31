@@ -40,7 +40,7 @@ Reverse-Engineering
 Writers/Researchers"
 from: https://forum.ei2030.org/t/research-drivers-for-eink-displays/150
 
-This may sound like a purely high-tech project, but it is not, since leading edge hardware/tech is not always available in the open-source community. The Sparkfun Artemis boards change that, because if NASA used Sparkfun's altimeter, then it means open-source tech can be both leading tech and accessible. 
+This may sound like a purely high-tech project (read: hard/inaccessible), but it is not, since leading edge hardware/tech is now available in the open-source community. The Sparkfun company (which makes the Artemis boards with Apollo3) helped changed that perception, because if NASA used Sparkfun's altimeter, then it means open-source tech can (and has been) designed to be both leading tech and accessible. 
 Source: https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars
 Finding the available tools and hardware is the first half of the battle. Before starting this project, I did a few Google searches- "solar powered cpu"  by doing this, I was able to unearth a lot of research from early 2011: https://hexus.net/tech/news/cpu/31745-intel-shows-solar-powered-cpu-experiment/ 
 https://www.theregister.com/2011/09/16/claremont_near_voltage_processor/
