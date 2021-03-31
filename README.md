@@ -30,9 +30,13 @@ from: https://forum.ei2030.org/t/paperterm-project-definition-and-marketing-mate
 If you do have experience (and it is welcome), these fields are of particular help:
 
 "Embedded Development
+
 Electrical Engineering
+
 Software Developers
+
 Reverse-Engineering
+
 Writers/Researchers"
 from: https://forum.ei2030.org/t/research-drivers-for-eink-displays/150
 
