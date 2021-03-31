@@ -21,7 +21,35 @@ https://alexsoto.dev/static/community-built-eink-laptop-project/slides.pdf (Slid
 https://discord.com/invite/nnxKnxh 
 
 **Hardware:** Redboard Artemis, SAMD51, Dialog 14695, ESP32, STM32, other MCUs/MPUs with can be used, including ones with E-paper already connected, like M5Paper, or LILYGO® TTGO T5.
-Looking for: People with experience in:
+
+Looking for:
+
+"At this point, we need other people interested in the idea of this super-low-power device with its “I’m not a regular laptop” aspiration. You can help us figure out the key important areas for us to focus on. No special skills needed! If you like the sound of such a device, email us and join! No required time-commitment and no contribution is too small and no worries of all of this microcontroller-type talk goes over your head. We need you!"
+from: https://forum.ei2030.org/t/paperterm-project-definition-and-marketing-materials/146
+
+If you do have experience (and it is welcome), these fields are of particular help:
+
+"Embedded Development
+Electrical Engineering
+Software Developers
+Reverse-Engineering
+Writers/Researchers"
+from: https://forum.ei2030.org/t/research-drivers-for-eink-displays/150
+
+This may sound like a purely high-tech project, but it is not, since leading edge hardware/tech is not always available in the open-source community. The Sparkfun Artemis boards change that, because if NASA used Sparkfun's altimeter, then it means open-source tech can be both leading tech and accessible. 
+Source: https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars
+Finding the available tools and hardware is the first half of the battle. Before starting this project, I did a few Google searches- "solar powered cpu"  by doing this, I was able to unearth a lot of research from early 2011: https://hexus.net/tech/news/cpu/31745-intel-shows-solar-powered-cpu-experiment/ 
+https://www.theregister.com/2011/09/16/claremont_near_voltage_processor/
+"Near-threshold voltage" (and near-threshold computing) are terms rarely used in the mainstream market. 
+The origins of NTV are earlier, from the Phoenix processor: https://news.umich.edu/microchip-sets-low-power-record-with-extreme-sleep-mode/ 
+
+Technology that optimizes low-power cpus for both sleep and active modes has a benefit for not only wearables and IoT, but also user interface applications. This avenue (Cortex A series processors, as opposed to Cortex M0 or M4) has rarely been developed for, due to the likely power needs of the most performance-hungry apps.
+
+But what if not every person needed an app that uses lots of bandwidth and cpu utilization?
+
+At least one company in recent news claims to operate an application processor in the NTV range: http://www.micromagic.com/news/eeNewsAnalog_Santoro_Interview.pdf
+
+The current issue here is that there is not much demand right now. However, as more research and development goes into products that can easily be recharged by solar, the demand to avoid long charging cycles for app-hungry phones will increase. Instead of waiting for an application processor to be released using NTV, it may be more practical to port linux to the Ambiq Apollo4, which uses  Sub-threshold Power Optimized Technology: https://www.electronicdesign.com/technologies/microcontrollers/article/21800524/subthreshold-cortexm4f-design-sips-less-power-than-cortexm3 With the Apollo4 being released Q2 2021, Ambiq has lowered uA/mhz from 30uA/mhz in the Apollo1 to 3uA/mhz in the Apollo4. Furthermore, Sparkfun's Artemis boards which use 6uA/mhz, use so little power than I was able to power the LED for an Adafruit boost charger, along with the Red and blue power LEDs on the Artemis.
 
 RAM:
 https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & OPI)
