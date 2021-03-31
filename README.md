@@ -55,6 +55,7 @@ https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 E-paper display drivers
 RTOS/Linux OS development
 https://github.com/tock/tock/pull/1857
+https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 
 PCB Design:
 https://alc.sparkfun.com/
