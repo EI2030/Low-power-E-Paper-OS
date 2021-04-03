@@ -83,9 +83,22 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 3 μA/MHz executing from SRAM
 1.5 μA low power sleep mode with RTC and 8KB SRAM retention"
 
+Displays: 4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
+http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
+
+
+2.7" runs 180uW at 6.5fps:
+https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
+https://www.j-display.com/english/product/reflective.html 
+
+https://www.j-display.com/english/product/reflective.html
+
 Solar Power Managers (integrated):
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
+
+
+https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%20Application%20Processor%20comparisons.ods
 
 **Looking for:** Microcontrollers
 E-paper display drivers
