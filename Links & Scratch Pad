@@ -1,0 +1,59 @@
+
+Solar Power Managers (integrated):
+https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
+https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
+
+
+https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%20Application%20Processor%20comparisons.ods
+
+**Looking for:** Microcontrollers
+E-paper display drivers
+RTOS/Linux OS development
+
+https://github.com/tock/tock/pull/1857
+
+https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
+
+PCB Design:
+https://alc.sparkfun.com/
+
+https://forum.sparkfun.com/viewtopic.php?f=170&t=51685
+
+https://oshpark.com/
+
+https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
+
+RT/OSes & Tools of interest:
+https://en.wikipedia.org/wiki/Contiki
+https://github.com/embox/embox
+
+https://tiny.wiki.kernel.org/use_cases
+
+https://www.coreboot.org/
+
+http://jk.ozlabs.org/projects/petitboot/
+https://forum.odroid.com/viewtopic.php?t=33873
+
+https://linuxgazette.net/issue01to08/linuxita_mar96.html 
+
+http://lfs.mirror.fileplanet.com/
+
+https://lwn.net/Kernel/LDD3/
+
+https://bootlin.com/pub/conferences/2013/elc/arm-soc-checklist/arm-soc-checklist.pdf
+
+https://bootlin.com/pub/conferences/2017/jdll/opdenacker-embedded-linux-in-less-than-4mb-of-ram/opdenacker-embedded-linux-in-less-than-4mb-of-ram.pdf
+
+
+https://www.elinux.org/images/6/67/Linux_In_a_Lightbulb-Where_are_we_on_tinification-ELCE2015.pdf
+
+https://tiny.wiki.kernel.org/
+
+https://elinux.org/Kernel_Size_Reduction_Work
+
+https://www.elinux.org/images/9/90/Linux_for_Microcontrollers-_From_Marginal_to_Mainstream.pdf
+
+https://electronics.stackexchange.com/questions/27594/what-operating-systems-have-been-ported-to-cortex-m3
+
+Window Managers: 
+https://github.com/mackstann/tinywm (0.2MB RAM)
