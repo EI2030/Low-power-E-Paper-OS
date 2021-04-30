@@ -18,7 +18,7 @@ Low-power-E-Paper-OS Working Group
 
 https://alexsoto.dev/static/community-built-eink-laptop-project/slides.pdf (Slides 45-49)
 
-https://discord.com/invite/nnxKnxh 
+https://ei2030.zulipchat.com/register/
 
 **Hardware:** Redboard Artemis, SAMD51, Dialog 14695, ESP32, STM32, other MCUs/MPUs with can be used, including ones with E-paper already connected, like M5Paper, or LILYGO® TTGO T5.
 
