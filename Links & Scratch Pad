@@ -1,5 +1,13 @@
 #Notes
 
+This project has a lot of goals, but it can only accomplish a few goals at a time. To better elucidate what this project is, I think it is best to ask oneself, What is a Low-Power OS?
+
+To start, it could be any level of low-power, since power consumption is a relative term. It could refer to 0.5mA consumption, 0.5mA, 5mA, 50mA, 500mA, or 5A. 
+
+Therefore, before it is possible to organize a group around a low power OS, it is best to select a thermal power envelope before embarking. 
+
+I will select 0.5mA for the MCU alone (96mhz@ 4uA/mhz= 384uA)= Turbo Speed  (192mhz) is 768uA.
+
 Finding the available tools and hardware is the first half of the battle. Before starting this project, I did a few Google searches- "solar powered cpu"  by doing this, I was able to unearth a lot of research from early 2011: https://hexus.net/tech/news/cpu/31745-intel-shows-solar-powered-cpu-experiment/ 
 https://www.theregister.com/2011/09/16/claremont_near_voltage_processor/
 "Near-threshold voltage" (and near-threshold computing) are terms rarely used in the mainstream market. 
@@ -35,8 +43,8 @@ MSPI: Dual/Quad/Octal-SPI Master (3x) 96Mhz SDR 48Mhz DDR
 
 https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 "Ultra-Low Supply Current
-3 μA/MHz executing from MRAM (with cache)
-3 μA/MHz executing from SRAM
+4 μA/MHz executing from MRAM (with cache)
+4 μA/MHz executing from SRAM
 1.5 μA low power sleep mode with RTC and 8KB SRAM retention"
 
 Displays: 4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
