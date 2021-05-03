@@ -2,19 +2,17 @@ Low-power-E-Paper-OS Working Group
 
 =====================
 
-**Status:** Approved
-
 **Name:** Low-power E-Paper OS
 
 **Objective:**  The goal of this project is to run an OS on an ultra low-power CPU/MCU that can output terminal or a window manager to an e-paper display.
-
-**Timeline:** 3/14/2021-4/13/2021
 
 **Members:** @scrunch, @alexsotodev open to new members, including after project started.
 
 **Contact:** giovanni.lostumbo@gmail.com
 
 **URL:** https://forum.ei2030.org/t/low-power-e-paper-os/138
+
+https://forum.ei2030.org/t/research-porting-linux-to-ultra-low-power-microcontroller/151
 
 https://alexsoto.dev/static/community-built-eink-laptop-project/slides.pdf (Slides 45-49)
 
