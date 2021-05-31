@@ -47,4 +47,4 @@ Technology that optimizes low-power cpus for both sleep and active modes has a b
 
 **Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
-For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the Power First-Design approach](/wiki/power first.md)
+For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the Power First-Design approach: (https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/wiki/power-first.md)
