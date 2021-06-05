@@ -103,7 +103,8 @@ https://www.sparkfun.com/products/16771
 
 Therefore, porting the open source MuditaOS to Ambiq Micro Apollo4 seems feasible (Cortex M7 to M4)
 
-https://tiny.wiki.kernel.org/use_cases
+https://tiny.wiki.kernel.org/use_cases 
+https://youtu.be/mysM-V5h9z8?t=1913 (Zephyr & modular linux)
 
 https://www.coreboot.org/
 
