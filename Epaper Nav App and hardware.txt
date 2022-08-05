@@ -1,0 +1,19 @@
+E-Paper Map Navigation apps and hardware platforms are an area worth exploring- The sun glare can cause screens to be hard to see. Some very interesting projects:
+
+https://pythonawesome.com/a-bike-computer-based-on-raspberry-pi-zero-with-gps-and-ant/
+
+https://hackaday.io/project/179890-india-navi
+
+Some GPS ideas:
+
+https://www.u-blox.com/en/blogs/insights/designing-ultra-low-power-gps-solutions-iot 
+ https://www.mouser.com/new/maxim-integrated/maxim-max2769c-receiver/ 
+https://www.mouser.com/new/maxim-integrated/maxim-max32630-max32632-mcus/
+https://www.microcontrollertips.com/eloran-a-terrestrial-alternative-to-gps/ 
+
+Newer e-ink chipsets (multi core):
+https://goodereader.com/blog/electronic-readers/nxp-i-mx-8m-mini-is-powering-next-generation-e-ink-e-notes
+https://www.nxp.com/docs/en/data-sheet/IMX8MMIEC.pdf
+
+An idea I had was to use a microcontroller based navigation software to a very pared down 2D navigation software, something like the 2000 era Tom Tom and garmin devices. An Ambiq Apollo 4 has 192 mhz of RAM, and perhaps the extra storage could fit an offline map.
+https://www.sparkfun.com/products/17506 Could an Apollo3 based MCU use Lora/MQQT for ground based navigation? 
