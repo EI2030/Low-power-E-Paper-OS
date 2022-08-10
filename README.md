@@ -1,4 +1,4 @@
-Update 8/10/10 This working group has been inactive for 1+ yr, therefore I have decided to update with some renewed interest. First, the Apollo4 has a revised EVB, the Apollo4 Plus: https://www.top-electronics.com/en/apollo4-blue-plus-hexspi-192mhz-ble-5-1
+Update 8/10/22 This working group has been inactive for 1+ yr, therefore I have decided to update with some renewed interest. First, the Apollo4 has a revised EVB, the Apollo4 Plus: https://www.top-electronics.com/en/apollo4-blue-plus-hexspi-192mhz-ble-5-1
 "The Apollo4 Blue Plus is purpose-built to serve as both an application processor and a coprocessor for battery-powered endpoint devices, including smartwatches, children’s watches, fitness bands, animal trackers, far-field voice remotes, predictive health and maintenance, and the smart home.'
 
 https://www.top-electronicsusa.com/apollo4-192-mhz-cortex-m4f-141-pin-bga-p-18066.html 
