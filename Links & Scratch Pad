@@ -69,6 +69,12 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
+https://james-hui.com/2021/07/09/building-another-small-uboot-xip-linux-for-arm-cortex-m4/
+
+https://en.wikipedia.org/wiki/VxWorks
+
+https://en.wikipedia.org/wiki/NuttX
+
 http://www.sase.com.ar/2013/files/2013/09/SASE2013-Linux-BobBoys.pdf
 
 https://fctorial.github.io/posts/zircon_standalone.html
