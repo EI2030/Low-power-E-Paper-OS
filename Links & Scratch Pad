@@ -34,6 +34,26 @@ https://en.wikipedia.org/wiki/Execute_in_place
 https://www.embeddedcomputing.com/technology/storage/execute-in-place-xip-an-external-flash-architecture-ideal-for-the-code-and-performance-requirements-of-edge-iot-and-ai
 of which Apollo3 has 64MB-96MB of aperture:
 
+CPU and background:
+https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
+https://courses.grainger.illinois.edu/cs598jt/fa2019/reading_list/5a.pdf
+https://ieeexplore.ieee.org/document/4586001
+http://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2018/02/Mingoo-Seok-The-Phoenix-Processor-A-30pW-Platform-for-Sensor-Applications.pdf
+https://www.ee.columbia.edu/~mgseok/pdfs/phoenix_isscc_dac_design_contest.pdf
+https://semiengineering.com/dealing-with-sub-threshold-variation/
+https://www.eetimes.com/arm-preps-near-threshold-processor-for-iot/#
+ https://semiaccurate.com/2012/12/20/intel-explains-claremont-the-near-threshold-solar-pentium/ 
+https://www.theregister.com/2012/02/19/intel_isscc_ntv_digital_radio/
+https://www.engadget.com/2011-09-15-intel-reveals-claremont-near-threshold-voltage-processor-othe.html 
+https://www.anandtech.com/show/13888/intel-discontinues-quark-socs-and-microcontrollers
+https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
+
+https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
+https://arxiv.org/abs/2104.13983
+
+https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
+https://en.wikipedia.org/wiki/Intel_Quark
+
 "The Apollo3 Blue Plus adds two additional MSPI modules (3 total), and increases the external memory execute-in-place (XiP) aperture from 64MB to 96MB (32MB/ MSPI instance). Additionally, internal flash increases from IMB to 2MB, SRAM from 384KB to 768KB (TCM size remains at 64KB) and the GPIO count increases from 50 to 74."
 https://www.top-electronics.com/en/apollo3-blue-plus-mcu-768kb-108pin-bga
 MSPI: Dual/Quad/Octal-SPI Master (3x) 48Mhz SDR ISO7816 Master
@@ -47,9 +67,12 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 4 μA/MHz executing from SRAM
 1.5 μA low power sleep mode with RTC and 8KB SRAM retention"
 
-Displays: 4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
+Displays:
+
+4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
 
+Transflective (non-backlit): https://www.youtube.com/watch?v=L-GJjOucBNY 
 
 2.7" runs 180uW at 6.5fps:
 https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
@@ -61,6 +84,13 @@ Solar Power Managers (integrated):
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 
+Solar calculators & history
+https://en.wikipedia.org/wiki/Calculator#:~:text=The%20first%20truly%20pocket%2Dsized,was%20marketed%20early%20in%201971
+http://www.vintagecalculators.com/html/busicom_le-120a_-_le-120s.html 
+http://www.vintagecalculators.com/html/sharp_el-8026.html
+https://www.nationalgeographic.com/science/article/160225-solar-calculator-history-energy-objects 
+https://tedium.co/2017/08/09/calculators-fake-solar-charging/ 
+https://www.aps.org/publications/apsnews/200904/physicshistory.cfm
 
 https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%20Application%20Processor%20comparisons.ods
 
@@ -70,6 +100,8 @@ E-paper display drivers
 RTOS/Linux OS development:
 
 https://bootlin.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
+
+https://www.youtube.com/watch?v=Sk9TatW9ino
 
 https://en.wikipedia.org/wiki/Embeddable_Linux_Kernel_Subset
 
@@ -176,6 +208,7 @@ https://en.wikipedia.org/wiki/Twm
 DOS + GUISs
 
 https://github.com/Microsoft/MS-DOS (fully open source on Github since 2018)
+https://web.archive.org/web/20170506152047/http://www.patersontech.com/dos/byte%E2%80%93inside-look.aspx
 
 http://theguiblog.com/guipedia.php
 
@@ -195,3 +228,6 @@ https://en.wikipedia.org/wiki/Ncurses
 http://elmon.sourceforge.net/
 http://nmon.sourceforge.net/pmwiki.php
 https://github.com/Textualize/textual
+
+https://dl.acm.org/doi/pdf/10.1145/5684.5687
+https://en.wikipedia.org/wiki/Wang_Laboratories#Word_processors
