@@ -110,6 +110,7 @@ RT/OSes & Tools of interest:
 https://blog.adafruit.com/2021/05/05/elk-a-tiny-js-engine-for-embedded-systems-embedded-javascript/
 https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/
 
+
 FreeRTOS is one of the common OSes used on Ambiq Micro. The advantage to using FreeRTOS over uClinux is a smaller kernel:
 https://www.freertos.org/FreeRTOS_Support_Forum_Archive/November_2016/freertos_Free_RTOS_Memory_Management_59ed41adj.html
 The disadvantage is more development time. However, with limited onboard flash & RAM, a microkernel would provide lower power consumption than a larger linux kernel, unless using an older linux kernel such as 2.4, but since there would be security risks with an older kernel, its functionality would be limited to off-line use. See https://doc.slitaz.org/en:guides:pxe#why-use-pxe-the-vnc-example
@@ -170,3 +171,25 @@ https://github.com/mackstann/tinywm (0.2MB RAM)
 https://unauthorised.org/dhog/9wm.html 
 https://en.wikipedia.org/wiki/Twm
 
+DOS + GUISs
+
+https://github.com/Microsoft/MS-DOS (fully open source on Github since 2018)
+
+http://theguiblog.com/guipedia.php
+
+https://costa.jacobpalm.dk/development.html
+https://github.com/jacobpalm/costa
+
+http://www.mevis-research.de/~ritter/awakeideas/desktop.html
+https://news.ycombinator.com/item?id=28803911
+https://github.com/mattiasgustavsson/dos-like (not for dos though)
+
+http://setedit.sourceforge.net/
+https://os.ghalkes.nl/tilde/
+https://github.com/vinibiavatti1/TuiCss
+https://en.wikipedia.org/wiki/Turbo_Vision
+https://github.com/magiblot/tvision
+https://en.wikipedia.org/wiki/Ncurses
+http://elmon.sourceforge.net/
+http://nmon.sourceforge.net/pmwiki.php
+https://github.com/Textualize/textual
