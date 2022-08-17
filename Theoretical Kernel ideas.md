@@ -6,7 +6,7 @@ https://www.pcjs.org/software/pcx86/sys/windows/1.00/ used 640K of RAM. By compa
 
 An analogy in chemistry is electrons that hop around the atoms in molecule, such as carbonate: https://en.wikipedia.org/wiki/Carbonate
 
-The property confers a double bond cycling around the molecule to produce a more stable charge than two fixed single bonds and a double bond. This is also why sucrose and (https://en.wikipedia.org/wiki/Resonance_(chemistry))
+The property confers a double bond cycling around the molecule to produce a more stable charge than two fixed single bonds and a double bond.  (https://en.wikipedia.org/wiki/Resonance_(chemistry))
 
 This property is also seen in aromatic compounds where the electron shares a double bond with six carbon atoms: https://en.wikipedia.org/wiki/Aromaticity
 
