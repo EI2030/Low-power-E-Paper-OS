@@ -204,6 +204,7 @@ Window Managers:
 https://github.com/mackstann/tinywm (0.2MB RAM)
 https://unauthorised.org/dhog/9wm.html 
 https://en.wikipedia.org/wiki/Twm
+https://forums.freebsd.org/threads/window-manager-resident-ram-usage.81914/
 
 DOS + GUISs
 
