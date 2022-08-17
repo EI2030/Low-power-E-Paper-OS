@@ -17,4 +17,6 @@ Of course, this analogy to comparing a kernel module cycling into RAM from slow 
 As writing a kernel is highly dependent on the needs of a user, this concept may not necessarily fit every purpose. However, if a full linux kernel is seen to be a practical, existing tool that simply can't fit into a smaller microcontroller, this project is designed to explore a solution to that. The idea isn't to just search for a larger RAM chip- sometimes the power consumption penalty may prohibit certain uses in energy constrained systems. Thus, this project isn't about trying to get every application to run at the same time, but to see how the kernel could be designed so that it can rotate essential infrastructure for each app/driver/tool into the kernel "just-in-time."
 
 Edit: This obviously has been tried in some form before, the most notable is found here: https://www.oreilly.com/openbook/opensources/book/appa.html
+
+https://en.wikipedia.org/wiki/Minix_3 
 There are other microkernel OSes out there like QNX https://en.wikipedia.org/wiki/QNX but it's not clear if there is a leading open source microkernel OS that resembles a linux "userpace" kernel, rather than an RTOS.
