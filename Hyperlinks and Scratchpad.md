@@ -99,6 +99,10 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
+https://en.wikipedia.org/wiki/Single_address_space_operating_system
+
+https://en.wikipedia.org/wiki/Unikernel
+
 https://bootlin.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
 
 https://www.youtube.com/watch?v=Sk9TatW9ino
