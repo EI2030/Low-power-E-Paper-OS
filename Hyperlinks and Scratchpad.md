@@ -102,6 +102,11 @@ RTOS/Linux OS development:
 https://en.wikipedia.org/wiki/Single_address_space_operating_system
 
 https://en.wikipedia.org/wiki/Unikernel
+https://github.com/unikraft/unikraft
+https://dl.acm.org/doi/pdf/10.1145/3447786.3456248
+
+https://arxiv.org/pdf/2112.06566.pdf
+https://github.com/project-flexos
 
 https://bootlin.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
 
