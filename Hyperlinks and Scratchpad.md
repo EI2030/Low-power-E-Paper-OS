@@ -108,6 +108,15 @@ https://dl.acm.org/doi/pdf/10.1145/3447786.3456248
 https://arxiv.org/pdf/2112.06566.pdf
 https://github.com/project-flexos
 
+https://www.techrepublic.com/article/how-pcgeos-found-a-5th-life-as-an-open-source-dos-shell/
+https://www.osnews.com/story/15223/geos-the-graphical-environment-operating-system/
+https://en.wikipedia.org/wiki/GEOS_(16-bit_operating_system)
+https://github.com/bluewaysw
+
+https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)
+https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)#cite_note-9
+https://github.com/mist64/geos
+
 https://bootlin.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
 
 https://www.youtube.com/watch?v=Sk9TatW9ino
