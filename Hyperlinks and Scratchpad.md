@@ -108,6 +108,13 @@ https://dl.acm.org/doi/pdf/10.1145/3447786.3456248
 https://arxiv.org/pdf/2112.06566.pdf
 https://github.com/project-flexos
 
+"ClickOS and the Art of Network
+Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
+
+Towards Highly Specialized, POSIX-compliant
+Software Stacks with Unikraft: Work-in-Progress: https://owl.eu.com/papers/unikraft-emsoft20.pdf
+
+
 https://www.techrepublic.com/article/how-pcgeos-found-a-5th-life-as-an-open-source-dos-shell/
 https://www.osnews.com/story/15223/geos-the-graphical-environment-operating-system/
 https://en.wikipedia.org/wiki/GEOS_(16-bit_operating_system)
