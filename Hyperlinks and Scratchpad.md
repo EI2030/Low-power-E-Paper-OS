@@ -136,6 +136,8 @@ https://www.youtube.com/watch?v=eooviN1SdQ8
 https://github.com/AcceleratedLinux/accelerated-linux
 https://events19.linuxfoundation.org/wp-content/uploads/2017/12/BoF-Accelerated-Linux-Build-System-Jeff-Shaw-Digi-International.pdf
 
+U-boot https://medium.com/@sdivcom/%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE-u-boot-%D1%87%D0%B0%D1%81%D1%82%D1%8C-3-%D0%BF%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BC-%D0%BE-%D0%B0%D1%85%D1%80%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B5-83b6dfd5d361 translation available via browser
+https://github.com/sdivcom-dotcom/my-site
 
 https://james-hui.com/2021/07/09/building-another-small-uboot-xip-linux-for-arm-cortex-m4/
 
