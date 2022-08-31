@@ -263,3 +263,8 @@ https://en.wikipedia.org/wiki/Wang_Laboratories#Word_processors
 Miscellaneous links:
 
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
+
+https://journals.uic.edu/ojs/index.php/fm/article/view/2186/2062 Ubuntuism, commodification, and the software dialectic, by Mike Chege
+
+https://en.wikipedia.org/wiki/Steal_This_Book by Abbie Hoffman
+
