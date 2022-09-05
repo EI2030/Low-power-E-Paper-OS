@@ -13,6 +13,7 @@ https://www.theregister.com/2011/09/16/claremont_near_voltage_processor/
 "Near-threshold voltage" (and near-threshold computing) are terms rarely used in the mainstream market. 
 The origins of NTV are earlier, from the Phoenix processor: https://news.umich.edu/microchip-sets-low-power-record-with-extreme-sleep-mode/ 
 
+https://web.cse.ohio-state.edu/~teodorescu.1/download/slides/radu_cmu_may2013.pdf
 
 But what if not every person needed an app that uses lots of bandwidth and cpu utilization? See this article for reference: 
 http://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
