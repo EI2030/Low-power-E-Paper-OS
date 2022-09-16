@@ -55,6 +55,37 @@ https://arxiv.org/abs/2104.13983
 https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
 https://en.wikipedia.org/wiki/Intel_Quark
 
+https://en.wikipedia.org/wiki/Geode_(processor)
+https://www.computerworld.com/article/2530500/amd-sees-no-geode-chip-replacement-in-sight.html
+"Geode was a nice niche market for them, but we are in a very different environment. You can't split your attention too many ways," he said. Geode doesn't contribute to AMD's bottom line like the mainstream chips.
+
+from https://wiki.laptop.org/go/Gen2_CPU_Ideas :
+"Candidate Processors
+This section (indeed, the whole page) is all about ideas -- not about deals with chip vendors, plans for products, or anything so concrete. Add your own ideas.
+
+X86
+AMD Geode family extensions (SSE1)
+Intel "Diamondville" (SSE1, SSE2, SSE3, 64-bit, virtualization, 2 cores, some (2?) threads per core)
+VIA Isaiah (SSE1, SSE2, SSE3, 64-bit, virtualization)
+EE Times on Intel and AMD system-on-chip progress https://www.eetimes.com/latest-32-bit-risc-architecture-for-automotive-expands-functionality/?articleid=204702686
+non-X86
+Sun UltraSPARC T2 core. GPL'd hardware module implements 64-bit SPARC instruction set, memory controller, in 1x to 8x cores with up to 8 threads apiece. Designed for servers, we'd spin down the cores, threads and clock rate for low absolute power consumption. (64-bit, virtualization, 8 cores, 8 threads per core)
+OpenRISC CPU and other System-on-chip design  https://www.oracle.com/servers/technologies/opensparc-overview.html
+LEON SPARC. GPL'd 32bit CPU core https://opencores.org/ https://www.gaisler.com/
+Talk to Transmeta, they don't make X86 chips anymore, they license low power technology though. The Crusoe was used extensively in Toshiba Libretto line and let's not forget they did more than most to support Linux by writing a paycheck to Torvalds for years. Who knows what they've got up their sleeves.
+
+Marvel ARM/Xscale All-in-one System-On-Chip: low cost, low power, more reliable, simpler design (USA).
+Aday All-in-one System-on-module with Pentium core: low cost (Taiwan).
+Culturecom V-Dragon PowerPC 405 based CPU: low cost (Hong Kong).
+BLX Godson series MIPS look alike CPU: low cost (China).
+Texas Instruments ARM Cortex A8 System-On-Chip: most powerful ARM, HD video and 3D acceleration as well.
+Qualcomm Snapdraon ARM
+Freescale ARM Cortex
+Softcore FPGAs with multicore / multichip architecture and power management ( 4 x Altera cyclone III for cpu + 1 Xilinx spartan 3an for gpu/io with tmds /dvi and lvds output )
+Vortex DX / MX - vortex86dx.com, vortex86mx.com"
+
+--------------------------------------------------
+
 "The Apollo3 Blue Plus adds two additional MSPI modules (3 total), and increases the external memory execute-in-place (XiP) aperture from 64MB to 96MB (32MB/ MSPI instance). Additionally, internal flash increases from IMB to 2MB, SRAM from 384KB to 768KB (TCM size remains at 64KB) and the GPIO count increases from 50 to 74."
 https://www.top-electronics.com/en/apollo3-blue-plus-mcu-768kb-108pin-bga
 MSPI: Dual/Quad/Octal-SPI Master (3x) 48Mhz SDR ISO7816 Master
