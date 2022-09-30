@@ -303,3 +303,13 @@ Early GNU ld working set pre-swap http://www.mirrorservice.org/sites/sources.red
 https://sourceware.org/bugzilla/show_bug.cgi?id=22831
 
 https://sourceware.org/pipermail/gas2/1994/thread.html
+
+https://en.wikipedia.org/wiki/Howard_Zinn
+https://www.zinnedproject.org/materials/neutral-on-a-moving-train-dvd 
+https://www.goodreads.com/work/quotes/878739-you-can-t-be-neutral-on-a-moving-train-a-personal-history-of-our-times 
+"“You can’t be neutral on a moving train,” I would tell them. Some were baffled by the metaphor, especially if they took it literally and tried to dissect its meaning. Others immediately saw what I meant: that events are already moving in certain deadly directions, and to be neutral means to accept that.”
+― Howard Zinn, You Can't Be Neutral on a Moving Train: A Personal History of Our Times"
+
+What the Fork: A Study of Inefficient and Efficient
+Forking Practices in Social Coding 
+https://cmustrudel.github.io/papers/fse19forks.pdf
