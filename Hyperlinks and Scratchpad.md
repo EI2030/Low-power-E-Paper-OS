@@ -253,6 +253,8 @@ https://bootlin.com/pub/conferences/2017/jdll/opdenacker-embedded-linux-in-less-
 
 https://bootlin.com/doc/legacy/elfs/embedded_lfs.pdf
 
+https://nixos.org/
+
 https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/
 
 https://www.elinux.org/images/6/67/Linux_In_a_Lightbulb-Where_are_we_on_tinification-ELCE2015.pdf
