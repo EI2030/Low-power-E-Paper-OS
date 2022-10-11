@@ -131,6 +131,13 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
+https://github.com/hundredrabbits/awesome-uxn
+https://100r.co/site/uxn.html
+https://playb.it
+
+https://en.wikipedia.org/wiki/BareMetal 
+http://returninfinity.com
+
 https://en.wikipedia.org/wiki/Single_address_space_operating_system
 
 https://en.wikipedia.org/wiki/Unikernel
