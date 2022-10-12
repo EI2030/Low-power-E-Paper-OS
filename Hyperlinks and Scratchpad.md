@@ -106,6 +106,13 @@ http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
 
 Transflective (non-backlit): https://www.youtube.com/watch?v=L-GJjOucBNY 
 
+Thin Film Diode: https://corporate.epson/en/about/history/milestone-products/2000-11-md19.html
+https://twitter.com/zephray_wenting/status/1580022380382285825 
+https://en.wikipedia.org/wiki/Thin-film_diode
+https://www.amorphyx.com/
+https://archive.ph/20120913223847/http://www.mobile-phone-directory.org/Glossary/T/TFD.html
+
+
 2.7" runs 180uW at 6.5fps:
 https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
 https://www.j-display.com/english/product/reflective.html 
