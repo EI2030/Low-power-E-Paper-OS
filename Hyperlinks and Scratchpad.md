@@ -111,7 +111,7 @@ https://twitter.com/zephray_wenting/status/1580022380382285825
 https://en.wikipedia.org/wiki/Thin-film_diode
 https://www.amorphyx.com/
 https://archive.ph/20120913223847/http://www.mobile-phone-directory.org/Glossary/T/TFD.html
-
+https://download.epson-europe.com/pub/electronics-de/ld/d%20tfd%20brochure.pdf
 
 2.7" runs 180uW at 6.5fps:
 https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
