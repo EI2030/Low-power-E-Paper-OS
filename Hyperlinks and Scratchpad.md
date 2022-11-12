@@ -221,6 +221,10 @@ RT/OSes & Tools of interest:
 https://blog.adafruit.com/2021/05/05/elk-a-tiny-js-engine-for-embedded-systems-embedded-javascript/
 https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/
 
+
+http://www.primrosebank.net/computers/pda/psion3a/psion3a_software_emulators.htm
+http://www.inference.org.uk/mackay/psion/part5.htm
+
 FreeRTOS is one of the common OSes used on Ambiq Micro. The advantage to using FreeRTOS over uClinux is a smaller kernel:
 https://www.freertos.org/FreeRTOS_Support_Forum_Archive/November_2016/freertos_Free_RTOS_Memory_Management_59ed41adj.html
 The disadvantage is more development time. However, with limited onboard flash & RAM, a microkernel would provide lower power consumption than a larger linux kernel, unless using an older linux kernel such as 2.4, but since there would be security risks with an older kernel, its functionality would be limited to off-line use. See https://doc.slitaz.org/en:guides:pxe#why-use-pxe-the-vnc-example
