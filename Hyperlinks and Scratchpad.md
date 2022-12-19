@@ -24,6 +24,8 @@ The current issue here is that there is not much demand right now. However, as m
 
 Furthermore, the definition of "high-tech" and "low-tech" is due for a re-examination: https://en.wikipedia.org/wiki/High_tech This subject will be examined more in detail in a future analysis. 
 
+http://www.paperterm.org/notes.html
+
 RAM:
 https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & OPI)
 
