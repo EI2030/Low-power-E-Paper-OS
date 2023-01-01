@@ -317,6 +317,12 @@ https://github.com/Textualize/textual
 https://dl.acm.org/doi/pdf/10.1145/5684.5687
 https://en.wikipedia.org/wiki/Wang_Laboratories#Word_processors
 
+History:
+https://www.amazon.com/Infinite-Loop-Michael-Malone/dp/0385486847
+https://books.google.com/books?id=lzgOduibRJgC&pg=PT27&source=gbs_toc_r&cad=2#v=onepage&q&f=false
+https://archive.nytimes.com/www.nytimes.com/books/99/04/04/reviews/990404.04poguet.html
+https://innowiki.org/personal-computer-xerox-alto-the-interim-dynabook/
+
 Miscellaneous links:
 
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
