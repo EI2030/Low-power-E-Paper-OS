@@ -210,6 +210,12 @@ https://github.com/tock/tock/pull/1857
 https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 
 PCB Design:
+https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/ History
+
+[https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/](https://semiengineering.com/many-chiplet-challenges-ahead/)
+
+
+
 https://alc.sparkfun.com/
 
 https://forum.sparkfun.com/viewtopic.php?f=170&t=51685
