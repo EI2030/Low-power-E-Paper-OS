@@ -135,6 +135,9 @@ https://www.aps.org/publications/apsnews/200904/physicshistory.cfm
 
 https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%20Application%20Processor%20comparisons.ods
 
+https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/
+https://ethw.org/Oral-History:Gary_Boone
+
 **Looking for:** Microcontrollers
 E-paper display drivers
 
