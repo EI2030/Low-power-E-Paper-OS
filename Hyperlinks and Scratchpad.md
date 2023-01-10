@@ -138,6 +138,11 @@ https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%
 https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/
 https://ethw.org/Oral-History:Gary_Boone
 
+Li-ion capacitors:
+https://en.wikipedia.org/wiki/Lithium-ion_capacitor
+https://www.mdpi.com/1420-3049/27/10/3119
+https://www.sciencedirect.com/science/article/abs/pii/S2468606917302873?via%3Dihub
+
 **Looking for:** Microcontrollers
 E-paper display drivers
 
