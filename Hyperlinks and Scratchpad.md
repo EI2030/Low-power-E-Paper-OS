@@ -147,6 +147,8 @@ Symbian OS and Psion's earlier OS
 https://en.wikipedia.org/wiki/EPOC_(operating_system) 16 & 32-bit
 https://en.wikipedia.org/wiki/EKA2 32-bit
 
+https://github.com/vvaltchev/tilck
+
 https://github.com/hundredrabbits/awesome-uxn
 https://100r.co/site/uxn.html
 https://playb.it
