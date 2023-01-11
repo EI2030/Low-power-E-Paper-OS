@@ -345,7 +345,7 @@ https://books.google.com/books?id=lzgOduibRJgC&pg=PT27&source=gbs_toc_r&cad=2#v=
 https://archive.nytimes.com/www.nytimes.com/books/99/04/04/reviews/990404.04poguet.html
 https://innowiki.org/personal-computer-xerox-alto-the-interim-dynabook/
 
-Miscellaneous links:
+Miscellaneous and unrelated links:
 
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
 
@@ -355,6 +355,10 @@ https://en.wikipedia.org/wiki/Steal_This_Book by Abbie Hoffman
 
 Early GNU ld working set pre-swap http://www.mirrorservice.org/sites/sources.redhat.com/pub/binutils/old-releases/ 
 https://sourceware.org/bugzilla/show_bug.cgi?id=22831
+
+https://lateblt.tripod.com/cpudes.htm
+
+https://lateblt.tripod.com/directsb.htm
 
 https://sourceware.org/pipermail/gas2/1994/thread.html
 
