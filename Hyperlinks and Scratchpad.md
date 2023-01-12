@@ -365,6 +365,11 @@ Wireless projects: https://wirelesschallenge.mozilla.org/#winners
 https://www.lantern.works/
 
 https://www.rhizomatica.org/about/
+https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/
+https://developer.servalproject.org/dokuwiki/doku.php
+http://www.servalproject.org/
+https://en.wikipedia.org/wiki/FreeSWITCH
+https://en.wikipedia.org/wiki/Osmocom
 
 https://imeshyou.gotennamesh.com/
 
@@ -385,6 +390,8 @@ https://www.youtube.com/watch?v=wA_hsSf8uiw
 https://www.tindie.com/products/bobricius/armachat-lora-messenger-with-raspberry-pi-pico/
 https://unsigned.io/private-messaging-over-lora/
 https://hackaday.com/2022/05/25/long-distance-text-communication-with-lora/
+
+
 
 https://sourceware.org/pipermail/gas2/1994/thread.html
 
