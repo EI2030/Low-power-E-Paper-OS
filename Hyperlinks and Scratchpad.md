@@ -381,6 +381,10 @@ https://othernet.is/
 https://commotionwireless.github.io/rave/
 https://github.com/commotionwireless/rave
 
+https://www.youtube.com/watch?v=wA_hsSf8uiw
+https://www.tindie.com/products/bobricius/armachat-lora-messenger-with-raspberry-pi-pico/
+https://unsigned.io/private-messaging-over-lora/
+https://hackaday.com/2022/05/25/long-distance-text-communication-with-lora/
 
 https://sourceware.org/pipermail/gas2/1994/thread.html
 
