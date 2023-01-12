@@ -360,6 +360,28 @@ https://lateblt.tripod.com/cpudes.htm
 
 https://lateblt.tripod.com/directsb.htm
 
+Wireless projects: https://wirelesschallenge.mozilla.org/#winners
+
+https://www.lantern.works/
+
+https://www.rhizomatica.org/about/
+
+https://imeshyou.gotennamesh.com/
+
+http://emergencell.cs.washington.edu/
+
+https://github.com/jilu7883/Off_The_Grid
+
+https://guardianproject.info/code/wind/
+
+https://github.com/kovesdy/portable-cell-initiative
+
+https://othernet.is/
+
+https://commotionwireless.github.io/rave/
+https://github.com/commotionwireless/rave
+
+
 https://sourceware.org/pipermail/gas2/1994/thread.html
 
 https://en.wikipedia.org/wiki/Howard_Zinn
