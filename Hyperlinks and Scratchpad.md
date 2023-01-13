@@ -105,6 +105,8 @@ Displays:
 
 4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
+https://github.com/Gbertaz/JDI_MIP_Display
+
 
 Transflective (non-backlit): https://www.youtube.com/watch?v=L-GJjOucBNY 
 
