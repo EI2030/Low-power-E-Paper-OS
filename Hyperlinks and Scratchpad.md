@@ -314,6 +314,15 @@ https://unauthorised.org/dhog/9wm.html
 https://en.wikipedia.org/wiki/Twm
 https://forums.freebsd.org/threads/window-manager-resident-ram-usage.81914/
 
+Display Driver
+https://github.com/8l/fbui
+[Linux framebuffer - Wikipedia](https://en.wikipedia.org/wiki/Linux_framebuffer)
+https://github.com/directfb2
+https://github.com/Bareflank/hypervisor
+https://static.sched.com/hosted_files/osseu2022/2c/Trading_Fbdev_for_DRM_no_returns_accepted_Handouts.pdf
+https://www.x.org/releases/X11R7.6/doc/man/man4/fbdev.4.xhtml
+https://github.com/TheNeuronProject/ef.qt
+
 DOS + GUISs
 
 https://github.com/Microsoft/MS-DOS (fully open source on Github since 2018)
