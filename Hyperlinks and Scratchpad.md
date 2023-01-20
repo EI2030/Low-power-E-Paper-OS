@@ -248,6 +248,9 @@ https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.pn
 
 RT/OSes & Tools of interest:
 
+https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/ Lisa Source Code released by Apple & Computer History Museum 1/19/2023 (40th Anniv).
+https://info.computerhistory.org/apple-lisa-code
+
 https://blog.adafruit.com/2021/05/05/elk-a-tiny-js-engine-for-embedded-systems-embedded-javascript/
 https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/
 
