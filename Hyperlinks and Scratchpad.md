@@ -87,6 +87,8 @@ https://en.wikipedia.org/wiki/BlackBerry_OS#Release_history
 https://en.wikipedia.org/wiki/BlackBerry_950#RIM_OS
 https://the-gadgeteer.com/2001/02/26/rim_blackberry_950_review/
 https://www.youtube.com/watch?v=sObUeJZx_5c
+https://www.theglobeandmail.com/technology/youve-come-a-long-way-blackberry/article637388/
+https://www.cnbc.com/video/2022/11/19/what-happened-to-blackberry.html
 
 AMD
 https://en.wikipedia.org/wiki/Geode_(processor)
