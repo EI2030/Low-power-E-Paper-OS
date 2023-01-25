@@ -42,6 +42,7 @@ https://www.embeddedcomputing.com/technology/storage/execute-in-place-xip-an-ext
 of which Apollo3 has 64MB-96MB of aperture:
 
 CPU and background:
+STV and NTV:
 https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
 https://courses.grainger.illinois.edu/cs598jt/fa2019/reading_list/5a.pdf
 https://ieeexplore.ieee.org/document/4586001
@@ -52,15 +53,42 @@ https://www.eetimes.com/arm-preps-near-threshold-processor-for-iot/#
  https://semiaccurate.com/2012/12/20/intel-explains-claremont-the-near-threshold-solar-pentium/ 
 https://www.theregister.com/2012/02/19/intel_isscc_ntv_digital_radio/
 https://www.engadget.com/2011-09-15-intel-reveals-claremont-near-threshold-voltage-processor-othe.html 
-https://www.anandtech.com/show/13888/intel-discontinues-quark-socs-and-microcontrollers
 https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
 
+Neuromorphic:
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
 https://arxiv.org/abs/2104.13983
 
+uClinux
 https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
-https://en.wikipedia.org/wiki/Intel_Quark
+https://bootlin.com/doc/legacy/uclinux/uclinux_introduction.pdf
 
+Quark
+https://en.wikipedia.org/wiki/Intel_Quark
+https://en.wikipedia.org/wiki/Intel_Quark#List_of_processors  "Atlas Peak" Quark SE C1000 
+https://elinux.org/images/c/c6/Guedes.pdf
+https://ark.intel.com/content/www/us/en/ark/products/91949/intel-quark-se-c1000-microcontroller.html
+
+https://docs.zephyrproject.org/1.14.0/boards/x86/quark_se_c1000_devboard/doc/index.html
+http://www.elektronikjk.com/elementy_czynne/IC/INTEL-QUARK-SE-MICROCONTROLLER-C1000.pdf
+https://www.anandtech.com/show/13888/intel-discontinues-quark-socs-and-microcontrollers
+
+https://www.electronicsdatasheets.com/datasheet/Intel%20Quark%20SE%20Microcontroller%20C1000%20Evaluation%20Kit.pdf
+https://www.intel.com/content/www/us/en/developer/articles/technical/intel-quark-se-microcontroller-c1000-documentation.html
+https://cdrdv2.intel.com/v1/dl/getContent/335158
+https://cdrdv2.intel.com/v1/dl/getContent/334715
+https://cdrdv2.intel.com/v1/dl/getContent/335278
+
+Blackberry OS/RIM/
+https://www.gsmarena.com/blackberry_7100x-1013.php
+https://www.phonearena.com/phones/BlackBerry-7100g_id1099
+https://www.engadget.com/blackberry-os-devices-january-4th-service-shutdown-220421328.html
+https://en.wikipedia.org/wiki/BlackBerry_OS#Release_history
+https://en.wikipedia.org/wiki/BlackBerry_950#RIM_OS
+https://the-gadgeteer.com/2001/02/26/rim_blackberry_950_review/
+https://www.youtube.com/watch?v=sObUeJZx_5c
+
+AMD
 https://en.wikipedia.org/wiki/Geode_(processor)
 https://www.computerworld.com/article/2530500/amd-sees-no-geode-chip-replacement-in-sight.html
 "Geode was a nice niche market for them, but we are in a very different environment. You can't split your attention too many ways," he said. Geode doesn't contribute to AMD's bottom line like the mainstream chips.
