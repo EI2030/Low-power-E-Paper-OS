@@ -276,6 +276,7 @@ https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chipl
 ISA
 https://en.wikipedia.org/wiki/SuperH#J_Core
 https://lwn.net/Articles/647636/
+https://www.coresemi.io/products/overview/j32-cpu-core
 -----
 https://alc.sparkfun.com/
 
