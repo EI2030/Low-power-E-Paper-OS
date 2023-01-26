@@ -75,6 +75,7 @@ https://j-core.org/talks/ELC-2016.pdf
 https://web.eece.maine.edu/~vweaver/papers/iccd09/ll_document.pdf
 https://j-core.org/talks/japan-2015.pdf
 https://web.eece.maine.edu/~vweaver/papers/iccd09/iccd09_density.pdf
+https://lists.j-core.org/pipermail/j-core/
 
 Quark
 https://en.wikipedia.org/wiki/Intel_Quark
