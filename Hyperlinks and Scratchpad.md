@@ -161,6 +161,13 @@ Solar Power Managers (integrated):
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 
+Schottky junctions (1.2eV instead of p-n junctions at 1.1eV)
+https://en.wikipedia.org/wiki/Schottky_junction_solar_cell
+https://solar.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html (website powered by a solar panel)
+https://lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html (same article as previous link, non-solar powered website alternative)
+https://en.wikipedia.org/wiki/Thermionic_emission
+"Although vulnerable to higher rates of thermionic emission, manufacturing of Schottky barrier solar cells proves to be cost-effective and industrially scalable.[4]"
+
 Solar calculators & history
 https://en.wikipedia.org/wiki/Calculator#:~:text=The%20first%20truly%20pocket%2Dsized,was%20marketed%20early%20in%201971
 http://www.vintagecalculators.com/html/busicom_le-120a_-_le-120s.html 
