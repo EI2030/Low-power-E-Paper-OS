@@ -63,6 +63,19 @@ uClinux
 https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
 https://bootlin.com/doc/legacy/uclinux/uclinux_introduction.pdf
 
+Super-H/J-Core (runs uClinux)
+https://j-core.org/
+https://en.wikipedia.org/wiki/SuperH#J_Core "
+https://j-core.org/ 
+https://github.com/CoreSemi/jcore-jx
+https://www.coresemi.io/products/overview/cx100-secure-soc
+https://www.coresemi.io/products/overview/j32-cpu-core
+https://www.youtube.com/watch?v=GHORpXNRJiE
+https://j-core.org/talks/ELC-2016.pdf
+https://web.eece.maine.edu/~vweaver/papers/iccd09/ll_document.pdf
+https://j-core.org/talks/japan-2015.pdf
+hKp://web.eece.maine.edu/~vweaver/papers/iccd09/iccd09_density.pdf
+
 Quark
 https://en.wikipedia.org/wiki/Intel_Quark
 https://en.wikipedia.org/wiki/Intel_Quark#List_of_processors  "Atlas Peak" Quark SE C1000 
