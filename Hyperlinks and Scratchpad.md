@@ -272,9 +272,11 @@ PCB Design:
 https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/ History
 
 [https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/](https://semiengineering.com/many-chiplet-challenges-ahead/)
-
-
-
+----
+ISA
+https://en.wikipedia.org/wiki/SuperH#J_Core
+https://lwn.net/Articles/647636/
+-----
 https://alc.sparkfun.com/
 
 https://forum.sparkfun.com/viewtopic.php?f=170&t=51685
