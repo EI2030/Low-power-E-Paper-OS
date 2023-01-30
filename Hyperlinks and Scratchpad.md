@@ -245,6 +245,11 @@ https://dl.acm.org/doi/pdf/10.1145/3447786.3456248
 https://arxiv.org/pdf/2112.06566.pdf
 https://github.com/project-flexos
 
+http://cowlark.com/2021-10-05-emutos-dana/
+https://github.com/davidgiven/emutos/tree/dana
+https://emutos.sourceforge.io/
+https://www.christenseninstitute.org/wp-content/uploads/2013/04/AlphaSmart.pdf
+
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
 
