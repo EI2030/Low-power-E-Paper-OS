@@ -229,6 +229,12 @@ https://en.wikipedia.org/wiki/EKA2 32-bit
 
 https://github.com/vvaltchev/tilck
 
+https://en.wikipedia.org/wiki/Minix
+https://wiki.minix3.org/doku.php?id=developersguide:portingnetbsduserland
+https://www.youtube.com/watch?v=86_BkFsb4eI&t=1s
+https://groups.google.com/g/alt.os.development/c/9qXsgge4b6w
+https://en.wikipedia.org/wiki/A_Commentary_on_the_UNIX_Operating_System
+
 https://github.com/hundredrabbits/awesome-uxn
 https://100r.co/site/uxn.html
 https://playb.it
