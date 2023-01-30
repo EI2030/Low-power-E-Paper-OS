@@ -249,6 +249,7 @@ http://cowlark.com/2021-10-05-emutos-dana/
 https://github.com/davidgiven/emutos/tree/dana
 https://emutos.sourceforge.io/
 https://www.christenseninstitute.org/wp-content/uploads/2013/04/AlphaSmart.pdf
+https://en.wikipedia.org/wiki/Hercules_(emulator)
 
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
