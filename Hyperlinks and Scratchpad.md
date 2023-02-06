@@ -257,6 +257,14 @@ https://emutos.sourceforge.io/
 https://www.christenseninstitute.org/wp-content/uploads/2013/04/AlphaSmart.pdf
 https://en.wikipedia.org/wiki/Hercules_(emulator)
 
+http://eschatologist.net/blog/?p=314
+https://en.wikipedia.org/wiki/Clascal
+
+https://en.wikipedia.org/wiki/Capability-based_security
+https://en.wikipedia.org/wiki/CapROS
+https://en.wikipedia.org/wiki/Smalltalk
+
+
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
 
