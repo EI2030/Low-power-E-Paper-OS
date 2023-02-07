@@ -352,6 +352,8 @@ https://tiny.slitaz.org/index.php Using a uClinux version for Cortex M4 may have
 https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
 
+https://github.com/cleverca22/not-os
+
 https://mudita.com/products/pure/muditaos/
 Mudita uses a 600mhz M7, which could be NXP iMXRT1062: 
 https://www.sparkfun.com/products/16771
