@@ -1,3 +1,7 @@
+​
+"Certainly all historical experience confirms the truth - that man would not have attained the possible unless time and again he had reached out for the impossible." -Max Weber
+
+
 Update 8/10/22 This working group has been inactive for 1+ yr, therefore I have decided to update with some renewed interest. First, the Apollo4 has a revised EVB, the Apollo4 Plus: https://www.top-electronics.com/en/apollo4-blue-plus-192mhz-ble-5-1-bga
 "The Apollo4 Blue Plus is purpose-built to serve as both an application processor and a coprocessor for battery-powered endpoint devices, including smartwatches, children’s watches, fitness bands, animal trackers, far-field voice remotes, predictive health and maintenance, and the smart home.'
 
