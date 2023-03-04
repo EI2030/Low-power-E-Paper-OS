@@ -459,7 +459,7 @@ Miscellaneous and unrelated links:
 
 https://en.wikipedia.org/wiki/Graph_database
 https://github.com/franzinc
-
+https://franz.com/about/company.history.lhtml
 
 https://neo4j.com/
 
