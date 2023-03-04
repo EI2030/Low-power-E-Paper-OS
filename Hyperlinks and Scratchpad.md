@@ -458,6 +458,18 @@ https://innowiki.org/personal-computer-xerox-alto-the-interim-dynabook/
 Miscellaneous and unrelated links:
 
 https://en.wikipedia.org/wiki/Graph_database
+https://github.com/franzinc
+
+
+https://neo4j.com/
+
+https://memgraph.com/
+
+https://github.com/gephi/gephi-plugins
+
+https://github.com/jQAssistant/jqassistant
+
+https://github.com/terminusdb/terminusdb
 
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
 
