@@ -36,9 +36,7 @@ Low-power-E-Paper-OS Working Group
 
 **Objective:**  The goal of this project is to run an OS on an ultra low-power CPU/MCU that can output terminal or a window manager to an e-paper display.
 
-**Members:** @scrunch, @alexsotodev open to new members, including after project started.
-
-**Contact:** giovanni.lostumbo@gmail.com
+**Members:** hatonthecat, @alexsotodev open to new members, including after project started.
 
 **URL:** https://forum.ei2030.org/t/low-power-e-paper-os/138
 
