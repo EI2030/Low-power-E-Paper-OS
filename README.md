@@ -84,7 +84,7 @@ Some interesting new processor finds:
 
 https://nanopowersemi.com/
 
-https://perceive.io/wp-content/uploads/2023/01/2022-12-02_Ergo-Product-Overview.pdf
+https://perceive.io/product/ergo/
 
 https://www.st.com/resource/en/datasheet/stm32u585ai.pdf
 
