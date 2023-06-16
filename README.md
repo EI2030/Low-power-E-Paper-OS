@@ -76,3 +76,19 @@ Technology that optimizes low-power cpus for both sleep and active modes has a b
 **Items:** Microcontrollers, e-paper display (no minimum resolution, but should be capable of displaying terminal)
 
 For a microcontroller, microprocessor, display, external memory/storage, and OS to be considered for this project, it must meet the Power First-Design approach: [https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/wiki/tri-design-approach.md] (Link reverted to prevent broken links). 
+
+Non-Code contributors welcome:
+https://github.com/readme/featured/open-source-non-code-contributions
+
+Some interesting new processor finds:
+
+https://nanopowersemi.com/
+
+https://perceive.io/wp-content/uploads/2023/01/2022-12-02_Ergo-Product-Overview.pdf
+
+https://www.st.com/resource/en/datasheet/stm32u585ai.pdf
+
+Ambiq Update, March 2023:
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/84264e2a-edab-47a0-8731-054d0bc3d53b) p.10 
+
+
