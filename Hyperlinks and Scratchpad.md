@@ -227,6 +227,10 @@ Symbian OS and Psion's earlier OS
 https://en.wikipedia.org/wiki/EPOC_(operating_system) 16 & 32-bit
 https://en.wikipedia.org/wiki/EKA2 32-bit
 
+https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html
+
+https://en.wikipedia.org/wiki/Jlime
+
 https://github.com/vvaltchev/tilck
 
 https://en.wikipedia.org/wiki/Minix
