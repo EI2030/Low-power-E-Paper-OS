@@ -83,6 +83,8 @@ While there are many other tools and formats that may be able to achieve higher 
 
 Wikipedia's own resized files are better compressed while still maintaining good color and resolution. It can be argued that certain images preserve more information with fewer colors and a higher, uncompressed resolutions (e.g. in cases where outlines are more important than palette such as pencil marks in Paint). However, some files may require special codecs that are not always viewable (e.g. JP2000 codec, not applicable here). 
 
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/6a174783-0a3f-4b1d-a216-5da26a2c4388)
+
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/5409ce4c-b481-4dd7-9642-f1d85ca28e4d)
 
