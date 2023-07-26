@@ -30,6 +30,47 @@ Furthermore, the definition of "high-tech" and "low-tech" is due for a re-examin
 
 http://www.paperterm.org/notes.html (low bandwidth, low power, pixel perfect ASCII-like text (1 bit per pixel?) interface over SSH and remote clients using low powered microcontrollers. Kind of like SteamLink, but for 2D/TUI interfaces.
 
+Solar Powered Webserver: https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/ Lowtech Magazine recently benchmarked the website generation times for their solar powered website, and has compared the generation times between Hugo and Pelican:
+
+"The times displayed are the average time of three runs on both the solar server (an A20 processor with two 1 GHz cores and 1 GB of RAM) and a modern laptop (an Intel i7-8650U Processor with four cores at 1.9 GHz and 32 GB of RAM). Generating the Hugo site on the solar server without cached assets is not possible to do in one go because the process either runs out of memory or exceeds the timeout limit of Hugo. In that case, the command has to be run several times in a row. While it seems as if Hugo is slower than Pelican on the laptop, that is likely explained by the Hugo site running both a dithering logic and another compression logic for the images. In Pelican, images are only dithered and originals not recompressed.
+
+Hugo	                                                             Pelican
+Solar Server (first run)	-	                                       100 minutes, 47 seconds
+Modern Laptop (first run)	13 minutes, 31 seconds	                 12 minutes, 53 seconds
+Solar Server (cached)	11 minutes, 57 seconds	                     68 minutes, 47 seconds
+Modern Laptop (cached)	46 seconds	                                04 minutes, 57 seconds"
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/61fe538b-bff1-42ea-8166-28335c140c8e)
+
+https://github.com/lowtechmag/solar_v2
+https://github.com/lowtechmag/solar (archived)
+
+
+Recently encountering an actual copy of Paint Shop Pro, I was relieved to find a very simple image image tool that calculates the size of the converted file prior to conversion. For example, a 1MB 24-bit color file could be converted to 16 colors and 50KB, drastically reducing the page loading times for simple content. This can be one of the most convenient tools for generating webpage content, and doesn't require relying on websites that do the conversion for you.
+
+https://en.wikipedia.org/wiki/PaintShop_Pro
+
+I also was able to select 1 bit dithering, which converts 24 bit into monochrone (Black and white), but quite well, along with 16 color. It compressed a 1MB file to 50KB using 16 colors and dithering. 
+
+In this example, it converts a 31MB file into a 706KB 1-bit file:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f8e085ec-c1e4-4aea-85c7-6b9f34111abd)
+
+Opting for 16-color, one can compress the file to 2.6MB:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/28029a15-0c35-4c82-95e0-9dc300861f1a)
+
+While there are many other tools and formats that may be able to achieve higher compression rates with no loss in quality (e.g. webp, APNG), a simple tool like this can allow file attachments to be sized under the limits of many applications and sites (25MB, 10MB, etc)
+
+https://github.com/greghendershott/frog
+
+Saving a webpage often takes far longer than the number of bytes per second as depicted here:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/becd6d22-e5e9-4f0e-b806-179c65487e71)
+
+https://superuser.com/questions/1745770/saving-webpages-on-chrome-takes-longer-than-expected-and-downloaded-filesize-is
+Since most sites have a folder of scripts to download when saving a cached page, the page will download much slower than an advertised ISP's speeds (in the tens/hundreds or Gbps). Having a faster harddrive (such as PCI-e Gen3 or Gen4) will help with the 4KQD1 random write speeds for the small script files it needs to save the page to disk, but a far simpler solution would be for the page to minimize its scripts needed to display, at least for a non-Javascript version. Thus static site generators, or very simplified dynamic site generators can fit the bill far better when designed well. https://github.com/gohugoio/hugo
+
 RAM:
 https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & OPI)
 
