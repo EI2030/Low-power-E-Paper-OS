@@ -81,7 +81,7 @@ While JPEG can compress the file quite a bit more, the quality can appear quite 
 
 
 
-While there are many other tools and formats that may be able to achieve higher compression rates with no loss in quality (e.g. webp, APNG), a simple tool like this can allow file attachments to be sized under the limits of many applications and sites (25MB, 10MB, etc)
+While there are many other tools and formats that may be able to achieve higher compression rates with far less loss in quality (e.g. webp, APNG), a simple tool like this can allow file attachments to be sized under the limits of many applications and sites (25MB, 10MB, etc)
 
 https://github.com/greghendershott/frog
 
