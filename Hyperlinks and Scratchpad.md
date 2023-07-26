@@ -46,7 +46,7 @@ https://github.com/lowtechmag/solar_v2
 https://github.com/lowtechmag/solar (archived)
 
 
-Recently encountering an actual copy of Paint Shop Pro, I was relieved to find a very simple image image tool that calculates the size of the converted file prior to conversion. For example, a 1MB 24-bit color file could be converted to 16 colors and 50KB, drastically reducing the page loading times for simple content. This can be one of the most convenient tools for generating webpage content, and doesn't require relying on websites that do the conversion for you.
+Recently encountering an actual copy of Paint Shop Pro, I was relieved to find a very simple image image tool that calculates the size of the converted file prior to conversion. For example, a 1MB 24-bit color file could be converted to 16 colors and 50KB, drastically reducing the page loading times for simple content. This can be one of the most convenient tools for generating webpage content, and doesn't require using guesswork in MSPaint or websites that do the conversion for you.
 
 https://en.wikipedia.org/wiki/PaintShop_Pro
 
