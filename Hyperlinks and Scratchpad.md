@@ -56,9 +56,23 @@ In this example, it converts a 31MB file into a 706KB 1-bit file:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f8e085ec-c1e4-4aea-85c7-6b9f34111abd)
 
+![20110725_Castello_Sforzesco_Milan_5557](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/15805cbf-2a17-466c-a287-6086c3fb296c)
+
+
 Opting for 16-color, one can compress the file to 2.6MB:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/28029a15-0c35-4c82-95e0-9dc300861f1a)
+
+Opting for 4 color, one can achieve a slightly more balanced palette at just 1MB:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/18e1d010-44cb-4392-8a9e-d26458b830be)
+
+
+While JPEG can compress the file quite a bit more, the quality can appear quite degraded. Nonetheless, I was able to compress the file to just 95KB:
+
+![20110725_Castello_Sforzesco_Milan_5557 100](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/d74b0d5c-0e92-40d5-aef0-4d8a2191d01c)
+
+
 
 While there are many other tools and formats that may be able to achieve higher compression rates with no loss in quality (e.g. webp, APNG), a simple tool like this can allow file attachments to be sized under the limits of many applications and sites (25MB, 10MB, etc)
 
