@@ -59,14 +59,21 @@ In this example, it converts a 31MB file into a 706KB 1-bit file:
 ![20110725_Castello_Sforzesco_Milan_5557](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/15805cbf-2a17-466c-a287-6086c3fb296c)
 
 
-Opting for 16-color, one can compress the file to 2.6MB:
 
-![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/28029a15-0c35-4c82-95e0-9dc300861f1a)
 
 Opting for 4 color, one can achieve a slightly more balanced palette at just 1MB:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/18e1d010-44cb-4392-8a9e-d26458b830be)
 
+Opting for 16-color, one can compress the file to 2.6MB:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/28029a15-0c35-4c82-95e0-9dc300861f1a)
+
+Using Optimized Octree, the image can be reduced to 1.7MB (page 65 of user manual)
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/20004778-4de6-4fd1-accf-2d88dde8530f)
+
+![20110725_Castello_Sforzesco_Milan_5557 optimized](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e6239c57-69b0-4663-80a3-300109270ed8)
 
 While JPEG can compress the file quite a bit more, the quality can appear quite degraded. Nonetheless, I was able to compress the file to just 95KB:
 
