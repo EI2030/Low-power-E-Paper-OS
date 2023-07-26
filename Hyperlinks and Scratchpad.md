@@ -58,8 +58,7 @@ In this example, it converts a 31MB file into a 706KB 1-bit file:
 
 ![20110725_Castello_Sforzesco_Milan_5557](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/15805cbf-2a17-466c-a287-6086c3fb296c)
 
-
-
+Original: https://en.wikipedia.org/wiki/Castello_Sforzesco#/media/File:20110725_Castello_Sforzesco_Milan_5557.jpg
 
 Opting for 4 color, one can achieve a slightly more balanced palette at just 1MB:
 
