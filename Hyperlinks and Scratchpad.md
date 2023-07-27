@@ -90,7 +90,9 @@ Wikipedia's own resized files are better compressed while still maintaining good
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/943de570-280a-4e7e-9ddd-a6370e1d4c0d)
 
+https://gohugo.io/tools/frontends/
 
+https://github.com/julianoappelklein/hokus
 
 https://github.com/greghendershott/frog
 
