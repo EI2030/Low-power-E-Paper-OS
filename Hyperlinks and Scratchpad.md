@@ -104,6 +104,14 @@ https://ids.si.edu/ids/deliveryService?id=NMAH-2008-10155&max=1000
 ![NMAH-2008-10155 (1)](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/b464d2e0-17d2-4726-a7e2-4e89f5ed5d45)
 
 
+While the larger sizes look great on larger monitors, it will not be as portable on smaller screens, especially ones that do not need large previews. Resizing to 25%, shrunk the original file to 63KB, and the dithering was only 3KB less, using 4 color dithering (60KB):
+
+![NMAH-2008-10155 (4) 25 resize 4 color](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/352273aa-6273-4d21-9fe5-792ee546586f)
+
+Similar to greyscale and black and white film, dithering can look sharper, if only the relevant colors are displayed. While the 24-bit color file is far more balanced in terms of colors and pixel accuracy, it can appear much more fuzzy.
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/075ab45d-6126-43d6-a900-9d96e4a95474)
+
 
 
 https://gohugo.io/tools/frontends/
