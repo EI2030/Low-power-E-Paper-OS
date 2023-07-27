@@ -116,8 +116,14 @@ https://ids.si.edu/ids/deliveryService?id=NMAH-2008-10155&max=1000
 
 ![NMAH-2008-10155 (1)](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/b464d2e0-17d2-4726-a7e2-4e89f5ed5d45)
 
+Some e-paper manufacturers such as Waveshare sell 7-color displays, which have a low refresh rate, but allow dithering in a way that can actually create rich colors (600x448 Inky Impression 5.7 by Pimoroni): https://www.youtube.com/watch?v=daO46JaVHOs
+https://core-electronics.com.au/guides/raspberry-pi/colour-e-ink-display-raspberry-pi/ 
 
-While the larger sizes look great on larger monitors, it will not be as portable on smaller screens, especially ones that do not need large previews. Resizing to 25%, shrunk the original file to 63KB, and the dithering was only 3KB less, using 4 color dithering (60KB):
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/273a1deb-f665-41f6-bccc-067f7cb2b636)
+
+Also https://goodereader.com/blog/e-paper/des-display-electronic-slurry-is-next-generation-e-paper 
+
+While the larger sizes look great on larger monitors, it will not be as portable on smaller screens, especially ones that do not need large previews. Resizing to 25%, shrunk the original file to 63KB, and the dithering was only 3KB less, using 4 color dithering (60KB): Whether it would be less costly to produce displays with fewer colors is unclear, since much of the LED technologies are mature. The power consumption of displays is an avenue that would be far more benefiecial for a low power computer than the number of colors. That said, Many of the monitors prior to the 1990s had at least 256 colors, and were still quite capable.
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/a3650206-122e-4604-9bd0-70e9abe38460)
 
