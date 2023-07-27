@@ -141,6 +141,8 @@ Similar to greyscale and black and white film, dithering can look sharper, if on
 
 https://gohugo.io/tools/frontends/
 
+https://gohugo.io/tools/editors/
+
 https://github.com/julianoappelklein/hokus
 
 https://github.com/greghendershott/frog
