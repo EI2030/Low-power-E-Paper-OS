@@ -108,7 +108,7 @@ While the larger sizes look great on larger monitors, it will not be as portable
 
 ![NMAH-2008-10155 (4) 25 resize 4 color](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/352273aa-6273-4d21-9fe5-792ee546586f)
 
-Similar to greyscale and black and white film, dithering can look sharper, if only the relevant colors are displayed. While the 24-bit color file is far more balanced in terms of colors and pixel accuracy, it can appear much more fuzzy:
+Similar to greyscale and black and white film, dithering can look sharper, if only the relevant colors are displayed. While the 24-bit color file is far more balanced in terms of colors and pixel accuracy, it can appear softer and less sharp:
 
 ![NMAH-2008-10155 (4) 25](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/2134d663-e3c1-4905-8b5a-830a6753d97f)
 
