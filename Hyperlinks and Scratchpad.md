@@ -52,7 +52,7 @@ https://en.wikipedia.org/wiki/PaintShop_Pro
 
 I also was able to select 1 bit dithering, which converts 24 bit into monochrone (Black and white), but quite well, along with 16 color. It compressed a 1MB file to 50KB using 16 colors and dithering. 
 
-In this example, it converts a 31MB file into a 706KB 1-bit file:
+In this example, it converts a 4.45MB file into a 706KB 1-bit file:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f8e085ec-c1e4-4aea-85c7-6b9f34111abd)
 
