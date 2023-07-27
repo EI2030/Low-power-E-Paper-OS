@@ -90,6 +90,22 @@ Wikipedia's own resized files are better compressed while still maintaining good
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/943de570-280a-4e7e-9ddd-a6370e1d4c0d)
 
+Method of Buoying Vessels Over Shoals, 1849: 
+
+https://americanhistory.si.edu/collections/search/object/nmah_213141 (6.3MB) 
+
+https://ids.si.edu/ids/deliveryService?id=NMAH-2008-10155&max=1000
+
+7-Color, Optimized Median Cut, 903KB
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/41bf6fe7-034a-44f7-ad36-ad3c2a89e97d)
+
+
+![NMAH-2008-10155 (1)](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/b464d2e0-17d2-4726-a7e2-4e89f5ed5d45)
+
+
+
+
 https://gohugo.io/tools/frontends/
 
 https://github.com/julianoappelklein/hokus
