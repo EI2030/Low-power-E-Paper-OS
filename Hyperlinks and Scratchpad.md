@@ -83,6 +83,19 @@ While there are many other tools and formats that may be able to achieve higher 
 
 Wikipedia's own resized files are better compressed while still maintaining good color and resolution. It can be argued that certain images preserve more information with fewer colors and a higher, uncompressed resolutions (e.g. in cases where outlines are more important than palette such as pencil marks in Paint). However, some files may require special codecs that are not always viewable (e.g. JPEG2000 codec, not applicable here). 
 
+BPG
+https://en.wikipedia.org/wiki/Better_Portable_Graphics
+http://www.smohanty.org/Publications_Conferences/2015/Mohanty_IEEE-iNIS-2015_BPG-Architecture.pdf
+http://www.smohanty.org/Publications_Conferences/2016/Mohanty_ISVLSI-2016_SBPG-Architecture.pdf
+
+AVIF:
+https://en.wikipedia.org/wiki/AVIF
+https://medium.com/vimeo-engineering-blog/upgrading-images-on-vimeo-620f79da8605
+
+APNG
+https://en.wikipedia.org/wiki/APNG
+
+
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/6a174783-0a3f-4b1d-a216-5da26a2c4388)
 
 
