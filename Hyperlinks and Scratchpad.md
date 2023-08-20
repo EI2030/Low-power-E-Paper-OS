@@ -484,6 +484,8 @@ https://tiny.slitaz.org/index.php Using a uClinux version for Cortex M4 may have
 https://en.wikipedia.org/wiki/FatFs
 https://en.wikipedia.org/wiki/Cramfs
 https://github.com/jcmvbkbc/linux-xtensa (runs on 3MB+ of RAM)
+https://hackaday.com/2023/08/19/linux-running-on-not-a-lot/
+https://www.youtube.com/watch?v=MpjRqMPWrAg
 
 https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
