@@ -481,6 +481,10 @@ https://www.freertos.org/FreeRTOS_Support_Forum_Archive/November_2016/freertos_F
 The disadvantage is more development time. However, with limited onboard flash & RAM, a microkernel would provide lower power consumption than a larger linux kernel, unless using an older linux kernel such as 2.4, but since there would be security risks with an older kernel, its functionality would be limited to off-line use. See https://doc.slitaz.org/en:guides:pxe#why-use-pxe-the-vnc-example
 https://tiny.slitaz.org/index.php Using a uClinux version for Cortex M4 may have advantages, provided there is enough space for individual apps.
 
+https://en.wikipedia.org/wiki/FatFs
+https://en.wikipedia.org/wiki/Cramfs
+https://github.com/jcmvbkbc/linux-xtensa (runs on 3MB+ of RAM)
+
 https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
 
