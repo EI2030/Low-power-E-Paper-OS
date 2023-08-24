@@ -396,6 +396,9 @@ https://en.wikipedia.org/wiki/Capability-based_security
 https://en.wikipedia.org/wiki/CapROS
 https://en.wikipedia.org/wiki/Smalltalk
 
+https://dboddie.gitlab.io/inferno-diary/2023-08-22.html
+https://github.com/dboddie/inferno-os/tree/apollo3
+
 
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
