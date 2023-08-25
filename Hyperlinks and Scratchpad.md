@@ -398,7 +398,13 @@ https://en.wikipedia.org/wiki/Smalltalk
 
 https://dboddie.gitlab.io/inferno-diary/2023-08-22.html
 https://github.com/dboddie/inferno-os/tree/apollo3
+http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
+https://www.vitanuova.com/inferno/docs.html
 
+Plan 9 and related Resources
+
+https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
+http://fqa.9front.org/dash1.emailschaden.pdf
 
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
