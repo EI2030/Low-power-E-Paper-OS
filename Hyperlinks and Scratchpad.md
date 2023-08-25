@@ -414,6 +414,7 @@ http://wiki.c2.com/?WhatIsNotInPlanNine
 
 https://9p.io/wiki/plan9/what_do_people_like_about_plan_9/index.html
 
+https://www.youtube.com/watch?v=rTQe3W37RBA (2021 tour of 9legacy & 9front)
 http://fqa.9front.org/dash1.emailschaden.pdf
 https://fqa.9front.org/appendixl.pdf
 http://wiki.c2.com/?NameSpace
