@@ -396,15 +396,23 @@ https://en.wikipedia.org/wiki/Capability-based_security
 https://en.wikipedia.org/wiki/CapROS
 https://en.wikipedia.org/wiki/Smalltalk
 
+https://www.vitanuova.com/inferno/docs.html
 https://dboddie.gitlab.io/inferno-diary/2023-08-22.html
 https://github.com/dboddie/inferno-os/tree/apollo3
+
 http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
-https://www.vitanuova.com/inferno/docs.html
+
+https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
+
+
 
 Plan 9 and related Resources
 
 https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
+
 http://fqa.9front.org/dash1.emailschaden.pdf
+
+https://boxbase.org/entries/2021/jan/1/plan9-on-epaper/
 
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
