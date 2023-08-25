@@ -416,6 +416,9 @@ https://9p.io/wiki/plan9/what_do_people_like_about_plan_9/index.html
 
 http://fqa.9front.org/dash1.emailschaden.pdf
 
+http://wiki.c2.com/?NameSpace
+http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf
+
 https://boxbase.org/entries/2021/jan/1/plan9-on-epaper/
 
 "ClickOS and the Art of Network
