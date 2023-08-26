@@ -399,7 +399,7 @@ https://en.wikipedia.org/wiki/Smalltalk
 https://www.vitanuova.com/inferno/docs.html
 https://dboddie.gitlab.io/inferno-diary/2023-08-22.html
 https://github.com/dboddie/inferno-os/tree/apollo3
-
+https://www.youtube.com/watch?v=3d1SHOCCDn0
 http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
 
 https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
