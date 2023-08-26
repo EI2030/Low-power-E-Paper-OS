@@ -347,9 +347,17 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
+https://news.ycombinator.com/item?id=26857669
+"Here’s an unpopular opinion:
+A language like PostScript would have been a much better foundation for the web than HTML+CSS+JS.'
 
+"	goto11 on April 19, 2021 | root | parent | prev | next [–]
+
+Alan Kay is opposed to the "principle of least power" and instead believes the web should consist of turing-complete "objects" which manage their own rendering.
+Basically he wants a web consisting purely of "black box" Java Applets rather than of web pages. I think this vision have failed multiple times for obvious reasons."
+https://news.ycombinator.com/item?id=26860831
 https://en.wikipedia.org/wiki/WorldWideWeb#Features Native PostScript Support in Browser:
-
+https://twitter.com/kocienda/status/1355344814166876163?s=21
 https://web.archive.org/web/20110106041256/http://www.computer.org/portal/web/computingnow/ic-cailliau
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/bbfa5319-05d1-486b-b857-54fbaa9cf64d)
 
