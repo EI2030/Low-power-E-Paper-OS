@@ -632,6 +632,17 @@ https://github.com/terminusdb/terminusdb
 
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
 
+http://mail-index.netbsd.org/port-mips/2022/08/07/msg001222.html
+
+https://www.rhizomatica.org/hermes/
+
+https://www.trade.gov/market-intelligence/brazil-computer-and-telecommunications-import-tariffs
+
+https://ustr.gov/sites/default/files/Brazil_0.pdf "Brazil applies a 60 percent flat import tax on most
+manufactured retail goods imported by individuals via mail and express shipment, which go through a
+simplified customs clearance procedure called RTS (simplified tax regime). Goods with a value of over
+$3,000 cannot be imported using this regime."
+
 https://journals.uic.edu/ojs/index.php/fm/article/view/2186/2062 Ubuntuism, commodification, and the software dialectic, by Mike Chege
 
 https://en.wikipedia.org/wiki/Steal_This_Book by Abbie Hoffman
