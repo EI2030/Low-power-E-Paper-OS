@@ -421,6 +421,8 @@ http://fqa.9front.org/dash1.emailschaden.pdf
 https://fqa.9front.org/appendixl.pdf
 http://wiki.c2.com/?NameSpace
 http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf
+http://sam.cat-v.org/cheatsheet/sam-refcard.pdf
+http://doc.cat-v.org/plan_9/4th_edition/papers/sam/
 
 https://boxbase.org/entries/2021/jan/1/plan9-on-epaper/
 
