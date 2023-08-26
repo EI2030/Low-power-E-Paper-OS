@@ -432,6 +432,12 @@ Plan 9 and related Resources
 
 https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
 
+"A later retrospective comparison of Plan 9, Sprite and a third contemporary distributed research operating system, Amoeba, found that
+the environments they [Amoeba and Sprite] build are tightly coupled within the OS, making communication with external services difficult. Such systems suffer from the radical departure from the UNIX model, which also discourages portability of already existing software to the platform (...). The lack of developers, the very small range of supported hardware and the small, even compared to Plan 9, user base have also significantly slowed the adoption of those systems (...). In retrospect, Plan 9 was the only research distributed OS from that time which managed to attract developers and be used in commercial projects long enough to warrant its survival to this day.
+
+— Mirtchovski, Simmonds and Minnich[62]"
+
+
 http://wiki.c2.com/?WhatIsNotInPlanNine
 
 https://9p.io/wiki/plan9/what_do_people_like_about_plan_9/index.html
