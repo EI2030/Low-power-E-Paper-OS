@@ -358,6 +358,10 @@ Basically he wants a web consisting purely of "black box" Java Applets rather th
 https://news.ycombinator.com/item?id=26860831
 https://en.wikipedia.org/wiki/WorldWideWeb#Features Native PostScript Support in Browser:
 https://twitter.com/kocienda/status/1355344814166876163?s=21
+"Ken Kocienda
+@kocienda
+Web browsers are not operating systems or application development environments. They’re document viewers. The effort to make them into something more than that has been one of the biggest wrong turns in the history of computing.
+8:39 PM · Jan 29, 2021"
 https://web.archive.org/web/20110106041256/http://www.computer.org/portal/web/computingnow/ic-cailliau
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/bbfa5319-05d1-486b-b857-54fbaa9cf64d)
 
