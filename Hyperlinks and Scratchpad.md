@@ -347,6 +347,16 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
+
+https://en.wikipedia.org/wiki/WorldWideWeb#Features Native PostScript Support in Browser:
+
+https://web.archive.org/web/20110106041256/http://www.computer.org/portal/web/computingnow/ic-cailliau
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/bbfa5319-05d1-486b-b857-54fbaa9cf64d)
+
+https://www.w3.org/People/Berners-Lee/FAQ.html#browser 
+
+https://www.w3.org/History/1991-WWW-NeXT/Implementation/
+
 Symbian OS and Psion's earlier OS
 https://en.wikipedia.org/wiki/EPOC_(operating_system) 16 & 32-bit
 https://en.wikipedia.org/wiki/EKA2 32-bit
