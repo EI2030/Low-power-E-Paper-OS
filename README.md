@@ -88,7 +88,9 @@ https://perceive.io/product/ergo/
 
 https://www.st.com/resource/en/datasheet/stm32u585ai.pdf
 
-
+---
+Ambiq Roadmap
+----
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/84264e2a-edab-47a0-8731-054d0bc3d53b) 
 
 Ambiq Update, March 2023 (p.10) 
