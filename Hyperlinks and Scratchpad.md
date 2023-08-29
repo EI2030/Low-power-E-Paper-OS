@@ -426,8 +426,6 @@ http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
 
 https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
 
-
-
 Plan 9 and related Resources
 
 https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
@@ -453,6 +451,18 @@ http://sam.cat-v.org/cheatsheet/sam-refcard.pdf
 http://doc.cat-v.org/plan_9/4th_edition/papers/sam/
 
 https://boxbase.org/entries/2021/jan/1/plan9-on-epaper/
+
+OpenMoko port of Inferno
+
+
+https://github.com/Plan9-Archive/inferno-openmoko
+
+https://www.youtube.com/watch?v=dF_-jQc53jw "This is a demonstration of Inferno running on an Android phone. Sandia National Labs has adapted the Inferno operating system to act as a more phone-oriented OS, allowing us to make calls, send and receive SMS, and use the phone data network. For more information, see https://bitbucket.org/floren/inferno/..."  Sep 17, 2011 on 128MB RAM.
+
+
+https://mobile.slashdot.org/story/11/09/17/2050200/inferno-os-running-on-android-phones
+
+https://en.wikipedia.org/wiki/Inferno_(operating_system)#cite_note-21
 
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
