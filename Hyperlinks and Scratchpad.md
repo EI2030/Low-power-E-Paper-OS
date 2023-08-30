@@ -165,8 +165,12 @@ https://en.wikipedia.org/wiki/Execute_in_place
 https://www.embeddedcomputing.com/technology/storage/execute-in-place-xip-an-external-flash-architecture-ideal-for-the-code-and-performance-requirements-of-edge-iot-and-ai
 of which Apollo3 has 64MB-96MB of aperture:
 
+
 CPU and background:
-STV and NTV:
+----
+NTV & STV:
+---
+
 https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
 https://courses.grainger.illinois.edu/cs598jt/fa2019/reading_list/5a.pdf
 https://ieeexplore.ieee.org/document/4586001
@@ -291,6 +295,7 @@ Displays:
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
 https://github.com/Gbertaz/JDI_MIP_Display
 
+https://www.data-modul.com/en/products/product-catalogue/mip-displays
 
 Transflective (non-backlit): https://www.youtube.com/watch?v=L-GJjOucBNY 
 
