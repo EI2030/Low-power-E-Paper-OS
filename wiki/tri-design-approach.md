@@ -22,6 +22,8 @@ My belief is that laptops, compared to standardized ATX desktop, cases are large
 
 On a deeper level, these constraints are designed to change what we think of a mobile device chassis- raw materials that, being non-recyclable bricks after their planned obsolescence, can now be reused as a shell since its decomposition is effectively non-existent. https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled The alernative is to use materials that can be recycled, however, this would typically apply to the chassis, and not the electronics. Additional research is also needed for organic electronics.
 
+https://www.youtube.com/watch?v=QuBy6YzLMn0
+
 Other projects that  this include https://www.crowdsupply.com/eoma68/micro-desktop 
 
 http://rhombus-tech.net/whitepapers/ecocomputing_07sep2015/
