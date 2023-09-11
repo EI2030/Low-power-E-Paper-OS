@@ -677,6 +677,16 @@ https://github.com/jQAssistant/jqassistant
 
 https://github.com/terminusdb/terminusdb
 
+https://boingboing.net/2012/08/09/kottke.html "The Altairs, the Cromemcos, all of that generation were heavy metal boxes. It was brilliant of Steve to find Rod Holt to make a switching power supply, which was a lightweight power supply with no big heavy transformers, and to put the plastic case on it.
+
+So you could actually take the Apple ][ under your arm and carry it somewhere. We never really advertised that but it was part of the appeal. And Steve never forgot that."
+
+"You can trace the portability aspect into the Macintosh, which had a handle built right into it; that was pretty obvious. Steve also paid a lot of attention to and took a lot of inspiration from Hartmut Esslinger, the founder of Frog Design. The mouse for the Lisa was by Frog Design and they were mocking up Macintosh cases for us in 1982. Then Steve left Apple and Apple lost its way into a profusion of beige boxes.
+
+If you remember the history the next big thing on the landscape was the Macintosh IIcx. That was a highly modular, highly manufacturable computer and that was a landmark. But it wasn't about portability and it wasn't about industrial design, it was about manufacturability. At the same time Compaq was a big success making the PC highly manufacturable and highly modular, and so the Mac IIcx was kind of Apple's answer to that."
+
+Portablility, manufacturability, and now power consumption (with the new possibilities due to to Koomey's Law) remain the three most imporant design considerations. 
+
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
 
 http://mail-index.netbsd.org/port-mips/2022/08/07/msg001222.html
