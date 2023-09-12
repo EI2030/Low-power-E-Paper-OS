@@ -678,7 +678,7 @@ https://github.com/jQAssistant/jqassistant
 https://github.com/terminusdb/terminusdb
 
 ---
-The true innovation of the Apple I (1976) and the future of tech products
+The true innovation of the Apple I (1976)
 ---
 https://en.wikipedia.org/wiki/Apple_I
 
