@@ -759,7 +759,7 @@ https://www.youtube.com/watch?v=wA_hsSf8uiw
 https://www.tindie.com/products/bobricius/armachat-lora-messenger-with-raspberry-pi-pico/
 https://unsigned.io/private-messaging-over-lora/
 https://hackaday.com/2022/05/25/long-distance-text-communication-with-lora/
-
+https://www.mwrf.com/technologies/communications/wireless/article/21273819/microwaves-rf-the-lorawan-distance-world-record-now-over-1300-kilometers
 
 
 https://sourceware.org/pipermail/gas2/1994/thread.html
