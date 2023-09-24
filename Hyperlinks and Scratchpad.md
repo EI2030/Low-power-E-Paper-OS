@@ -525,7 +525,24 @@ https://github.com/tock/tock/pull/1857
 https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 
 PCB Design:
+
+https://en.wikipedia.org/wiki/ATX
+
+https://en.wikipedia.org/wiki/De_facto_standard
+
+https://en.wikipedia.org/wiki/Harmonization_(standards)
+
+The US Government Office of Management and Budget published CircularA-119[11] instructing its agencies to adopt voluntary consensus standards before relying upon private standards. The circular mandates standard harmonization by eliminating or reducing US agency use of private standards and government standards. The priority for governments to adopt voluntary consensus standards is supported by international standards such as ISO supporting public policy initiatives.[12] 
+
+https://www.whitehouse.gov/wp-content/uploads/2017/11/Circular-119-1.pdf
+https://onlinelibrary.wiley.com/doi/10.1111/j.1468-5965.1987.tb00294.x
+https://www.sciencedirect.com/science/article/abs/pii/S1386505697001214?via%3Dihub
+
 https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/ History
+
+
+
+
 
 [https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/](https://semiengineering.com/many-chiplet-challenges-ahead/)
 ----
