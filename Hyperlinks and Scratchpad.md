@@ -543,9 +543,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S1386505697001214?via%3Dih
 
 https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/ History
 
+https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized platform needs a network effect for it to be affordable and attractive 
 
-
-
+"Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807
 
 [https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/](https://semiengineering.com/many-chiplet-challenges-ahead/)
 ----
