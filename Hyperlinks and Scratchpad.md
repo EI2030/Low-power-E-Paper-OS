@@ -325,8 +325,12 @@ https://www.ti.com/tool/TIDA-00246
 Wireless Modems:
 
 https://www.everythingrf.com/news/details/17193-qorvo-introduces-new-cellular-iot-transmit-module-for-nb-iot1-2-and-lte-cat-m1-2-operation
-https://www.qorvo.com/products/p/QM55001?utm_source=everythingRF#overview
+https://www.qorvo.com/products/p/QM55011 (smaller, no datasheet posted yet) 3mmx3mm
+https://www.qorvo.com/products/p/QM55001 4mmx4mm
+https://www.qorvo.com/products/p/QM55003 4mmx433
+
 https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
+
 
 Schottky junctions (1.2eV instead of p-n junctions at 1.1eV)
 https://en.wikipedia.org/wiki/Schottky_junction_solar_cell
