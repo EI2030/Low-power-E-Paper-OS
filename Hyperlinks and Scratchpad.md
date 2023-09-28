@@ -322,6 +322,12 @@ https://e-peas.com/
 https://news.utdallas.edu/science-technology/thermoelectric-generators-2020/
 https://www.ti.com/tool/TIDA-00246
 
+Wireless Modems:
+
+https://www.everythingrf.com/news/details/17193-qorvo-introduces-new-cellular-iot-transmit-module-for-nb-iot1-2-and-lte-cat-m1-2-operation
+https://www.qorvo.com/products/p/QM55001?utm_source=everythingRF#overview
+https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
+
 Schottky junctions (1.2eV instead of p-n junctions at 1.1eV)
 https://en.wikipedia.org/wiki/Schottky_junction_solar_cell
 https://solar.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html (website powered by a solar panel)
