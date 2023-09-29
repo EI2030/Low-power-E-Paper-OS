@@ -337,6 +337,7 @@ https://www.raspberrypi.com/news/introducing-raspberry-pi-5/
 You can sell millions anywhere in the world once it is produced and if you're early you could corner the market before you get lots of copy cats.
 https://www.theregister.com/2023/09/28/raspberry_pi_5_revealed/
 
+Consider it like building the 1984 Macintosh again. And that Super Bowl commercial? The sledgehammer tossed throught the projector screen? That's the USB cable that this board won't need. Where we're going, we won't need batteries. https://www.hackster.io/news/where-we-re-going-we-don-t-need-batteries-8e9074457779 (link used mainly for figure of speech, rather than the actual content)
 
 Schottky junctions (1.2eV instead of p-n junctions at 1.1eV)
 https://en.wikipedia.org/wiki/Schottky_junction_solar_cell
