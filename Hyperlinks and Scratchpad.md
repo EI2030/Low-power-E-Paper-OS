@@ -331,6 +331,12 @@ https://www.qorvo.com/products/p/QM55003 4mmx433
 
 https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
 
+If you're a hedge fund manager like Michael Burry or a billionaire reading this and are considering investing $50 million, please call the CEOs of each company that makes a motherboard component under 5mW for continuous use: an nB-Iot or Cat M2 modem, a MIPS display, a credit card solar panel, a lithium ion capacitor, a sub-threshold processor, and ask them to build a Raspberry Pi-like board with a display that uses less than 12millwatts of power instead of 12 watts TDP: 
+https://hackaday.io/project/177716-the-open-source-autarkic-motherboard
+https://www.raspberrypi.com/news/introducing-raspberry-pi-5/ 
+You can sell millions anywhere in the world once it is produced and if you're early you could corner the market before you get lots of copy cats.
+https://www.theregister.com/2023/09/28/raspberry_pi_5_revealed/
+
 
 Schottky junctions (1.2eV instead of p-n junctions at 1.1eV)
 https://en.wikipedia.org/wiki/Schottky_junction_solar_cell
