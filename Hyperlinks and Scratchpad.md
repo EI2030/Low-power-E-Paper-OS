@@ -739,6 +739,8 @@ If you remember the history the next big thing on the landscape was the Macintos
 
 Portablility, manufacturability, and now power consumption (with the new possibilities due to to Koomey's Law) remain the three most imporant design considerations. 
 
+https://youtu.be/L40B08nWoMk?t=869 "Well, the Macintosh, when it first came out, we called it the computer for the rest of us." -Steve Jobs, with a grin, 1990.
+
 "At first, the project was just to allow high school and university students to purchase a single-board computer similar to the Raspberry Pi, which (for many reasons) can cost more than $120 in Brazil." from https://www.linux-magazine.com/Issues/2019/218/maddog-s-Doghouse why $120??
 
 http://mail-index.netbsd.org/port-mips/2022/08/07/msg001222.html
