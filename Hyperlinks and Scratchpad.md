@@ -375,6 +375,12 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
+Slackware 1.1.2 on 3MB RAM (1994) w/ TCP/IP support  running at 40Mhz on a 386SX
+https://www.youtube.com/watch?v=5DBPuZHWEXc
+https://mirrors.slackware.com/slackware/slackware-1.1.2/ mirror  of slackware files.
+https://en.wikipedia.org/wiki/Slackware
+
+
 https://news.ycombinator.com/item?id=26857669
 "Here’s an unpopular opinion:
 A language like PostScript would have been a much better foundation for the web than HTML+CSS+JS.'
