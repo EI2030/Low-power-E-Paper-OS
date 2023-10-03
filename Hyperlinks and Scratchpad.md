@@ -375,11 +375,15 @@ E-paper display drivers
 
 RTOS/Linux OS development:
 
-Slackware 1.1.2 on 3MB RAM (1994) w/ TCP/IP support  running at 40Mhz on a 386SX
+Slackware 1.1.2 on 3MB RAM (1994) w/ TCP/IP support  running at 40Mhz on a 386SX (Linux kernel 0.99.15)
+
 https://www.youtube.com/watch?v=5DBPuZHWEXc
 https://mirrors.slackware.com/slackware/slackware-1.1.2/ mirror  of slackware files.
 https://en.wikipedia.org/wiki/Slackware
 
+Also on Linux <1.0: binutils 1.94
+https://www.mirrorservice.org/sites/sources.redhat.com/pub/binutils/old-releases/
+https://sourceware.org/bugzilla/show_bug.cgi?id=22831
 
 https://news.ycombinator.com/item?id=26857669
 "Here’s an unpopular opinion:
