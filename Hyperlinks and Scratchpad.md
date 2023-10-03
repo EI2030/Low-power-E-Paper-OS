@@ -331,6 +331,11 @@ https://www.qorvo.com/products/p/QM55003 4mmx433
 
 https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
 
+https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ur
+
+https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
+
+
 If you're a hedge fund manager like Michael Burry or a billionaire reading this and are considering investing $50 million, please call the CEOs of each company that makes each of these motherboard components to develop a platform power consumption under 12mW (1-3mW for CPU, 3-5 mw for display, and 2mW for wireless) for continuous use: an nB-Iot or Cat M2 modem, a MIPS display, a credit card solar panel, a lithium ion capacitor, a sub-threshold processor, and ask them to build a Raspberry Pi-like board with a display that uses less than 12millwatts of power instead of 12 watts TDP: 
 https://hackaday.io/project/177716-the-open-source-autarkic-motherboard
 https://www.raspberrypi.com/news/introducing-raspberry-pi-5/ 
@@ -343,6 +348,7 @@ Schottky junctions (1.2eV instead of p-n junctions at 1.1eV)
 https://en.wikipedia.org/wiki/Schottky_junction_solar_cell
 https://solar.lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html (website powered by a solar panel)
 https://lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html (same article as previous link, non-solar powered website alternative)
+
 https://en.wikipedia.org/wiki/Thermionic_emission
 "Although vulnerable to higher rates of thermionic emission, manufacturing of Schottky barrier solar cells proves to be cost-effective and industrially scalable.[4]"
 
