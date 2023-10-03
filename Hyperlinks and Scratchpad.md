@@ -381,11 +381,14 @@ https://www.youtube.com/watch?v=5DBPuZHWEXc
 https://mirrors.slackware.com/slackware/slackware-1.1.2/ mirror  of slackware files.
 https://en.wikipedia.org/wiki/Slackware
 
+
 Also on Linux <1.0: binutils 1.94
 https://www.mirrorservice.org/sites/sources.redhat.com/pub/binutils/old-releases/
 https://sourceware.org/bugzilla/show_bug.cgi?id=22831
 
 various software packages- old versions from early 90s:https://www.mirrorservice.org/sites/sources.redhat.com/pub/?C=M;O=A
+
+https://mirrors.slackware.com/slackware/slackware-1.01/a1/
 
 
 https://news.ycombinator.com/item?id=26857669
