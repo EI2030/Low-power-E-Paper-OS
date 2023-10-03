@@ -385,6 +385,9 @@ Also on Linux <1.0: binutils 1.94
 https://www.mirrorservice.org/sites/sources.redhat.com/pub/binutils/old-releases/
 https://sourceware.org/bugzilla/show_bug.cgi?id=22831
 
+various software packages- old versions from early 90s:https://www.mirrorservice.org/sites/sources.redhat.com/pub/?C=M;O=A
+
+
 https://news.ycombinator.com/item?id=26857669
 "Here’s an unpopular opinion:
 A language like PostScript would have been a much better foundation for the web than HTML+CSS+JS.'
