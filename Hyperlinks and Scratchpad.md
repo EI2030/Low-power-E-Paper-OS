@@ -262,6 +262,13 @@ Freescale ARM Cortex
 Softcore FPGAs with multicore / multichip architecture and power management ( 4 x Altera cyclone III for cpu + 1 Xilinx spartan 3an for gpu/io with tmds /dvi and lvds output )
 Vortex DX / MX - vortex86dx.com, vortex86mx.com"
 
+RISC-V history (& ARM developments)
+----
+https://thechipletter.substack.com/p/risc-v-part-1-origins-and-architecture
+https://www.semianalysis.com/p/arm-and-a-leg-arms-quest-to-extract
+
+---
+
 https://theopenroadproject.org/
 https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/blob/master/README.md
 "OpenROAD Flow is a full RTL-to-GDS flow built entirely on open-source tools. The project aims for automated, no-human-in-the-loop digital circuit design with 24-hour turnaround time."
