@@ -1,3 +1,5 @@
+(from https://github.com/kragen/dernocua/blob/master/text/energy-autonomous-computing.md)
+
 I spent some time trying to figure out what it would take to be able
 to read, write, and interactively compute, without a connection to a
 power grid, with maximal autonomy.  A big part of this is power usage,
