@@ -1,6 +1,7 @@
 (from https://github.com/kragen/dernocua/blob/master/text/energy-autonomous-computing.md)
+This is a Copy from Kragen Sitaker's Dernocua diary:
 
-I spent some time trying to figure out what it would take to be able
+"I spent some time trying to figure out what it would take to be able
 to read, write, and interactively compute, without a connection to a
 power grid, with maximal autonomy.  A big part of this is power usage,
 and it looks like it should be possible to get a self-sufficient
@@ -1072,4 +1073,4 @@ amorphous panel at 8 mW in full sunlight, though a more careful MPPT
 calibration might yield more, and I didn’t measure the “full”
 sunlight.  Surprisingly, unlike some other amorphous panels, I wasn’t
 able to get a usable amount of power from it under indoor lighting
-conditions.
+conditions."
