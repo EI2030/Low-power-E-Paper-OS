@@ -26,7 +26,9 @@ More than any other great company, the seeds of Apple's future
 glory and its subsequent humiliation were planted long before the
 company ever began. And bend and prune as it might, Apple
 Computer could never free itself of its roots.
+
 2.0 SEED
+
 It was Regis McKenna, the Silicon Valley marketing guru, who first
 saw the horrible truth: "The mistake everyone makes is assuming
 that Apple is a real company. But it is not. It never has been."
