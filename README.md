@@ -1,3 +1,6 @@
+---
+Origins of this Project - to my best recollection (and occasionally updated, as recently done here)
+---
 I first conceived of this project after visiting and [reviewing](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/2011%20Maker%20Faire%20%E2%80%93%20Queens%2C%20NYC%20_%20Fujimoto.pdf
 ) the Maker Faire in 2011, seeing both the Raspberry Pi and a booth with a kit for solar powerable electronics, solar power managers  (similar to Adafruit kits [now sold](https://www.adafruit.com/product/4755)) called [BootStrap Solar](https://www.instructables.com/Assembling-a-BootstrapSolar-Chi-qoo-Solar-Battery-/).
 
