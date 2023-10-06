@@ -791,6 +791,7 @@ https://www.apple2history.org/museum-a-l/ads/
 Book: Apple Confidential 2.0: The Definitive History of the World's Most Colorful Company
 
 https://landley.net/history/mirror/index.html
+
 ----
 
 
