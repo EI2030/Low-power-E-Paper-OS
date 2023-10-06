@@ -758,6 +758,8 @@ https://en.wikipedia.org/wiki/Apple_I
 
 http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html
 
+https://electronics.stackexchange.com/questions/196379/understanding-the-apple-1-power-supply
+
 https://boingboing.net/2012/08/09/kottke.html "The Altairs, the Cromemcos, all of that generation were heavy metal boxes. It was brilliant of Steve to find Rod Holt to make a switching power supply, which was a lightweight power supply with no big heavy transformers, and to put the plastic case on it.
 
 So you could actually take the Apple ][ under your arm and carry it somewhere. We never really advertised that but it was part of the appeal. And Steve never forgot that."
