@@ -16,7 +16,7 @@ This project then migrated across a few informal forum posts (EI2030-defunct, Ra
 
 Though technically the concept of a solar powered computer existed as a solar calculator before that, which also influenced my interest, I can't think of any time before 2011 that I had wanted to solar power a device like a small PC, although I had been aware of the [OLPC](https://en.wikipedia.org/wiki/OLPC_XO) since the mid 00s. 
 
-In "A [Conversation](https://dl.acm.org/doi/pdf/10.1145/1331287.1331291) with Mary Lou Jepsen What’s behind that funky green machine?", then CTO Jepsen describes the power consumption:
+In "A [Conversation](https://dl.acm.org/doi/pdf/10.1145/1331287.1331291) with Mary Lou Jepsen What’s behind that funky green machine?" (11/2007, ACM QUEUE), then CTO Jepsen describes the power consumption:
 
 "It’s pretty hot in much of the developing world, so we’ve designed a laptop that can take extreme heat. Part of that is an artifact of it being so low powered. We don’t need big electrolytic capacitors whose lifetimes halve every 10 degrees hotter you get. We get to use little tiny capacitors because we’ve got so little power to deal with, and that’s quite helpful.
 
