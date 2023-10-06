@@ -1,3 +1,79 @@
+"Of all the great companies of recent memory, there is only one
+that seemed to have no character, but only an attitude, a style, a
+collection of mannerisms. It constructed a brilliant simulacrum of
+character, in the way a man without empathy or conscience can
+pretend to have those traits. But it was never really there--even
+though two generations of employees convinced themselves
+otherwise. It was only when that character was finally tested did the
+essential hollowness of the enterprise finally stand exposed, and the
+employees and customers shrieked with betrayal.
+
+This was Apple Computer Inc., and there has never been a
+company like it. It was founded by two young men, one a genius
+with no allegiance to any institution but his own mind; the other a
+protean, inconstant figure who seemed composed of nothing but
+charm and a pure will to power. The company they built seemed to
+have everything: great technology, superb products, talented
+employees, rabidly loyal customers, an arresting vision, even a lock
+on the zeitgeist. But, like its founders, it lacked character. And
+because of that, from the first minute of the first meeting of Steve
+Jobs and Steve Wozniak, a decade before the company's founding,
+Apple Computer was set on a path from which it could not escape,
+even after those founders were gone. And that path would in time
+lead to the company's destruction.
+
+More than any other great company, the seeds of Apple's future
+glory and its subsequent humiliation were planted long before the
+company ever began. And bend and prune as it might, Apple
+Computer could never free itself of its roots.
+2.0 SEED
+It was Regis McKenna, the Silicon Valley marketing guru, who first
+saw the horrible truth: "The mistake everyone makes is assuming
+that Apple is a real company. But it is not. It never has been."
+He was too much of a businessman (after all, Apple could prove
+to be a once and future client) to draw the final inference: "And it
+never will be."
+
+Nobody alive knew Apple better than Regis McKenna--at least
+nobody who had been affected by the notorious "reality distortion
+field" that emanated from Steve Jobs;. After fifteen years of
+handling the company, Regis had remained unwarped and
+unconverted because no matter how successful Regis McKenna Inc.
+had become, and no matter how far it had left the publicity game
+behind for the more rarefied climes of marketing and business
+development, Regis still remained a PR man at heart. He still upheld
+the flack's first law: never, ever believe the hot air you put out about
+your client.
+
+Not that it was easy. When you watched your client land on the
+cover of Time magazine and knew you got the credit for getting him
+there; when you stood in the convention centers and giant
+auditoriums and felt the waves of adoration rolling around you; and
+when the calls came late at night and you heard Jobs the Seducer
+telling you how much he depended upon you, it would have been so
+simple to surrender to the undertow, to lose yourself in the Apple
+Will.
+
+But every time Regis thought of doing so there would be a
+meeting to remind him that Apple was a kind of collective madness.
+He would bring in an expert on marketing, or branding, or
+organizational theory--anything that might give the company some
+order, some strategic planning, some simulation of real business
+discipline--and he would watch in dismay as that person was
+humiliated, ignored or driven away. As for his own advice--well,
+nobody blew off the mighty Regis McKenna. Instead, they'd listen
+intently, nodding, foreheads pinched in concentration, even the
+seraphic Jobs himself making those unreadable and delicate motions
+with his fingers on the tabletop as if he was taking seriously what
+Regis was saying ... and then the Apple Corps would leave the room
+and never think about Regis's message again.
+
+In the end, after fifteen years advising the company he'd helped to
+create, McKenna walked away from Apple Computer. And not just
+from Apple, but from PR itself" 
+
+-EXCERPT from the 1999 book "Infinite Loop How the World's Most Insanely Great Computer Company Went Insane" by Michael Malone
+
 https://litverse.substack.com/p/steve-jobs-vs-the-haters (Imagine an open source project, that, uses a unified design until each milestone is complete. Job's logic here could be like the Cathedreal in the Bazaar. The Bazaar houses the Cathedral, but temporarily cannot access the Cathedral.)
 
 ​
