@@ -780,6 +780,17 @@ https://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs#:~:text=Jobs%2
 
 https://archive.nytimes.com/www.nytimes.com/books/first/m/malone-loop.html
 
+https://landley.net/history/mirror/gui.html "The Real History of the GUI Mike Tuck"
+
+Interview with John Sculley, ex-CEO of Apple:  https://landley.net/history/mirror/apple2/2008-7351-5085423.html
+
+Steve Jobs bought Pixar from George Lucas for $10 million in 1986 https://landley.net/history/mirror/apple2/lucaspixar.html
+
+https://www.apple2history.org/museum-a-l/ads/
+
+Book: Apple Confidential 2.0: The Definitive History of the World's Most Colorful Company
+
+https://landley.net/history/mirror/index.html
 ----
 
 
