@@ -1,5 +1,5 @@
 I first conceived of this project after [visiting](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/2011%20Maker%20Faire%20%E2%80%93%20Queens%2C%20NYC%20_%20Fujimoto.pdf
-) the Maker Faire in 2011, seeing both the Raspberry Pi and a Solar Powered booth.
+) the Maker Faire in 2011, seeing both the Raspberry Pi and a booth on Solar Powerable electronics.
 
 I wrote about it weeks [later](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Theoretically%20assembling%20a%20solar%20laptop%20_%20Fujimoto.pdf). 
 
