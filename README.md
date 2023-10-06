@@ -6,9 +6,7 @@ I first conceived of this project after visiting and [reviewing](https://github.
 
 I wrote about it weeks [later](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Theoretically%20assembling%20a%20solar%20laptop%20_%20Fujimoto.pdf). 
 
-A year later I [posted](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/solar-powered%20raspberry%20pi%20with%20fast%20e-ink%20refresh%20display%20-%20Raspberry%20Pi%20Forums.pdf) about it again:
-
-2012: https://forums.raspberrypi.com/viewtopic.php?p=206323#p206323
+A year later I [posted](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/solar-powered%20raspberry%20pi%20with%20fast%20e-ink%20refresh%20display%20-%20Raspberry%20Pi%20Forums.pdf) about it again in [2012](https://forums.raspberrypi.com/viewtopic.php?p=206323#p206323).
 
 I resumed interest in 2020 on the Raspberry Pi Forums after seeing the Solar Gameboy in the [news](https://hypebeast.com/2020/9/battery-free-game-boy-solar-power-northwestern-university): 
 
