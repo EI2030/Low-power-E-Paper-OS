@@ -72,9 +72,13 @@ In the end, after fifteen years advising the company he'd helped to
 create, McKenna walked away from Apple Computer. And not just
 from Apple, but from PR itself" 
 
--EXCERPT from the 1999 book "Infinite Loop How the World's Most Insanely Great Computer Company Went Insane" by Michael Malone
+-Excerpt from the 1999 book "Infinite Loop How the World's Most Insanely Great Computer Company Went Insane" by Michael Malone
 
-https://litverse.substack.com/p/steve-jobs-vs-the-haters (Imagine an open source project, that, uses a unified design until each milestone is complete. Job's logic here could be like the Cathedreal in the Bazaar. The Bazaar houses the Cathedral, but temporarily cannot access the Cathedral.)
+------
+
+https://litverse.substack.com/p/steve-jobs-vs-the-haters
+
+Imagine an open source project, that, uses a unified design until each milestone is complete. Job's logic here could be like the Cathedreal in the Bazaar. The Bazaar houses the Cathedral, but temporarily cannot access the Cathedral.
 
 ​
 "Certainly all historical experience confirms the truth - that man would not have attained the possible unless time and again he had reached out for the impossible." -Max Weber
