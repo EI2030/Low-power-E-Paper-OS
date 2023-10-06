@@ -74,7 +74,7 @@ In the end, after fifteen years advising the company he'd helped to
 create, McKenna walked away from Apple Computer. And not just
 from Apple, but from PR itself" 
 
--Excerpt from the 1999 book "Infinite Loop How the World's Most Insanely Great Computer Company Went Insane" by Michael Malone
+-Excerpt from the 1999 book "Infinite Loop How the World's Most Insanely Great Computer Company Went Insane" by Michael S. Malone
 
 ------
 
