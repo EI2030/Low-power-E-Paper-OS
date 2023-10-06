@@ -8,9 +8,8 @@ I wrote about it weeks [later](https://github.com/EI2030/Low-power-E-Paper-OS/bl
 
 A year later I [posted](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/solar-powered%20raspberry%20pi%20with%20fast%20e-ink%20refresh%20display%20-%20Raspberry%20Pi%20Forums.pdf) about it again in [2012](https://forums.raspberrypi.com/viewtopic.php?p=206323#p206323).
 
-I resumed interest in 2020 on the Raspberry Pi Forums after seeing the Solar Gameboy in the [news](https://hypebeast.com/2020/9/battery-free-game-boy-solar-power-northwestern-university): 
-
-https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787
+I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787
+) after seeing the Solar Gameboy in the [news](https://hypebeast.com/2020/9/battery-free-game-boy-solar-power-northwestern-university): 
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
