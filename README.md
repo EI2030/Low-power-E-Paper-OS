@@ -1,3 +1,9 @@
+I first conceived of this project in 2012: https://forums.raspberrypi.com/viewtopic.php?p=206323#p206323
+
+I resumed interest in 2020: https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787
+
+This project migrated across a few informal forum posts (EI2030, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
+
 "Of all the great companies of recent memory, there is only one
 that seemed to have no character, but only an attitude, a style, a
 collection of mannerisms. It constructed a brilliant simulacrum of
