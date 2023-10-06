@@ -17,7 +17,7 @@ Though technically the concept of a solar powered computer existed as a solar ca
 
 In "A [Conversation](https://dl.acm.org/doi/pdf/10.1145/1331287.1331291) with Mary Lou Jepsen What’s behind that funky green machine?", then CTO Jepsen describes the power consumption:
 
-It’s pretty hot in much of the developing world, so we’ve designed a laptop that can take extreme heat. Part of that is an artifact of it being so low powered. We don’t need big electrolytic capacitors whose lifetimes halve every 10 degrees hotter you get. We get to use little tiny capacitors because we’ve got so little power to deal with, and that’s quite helpful.
+"It’s pretty hot in much of the developing world, so we’ve designed a laptop that can take extreme heat. Part of that is an artifact of it being so low powered. We don’t need big electrolytic capacitors whose lifetimes halve every 10 degrees hotter you get. We get to use little tiny capacitors because we’ve got so little power to deal with, and that’s quite helpful.
 
 Also, half the kids in the world don’t have electricity at home. Half the kids. Eighty percent of the schools that we’re going into don’t have electricity. So we had to design a laptop that was also the infrastructure. It has mesh networking, which is the last mile, 10 miles, 100-mile Internet solution. The solar repeaters and active antennas that we’ve added into the mix cost about $10 a piece and help to relay the Internet. If one laptop in a village is connected to the Internet, they all are.
 
