@@ -774,6 +774,12 @@ https://www.theonion.com/last-american-who-knew-what-the-fuck-he-was-doing-dies-
 
 https://litverse.substack.com/p/steve-jobs-vs-the-haters
 
+from https://www.linkedin.com/pulse/can-silicon-valley-find-its-way-back-michael-s-malone
+
+https://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs#:~:text=Jobs%20went%20to%20a%20whiteboard,booting%20up%2028%20seconds%20faster.
+
+https://archive.nytimes.com/www.nytimes.com/books/first/m/malone-loop.html
+
 ----
 
 
