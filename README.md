@@ -1,8 +1,17 @@
-I first conceived of this project in 2012: https://forums.raspberrypi.com/viewtopic.php?p=206323#p206323
+I first conceived of this project after [visiting](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/2011%20Maker%20Faire%20%E2%80%93%20Queens%2C%20NYC%20_%20Fujimoto.pdf
+) the Maker Faire in 2011, seeing both the Raspberry Pi and a Solar Powered booth.
 
-I resumed interest in 2020: https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787
+I wrote about it weeks [later](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Theoretically%20assembling%20a%20solar%20laptop%20_%20Fujimoto.pdf). 
 
-This project migrated across a few informal forum posts (EI2030, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
+A year later I [posted](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/solar-powered%20raspberry%20pi%20with%20fast%20e-ink%20refresh%20display%20-%20Raspberry%20Pi%20Forums.pdf) about it again:
+
+2012: https://forums.raspberrypi.com/viewtopic.php?p=206323#p206323
+
+I resumed interest in 2020 on the Raspberry Pi Forums after seeing the Solar Gameboy in the [news](https://hypebeast.com/2020/9/battery-free-game-boy-solar-power-northwestern-university): 
+
+https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787
+
+This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
 "Of all the great companies of recent memory, there is only one
 that seemed to have no character, but only an attitude, a style, a
