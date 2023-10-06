@@ -13,6 +13,24 @@ https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
+Though technically the concept of a solar powered computer existed as a solar calculator before that, which also influenced my interest, I can't think of any time before 2011 that I had wanted to solar power a device like a small PC, although I had been aware of the [OLPC](https://en.wikipedia.org/wiki/OLPC_XO) since the mid 00s. An interview with one of the designers:
+
+https://queue.acm.org/detail.cfm?id=1331291 
+
+In "A [Conversation](https://dl.acm.org/doi/pdf/10.1145/1331287.1331291) with Mary Lou Jepsen What’s behind that funky green machine?", Jepsen describes the power consumption:
+
+It’s pretty hot in much of the developing world, so we’ve designed a laptop that can take extreme heat. Part of that is an artifact of it being so low powered. We don’t need big electrolytic capacitors whose lifetimes halve every 10 degrees hotter you get. We get to use little tiny capacitors because we’ve got so little power to deal with, and that’s quite helpful.
+
+Also, half the kids in the world don’t have electricity at home. Half the kids. Eighty percent of the schools that we’re going into don’t have electricity. So we had to design a laptop that was also the infrastructure. It has mesh networking, which is the last mile, 10 miles, 100-mile Internet solution. The solar repeaters and active antennas that we’ve added into the mix cost about $10 a piece and help to relay the Internet. If one laptop in a village is connected to the Internet, they all are.
+
+Yes, it might be just a trickle, a low-bandwidth connection from the Internet to the laptop, but between the laptops is a high-bandwidth connection through the mesh network. We use 802.11s, which is the standard for mesh. The standard isn’t actually complete, but we will be compatible with it when it’s completed. We’ve had to make it up as we go along, so we’re a little ahead of that. There’s truly so little power in the developing world. If a school is wired, it tends to be on a generator, and there’s one 60-watt light bulb per classroom. Generators make really weird power. Usually what comes out of the wall in most countries is 50 or 60 hertz, or somewhere in between. With generators, the frequency of the AC power can go down to 35 hertz. We therefore had to do really interesting power conditioning on the AC adapter. The laptop itself can take between negative 32 volts to 40 volts, and work well with anything from 11 to 18 volts. You can plug a car battery into it. You can plug a solar panel into it."
+
+
+-----
+History on Marketing for Apple
+-----
+
+
 "Of all the great companies of recent memory, there is only one
 that seemed to have no character, but only an attitude, a style, a
 collection of mannerisms. It constructed a brilliant simulacrum of
