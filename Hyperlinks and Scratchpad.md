@@ -770,7 +770,9 @@ If you remember the history the next big thing on the landscape was the Macintos
 
 Portablility, manufacturability, and now power consumption (with the new possibilities due to to Koomey's Law) remain the three most imporant design considerations. 
 
-https://youtu.be/L40B08nWoMk?t=869 "Well, the Macintosh, when it first came out, we called it the computer for the rest of us." -Steve Jobs, with a grin, 1990.
+1990 "A Bicylcle of the Mind" https://youtu.be/L40B08nWoMk?t=869 "Well, the Macintosh, when it first came out, we called it the computer for the rest of us." -Steve Jobs, with a grin, 1990.
+
+1997 (comparing Mac to a Cessna) https://www.youtube.com/watch?v=QhhFQ-3w5tE&t=0s
 
 https://www.theonion.com/last-american-who-knew-what-the-fuck-he-was-doing-dies-1819573021 (pardon the profanity, not my French)
 
