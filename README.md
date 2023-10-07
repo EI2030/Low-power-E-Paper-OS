@@ -203,6 +203,13 @@ https://perceive.io/product/ergo/
 
 https://www.st.com/resource/en/datasheet/stm32u585ai.pdf
 
+Some very early low power microcontrollers that catalogued back in 2011 and forgot about:
+
+https://elinux.org/RaspberryPi_Laptop
+
+https://www.radiolocman.com/news/new.html?di=64911
+https://en.wikipedia.org/wiki/EFM32
+
 ---
 Ambiq Roadmap
 ----
