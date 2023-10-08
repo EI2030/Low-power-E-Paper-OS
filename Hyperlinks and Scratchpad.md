@@ -594,6 +594,11 @@ https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized plat
 "Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807
 
 [https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/](https://semiengineering.com/many-chiplet-challenges-ahead/)
+
+https://www.techradar.com/news/phone-and-communications/mobile-phones/why-our-phones-still-aren-t-powered-by-the-sun-1329646
+
+https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-console
+
 ----
 ISA
 https://en.wikipedia.org/wiki/SuperH#J_Core
