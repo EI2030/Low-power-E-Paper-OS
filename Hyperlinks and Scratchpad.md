@@ -584,6 +584,11 @@ Texas Instruments licensed the ARM7TDMI, which was designed into the Nokia 6110,
 
 Could EFM32 run ARM7+ 16bit Thumb 16 bit Thumb + JTAG Debug + fast Multiplier + enhanced ICE?
 
+https://en.wikipedia.org/wiki/Nokia_6110
+https://www.engadget.com/2011-12-20-the-engadget-interview-arm-co-founder-john-biggs.html
+
+http://lib.tkk.fi/Diss/2004/isbn9512273209/isbn9512273209.pdf
+
 https://www.silabs.com/mcu/32-bit-microcontrollers
 
 https://en.wikipedia.org/wiki/ATX
