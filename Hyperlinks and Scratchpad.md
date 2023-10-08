@@ -706,6 +706,14 @@ https://elinux.org/Kernel_Size_Reduction_Work
 
 https://www.elinux.org/images/9/90/Linux_for_Microcontrollers-_From_Marginal_to_Mainstream.pdf
 
+https://github.com/chettrick/discobsd
+
+https://www.theregister.com/2023/10/06/elks_and_fuzix_tiny_unixes/?td=rt-3a
+
+https://github.com/ghaerr/elks
+
+https://tomu.im/tomu.html
+
 https://electronics.stackexchange.com/questions/27594/what-operating-systems-have-been-ported-to-cortex-m3
 
 Window Managers: 
