@@ -117,12 +117,11 @@ Imagine an open source project, that, uses a unified design until each milestone
 "Certainly all historical experience confirms the truth - that man would not have attained the possible unless time and again he had reached out for the impossible." -Max Weber
 
 
-Update 8/10/22 This working group has been inactive for 1+ yr, therefore I have decided to update with some renewed interest. First, the Apollo4 has a revised EVB, the Apollo4 Plus: https://www.top-electronics.com/en/apollo4-blue-plus-192mhz-ble-5-1-bga
+Update 8/10/22 This working group has been inactive for 1+ yr, therefore I have decided to update with some renewed interest. First, the Apollo4 has a revised EVB, the Apollo4 Plus: [https://www.top-electronics.com/en/apollo4-blue-plus-192mhz-ble-5-1-bga](https://www.top-electronicsusa.com/ambiq-mf-76.html)
 "The Apollo4 Blue Plus is purpose-built to serve as both an application processor and a coprocessor for battery-powered endpoint devices, including smartwatches, children’s watches, fitness bands, animal trackers, far-field voice remotes, predictive health and maintenance, and the smart home.'
 
-https://www.top-electronicsusa.com/apollo4-192-mhz-cortex-m4f-141-pin-bga-p-18066.html 
-"Although not discontinued, this device is no longer recommended for new designs.
-Customers should use the AMAP42KP-KBR Apollo4 Plus for improved support and performance."
+[https://www.top-electronicsusa.com/ama4b2kl-kxr-apollo4-blue-lite-bga--p-18127.html
+](https://www.top-electronicsusa.com/ama4b2kl-kxr-apollo4-blue-lite-bga--p-18127.html)
 
 Porting linux or BSD to a microcontroller would require a lot of effort, yet it seems the path of least resistance when compared to trying to develop a sub 30nm application processor designed for extremely low power consumption (less than 2mW. With the Apollo4 Plus running at 4uA/mhz, that presents a fast enough processor for basic applications while still retaining a low power profile. 
 
