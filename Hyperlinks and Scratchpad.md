@@ -580,8 +580,8 @@ https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg28-series-2
 
 'The ARM7TDMI (ARM7 + 16 bit Thumb + JTAG Debug + fast Multiplier + enhanced ICE) processor implements the ARMv4 instruction set. It was licensed for manufacture by an array of semiconductor companies. In 2009, it was one of the most widely used ARM cores, and is found in numerous deeply embedded system designs.
 
-Texas Instruments licensed the ARM7TDMI, which was designed into the Nokia 6110, the first ARM-powered GSM phone.[3] This led to the popular series of Nokia phones using the processor, including the 3210 and 3310.[4]"
-
+Texas Instruments licensed the ARM7TDMI, which was designed into the Nokia 6110, the first ARM-powered GSM phone.[3] This led to the popular series of Nokia phones using the processor, including the 3210 and 3310.[4]" [https://www.youtube.com/watch?v=oyERJx51fgM
+](https://youtu.be/oyERJx51fgM?t=595) 
 Could EFM32 run ARM7+ 16bit Thumb 16 bit Thumb + JTAG Debug + fast Multiplier + enhanced ICE?
 
 https://en.wikipedia.org/wiki/Nokia_6110
