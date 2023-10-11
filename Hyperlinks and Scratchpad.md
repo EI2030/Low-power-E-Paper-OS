@@ -283,6 +283,8 @@ KLayout : GDS merge, DRC and LVS (public PDKs)"
 
 --------------------------------------------------
 
+https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
+
 "The Apollo3 Blue Plus adds two additional MSPI modules (3 total), and increases the external memory execute-in-place (XiP) aperture from 64MB to 96MB (32MB/ MSPI instance). Additionally, internal flash increases from IMB to 2MB, SRAM from 384KB to 768KB (TCM size remains at 64KB) and the GPIO count increases from 50 to 74."
 https://www.top-electronics.com/en/apollo3-blue-plus-mcu-768kb-108pin-bga
 MSPI: Dual/Quad/Octal-SPI Master (3x) 48Mhz SDR ISO7816 Master
