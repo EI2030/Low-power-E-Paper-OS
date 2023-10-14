@@ -656,6 +656,12 @@ https://github.com/jcmvbkbc/linux-xtensa (runs on 3MB+ of RAM)
 https://hackaday.com/2023/08/19/linux-running-on-not-a-lot/
 https://www.youtube.com/watch?v=MpjRqMPWrAg
 
+https://popovicu.com/posts/making-a-micro-linux-distro/
+https://github.com/popovicu/linux-micro-distro
+
+https://hackaday.com/2023/10/13/because-you-can-linux-on-an-arduino-uno/
+https://github.com/raspiduino/arv32-opt
+
 https://en.wikipedia.org/wiki/Contiki
 https://github.com/embox/embox
 
@@ -765,6 +771,12 @@ https://www.amazon.com/Infinite-Loop-Michael-Malone/dp/0385486847
 https://books.google.com/books?id=lzgOduibRJgC&pg=PT27&source=gbs_toc_r&cad=2#v=onepage&q&f=false
 https://archive.nytimes.com/www.nytimes.com/books/99/04/04/reviews/990404.04poguet.html
 https://innowiki.org/personal-computer-xerox-alto-the-interim-dynabook/
+
+Silicon Valley History:
+
+https://www.youtube.com/watch?v=ZTC_RxWN_xo 
+
+https://steveblank.com/2009/04/06/story-behind-%E2%80%9Cthe-secret-history%E2%80%9D-part-iii-the-most-important-company-you-never-heard-of/
 
 Miscellaneous and unrelated links:
 
