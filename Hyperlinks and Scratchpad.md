@@ -245,6 +245,10 @@ X86
 AMD Geode family extensions (SSE1)
 Intel "Diamondville" (SSE1, SSE2, SSE3, 64-bit, virtualization, 2 cores, some (2?) threads per core)
 VIA Isaiah (SSE1, SSE2, SSE3, 64-bit, virtualization)
+[ Ken Shirriff's deep dive in the 386
+](https://www.righto.com/2023/10/intel-386-die-versions.html)
+http://www.bitsavers.org/components/intel/_dataBooks/1988_Introduction_to_Intel_Cell-Based_Design.pdf
+
 EE Times on Intel and AMD system-on-chip progress https://www.eetimes.com/latest-32-bit-risc-architecture-for-automotive-expands-functionality/?articleid=204702686
 non-X86
 Sun UltraSPARC T2 core. GPL'd hardware module implements 64-bit SPARC instruction set, memory controller, in 1x to 8x cores with up to 8 threads apiece. Designed for servers, we'd spin down the cores, threads and clock rate for low absolute power consumption. (64-bit, virtualization, 8 cores, 8 threads per core)
