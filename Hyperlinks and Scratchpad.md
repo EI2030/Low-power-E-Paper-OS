@@ -880,6 +880,10 @@ https://journals.uic.edu/ojs/index.php/fm/article/view/2186/2062 Ubuntuism, comm
 
 https://en.wikipedia.org/wiki/Steal_This_Book by Abbie Hoffman
 
+https://www.forbes.com/sites/jaymcgregor/2023/08/16/samsung-is-investing-in-unusual-new-foldable-tablets--laptops/?sh=405e0b4732f3
+
+https://wiki.laptop.org/go/XO-2 (Placement of these links is the hint)
+
 Early GNU ld working set pre-swap http://www.mirrorservice.org/sites/sources.redhat.com/pub/binutils/old-releases/ 
 https://sourceware.org/bugzilla/show_bug.cgi?id=22831
 
