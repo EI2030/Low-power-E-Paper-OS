@@ -296,6 +296,18 @@ MSPI: Dual/Quad/Octal-SPI Master (3x) 48Mhz SDR ISO7816 Master
 Apollo4: https://ambiq.com/wp-content/uploads/2020/10/Apollo-MCU-SoC-Selector-Guide.pdf
 MSPI: Dual/Quad/Octal-SPI Master (3x) 96Mhz SDR 48Mhz DDR
 
+https://antmicro.com/blog/2022/08/initial-renode-support-for-ambiq-apollo4-blue/ (open source software development framework)
+
+https://github.com/renode/renode/blob/master/platforms/cpus/ambiq-apollo4.repl
+
+"Testing and developing physical embedded systems is difficult due to poor reproducibility and lack of insight into the current state of a system, especially in multi-node scenarios.
+
+Renode addresses this issue by letting you run unmodified binaries identical to the ones you would normally flash onto their target hardware on a virtual board or system of boards.
+
+One important aspect of the tool is that it simulates not only CPUs but entire SoCs (e.g., heterogeneous multicore SoCs and various peripherals) as well as the wired or wireless connections between them, allowing users to address complex scenarios and test real production software."
+
+https://github.com/renode/renode/tree/master
+
 https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 "Ultra-Low Supply Current
 4 μA/MHz executing from MRAM (with cache)
