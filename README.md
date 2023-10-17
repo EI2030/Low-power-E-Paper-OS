@@ -178,7 +178,7 @@ It just so "happens" that ~~Moore's~~ [Koomey's Law](https://github.com/EI2030/L
 
 If you think this project impossible, then it's like saying cubane is impossible. 
 
-On a side note, the phrase "be there or be [square(https://en.wikipedia.org/wiki/Square_(slang)]" originated in the 1940s:
+On a side note, the phrase "be there or be [square](https://en.wikipedia.org/wiki/Square_(slang))" originated in the 1940s:
 
 The sense of square as a derogatory reference to someone conventional or old-fashioned dates to the jazz scene of the 1940s; the first known reference is from 1944. There it applied to someone who failed to appreciate the medium of jazz, or more broadly, someone whose tastes were out of date and out of touch.
 
