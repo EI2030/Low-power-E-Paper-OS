@@ -168,7 +168,7 @@ Step 2: ???
 
 Step 3: Ship Box. Profit $$$
 
-Carbon, Meet Nitrogen (or hydrogen, take your pick). I didn't invent this pairing. Countless others before me actually built a working prototype. I'm just explaining the trend. Now a cube requires 8 bonds. To ship this "box", it needs a display. Enter memory in pixel. For it to be ubiquitous, it probably needs a long-range modem, such as LoRa or nB-IoT.
+Carbon, Meet Nitrogen (or hydrogen, take your pick). I didn't invent this pairing. Countless others before me actually built a working prototype. I'm just explaining the trend. Now a cube requires 10 bonds (plus 8 more for H) (C8H8). To ship this "box", it needs a display. Enter memory in pixel. For it to be ubiquitous, it probably needs a long-range modem, such as LoRa or nB-IoT.
 
 So far that's only 4. But enough for a diagram:
 
