@@ -176,7 +176,13 @@ So far that's only 4. But enough for a diagram:
 
 It just so "happens" that ~~Moore's~~ [Koomey's Law](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/1885_Demonstration_Model.jpg) has progressed to a stage where the amount of power on a small solar panel is enough to power all four of those components. Powering a keyboard, mouse/touchscreen, and/or voice recognition are additional challenges, but the basic circuit has been described.
 
-If you think this project impossible, then it's like saying cubane is impossible.
+If you think this project impossible, then it's like saying cubane is impossible. 
+
+On a side note, the phrase "be there or be [square(https://en.wikipedia.org/wiki/Square_(slang)]" originated in the 1940s:
+
+The sense of square as a derogatory reference to someone conventional or old-fashioned dates to the jazz scene of the 1940s; the first known reference is from 1944. There it applied to someone who failed to appreciate the medium of jazz, or more broadly, someone whose tastes were out of date and out of touch.
+
+So there you have it - cubane is to jazz as flat pcbs are to "being square".
 
 -----
 
