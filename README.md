@@ -116,12 +116,53 @@ Imagine an open source project, that, uses a unified design until each milestone
 ​
 "Certainly all historical experience confirms the truth - that man would not have attained the possible unless time and again he had reached out for the impossible." -Max Weber
 
+"The cubane name derives from the cube-shaped geometry of the molecule. Since carbon normally bonds at angles of 109.5 degrees, the forced 90-degree angles of the cube framework introduce a high degree of strain into the molecule—so much so that prior to Eaton’s seminal synthesis, most chemists and theoreticians deemed the very existence of the molecule impossible.
 
-Update 8/10/22 This working group has been inactive for 1+ yr, therefore I have decided to update with some renewed interest. First, the Apollo4 has a revised EVB, the Apollo4 Plus: [https://www.top-electronics.com/en/apollo4-blue-plus-192mhz-ble-5-1-bga](https://www.top-electronicsusa.com/ambiq-mf-76.html)
-"The Apollo4 Blue Plus is purpose-built to serve as both an application processor and a coprocessor for battery-powered endpoint devices, including smartwatches, children’s watches, fitness bands, animal trackers, far-field voice remotes, predictive health and maintenance, and the smart home.'
+“Not only did Phil synthesize cubane, but he did so by a very creative strategy that used photochemistry to excite the molecule into a cage structure and a ring contracting reaction to attain the desired carbon framework,” said Rawal."
 
-[https://www.top-electronicsusa.com/ama4b2kl-kxr-apollo4-blue-lite-bga--p-18127.html
-](https://www.top-electronicsusa.com/ama4b2kl-kxr-apollo4-blue-lite-bga--p-18127.html)
+https://news.uchicago.edu/story/philip-eaton-renowned-chemist-and-founder-cubane-1936-2023
+
+-----
+Influences
+-----
+
+I think it's important to not understate my early influences. When I was an undergraduate majoring In Biology, my introductory organic chemistry class had a lecture on synthesis of chemical structures. "“To this day, it’s a landmark. If you look up a textbook on organic synthesis, Eaton’s cubane synthesis will be showcased,” said Prof. Viresh Rawal, Eaton’s colleague and chair of the UChicago Department of Chemistry. “It is often used to demonstrate the power of chemical synthesis and the ingenuity that such molecules inspire.”'
+
+As I reflect on my research interests, I can't help but think of comparing the relatively boring field of chemistry to the hot field of semiconductors (it's obvious who gets all the press).
+
+“Phil said one thing to me that I remember to this day,” said Chuan He, Eaton’s colleague and the John T. Wilson Distinguished Service Professor of Chemistry. “He said: ‘So many people work on natural products; I decided to work on unnatural products.’ I think that captures the essence of the University of Chicago. We strive to work on things that are different, unique or sometimes unpopular.”
+
+Semiconductors are unnatural products, so what difference does it make on which types of electronics are paired together? 
+
+If you browse though all my repositories, you may notice a pattern.
+
+All this time, I've been trying to pack efficient components (currently concepts) into a box- or you could say a cube. But this cube is a circuit design, for a PCB.
+
+The atoms C (Carbon), N (Nitrogen) represent components. The traditional PCB sees power input on a 2D planar- (not in the literal sense, but figurative). A flat compound is cyclohexene (of [cycloalkenes](https://en.wikipedia.org/wiki/Cycloalkene)). Consider the aromatic double bond the circuit where electricity flows. This is Consider that the "traditional" PCB. Now, the era of [3D stacked memory](https://ieeexplore.ieee.org/document/4556747) is popular. PCBs have always had layers (2, 4, 6, etc), but power is usually viewed in a 2-dimensional plane.
+
+In other words, the design of engineering is capable of thinking in 3D terms when it comes to memory and CPU (e.g. Ryzen 7 [5800X3D](https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x3d)), so why not solar [power](https://e-peas.com/product/aem10941/) integration? Energy harvesting shifts the utility of the design into what can be perceived as having to "work" to generate power, because holding a tablet or phone to collect sunlight would appear to be a "chore" for the consumer. But that is not really a universal belief.
+
+Some manufacturers are "subtly" including solar charging into products again:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e6d45003-16cc-4ff4-9342-8b0e6e981e7f)
+
+Most technological development involves some amount of efficiency advancements for it to be marketable. What this project seeks to do, is integrate all of those highly efficient technologies into one "cube." You can call it disruptive, in the same way [cubane](https://en.wikipedia.org/wiki/Cubane) can be considered disruptive.
+
+"The resulting high energy density means a large amount of energy can be stored in a comparably smaller amount of space, an important consideration for applications in fuel storage and energy transport."
+
+By integrating a high efficiency solar DC-DC charger, such as the TI [BQ24074](https://www.adafruit.com/product/4755): "Automatic charging current tracking for high efficiency use of any wattage solar panel"
+
+And the most efficient microcontroller in terms of microamp per megahertz (uA/mhz), the Ambiq Apollo4, you have a very compact "box." Carbon, Meet Nitrogen. I didn't invent this pairing. Countless others before me actually built a working prototype. I'm just explaining the trend. Now a cube requires 8 bonds. To ship this "box", it needs a display. Enter memory in pixel. For it to be ubiquitous, it probably needs a long-range modem, such as LoRa or nB-IoT.
+
+So far that's only 4. But enough for a diagram:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/533e9896-1697-4729-8128-9ec58e889ac9)
+
+It just so "happens" that ~~Moore's~~ Koomey's Law has progressed to a stage where the amount of power on a small solar panel is enough to power all four of those components. Powering a keyboard, mouse/touchscreen, r voice recognition are additional challenges, but the basic circuit has been described.
+
+If you think this project impossible, then it's like saying cubane is impossible.
+
+-----
 
 Porting linux or BSD to a microcontroller would require a lot of effort, yet it seems the path of least resistance when compared to trying to develop a sub 30nm application processor designed for extremely low power consumption (less than 2mW. With the Apollo4 Plus running at 4uA/mhz, that presents a fast enough processor for basic applications while still retaining a low power profile. 
 
