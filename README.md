@@ -142,7 +142,11 @@ If you browse though all my repositories, you may notice a pattern.
 
 All this time, I've been trying to pack efficient components (currently concepts) into a box- or you could say a cube. But this cube is a circuit design, for a PCB.
 
-The atoms C (Carbon), N (Nitrogen) represent components. The traditional PCB sees power input on a 2D planar- (not in the literal sense, but figurative). A flat compound is cyclohexene (of [cycloalkenes](https://en.wikipedia.org/wiki/Cycloalkene)). Consider the aromatic double bond the circuit where electricity flows. This is Consider that the "traditional" PCB. Now, the era of [3D stacked memory](https://ieeexplore.ieee.org/document/4556747) is popular. PCBs have always had layers (2, 4, 6, etc), but power is usually viewed in a 2-dimensional plane.
+The atoms C (Carbon), N (Nitrogen) represent components. The traditional PCB sees power input on a 2D planar- (not in the literal sense, but figurative). A flat compound is cyclohexene (of [cycloalkenes](https://en.wikipedia.org/wiki/Cycloalkene)). Consider the aromatic double bond the circuit where electricity flows. This is Consider that the "traditional" PCB. Now, the era of [3D stacked memory](https://ieeexplore.ieee.org/document/4556747) is popular. PCBs have always had layers (2, 4, 6, etc), but power is usually viewed in a 2-dimensional plane (in that it is a given that it is an input, but rarely makes any consideration into the source of that power, and what type of PCB is needed for it to work.
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/27706e69-141a-4d02-a518-36fc38ae4ee0)
+
+from https://github.com/TUDSSL/ENGAGE#system-design-game-boy-emulation-and-system-state-checkpointing
 
 In other words, the design of engineering is capable of thinking in 3D terms when it comes to memory and CPU (e.g. Ryzen 7 [5800X3D](https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x3d)), so why not solar [power](https://e-peas.com/product/aem10941/) integration? Energy harvesting shifts the utility of the design into what can be perceived as having to "work" to generate power, because holding a tablet or phone to collect sunlight would appear to be a "chore" for the consumer. But that is not really a universal belief.
 
