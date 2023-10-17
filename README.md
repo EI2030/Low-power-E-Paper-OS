@@ -162,7 +162,7 @@ So far that's only 4. But enough for a diagram:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/533e9896-1697-4729-8128-9ec58e889ac9)
 
-It just so "happens" that ~~Moore's~~ Koomey's Law has progressed to a stage where the amount of power on a small solar panel is enough to power all four of those components. Powering a keyboard, mouse/touchscreen, r voice recognition are additional challenges, but the basic circuit has been described.
+It just so "happens" that ~~Moore's~~ Koomey's Law has progressed to a stage where the amount of power on a small solar panel is enough to power all four of those components. Powering a keyboard, mouse/touchscreen, and/or voice recognition are additional challenges, but the basic circuit has been described.
 
 If you think this project impossible, then it's like saying cubane is impossible.
 
