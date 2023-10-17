@@ -116,11 +116,15 @@ Imagine an open source project, that, uses a unified design until each milestone
 ​
 "Certainly all historical experience confirms the truth - that man would not have attained the possible unless time and again he had reached out for the impossible." -Max Weber
 
-"The cubane name derives from the cube-shaped geometry of the molecule. Since carbon normally bonds at angles of 109.5 degrees, the forced 90-degree angles of the cube framework introduce a high degree of strain into the molecule—so much so that prior to Eaton’s seminal synthesis, most chemists and theoreticians deemed the very existence of the molecule impossible.
+"The [cubane](https://en.wikipedia.org/wiki/Cubane) name derives from the cube-shaped geometry of the molecule. Since carbon normally bonds at angles of 109.5 degrees, the forced 90-degree angles of the cube framework introduce a high degree of strain into the molecule—so much so that prior to Eaton’s seminal synthesis, most chemists and theoreticians deemed the very existence of the molecule impossible.
 
 “Not only did Phil synthesize cubane, but he did so by a very creative strategy that used photochemistry to excite the molecule into a cage structure and a ring contracting reaction to attain the desired carbon framework,” said Rawal."
 
 https://news.uchicago.edu/story/philip-eaton-renowned-chemist-and-founder-cubane-1936-2023
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f9b867b1-b9dd-4683-a409-c18113258db5)
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/b84d93ce-0e6b-4721-8da4-552cd9f8233f)
 
 -----
 Influences
