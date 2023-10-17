@@ -414,6 +414,7 @@ https://www.youtube.com/watch?v=5DBPuZHWEXc
 https://mirrors.slackware.com/slackware/slackware-1.1.2/ mirror  of slackware files.
 https://en.wikipedia.org/wiki/Slackware
 
+https://github.com/t2age/RPS/tree/master/64MB-model
 
 Also on Linux <1.0: binutils 1.94
 https://www.mirrorservice.org/sites/sources.redhat.com/pub/binutils/old-releases/
