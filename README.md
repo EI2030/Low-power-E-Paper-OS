@@ -150,9 +150,9 @@ Most technological development involves some amount of efficiency advancements f
 
 "The resulting high energy density means a large amount of energy can be stored in a comparably smaller amount of space, an important consideration for applications in fuel storage and energy transport."
 
-By integrating a high efficiency solar DC-DC charger, such as the TI [BQ24074](https://www.adafruit.com/product/4755): "Automatic charging current tracking for high efficiency use of any wattage solar panel"
+By integrating a high efficiency solar DC-DC charger, such as the TI [BQ24074](https://www.adafruit.com/product/4755): "Automatic charging current tracking for high efficiency use of any wattage solar panel"...
 
-And the most efficient microcontroller in terms of microamp per megahertz (uA/mhz), the Ambiq Apollo4, you have a very compact "box." Carbon, Meet Nitrogen. I didn't invent this pairing. Countless others before me actually built a working prototype. I'm just explaining the trend. Now a cube requires 8 bonds. To ship this "box", it needs a display. Enter memory in pixel. For it to be ubiquitous, it probably needs a long-range modem, such as LoRa or nB-IoT.
+...and the most efficient microcontroller in terms of microamp per megahertz (uA/mhz), the Ambiq Apollo4, you have a very compact "box." Carbon, Meet Nitrogen. I didn't invent this pairing. Countless others before me actually built a working prototype. I'm just explaining the trend. Now a cube requires 8 bonds. To ship this "box", it needs a display. Enter memory in pixel. For it to be ubiquitous, it probably needs a long-range modem, such as LoRa or nB-IoT.
 
 So far that's only 4. But enough for a diagram:
 
