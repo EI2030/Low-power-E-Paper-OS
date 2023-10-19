@@ -858,6 +858,8 @@ Book: Apple Confidential 2.0: The Definitive History of the World's Most Colorfu
 
 https://landley.net/history/mirror/index.html
 
+Mike Muller Interview - 2018 - Life, Acorn and ARM https://www.youtube.com/watch?v=ljbdhICqETE (Describes many of the intersections between Apple and ARM in the early 90s from a top-level)
+
 ----
 
 
