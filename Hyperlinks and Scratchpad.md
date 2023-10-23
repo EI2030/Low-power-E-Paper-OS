@@ -362,6 +362,7 @@ https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b
 
 https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
 
+https://atmosic.com/products/
 
 If you're a hedge fund manager like Michael Burry or a billionaire reading this and are considering investing $50 million, please call the CEOs of each company that makes each of these motherboard components to develop a platform power consumption under 12mW (1-3mW for CPU, 3-5 mw for display, and 2mW for wireless) for continuous use: an nB-Iot or Cat M2 modem, a MIPS display, a credit card solar panel, a lithium ion capacitor, a sub-threshold processor, and ask them to build a Raspberry Pi-like board with a display that uses less than 12millwatts of power instead of 12 watts TDP: 
 https://hackaday.io/project/177716-the-open-source-autarkic-motherboard
