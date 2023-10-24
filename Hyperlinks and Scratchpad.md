@@ -596,6 +596,8 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB Design:
 ---
 
+https://hackaday.io/page/21232-platos-ideal-world
+
 https://gadgetversus.com/processor/texas-instruments-mad2wd1-specs/
 https://en.wikipedia.org/wiki/ARM7#ARM7TDMI
 https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg28-series-2
