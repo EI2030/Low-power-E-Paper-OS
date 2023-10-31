@@ -107,6 +107,10 @@ from Apple, but from PR itself"
 
 -Excerpt from the 1999 book "Infinite Loop How the World's Most Insanely Great Computer Company Went Insane" by Michael S. Malone
 
+https://media.ccc.de/v/vcfb2023_-_193_-_en_-_202310151500_-_ignored,_disposed_of,_revived_-_michael_engel
+
+https://multicores.org/lisa/VCFB2023.pdf (great history on the early hardware of the Lisa and Apples)
+
 ------
 
 https://litverse.substack.com/p/steve-jobs-vs-the-haters
