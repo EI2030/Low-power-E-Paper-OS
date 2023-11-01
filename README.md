@@ -115,6 +115,12 @@ https://multicores.org/lisa/VCFB2023.pdf (great history on the early hardware of
 
 https://litverse.substack.com/p/steve-jobs-vs-the-haters
 
+https://www.directors-institute.com/post/whystevejobswasfiredbyapple 
+
+"Looking back, some have questioned whether Apple's board of directors could have done more to retain Steve Jobs in 1985. Sculley himself later acknowledged Jobs' effective leadership and called him "the best CEO ever," admitting that he underestimated Jobs' visionary potential at the time. The firing of Jobs also raises questions about the board's decision-making and overall company strategy. Could they have chosen different approaches or members to better handle the situation?"
+
+https://www.latimes.com/business/technology/la-fi-tn-how-the-first-macintosh-failed-and-still-changed-computing-20140123-story.html
+
 Imagine an open source project, that, uses a unified design until each milestone is complete. Job's logic here could be like the Cathedreal in the Bazaar. The Bazaar houses the Cathedral, but temporarily cannot access the Cathedral.
 
 ​
