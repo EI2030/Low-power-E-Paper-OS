@@ -800,6 +800,10 @@ https://www.youtube.com/watch?v=ZTC_RxWN_xo
 
 https://steveblank.com/2009/04/06/story-behind-%E2%80%9Cthe-secret-history%E2%80%9D-part-iii-the-most-important-company-you-never-heard-of/
 
+https://landley.net/notes.html#28-10-2023
+
+
+
 Miscellaneous and unrelated links:
 
 https://en.wikipedia.org/wiki/Graph_database
