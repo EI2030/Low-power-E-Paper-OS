@@ -126,6 +126,35 @@ Imagine an open source project, that, uses a unified design until each milestone
 ​
 "Certainly all historical experience confirms the truth - that man would not have attained the possible unless time and again he had reached out for the impossible." -Max Weber
 
+"No worthwhile human achievement has ever been instigated on the basis of demonstrable cost effectiveness." - Adrian Bowyer
+
+My Github draft got lost because I accidentally cancelled a tab closing and undid a nearly complete commit, but I had written a substantial paragraph on how cost is a secondary consideration in the progression of inventions, citing Bowyer, but also analyzing Xerox's Chuck Thacker and Apple's Woz "middle stage" adaption of IBM/PDP (e.g. 945/360, PDP-6) systems into novelly, portable Compaq -like consumer tech (though they weren't the only ones- as [Landley.net](https://landley.net/notes.html#28-10-2023) has a better history on that- he mentions Paul Allen and Mitch Kapor, which I read much less into, but that they had identified that complexity was no longer the only drafting stage. 
+
+"The bestselling computer in the world was the PDP-8 from 1973 until it was displaced by the Apple II around 1979, and in its entire production run the PDP-8 sold a grand total of around fifty thousand units EVER, meaning there was no consumer base for a "software industry" before microcomputers. Most software before that was either produced by hardware manufacturers bundling software with the hardware they sold, or by local staff maintaining an installation, or collaborations like produced Multics. What little commercial software got created was bespoke development tailored to specific installations because there was no other business model yet due to a lack of customers to sell to. (Not a lot of speculative development when your total potential worldwide market for PDP-6 software was 23 machines, you talk to them FIRST and get paid before putting in the engineering time, and then you DO the work on their hardware because you haven't got one.) The first computer to sell a million units was the Commodore VIC 20 at the end of 1982, and "the computer" was Time's man of the year for 1982. The Apple vs Franklin legal battle happened when it did because a shrinkwrap software finally had a potential customer base THAT YEAR. People fought over the money once there actually was money."
+
+To focus on two engineers:
+
+" The obvious difficulty in this method--the only method the engineering world had known until recently--was that the more complex the problem, the more complicated the hardware setup needed to address it. In this world, the most gifted engineers were those who could puzzle out novel ways to reduce the number of components by, say, 10 percent. And it was in this particular type of simplification that Woz had shown almost supernatural talent." from Infinite Loop (1999) by Michael Malone https://archive.nytimes.com/www.nytimes.com/books/first/m/malone-loop.html
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/4b1c7bc3-b18d-44a5-af97-b4ab2916ae05) 
+
+from [The Dealers of Lightning: Xerox PARC](https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895) and the Dawn of the Computer Age Paperback – (1999) by Michael A. Hiltzik (Author)
+
+A careful review shows that they both understood that cost reduction was the future of Silcon Valley (and since PARC was primarily focused on 10-year long research & dev, the marketability of the Xerox Star would arrive too late, thus Jobs accelerated development by completing their menu screen and cost reduction, as stated by Jobs in an interview in 1990 to the WGBH Boston: https://www.youtube.com/watch?v=L40B08nWoMk  
+
+To tie this back to the hypothesis stage, the phrase "talk is cheap" isn't to devalue talk, but to acknowledge that cost is an important factor in even the exploratory stage. And therefore "talk is cheap" is another way of rapidly prototyping (hence Bowyer's RepRap concept) various iterations of expensive ideas in a way that doesn't require actually making them all, but rather exhanging them either via market surveys/research, forums, or prior product feedback to discover market or business inefficiencies in both availability of products and underserved markets which sometimes actually have viral, general purpose applications after passing through the [Gartner hype cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle). 
+
+The cost of prototypes, toys, and research, are, according to Byrne Hobart, "But there's a feature of the outside world that also has a major impact: solutions-in-search-of-a-problem and toys-in-search-of-real-world-use are both less costly and more valuable in a world of lower real interest rates." (A Solution in Search of a Problem" is a Low-Rates Phenomenon
+ 12/12/20222) 
+
+I had written something in my draft about I/O shields, and how many new SBC boards such as Raspberry Pi, Orange Pi and even AMD, could share more similar [form factors](https://hackaday.io/page/21232-platos-ideal-world) to support even long-side backplates (as in AMD's case)  
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e2e89a73-c420-4dce-967c-feebfec8f22e)
+
+This little "cosmetic" detail could support more reusability and dual-use integration into laptops such as the PiTop, which do not require major modification of chassis if the rectangular I/O shield can be limited to a narrow segment of the chassis. As mentioned in my mobile-ITX [blog](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Mobile-ITX%20and%20ATX-like%20standards%20for%20SBCs%20and%20mobile%20motherboards.pdf) post, degrees of freedom are a chemistry concept that chemist know more about, and architects of SBCs have far more leeway into rearranging components that do not require convoluted overpasses of wires above heatsinks to reach the backplate I/O.
+
+ ---
+
 "The [cubane](https://en.wikipedia.org/wiki/Cubane) name derives from the cube-shaped geometry of the molecule. Since carbon normally bonds at angles of 109.5 degrees, the forced 90-degree angles of the cube framework introduce a high degree of strain into the molecule—so much so that prior to Eaton’s seminal synthesis, most chemists and theoreticians deemed the very existence of the molecule impossible.
 
 “Not only did Phil synthesize cubane, but he did so by a very creative strategy that used photochemistry to excite the molecule into a cage structure and a ring contracting reaction to attain the desired carbon framework,” said Rawal."
