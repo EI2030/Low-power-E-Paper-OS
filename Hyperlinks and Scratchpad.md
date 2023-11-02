@@ -635,6 +635,8 @@ https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized plat
 
 [https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/](https://semiengineering.com/many-chiplet-challenges-ahead/)
 
+https://www.eetimes.com/bringing-tiny-chiplets-to-embedded-socs/
+
 https://www.techradar.com/news/phone-and-communications/mobile-phones/why-our-phones-still-aren-t-powered-by-the-sun-1329646
 
 https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-console
