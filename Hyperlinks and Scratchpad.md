@@ -287,6 +287,12 @@ OpenROAD App : Floorplanning through Detailed Routing
 
 KLayout : GDS merge, DRC and LVS (public PDKs)"
 
+https://www.youtube.com/watch?v=Ed8uQYT39dM 
+
+https://efabless.com/
+
+https://www.ihp-solutions.com/services
+
 --------------------------------------------------
 
 https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
