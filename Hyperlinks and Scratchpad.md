@@ -810,6 +810,18 @@ https://steveblank.com/2009/04/06/story-behind-%E2%80%9Cthe-secret-history%E2%80
 
 https://landley.net/notes.html#28-10-2023
 
+https://dl.acm.org/doi/pdf/10.1145/234286.1057828  "the early history of smalltalk"
+
+"By now it was already 1979, and we found ourselves doing one of our many demos, but this time for a very interested audience: Steve Jobs, Jef Raskin, and other technical people from Apple. They had started a project called Lisa but weren't quite sure what it should be like, until Jef said to Steve, "You should really come over to PARC and see what they are doing." Thus, more than eight years after overlapping windows had been invented and more than six years after the ALTO started running, the people who could really do something about the ideas, finally got to to see them. The machine used was the Dorado, a very fast "big brother" of the ALTO, whose Smalltalk microcode had been largely written by Bruce Horn, one of our original "Smalltalk kids" who was still only a teen-ager. Larry Tesler gave the main part of the demo with Dan sitting in the copilot's chair and Adele and I watched from the rear. One of the best parts of the demo was when Steve Jobs said he didn't like the blt-style scrolling we were using and asked if we could do it in a smooth continuous style. In less than a minute Dan found the methods involved, made the (relatively major) changes and scrolling was now continuous! This shocked the visitors, especially the programmers among them, as they had never seen a really powerful incremental system before.
+
+Steve tried to get and/or buy the technology from Xerox (which was one of Apple's minority venture capitalists), but Xerox would neither part with it nor would come up with the resources to continue to develop it in house by funding a better NoteTaker cum Smalltalk.
+
+VI. 1980-83—The release version of Smalltalk (-80)
+"The greatest sin in Art is not Boredom,
+as is commonly supposed, but lack of
+Proportion" — Paul Hindemith
+
+As Dan said "the decision not to continue the NoteTaker project added motivation to release Smalltalk widely." But not for me. By this time I was both happy about the cleanliness and elegance of the Smalltalk conception as realized by Dan and the others, and sad that it was farther away than ever from the children—it came to me as a shock that no child had programmed in any Smalltalk since Smalltalk-76 made its debut. Xerox (and PARC) were now into "workstations" as things in themselves—but I still wanted "playstations". The romance of the Dynabook seemed less within grasp, paradoxically just when the various needed technologies were starting to be commercially feasible—some of them, unfortunately, like the flat-screen display, abandoned to the Japanese by the US companies who had invented them. This was a major case of "snatching defeat from the jaws of victory." Larry Tesler decided that Xerox was never going to "get it" and was hired by Steve Jobs in May 1980 to be a principal designer of the Lisa. I agreed, had a sabbatical coming, and took it." - Alan Kay
 
 
 Miscellaneous and unrelated links:
@@ -896,7 +908,6 @@ https://journals.uic.edu/ojs/index.php/fm/article/view/2186/2062 Ubuntuism, comm
 ----
 
 
-https://en.wikipedia.org/wiki/Steal_This_Book by Abbie Hoffman
 
 https://www.forbes.com/sites/jaymcgregor/2023/08/16/samsung-is-investing-in-unusual-new-foldable-tablets--laptops/?sh=405e0b4732f3
 
