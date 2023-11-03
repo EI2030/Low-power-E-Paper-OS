@@ -602,6 +602,10 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB Design:
 ---
 
+https://www.kickstarter.com/projects/davewy/artemis-plus-low-power-ai-ml-processing-platform-and-dev-kit
+
+https://github.com/SapphireCircuits/Artemis-Plus-Hardware
+
 https://hackaday.io/page/21232-platos-ideal-world
 
 https://gadgetversus.com/processor/texas-instruments-mad2wd1-specs/
