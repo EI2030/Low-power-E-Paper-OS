@@ -672,10 +672,14 @@ https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-consol
 
 ----
 ISA
+----
 
 https://en.wikipedia.org/wiki/SuperH#J_Core
+
 https://lwn.net/Articles/647636/
+
 https://www.coresemi.io/products/overview/j32-cpu-core
+
 -----
 https://alc.sparkfun.com/
 
@@ -687,7 +691,9 @@ http://wiki.mlab.cz/
 
 https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
 
+---
 RT/OSes & Tools of interest:
+---
 
 https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/ Lisa Source Code released by Apple & Computer History Museum 1/19/2023 (40th Anniv).
 https://info.computerhistory.org/apple-lisa-code
@@ -732,8 +738,9 @@ https://youtu.be/mysM-V5h9z8?t=1913 (Zephyr & modular linux)
 
 https://www.coreboot.org/
 
+---
 Similar projects/ of interest:
-
+---
 https://www.kickstarter.com/projects/170743596/ripple-the-most-advanced-solar-watch-strap-for-peb
 https://www.youtube.com/watch?v=EZDyDHFXKio
 
@@ -793,7 +800,9 @@ https://static.sched.com/hosted_files/osseu2022/2c/Trading_Fbdev_for_DRM_no_retu
 https://www.x.org/releases/X11R7.6/doc/man/man4/fbdev.4.xhtml
 https://github.com/TheNeuronProject/ef.qt
 
+---
 DOS + GUISs
+----
 
 https://github.com/Microsoft/MS-DOS (fully open source on Github since 2018)
 https://web.archive.org/web/20170506152047/http://www.patersontech.com/dos/byte%E2%80%93inside-look.aspx
