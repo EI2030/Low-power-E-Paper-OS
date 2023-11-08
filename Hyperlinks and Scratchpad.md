@@ -154,7 +154,9 @@ Saving a webpage often takes far longer than the number of bytes per second as d
 https://superuser.com/questions/1745770/saving-webpages-on-chrome-takes-longer-than-expected-and-downloaded-filesize-is
 Since most sites have a folder of scripts to download when saving a cached page, the page will download much slower than an advertised ISP's speeds (in the tens/hundreds or Gbps). Having a faster harddrive (such as PCI-e Gen3 or Gen4) will help with the 4KQD1 random write speeds for the small script files it needs to save the page to disk, but a far simpler solution would be for the page to minimize its scripts needed to display, at least for a non-Javascript version. Thus static site generators, or very simplified dynamic site generators can fit the bill far better when designed well. https://github.com/gohugoio/hugo
 
+---
 RAM:
+---
 https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & OPI)
 
 https://www.eejournal.com/industry_news/ambiq-and-ap-memory-partner-to-enable-richer-experiences-in-intelligent-endpoints/
@@ -322,7 +324,9 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 4 μA/MHz executing from SRAM
 1.5 μA low power sleep mode with RTC and 8KB SRAM retention"
 
+---
 Displays:
+----
 
 4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
@@ -357,7 +361,9 @@ https://e-peas.com/
 https://news.utdallas.edu/science-technology/thermoelectric-generators-2020/
 https://www.ti.com/tool/TIDA-00246
 
+----
 Wireless Modems:
+----
 
 https://www.everythingrf.com/news/details/17193-qorvo-introduces-new-cellular-iot-transmit-module-for-nb-iot1-2-and-lte-cat-m1-2-operation
 https://www.qorvo.com/products/p/QM55011 (smaller, no datasheet posted yet) 3mmx3mm
@@ -388,7 +394,9 @@ https://lowtechmagazine.com/2021/10/how-to-build-a-low-tech-solar-panel.html (sa
 https://en.wikipedia.org/wiki/Thermionic_emission
 "Although vulnerable to higher rates of thermionic emission, manufacturing of Schottky barrier solar cells proves to be cost-effective and industrially scalable.[4]"
 
+----
 Solar calculators & history
+---
 https://en.wikipedia.org/wiki/Calculator#:~:text=The%20first%20truly%20pocket%2Dsized,was%20marketed%20early%20in%201971
 http://www.vintagecalculators.com/html/busicom_le-120a_-_le-120s.html 
 http://www.vintagecalculators.com/html/sharp_el-8026.html
@@ -401,7 +409,9 @@ https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%
 https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/
 https://ethw.org/Oral-History:Gary_Boone
 
+----
 Li-ion capacitors:
+-----
 https://en.wikipedia.org/wiki/Lithium-ion_capacitor
 https://www.mdpi.com/1420-3049/27/10/3119
 https://www.sciencedirect.com/science/article/abs/pii/S2468606917302873?via%3Dihub
@@ -415,7 +425,9 @@ https://www.youtube.com/watch?v=YwnfT665Ns8
 **Looking for:** Microcontrollers
 E-paper display drivers
 
+----
 RTOS/Linux OS development:
+----
 
 Slackware 1.1.2 on 3MB RAM (1994) w/ TCP/IP support  running at 40Mhz on a 386SX (Linux kernel 0.99.15)
 
@@ -513,8 +525,9 @@ http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
 
 https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
 
+----
 Plan 9 and related Resources
-
+----
 https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs
 
 "A later retrospective comparison of Plan 9, Sprite and a third contemporary distributed research operating system, Amoeba, found that
@@ -550,6 +563,10 @@ https://www.youtube.com/watch?v=dF_-jQc53jw "This is a demonstration of Inferno 
 https://mobile.slashdot.org/story/11/09/17/2050200/inferno-os-running-on-android-phones
 
 https://en.wikipedia.org/wiki/Inferno_(operating_system)#cite_note-21
+
+---
+Other OSes & Modules
+---
 
 "ClickOS and the Art of Network
 Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-martins.pdf 
@@ -655,6 +672,7 @@ https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-consol
 
 ----
 ISA
+
 https://en.wikipedia.org/wiki/SuperH#J_Core
 https://lwn.net/Articles/647636/
 https://www.coresemi.io/products/overview/j32-cpu-core
@@ -808,8 +826,9 @@ https://books.google.com/books?id=lzgOduibRJgC&pg=PT27&source=gbs_toc_r&cad=2#v=
 https://archive.nytimes.com/www.nytimes.com/books/99/04/04/reviews/990404.04poguet.html
 https://innowiki.org/personal-computer-xerox-alto-the-interim-dynabook/
 
+---
 Silicon Valley History:
-
+----
 https://www.youtube.com/watch?v=ZTC_RxWN_xo 
 
 https://steveblank.com/2009/04/06/story-behind-%E2%80%9Cthe-secret-history%E2%80%9D-part-iii-the-most-important-company-you-never-heard-of/
