@@ -328,6 +328,8 @@ Displays:
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
 https://github.com/Gbertaz/JDI_MIP_Display
 
+http://www.technoblogy.com/show?3YB0 "low-power monochrome 250x122 display based on the ST7302 display driver and available from suppliers such as AliExpress" (would be interesting to see these bezelless and 5x5 to form a larger screen.
+
 https://www.data-modul.com/en/products/product-catalogue/mip-displays
 
 Transflective (non-backlit): https://www.youtube.com/watch?v=L-GJjOucBNY 
