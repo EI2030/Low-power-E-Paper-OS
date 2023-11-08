@@ -9,6 +9,7 @@ Therefore, before it is possible to organize a group around a low power OS, it i
 I will select 0.5mA for the MCU alone (96mhz@ 4uA/mhz= 384uA)= Turbo Speed  (192mhz) is 768uA.
 
 See also: https://en.wikipedia.org/wiki/3M_computer
+https://en.wikipedia.org/wiki/PERQ#/media/File:Spy_text_editor_running_on_a_PERQ_workstation.jpg
 
 Finding the available tools and hardware is the first half of the battle. Before starting this project, I did a few Google searches- "solar powered cpu"  by doing this, I was able to unearth a lot of research from early 2011: https://hexus.net/tech/news/cpu/31745-intel-shows-solar-powered-cpu-experiment/ 
 https://www.theregister.com/2011/09/16/claremont_near_voltage_processor/
