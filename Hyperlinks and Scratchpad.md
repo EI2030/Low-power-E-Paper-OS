@@ -811,6 +811,8 @@ https://github.com/TheNeuronProject/ef.qt
 DOS + GUISs
 ----
 
+https://github.com/jhhoward/MicroWeb in 640K RAM!
+
 https://github.com/Microsoft/MS-DOS (fully open source on Github since 2018)
 https://web.archive.org/web/20170506152047/http://www.patersontech.com/dos/byte%E2%80%93inside-look.aspx
 
