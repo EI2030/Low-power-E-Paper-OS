@@ -381,6 +381,8 @@ https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b
 
 https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
 
+https://hackaday.com/2023/11/08/2g-or-not-2g-that-is-the-question/
+
 https://atmosic.com/products/
 
 If you're a hedge fund manager like Michael Burry or a billionaire reading this and are considering investing $50 million, please call the CEOs of each company that makes each of these motherboard components to develop a platform power consumption under 12mW (1-3mW for CPU, 3-5 mw for display, and 2mW for wireless) for continuous use: an nB-Iot or Cat M2 modem, a MIPS display, a credit card solar panel, a lithium ion capacitor, a sub-threshold processor, and ask them to build a Raspberry Pi-like board with a display that uses less than 12millwatts of power instead of 12 watts TDP: 
@@ -839,6 +841,13 @@ https://www.amazon.com/Infinite-Loop-Michael-Malone/dp/0385486847
 https://books.google.com/books?id=lzgOduibRJgC&pg=PT27&source=gbs_toc_r&cad=2#v=onepage&q&f=false
 https://archive.nytimes.com/www.nytimes.com/books/99/04/04/reviews/990404.04poguet.html
 https://innowiki.org/personal-computer-xerox-alto-the-interim-dynabook/
+
+https://hackaday.com/2023/11/08/reliving-the-authentic-90s-linux-experience/
+https://www.youtube.com/watch?v=MsAHi7t4Cj8
+
+https://www.theregister.com/2023/10/25/window_maker_096_live/
+
+https://www.theregister.com/2023/09/01/antix_23/
 
 ---
 Silicon Valley History:
