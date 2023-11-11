@@ -433,7 +433,7 @@ https://www.youtube.com/watch?v=YwnfT665Ns8
 E-paper display drivers
 
 ----
-RTOS/Linux OS development:
+RTOS/Linux/Legacy OS development:
 ----
 
 Slackware 1.1.2 on 3MB RAM (1994) w/ TCP/IP support  running at 40Mhz on a 386SX (Linux kernel 0.99.15)
@@ -531,6 +531,9 @@ https://www.youtube.com/watch?v=3d1SHOCCDn0
 http://doc.cat-v.org/inferno/4th_edition/limbo_language/limbo
 
 https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
+
+https://www.youtube.com/watch?v=RkeaQNU8EtA Mac OS X Developer Preview 1 & 2 (1999-2000)
+
 
 ----
 Plan 9 and related Resources
