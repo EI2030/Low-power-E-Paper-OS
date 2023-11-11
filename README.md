@@ -23,6 +23,20 @@ Also, half the kids in the world don’t have electricity at home. Half the kids
 
 Yes, it might be just a trickle, a low-bandwidth connection from the Internet to the laptop, but between the laptops is a high-bandwidth connection through the mesh network. We use 802.11s, which is the standard for mesh. The standard isn’t actually complete, but we will be compatible with it when it’s completed. We’ve had to make it up as we go along, so we’re a little ahead of that. There’s truly so little power in the developing world. If a school is wired, it tends to be on a generator, and there’s one 60-watt light bulb per classroom. Generators make really weird power. Usually what comes out of the wall in most countries is 50 or 60 hertz, or somewhere in between. With generators, the frequency of the AC power can go down to 35 hertz. We therefore had to do really interesting power conditioning on the AC adapter. The laptop itself can take between negative 32 volts to 40 volts, and work well with anything from 11 to 18 volts. You can plug a car battery into it. You can plug a solar panel into it."
 
+---
+Why this project has not been funded for more than 3 years:
+---
+
+Despite submitting several grant applications, it exceeds the risk-taking of the Lower-Level Agents:
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ef2b337b-36e4-4f7e-a5c7-0eeb70849b49)
+
+from: "The agent principal problem" : https://www.strangeloopcanon.com/p/the-agent-principal-problem
+
+Amount of risk of this project (perceived or real): 
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e3c8bec2-c1d8-4cf4-a801-c1679ecbc705)
+
+
 
 -----
 History on Marketing for Apple
