@@ -34,8 +34,7 @@ from: "The agent principal problem" : https://www.strangeloopcanon.com/p/the-age
 
 Amount of risk of this project (perceived or real): 
 
-![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e3c8bec2-c1d8-4cf4-a801-c1679ecbc705)
-
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/1885064b-6278-4044-84ff-e1f171d3dd8f)
 
 
 -----
