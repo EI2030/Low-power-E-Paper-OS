@@ -701,6 +701,8 @@ http://wiki.mlab.cz/
 
 https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.png
 
+https://doc.dustri.org/hardware/Cores%20that%20don%E2%80%99t%20count%20-%202021.pdf
+
 ---
 RT/OSes & Tools of interest:
 ---
