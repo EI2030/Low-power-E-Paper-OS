@@ -36,6 +36,7 @@ Amount of risk of this project (perceived or real):
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/1885064b-6278-4044-84ff-e1f171d3dd8f)
 
+If you'd like to contribute to this project, first look for ways to lower the perceived or real risks. This repository is not an ideology, but a pursuit of ideas.
 
 -----
 History on Marketing for Apple
