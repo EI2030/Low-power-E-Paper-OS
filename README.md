@@ -38,6 +38,23 @@ Amount of risk of this project (perceived or real):
 
 If you'd like to contribute to this project, first look for ways to lower the perceived or real risks. This repository is not an ideology, but a pursuit of ideas.
 
+A great [Substack](https://dgardner.substack.com/p/the-history-of-technology-is-most
+) post today mentioned Kranzberg's six laws of Technology:
+
+"Technology is neither good nor bad; nor is it neutral.
+
+Invention is the mother of necessity.
+
+Technology comes in packages, big and small.
+
+Although technology might be a prime element in many public issues, nontechnical factors take precedence in technology-policy decisions.
+
+All history is relevant, but the history of technology is the most relevant.
+
+Technology is a very human activity – and so is the history of technology."
+
+https://en.wikipedia.org/wiki/Melvin_Kranzberg#Kranzberg's_laws_of_technology 
+
 -----
 History on Marketing for Apple
 -----
