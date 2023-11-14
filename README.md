@@ -266,7 +266,7 @@ One of the first goals is to select an OS that would be versatile to basic, low-
 
 "Its embedded 4.75MB of memory delivers power-efficient display performance by storing images on-chip to avoid exhausting resources by fetching data from external memory.' https://embeddedcomputing.com/technology/iot/wireless-sensor-networks/ambiq-enables-audio-radio-and-graphics-for-always-connected-iot-endpoints
 
-One of the key differences from this project and the Raspberry Pi is that micro-SD loaded OSes like Raspberry Pi OS are extremely slow, and do not compare to the true, baremetal capabilities of even the armv6 in the Raspberry Pi Zero. loading Raspup Buster 8.2.1  or Tinycore linux on a Raspberry Pi 3 on 512 MB RAM is an amazing experience. 
+One of the key differences from this project and the Raspberry Pi is that micro-SD loaded OSes like Raspberry Pi OS are extremely slow, and do not compare to the true, baremetal capabilities of even the armv6 in the Raspberry Pi Zero. loading Raspup Buster 8.2.1  or Tinycore linux on a Raspberry Pi 3 on 512 MB RAM runs faster on RAM than loading apps from microSD.
 
 The early Nokia phones had immediate response times when navigating the Symbian OS. The modern operating systems of today adopt an omnibus of kernel modules, that prevent replicating the user experience of earlier phones and desktops. Phones attempt to run at even faster speeds to keep up with the hundreds of processes, yet lag behind the simplified OS of a generation ago.
 
