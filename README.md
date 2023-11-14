@@ -289,8 +289,6 @@ Low-power-E-Paper-OS Working Group
 
 **Members:** hatonthecat, @alexsotodev open to new members, including after project started.
 
-**URL:** https://forum.ei2030.org/t/low-power-e-paper-os/138
-
 https://alexsoto.dev/static/community-built-eink-laptop-project/slides.pdf (Slides 45-49)
 
 https://ei2030.zulipchat.com/register/
@@ -300,7 +298,7 @@ https://ei2030.zulipchat.com/register/
 Looking for:
 
 "At this point, we need other people interested in the idea of this super-low-power device with its “I’m not a regular laptop” aspiration. You can help us figure out the key important areas for us to focus on. No special skills needed! If you like the sound of such a device, email us and join! No required time-commitment and no contribution is too small and no worries of all of this microcontroller-type talk goes over your head. We need you!"
-from: https://forum.ei2030.org/t/paperterm-project-definition-and-marketing-materials/146
+
 
 If you do have experience (and it is welcome), these fields are of particular help:
 
@@ -313,7 +311,7 @@ Software Developers
 Reverse-Engineering
 
 Writers/Researchers"
-from: https://forum.ei2030.org/t/research-drivers-for-eink-displays/150
+
 
 This may sound like a purely high-tech project (read: hard/inaccessible), but it is not, since leading edge hardware/tech is now available in the open-source community. The Sparkfun company (which makes the Artemis boards with Apollo3) helped changed that perception, because if NASA used Sparkfun's altimeter, then it means open-source tech can (and has been) designed to be both leading tech and accessible. Other technology companies like Adafruit, Digikey & Mouser also provide high-quality electronics to non-business entities (i.e hobbyists).
 
