@@ -594,6 +594,9 @@ https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)
 https://en.wikipedia.org/wiki/GEOS_(8-bit_operating_system)#cite_note-9
 https://github.com/mist64/geos
 
+https://github.com/David-SWUSA-RISCOS/YASDOE 
+https://asmfun.riscos.fr/index.html
+
 https://bootlin.com/pub/conferences/2015/captronic/captronic-porting-linux-on-arm.pdf
 
 https://www.youtube.com/watch?v=Sk9TatW9ino
