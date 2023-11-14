@@ -291,8 +291,6 @@ Low-power-E-Paper-OS Working Group
 
 **URL:** https://forum.ei2030.org/t/low-power-e-paper-os/138
 
-https://forum.ei2030.org/t/research-porting-linux-to-ultra-low-power-microcontroller/151
-
 https://alexsoto.dev/static/community-built-eink-laptop-project/slides.pdf (Slides 45-49)
 
 https://ei2030.zulipchat.com/register/
