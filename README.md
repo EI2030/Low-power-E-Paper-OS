@@ -55,6 +55,8 @@ Technology is a very human activity – and so is the history of technology."
 
 https://en.wikipedia.org/wiki/Melvin_Kranzberg#Kranzberg's_laws_of_technology 
 
+http://pantaneto.co.uk/the-decline-of-unfettered-research-andrew-odlyzko/
+
 -----
 History on Marketing for Apple
 -----
