@@ -354,6 +354,11 @@ https://download.epson-europe.com/pub/electronics-de/ld/d%20tfd%20brochure.pdf
 https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
 https://www.j-display.com/english/product/reflective.html 
 
+ https://www.theverge.com/23954584/e-ink-color-tablets-ereader "Is E Ink finally ready for prime time?"
+
+https://www.youtube.com/watch?v=EKLBpOeX97c
+
+
 https://www.j-display.com/english/product/reflective.html
 
 Solar Power Managers (integrated):
