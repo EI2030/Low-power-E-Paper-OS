@@ -295,6 +295,7 @@ https://www.reddit.com/r/todayilearned/comments/a23p5i/til_intels_patent_on_the_
 
 https://www.allaboutcircuits.com/news/are-designers-still-using-the-vortex86-old-cpu-ces-2018/
 
+https://www.icop.com.tw/article/205 
 
 RISC-V history (& ARM developments)
 ----
