@@ -661,6 +661,8 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB Design:
 ---
 
+https://opencomputeproject.github.io/ODSA-BoW/bow_specification.html
+
 https://www.kickstarter.com/projects/davewy/artemis-plus-low-power-ai-ml-processing-platform-and-dev-kit
 
 https://github.com/SapphireCircuits/Artemis-Plus-Hardware
