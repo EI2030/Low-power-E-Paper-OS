@@ -663,6 +663,13 @@ PCB Design:
 
 https://opencomputeproject.github.io/ODSA-BoW/bow_specification.html
 
+"" In your implementation you have to enable low-frequency operation so you can interoperate with devices that, by the nature of the process node, cannot go to 60 megabit per second. Some things need to stay at low data rates. They can interoperate with these circuits.”"
+https://semiengineering.com/is-ucie-really-universal/"
+
+https://www.opencompute.org/documents/bow-specification-v2-0d-1-pdf
+
+https://eps.ieee.org/images/files/TC_The_Bunch_of_Wires_rev3.pdf
+
 https://www.kickstarter.com/projects/davewy/artemis-plus-low-power-ai-ml-processing-platform-and-dev-kit
 
 https://github.com/SapphireCircuits/Artemis-Plus-Hardware
