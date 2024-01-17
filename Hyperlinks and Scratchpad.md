@@ -670,6 +670,12 @@ https://www.opencompute.org/documents/bow-specification-v2-0d-1-pdf
 
 https://eps.ieee.org/images/files/TC_The_Bunch_of_Wires_rev3.pdf
 
+https://www.youtube.com/watch?v=ywmCHQQuELc
+
+https://www.youtube.com/watch?v=Wd5qMSnN7OE
+
+https://www.youtube.com/watch?v=R1wyyfm2Mhk
+
 https://www.kickstarter.com/projects/davewy/artemis-plus-low-power-ai-ml-processing-platform-and-dev-kit
 
 https://github.com/SapphireCircuits/Artemis-Plus-Hardware
