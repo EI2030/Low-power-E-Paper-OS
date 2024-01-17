@@ -676,6 +676,10 @@ https://www.youtube.com/watch?v=Wd5qMSnN7OE
 
 https://www.youtube.com/watch?v=R1wyyfm2Mhk
 
+https://www.bcanalog.com/solutions-technology/ 
+
+https://apexsemi.com/partners/#ipp
+
 https://www.kickstarter.com/projects/davewy/artemis-plus-low-power-ai-ml-processing-platform-and-dev-kit
 
 https://github.com/SapphireCircuits/Artemis-Plus-Hardware
