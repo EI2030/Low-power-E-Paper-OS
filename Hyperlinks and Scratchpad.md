@@ -386,6 +386,9 @@ https://www.j-display.com/english/product/reflective.html
 Solar Power Managers (integrated):
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
+https://www.wsj.com/tech/personal-tech/what-if-you-never-had-to-charge-your-gadgets-again-955ea960
+https://www.onio.com/products/onio-zero.html
+
 
 Harvesters (an inexhaustive list):
 https://www.sony-semicon.com/en/news/2023/2023090701.html
