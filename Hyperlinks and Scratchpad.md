@@ -681,7 +681,7 @@ https://semiengineering.com/is-ucie-really-universal/"
 
 https://semiengineering.com/chiplets-more-standards-needed/ "Analog data is often digitized with a specific bit width. This is based on the signal and application and, in many cases, is not a multiple of 8 bits. Current standards, however, work on the basis of multiples of 8 bits. Obviously, bit padding can be used to make the data in the protocols conform to the standard, yet such space-filling bits do not contain any information, which means that a large portion of the data transfer rate is wasted. By implication, then, further standards must be created for applications in the field of heterogeneous integration, or existing standards must be extended to cover these kinds of specifically analog interfaces."
 
-Sounds like the RISC-ification of data/power efficiency? As the instructions in RISC were optimized to send as much data in as fewest cycles possible. Similarly the electrical signals in a PCB may be wasting excess signal padding to transmit relatively small amounts of data without low-bandwidth prioritized wire sizes.
+Sounds like the RISC-ification of data/wire power efficiency? As the instructions in RISC were optimized to send as much data in as fewest cycles possible. Similarly the electrical signals in a PCB may be wasting excess signal padding to transmit relatively small amounts of data without low-bandwidth only wire sizes.
 
 from: https://www.landley.net/writing/mirror/fool/todo/rulemaker000224.htm 
 
