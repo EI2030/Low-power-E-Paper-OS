@@ -681,6 +681,38 @@ https://semiengineering.com/is-ucie-really-universal/"
 
 https://semiengineering.com/chiplets-more-standards-needed/ "Analog data is often digitized with a specific bit width. This is based on the signal and application and, in many cases, is not a multiple of 8 bits. Current standards, however, work on the basis of multiples of 8 bits. Obviously, bit padding can be used to make the data in the protocols conform to the standard, yet such space-filling bits do not contain any information, which means that a large portion of the data transfer rate is wasted. By implication, then, further standards must be created for applications in the field of heterogeneous integration, or existing standards must be extended to cover these kinds of specifically analog interfaces."
 
+Sounds like the RISC-ification of data/power efficiency? As the instructions in RISC were optimized to send as much data in as fewest cycles possible. Similarly the electrical signals in a PCB may be wasting excess signal padding to transmit relatively small amounts of data without low-bandwidth prioritized wire sizes.
+
+from: https://www.landley.net/writing/mirror/fool/todo/rulemaker000224.htm 
+
+"A man named Seymour Cray came up with the big new idea in the high end. It was called a "RISC" design, which is an acronym for "Reduced Instruction Set Computing." A RISC instruction set is simplified, with each instruction in it taking only one clock cycle to complete. The older designs were full of complicated instructions that took many clock cycles, and thus the acronym "CISC" (standing for "Complex Instruction Set Computing") was retroactively invented to describe them.
+
+In a RISC design, the more complicated tasks that took many clock cycles to complete were broken up into smaller pieces, and each individual step the processor did per clock cycle was given its own instruction number. (Since these were basically the steps the chip had to do behind the scenes anyway, this wasn't necessarily much of a change. The new instruction set was simply more explicit.) In addition, each instruction was made the exact same length, which means that on a 32-bit chip each instruction would be exactly 4 bytes long.
+
+By itself, these changes merely reduced the complexity of decoding variable-length instructions, and allowed the instruction execution circuitry to be streamlined a bit. Not major wins. But this also opened up a whole new avenue for optimization, which is called "pipelining."
+
+Basically, you build two complete sets of the instruction execution circuitry on the same chip. These two copies are called "Processor Cores," or "Pipelines." Since each instruction is the same length, the chip doesn't have to finish decoding the first instruction to see where the second one starts. Each clock cycle, the second pipeline can look at the instruction immediately following the one the first CPU core is executing, and if the second instruction doesn't depend on any results of the first, the second core can execute the second instruction then and there, in the same clock cycle. Under ideal circumstances, the processor can literally execute two instructions each clock cycle. When circumstances aren't ideal, the second pipeline pulls a "wait state," just like the clock-doubled 486 (described yesterday) did when it ran out of prefetched instructions in the cache.
+
+Since the end of the previous paragraph was pure, unadulterated technobabble, I'd like to step back and demonstrate the idea using a portion of a recipe to represent a computer program:
+
+Measure 1 cup flour
+Add flour to mixing bowl
+Count 2 eggs
+Crack eggs into bowl
+Mix
+If you'll notice, a lot of instructions depend on the results of previous instructions. You can't put the flour in the bowl before you've measured it; you can't crack the eggs before you've counted them; and you can't mix the ingredients before they're both in the bowl. But other pairs of instructions are independent, such as adding the flour to the mixing bowl and counting the eggs. If a second set of instruction execution circuitry is looking over the first's shoulder, the flour can be put in the bowl and the proper number of eggs selected at the same time, basically counting as only one step.
+
+It works even better if the program is re-ordered to pair off independent instructions, like so:
+
+Measure 1 cup flour
+Count 2 eggs
+Add flour to mixing bowl
+Crack eggs into bowl
+Mix
+Now the measuring and counting can be done in one step, and adding both ingredients to the bowl can be done in a second step, followed by mixing. From taking five steps to finish, now the process only takes three. This is a tremendous speed improvement, achieved by rethinking and reorganizing the processor's instructions so that more transistors can be thrown at the problem to do more stuff at the same time, in parallel.
+
+Of course, RISC had some downsides. Without the variable instruction length trick central to CISC instruction sets, programs took up much more memory. The chip also required twice as many transistors for two complete processor cores, which meant it took up twice as much space on the silicon wafer, which made it twice as expensive to manufacture. And RISC programs had to have their instructions in the right order to take full advantage of the second processor core, which required more advanced program development tools that weren't available when the first generation of RISC chips hit the market. But like all optimizations, the trade-off was considered worth it if you could execute two instructions per clock cycle, even part of the time."
+
 https://www.opencompute.org/documents/bow-specification-v2-0d-1-pdf
 
 https://eps.ieee.org/images/files/TC_The_Bunch_of_Wires_rev3.pdf
