@@ -359,6 +359,14 @@ Displays:
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
 https://github.com/Gbertaz/JDI_MIP_Display
 
+https://www.adafruit.com/product/4694 ("The display is 'write only' which means that it only needs 3 pins to send data." This product in 6 or 8" would be an excellent netbook if it had read pins as well
+
+https://www.data-modul.com/en/products/distribution/displays/display-technologies/memory-pixel-technology (up to 6")
+
+https://www.azumotech.com/resource-center/news-press-release-auo-azumo/ (3.4" Color reflective LCD 2.0 with Front Light)
+
+https://www.e3displays.com/mlcd-displays/ (MLCD displays for custom order)
+
 http://www.technoblogy.com/show?3YB0 "low-power monochrome 250x122 display based on the ST7302 display driver and available from suppliers such as AliExpress" (would be interesting to see these bezelless and 5x5 to form a larger screen.
 
 https://www.data-modul.com/en/products/product-catalogue/mip-displays
