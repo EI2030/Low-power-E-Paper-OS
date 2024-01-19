@@ -679,6 +679,8 @@ https://opencomputeproject.github.io/ODSA-BoW/bow_specification.html
 "" In your implementation you have to enable low-frequency operation so you can interoperate with devices that, by the nature of the process node, cannot go to 60 megabit per second. Some things need to stay at low data rates. They can interoperate with these circuits.”"
 https://semiengineering.com/is-ucie-really-universal/"
 
+https://semiengineering.com/chiplets-more-standards-needed/ "Analog data is often digitized with a specific bit width. This is based on the signal and application and, in many cases, is not a multiple of 8 bits. Current standards, however, work on the basis of multiples of 8 bits. Obviously, bit padding can be used to make the data in the protocols conform to the standard, yet such space-filling bits do not contain any information, which means that a large portion of the data transfer rate is wasted. By implication, then, further standards must be created for applications in the field of heterogeneous integration, or existing standards must be extended to cover these kinds of specifically analog interfaces."
+
 https://www.opencompute.org/documents/bow-specification-v2-0d-1-pdf
 
 https://eps.ieee.org/images/files/TC_The_Bunch_of_Wires_rev3.pdf
