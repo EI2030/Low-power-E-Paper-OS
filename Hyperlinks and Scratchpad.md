@@ -380,6 +380,12 @@ https://www.amorphyx.com/
 https://archive.ph/20120913223847/http://www.mobile-phone-directory.org/Glossary/T/TFD.html
 https://download.epson-europe.com/pub/electronics-de/ld/d%20tfd%20brochure.pdf
 
+https://www.youtube.com/watch?v=psYJGW7u7Sc Nokia 232 (1994)
+
+ https://learn.adafruit.com/nokia-5110-3310-monochrome-lcd?view=all (discontinued)
+
+ https://en.wikipedia.org/wiki/Nokia_101_%281992%29 2 line text 
+
 2.7" runs 180uW at 6.5fps:
 https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
 https://www.j-display.com/english/product/reflective.html 
@@ -396,6 +402,7 @@ https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 https://www.wsj.com/tech/personal-tech/what-if-you-never-had-to-charge-your-gadgets-again-955ea960
 https://www.onio.com/products/onio-zero.html
+
 
 
 Harvesters (an inexhaustive list):
