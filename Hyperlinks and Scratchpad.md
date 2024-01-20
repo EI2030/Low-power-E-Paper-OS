@@ -720,7 +720,24 @@ Now the measuring and counting can be done in one step, and adding both ingredie
 
 Of course, RISC had some downsides. Without the variable instruction length trick central to CISC instruction sets, programs took up much more memory. The chip also required twice as many transistors for two complete processor cores, which meant it took up twice as much space on the silicon wafer, which made it twice as expensive to manufacture. And RISC programs had to have their instructions in the right order to take full advantage of the second processor core, which required more advanced program development tools that weren't available when the first generation of RISC chips hit the market. But like all optimizations, the trade-off was considered worth it if you could execute two instructions per clock cycle, even part of the time."
 
-https://www.opencompute.org/documents/bow-specification-v2-0d-1-pdf
+https://www.opencompute.org/documents/bow-specification-v2-0d-1-pdf : 
+
+"6.5.3. Link Controller
+There shall be a Link Controller (LC) outside the PHY. This will manage initialization of the Link.
+It may reside on one of the chiplets of the link, in a third chiplet in the package or outside the
+package.
+Communication from the Link Controller across chiplets shall be by a transport mechanism
+outside the BoW link. This could be a serial link like SPI or I2C, but this is not specified at this
+time.
+Link initialization is described in Section 14. Clocks are described in 10.2." (p.16)
+
+14. Reset and Initialization
+14.1. External Facilities
+These facilities must be provided outside the PHY:
+• A Link Controller (LC) which will manage initialization of the Link. It may reside on one of
+the chiplets of the Link, in a third chiplet in the package or outside the package.
+• A communication path from the Link Controller to the PHY slices outside the BoW link.
+This could be a serial link like SPI or I2C, but this is not specified at this time." (p.42)  
 
 https://eps.ieee.org/images/files/TC_The_Bunch_of_Wires_rev3.pdf
 
