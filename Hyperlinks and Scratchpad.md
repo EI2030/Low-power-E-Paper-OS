@@ -802,12 +802,26 @@ https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-consol
 
 https://www.bhoite.com/sculptures/ble-satellite/ features:
 
-Seeed Studio’s XIAO nRF52840 dev board. https://www.amazon.com/Seeed-Studio-XIAO-nRF52840-Sense/dp/B09T9VVQG7 
+Seeed Studio’s XIAO nRF52840 dev board. https://www.amazon.com/Seeed-Studio-XIAO-nRF52840-Sense/dp/B09T9VVQG7 (includes battery charger BQ25101)
 Eaton 50F, 3.8V hybrid supercapacitor https://www.digikey.com/en/products/detail/eaton-electronics-division/HSL1020-3R8506-R/12179232
 SM141K04LV solar cells x 2 (IXYSYS/Anysolar) https://www.digikey.com/en/products/detail/anysolar-ltd/SM141K04LV/9990461
 LCD module 1x4 i2C https://www.ebay.com/itm/284843842249
 
+----
+Energy harvesters
+----
 
+https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery/ (AEM10941)
+
+https://e-peas.com/product/aem10941/
+
+https://www.st.com/en/power-management/spv1050.html 
+
+https://www.ti.com/product/BQ25101 (battery charger only)
+
+https://www.adafruit.com/product/4755 (bq24074)
+
+https://www.ti.com/product/BQ25570?
 
 ----
 ISA
