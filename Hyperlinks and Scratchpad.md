@@ -423,6 +423,8 @@ https://www.adafruit.com/product/4755 (bq24074)
 
 https://www.ti.com/product/BQ25570
 
+https://www.ti.com/product/BQ25185
+
 ---
 Multi-Source Harvesters (an inexhaustive list):
 ---
