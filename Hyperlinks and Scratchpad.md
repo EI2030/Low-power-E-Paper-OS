@@ -488,15 +488,28 @@ https://ethw.org/Oral-History:Gary_Boone
 Li-ion capacitors:
 -----
 https://en.wikipedia.org/wiki/Lithium-ion_capacitor
+
 https://www.mdpi.com/1420-3049/27/10/3119
+
 https://www.sciencedirect.com/science/article/abs/pii/S2468606917302873?via%3Dihub
+
 https://www.farnell.com/datasheets/3816250.pdf
+
 https://www.tindie.com/products/jaspersikken/solar-harvesting-into-lithium-ion-capacitor/
+
 https://hackaday.io/project/178177-solar-harvesting-into-lithium-ion-capacitor/log/203869-leakage-current-of-lithium-ion-capacitors-vs-supercapacitors
+
 https://www.digikey.nl/en/products/detail/eaton-electronics-division/HS1016-3R8306-R/12179237
+
 https://www.digikey.com/en/blog/lithium-ion-capacitors-can-help-you-provide-high-quality-power
+
 "While standard EDLCs typically discharge in about 30 seconds (s), LICs discharge over a few minutes; an important distinction in power quality solutions on the edge."
+
 https://www.youtube.com/watch?v=YwnfT665Ns8
+
+https://www.digikey.com/en/products/detail/eaton-electronics-division/HSL1020-3R8506-R/12179232 CAP LITH HYBRID 50F 20% 3.8V TH
+https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-supercapacitor-hybrid-cylindrical-cells-data-sheet.pdf
+
 **Looking for:** Microcontrollers
 E-paper display drivers
 
