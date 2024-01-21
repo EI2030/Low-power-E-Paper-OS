@@ -793,6 +793,8 @@ https://github.com/SapphireCircuits/Artemis-Plus-Hardware
 
 https://hackaday.io/page/21232-platos-ideal-world
 
+https://www.cambridgeconsultants.com/sites/default/files/2019-10/Chiplets%20-%20The%20path%20to%20IoT%20diversity.pdf
+
 https://gadgetversus.com/processor/texas-instruments-mad2wd1-specs/
 https://en.wikipedia.org/wiki/ARM7#ARM7TDMI
 https://www.silabs.com/mcu/32-bit-microcontrollers/efm32pg28-series-2
