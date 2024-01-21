@@ -397,15 +397,36 @@ https://www.youtube.com/watch?v=EKLBpOeX97c
 
 https://www.j-display.com/english/product/reflective.html
 
+
+---
 Solar Power Managers (integrated):
+---
+
 https://www.epishine.com/pr/joint-webinar-with-three-leading-actors scaled up to IXolar sizes: 
 https://www.digikey.com/en/products/detail/anysolar-ltd/SM262K10L/9990466
 https://www.wsj.com/tech/personal-tech/what-if-you-never-had-to-charge-your-gadgets-again-955ea960
 https://www.onio.com/products/onio-zero.html
 
+----
+Energy/Solar harvesters
+----
 
+https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery/ (AEM10941)
 
-Harvesters (an inexhaustive list):
+https://e-peas.com/product/aem10941/
+
+https://www.st.com/en/power-management/spv1050.html 
+
+https://www.ti.com/product/BQ25101 (battery charger only)
+
+https://www.adafruit.com/product/4755 (bq24074)
+
+https://www.ti.com/product/BQ25570
+
+---
+Multi-Source Harvesters (an inexhaustive list):
+---
+
 https://www.sony-semicon.com/en/news/2023/2023090701.html
 https://e-peas.com/
 https://news.utdallas.edu/science-technology/thermoelectric-generators-2020/
@@ -806,22 +827,6 @@ Seeed Studio’s XIAO nRF52840 dev board. https://www.amazon.com/Seeed-Studio-XI
 Eaton 50F, 3.8V hybrid supercapacitor https://www.digikey.com/en/products/detail/eaton-electronics-division/HSL1020-3R8506-R/12179232
 SM141K04LV solar cells x 2 (IXYSYS/Anysolar) https://www.digikey.com/en/products/detail/anysolar-ltd/SM141K04LV/9990461
 LCD module 1x4 i2C https://www.ebay.com/itm/284843842249
-
-----
-Energy harvesters
-----
-
-https://www.tindie.com/products/jaspersikken/solar-harvesting-into-li-ion-battery/ (AEM10941)
-
-https://e-peas.com/product/aem10941/
-
-https://www.st.com/en/power-management/spv1050.html 
-
-https://www.ti.com/product/BQ25101 (battery charger only)
-
-https://www.adafruit.com/product/4755 (bq24074)
-
-https://www.ti.com/product/BQ25570?
 
 ----
 ISA
