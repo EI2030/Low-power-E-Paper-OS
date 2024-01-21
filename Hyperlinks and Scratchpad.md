@@ -800,6 +800,15 @@ https://www.techradar.com/news/phone-and-communications/mobile-phones/why-our-ph
 
 https://www.techradar.com/features/the-quest-for-the-solar-powered-gaming-console
 
+https://www.bhoite.com/sculptures/ble-satellite/ features:
+
+Seeed Studio’s XIAO nRF52840 dev board. https://www.amazon.com/Seeed-Studio-XIAO-nRF52840-Sense/dp/B09T9VVQG7 
+Eaton 50F, 3.8V hybrid supercapacitor https://www.digikey.com/en/products/detail/eaton-electronics-division/HSL1020-3R8506-R/12179232
+SM141K04LV solar cells x 2 (IXYSYS/Anysolar) https://www.digikey.com/en/products/detail/anysolar-ltd/SM141K04LV/9990461
+LCD module 1x4 i2C https://www.ebay.com/itm/284843842249
+
+
+
 ----
 ISA
 ----
