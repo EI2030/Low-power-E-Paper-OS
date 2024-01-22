@@ -220,9 +220,16 @@ Near threshold voltage CPU speeds = RAM speeds
 ---
 Can Infinity Fabric be applied to the Low End?
 ---
+
+"It's worth noting that all SDF components run at the DRAM's MEMCLK frequency."
+
+"As with everything else that is attached to the SDF, the CAKEs operate at DRAM’s MEMCLK frequency in order to eliminate clock-domain crossing latency."
+
 https://en.wikichip.org/wiki/amd/infinity_fabric
 
 "Infinity Fabric (IF) is a proprietary system interconnect architecture that facilitates data and control transmission across all linked components. This architecture is utilized by AMD's recent microarchitectures for both CPU (i.e., Zen) and graphics (e.g., Vega), and any other additional accelerators they might add in the future. The fabric was first announced and detailed in April 2017 by Mark Papermaster, AMD's SVP and CTO."
+
+
 
 Proposed BoW update (low-clock speed variant): https://github.com/opencomputeproject/ODSA-BoW/pull/144/commits/5c268c24003a1e0f73a6a9e7c95952851fbf0b60
 
