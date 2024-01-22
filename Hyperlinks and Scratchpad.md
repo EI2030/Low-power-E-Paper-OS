@@ -252,7 +252,7 @@ Proposed BoW update (low-clock speed variant): https://github.com/opencomputepro
 
 | BoW-1/8 | 128             | 8            | 3.906  
 
-Could 16Mb DRAM run at the same speed as a near-threshold processor (50Mhz, etc)?
+Can 16Mb or 64Mb DRAM run at the same speed as a near-threshold processor (50Mhz, etc)?
 
 https://www.vogons.org/viewtopic.php?t=79632&start=20 (not DDR):
 
