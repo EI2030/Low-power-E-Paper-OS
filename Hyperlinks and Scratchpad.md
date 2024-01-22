@@ -601,6 +601,8 @@ https://www.farnell.com/datasheets/3816250.pdf
 
 https://www.tindie.com/products/jaspersikken/solar-harvesting-into-lithium-ion-capacitor/
 
+https://www.sciencedirect.com/science/article/abs/pii/S2352152X19300210 
+
 https://hackaday.io/project/178177-solar-harvesting-into-lithium-ion-capacitor/log/203869-leakage-current-of-lithium-ion-capacitors-vs-supercapacitors
 
 https://www.digikey.nl/en/products/detail/eaton-electronics-division/HS1016-3R8306-R/12179237
