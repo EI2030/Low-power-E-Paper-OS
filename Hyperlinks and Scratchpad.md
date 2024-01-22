@@ -184,6 +184,20 @@ https://en.wikipedia.org/wiki/Execute_in_place
 https://www.embeddedcomputing.com/technology/storage/execute-in-place-xip-an-external-flash-architecture-ideal-for-the-code-and-performance-requirements-of-edge-iot-and-ai
 of which Apollo3 has 64MB-96MB of aperture:
 
+https://en.wikipedia.org/wiki/DDR_SDRAM#History 
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/d84fa78e-09e4-40f1-9d6d-2a030e67f1b8)
+
+
+A Samsung DDR SDRAM 64 Mbit chip
+In the late 1980s IBM had built DRAMs using a dual-edge clocking feature and presented their results at the International Solid-State Circuits Convention in 1990.[6][7]
+
+Samsung demonstrated the first DDR memory prototype in 1997,[1] and released the first commercial DDR SDRAM chip (64 Mbit) in June 1998,[8][2][3] followed soon after by Hyundai Electronics (now SK Hynix) the same year.[9] The development of DDR began in 1996, before its specification was finalized by JEDEC in June 2000 (JESD79).[10] JEDEC has set standards for the data rates of DDR SDRAM, divided into two parts. The first specification is for memory chips, and the second is for memory modules. The first retail PC motherboard using DDR SDRAM was released in August 2000.[11]
+
+Larger size:
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SAMSUNG%40DDR-SDRAM%4064MBit%40K4D62323HA-QC60_Stack-DSC03491-DSC03518_-_ZS-DMap.jpg/220px-SAMSUNG%40DDR-SDRAM%4064MBit%40K4D62323HA-QC60_Stack-DSC03491-DSC03518_-_ZS-DMap.jpg 
+
+ 
 
 CPU and background:
 ----
