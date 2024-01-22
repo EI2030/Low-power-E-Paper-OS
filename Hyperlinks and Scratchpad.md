@@ -200,6 +200,13 @@ Larger size:
 
 https://koreajoongangdaily.joins.com/2003/01/04/economy/Samsung-Electronics-Superfast-16M-DDR-SGRAMs-available/1869671.html 
 
+https://ieeexplore.ieee.org/document/62132/ 
+
+Abstract:
+"A high-speed 16-Mb DRAM chip with on-chip error-correcting code (ECC), which supports either 11/11 or 12/0 RAS/CAS addressing and operates on a 3.3- or 5-V power supply, is described. It can be packaged as a 2-Mb*8, 4-Mb*4, 8-Mb*2, or 16-Mb*1 DRAM, And is capable of operating in fast page mode, static column mode, or toggle mode. Speed and flexibility are achieved by a pipeline layout and on-chip SRAMs that buffer entire ECC words. The use of redundant word and bit lines in conjunction with the ECC produces a synergistic fault-tolerance effect.< >
+Published in: IEEE Journal of Solid-State Circuits ( Volume: 25, Issue: 5, October 1990)"
+Page(s): 1118 - 1128 DOI: 10.1109/4.62132
+
 CPU and background:
 ----
 NTV & STV:
