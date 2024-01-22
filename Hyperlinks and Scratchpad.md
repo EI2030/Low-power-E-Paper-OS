@@ -174,6 +174,10 @@ Since most sites have a folder of scripts to download when saving a cached page,
 ---
 RAM:
 ---
+
+https://www.design-reuse.com/news/55554/itri-tsmc-sot-mram.html
+"The SOT-MRAM array chip showcases innovative computing in memory architecture and boasts a power consumption of merely one percent of an STT-MRAM product."
+
 https://www.apmemory.com/products/psram-iot-ram/ (Density is 2MB-32MB in QSPI & OPI)
 
 https://www.eejournal.com/industry_news/ambiq-and-ap-memory-partner-to-enable-richer-experiences-in-intelligent-endpoints/
