@@ -197,7 +197,8 @@ Samsung demonstrated the first DDR memory prototype in 1997,[1] and released the
 Larger size:
 [https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SAMSUNG%40DDR-SDRAM%4064MBit%40K4D62323HA-QC60_Stack-DSC03491-DSC03518_-_ZS-DMap.jpg/220px-SAMSUNG%40DDR-SDRAM%4064MBit%40K4D62323HA-QC60_Stack-DSC03491-DSC03518_-_ZS-DMap.jpg 
 ](https://en.wikipedia.org/wiki/DDR_SDRAM#/media/File:SAMSUNG@DDR-SDRAM@64MBit@K4D62323HA-QC60_Stack-DSC03491-DSC03518_-_ZS-DMap.jpg)
- 
+
+https://koreajoongangdaily.joins.com/2003/01/04/economy/Samsung-Electronics-Superfast-16M-DDR-SGRAMs-available/1869671.html 
 
 CPU and background:
 ----
