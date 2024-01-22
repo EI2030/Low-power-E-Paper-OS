@@ -201,6 +201,10 @@ Larger size:
 
 https://koreajoongangdaily.joins.com/2003/01/04/economy/Samsung-Electronics-Superfast-16M-DDR-SGRAMs-available/1869671.html 
 
+"Samsung Electronics Co. now has commercial samples available for the 16M Double Data Rate Synchronous Graphics Random Access Memory (DDR SGRAM) chip, which is receiving attention as a next-generation, super-fast graphics memory device, the company announced on September 16.
+The samples are being shipped to makers of dedicated graphics controllers.
+According to the company, this product supports graphic images at up to 286Mbps, twice the speed of the regular 16M SGRAM."
+
 https://ieeexplore.ieee.org/document/62132/ 
 
 Abstract:
