@@ -214,6 +214,20 @@ Page(s): 1118 - 1128 DOI: 10.1109/4.62132
 
 Using the SGRAM rate, could deliver 35.75Mbps per single 2Mb DDR chip
 
+Maximum frame buffer using least overhead? Perhaps https://en.wikipedia.org/wiki/Linux_framebuffer 
+
+On an STM32F7-Discovery microcontroller: 
+
+"The screen is 480x272, so if we want to use a 4-byte pixel format, it will need about 512KB of RAM. Our chip has 320kB RAM, so we have to use external RAM. On the other hand, we can use the 16 bits per pixel format, so less than 256KB of RAM is required, and therefore we can try to use the internal RAM."
+
+https://alexkalmuk.medium.com/a-little-about-graphics-subsystem-internals-on-microcontrollers-d952cfd0966a 
+
+Who needs 32bit? The [MIP is 8 color](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/lineup_from_draft_rev3_jdi_gr_mip_reflective_color_lcd_and_standard_products_20180219-3.pdf) (1bit SRAM per pixel)
+
+https://www.adafruit.com/product/4694 Adafruit 2.7" 400x240 SHARP Memory Display Breakout- "The display is 'write only' which means that it only needs 3 pins to send data. However, the downside of a write-only display is that the entire 400x240 bits (13.5 KB) must be buffered by the microcontroller driver. That means you cannot use this with an ATmega328 (e.g. Arduino UNO) or ATmega32u4 (Feather 32u4, etc). You must use a high-RAM chip such as ATSAMD21 (Feather M0), Teensy, ESP8266, ESP32, etc. On those chips, this display works great and looks fantastic."
+
+54KB Video RAM could produce quite a large resolution - 1600x960 at 1 bit-write only. Read and write might need double, or more. Add in a couple bytes and could still be less than 2Mb DDR chip.  
+
 AMD's :
 https://en.wikichip.org/wiki/amd/infinity_fabric
 The DRAM is attached to the DDR4 interface which is attached to the Unified Memory Controller (UMC). There are two Unified Memory Controllers (UMC) for each of the DDR channels which are also directly connected to the SDF. It's worth noting that all SDF components run at the DRAM's MEMCLK frequency. For example, a system using DDR4-2133 would have the entire SDF plane operating at 1066 MHz. This is a fundamental design choice made by AMD in order to eliminate clock-domain latency.
