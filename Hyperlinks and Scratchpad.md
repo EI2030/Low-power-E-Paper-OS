@@ -212,6 +212,8 @@ Abstract:
 Published in: IEEE Journal of Solid-State Circuits ( Volume: 25, Issue: 5, October 1990)"
 Page(s): 1118 - 1128 DOI: 10.1109/4.62132
 
+Using the SGRAM rate, could deliver 35.75Mbps per single 2Mb DDR chip
+
 AMD's :
 https://en.wikichip.org/wiki/amd/infinity_fabric
 The DRAM is attached to the DDR4 interface which is attached to the Unified Memory Controller (UMC). There are two Unified Memory Controllers (UMC) for each of the DDR channels which are also directly connected to the SDF. It's worth noting that all SDF components run at the DRAM's MEMCLK frequency. For example, a system using DDR4-2133 would have the entire SDF plane operating at 1066 MHz. This is a fundamental design choice made by AMD in order to eliminate clock-domain latency.
