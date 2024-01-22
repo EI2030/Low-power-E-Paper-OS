@@ -207,6 +207,51 @@ Abstract:
 Published in: IEEE Journal of Solid-State Circuits ( Volume: 25, Issue: 5, October 1990)"
 Page(s): 1118 - 1128 DOI: 10.1109/4.62132
 
+AMD's :
+https://en.wikichip.org/wiki/amd/infinity_fabric
+The DRAM is attached to the DDR4 interface which is attached to the Unified Memory Controller (UMC). There are two Unified Memory Controllers (UMC) for each of the DDR channels which are also directly connected to the SDF. It's worth noting that all SDF components run at the DRAM's MEMCLK frequency. For example, a system using DDR4-2133 would have the entire SDF plane operating at 1066 MHz. This is a fundamental design choice made by AMD in order to eliminate clock-domain latency.
+
+CAKE
+The workhorse mechanism that interfaces between the SDF and the various SerDes that link both multiple dies together and multiple chips together is the CAKE. The Coherent AMD socKet Extender (CAKE) module encodes local SDF requests onto 128-bit serialized packets each cycle and ships them over any SerDes interface. Responses are also decoded by the CAKE back to the SDF. As with everything else that is attached to the SDF, the CAKEs operate at DRAM’s MEMCLK frequency in order to eliminate clock-domain crossing latency.
+
+---
+Near threshold voltage CPU speeds = RAM speeds
+--
+---
+Can Infinity Fabric be applied to the Low End?
+---
+https://en.wikichip.org/wiki/amd/infinity_fabric
+
+"Infinity Fabric (IF) is a proprietary system interconnect architecture that facilitates data and control transmission across all linked components. This architecture is utilized by AMD's recent microarchitectures for both CPU (i.e., Zen) and graphics (e.g., Vega), and any other additional accelerators they might add in the future. The fabric was first announced and detailed in April 2017 by Mark Papermaster, AMD's SVP and CTO."
+
+Proposed BoW update (low-clock speed variant): https://github.com/opencomputeproject/ODSA-BoW/pull/144/commits/5c268c24003a1e0f73a6a9e7c95952851fbf0b60
+
+|         | Mbps            | Mbps/wire     | KHz   |
+
++:-------:+:---------------:+:-------------:+:-----:+
+
+| BoW-1/64| 16              | 1            | 488 
+
+| BoW-1/32| 32              | 2            | 976    |
+
++:-------:+:---------------:+:-------------:+:-----:+
+
+|         | Mbps            | Mbps/wire    | MHz    |
+
+| BoW-1/16| 64              | 4            | 1.953  |
+
+| BoW-1/8 | 128             | 8            | 3.906  
+
+Could 16Mb DRAM run at the same speed as a near-threshold processor (50Mhz, etc)?
+
+https://www.vogons.org/viewtopic.php?t=79632&start=20 (not DDR):
+
+"4 x 1MB = 4MB, 45ns, FPM, Simm-30 Memory Modules are now available.
+
+I also managed to beat my 386 overclocking record with 0WS at 51.2MHz."
+
+Early 90s RAM had speeds around 30-50Mhz.
+
 CPU and background:
 ----
 NTV & STV:
