@@ -887,6 +887,16 @@ https://www.youtube.com/watch?v=Wd5qMSnN7OE
 
 https://www.youtube.com/watch?v=R1wyyfm2Mhk
 
+https://www.opencompute.org/documents/ocp-odsa-cdx-proposed-standardization-of-chiplet-models-for-heterogeneous-integration-2-pdf 
+
+https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/7eaf2db90859c46249e70e403357e7a78bf93c51.png
+
+https://www.opencompute.org/documents/odsa-diport-controller-v0-8-16-sep-22-1-pdf 
+
+https://github.com/opencomputeproject/ODSA-CDXML/blob/main/CDXML.pptx https://en.wikipedia.org/wiki/JEDEC_memory_standards
+
+https://www.opencompute.org/documents/transaction-and-link-layer-specification-for-bunch-of-wires-bow-interfaces-pdf-pdf
+
 https://www.bcanalog.com/solutions-technology/ 
 
 https://apexsemi.com/partners/#ipp
