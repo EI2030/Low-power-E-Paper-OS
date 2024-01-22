@@ -226,6 +226,9 @@ https://en.wikichip.org/wiki/amd/infinity_fabric
 
 Proposed BoW update (low-clock speed variant): https://github.com/opencomputeproject/ODSA-BoW/pull/144/commits/5c268c24003a1e0f73a6a9e7c95952851fbf0b60
 
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e4c83507-701e-476c-b3f9-eb1bd873f763)
+
+
 |         | Mbps            | Mbps/wire     | KHz   |
 
 +:-------:+:---------------:+:-------------:+:-----:+
