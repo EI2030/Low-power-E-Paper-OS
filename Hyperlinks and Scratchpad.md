@@ -895,6 +895,13 @@ https://www.opencompute.org/documents/odsa-diport-controller-v0-8-16-sep-22-1-pd
 
 https://github.com/opencomputeproject/ODSA-CDXML/blob/main/CDXML.pptx https://en.wikipedia.org/wiki/JEDEC_memory_standards
 
+https://web.archive.org/web/20061002004407/http://www.jedec.org/download/search/JESD79E.pdf
+ master
+
+https://github.com/EI2030/Low-power-E-Paper-OS/commit/63be078a84b45702b58b2bcfafff2477b13ab851
+
+https://github.com/EI2030/Low-power-E-Paper-OS/commit/c08cdeaec5a710d6adf3db0fb8fa6a7a13d1a6e6  
+
 https://www.opencompute.org/documents/transaction-and-link-layer-specification-for-bunch-of-wires-bow-interfaces-pdf-pdf
 
 https://www.bcanalog.com/solutions-technology/ 
