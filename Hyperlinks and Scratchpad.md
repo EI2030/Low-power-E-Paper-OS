@@ -304,6 +304,8 @@ https://www.theregister.com/2012/02/19/intel_isscc_ntv_digital_radio/
 https://www.engadget.com/2011-09-15-intel-reveals-claremont-near-threshold-voltage-processor-othe.html 
 https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
 
+https://www.movellus.com/product-overview/aeonic-connect/
+
 Neuromorphic:
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
 https://arxiv.org/abs/2104.13983
@@ -423,6 +425,8 @@ https://www.youtube.com/watch?v=Ed8uQYT39dM
 https://efabless.com/
 
 https://www.ihp-solutions.com/services
+
+https://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/ 
 
 --------------------------------------------------
 
@@ -907,6 +911,8 @@ https://www.opencompute.org/documents/transaction-and-link-layer-specification-f
 https://www.bcanalog.com/solutions-technology/ 
 
 https://apexsemi.com/partners/#ipp
+
+https://moschip.com/semiconductor/semiconductor-ip/digital-ip/
 
 https://www.kickstarter.com/projects/davewy/artemis-plus-low-power-ai-ml-processing-platform-and-dev-kit
 
