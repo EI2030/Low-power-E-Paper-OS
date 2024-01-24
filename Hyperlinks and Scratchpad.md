@@ -310,9 +310,7 @@ Neuromorphic:
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
 https://arxiv.org/abs/2104.13983
 
-uClinux
-https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
-https://bootlin.com/doc/legacy/uclinux/uclinux_introduction.pdf
+
 
 Super-H/J-Core (runs uClinux)
 https://j-core.org/
@@ -642,9 +640,17 @@ https://en.wikipedia.org/wiki/Slackware
 
 https://unix.stackexchange.com/questions/127869/a-linux-distribution-under-8mb-ram
 
+http://micheleandreoli.org/public/Software/mulinux/
+
 https://fdlinux.com/about.php
 
 https://www.asashi.net/pages/pitux.html
+
+https://www.giannone.ch/rescue/current/
+
+https://lwn.net/Articles/28940/ https://sourceforge.net/projects/blueflops/
+
+https://en.wikipedia.org/wiki/Tomsrtbt https://www.linux.com/news/little-linux-distribution-could-tomsrtbt/
 
 https://github.com/t2age/RPS/tree/master/64MB-model
 
@@ -655,6 +661,10 @@ https://sourceware.org/bugzilla/show_bug.cgi?id=22831
 various software packages- old versions from early 90s:https://www.mirrorservice.org/sites/sources.redhat.com/pub/?C=M;O=A
 
 https://mirrors.slackware.com/slackware/slackware-1.01/a1/
+
+uClinux
+https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
+https://bootlin.com/doc/legacy/uclinux/uclinux_introduction.pdf
 
 
 https://news.ycombinator.com/item?id=26857669
