@@ -640,6 +640,12 @@ https://www.youtube.com/watch?v=5DBPuZHWEXc
 https://mirrors.slackware.com/slackware/slackware-1.1.2/ mirror  of slackware files.
 https://en.wikipedia.org/wiki/Slackware
 
+https://unix.stackexchange.com/questions/127869/a-linux-distribution-under-8mb-ram
+
+https://fdlinux.com/about.php
+
+https://www.asashi.net/pages/pitux.html
+
 https://github.com/t2age/RPS/tree/master/64MB-model
 
 Also on Linux <1.0: binutils 1.94
