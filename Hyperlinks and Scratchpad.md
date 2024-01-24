@@ -406,8 +406,6 @@ RISC-V history (& ARM developments)
 https://thechipletter.substack.com/p/risc-v-part-1-origins-and-architecture
 https://www.semianalysis.com/p/arm-and-a-leg-arms-quest-to-extract
 
----
-
 https://theopenroadproject.org/
 https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts/blob/master/README.md
 "OpenROAD Flow is a full RTL-to-GDS flow built entirely on open-source tools. The project aims for automated, no-human-in-the-loop digital circuit design with 24-hour turnaround time."
@@ -427,6 +425,15 @@ https://efabless.com/
 https://www.ihp-solutions.com/services
 
 https://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/ 
+28HPC+	A25 (WITH DSP, FPU), 28HPC+
+
+Frequency (MHz)		1000
+
+Dynamic power (uW/MHz)	20 
+
+https://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/
+
+https://semiengineering.com/risc-v-wants-all-your-cores/
 
 --------------------------------------------------
 
