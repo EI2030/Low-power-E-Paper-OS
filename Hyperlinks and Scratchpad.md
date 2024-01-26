@@ -1131,6 +1131,12 @@ https://github.com/TheNeuronProject/ef.qt
 DOS + GUISs
 ----
 
+http://www.fabglib.org/ https://github.com/fdivitto/fabgl
+
+https://www.youtube.com/watch?v=Tr2yMjrgP8o  IBM PC on ESP32 with FabGL - Part VI (Linux ELKS)
+https://www.youtube.com/watch?v=84ytGdiOih0&t=103s
+
+
 https://github.com/jhhoward/MicroWeb in 640K RAM!
 
 https://github.com/Microsoft/MS-DOS (fully open source on Github since 2018)
