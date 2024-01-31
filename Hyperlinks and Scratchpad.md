@@ -470,6 +470,8 @@ Displays:
 http://www.koe.j-display.com/index.php?option=product&task=showpage&cur=1&id=251
 https://github.com/Gbertaz/JDI_MIP_Display
 
+https://www.youtube.com/watch?v=I0KTnVChezE 
+
 https://www.adafruit.com/product/4694 ("The display is 'write only' which means that it only needs 3 pins to send data." This product in 6 or 8" would be an excellent netbook if it had read pins as well
 
 https://www.data-modul.com/en/products/distribution/displays/display-technologies/memory-pixel-technology (up to 6")
@@ -1342,3 +1344,5 @@ https://www.goodreads.com/work/quotes/878739-you-can-t-be-neutral-on-a-moving-tr
 What the Fork: A Study of Inefficient and Efficient
 Forking Practices in Social Coding 
 https://cmustrudel.github.io/papers/fse19forks.pdf
+
+Not related, but an early LCD: https://www.youtube.com/watch?v=eGQQWIbD-nM&t=0s
