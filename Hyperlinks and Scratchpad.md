@@ -433,6 +433,10 @@ https://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-ba
 
 https://semiengineering.com/risc-v-wants-all-your-cores/
 
+https://hackaday.com/2023/05/18/an-entire-risc-v-operating-system-in-2000-lines/ 
+
+https://github.com/yhzhang0128/egos-2000
+
 --------------------------------------------------
 
 https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
@@ -706,6 +710,8 @@ https://wiki.minix3.org/doku.php?id=developersguide:portingnetbsduserland
 https://www.youtube.com/watch?v=86_BkFsb4eI&t=1s
 https://groups.google.com/g/alt.os.development/c/9qXsgge4b6w
 https://en.wikipedia.org/wiki/A_Commentary_on_the_UNIX_Operating_System
+
+https://groups.google.com/g/minix3/c/hcPVNNrEWnM
 
 https://github.com/vvaltchev/tilck
 
