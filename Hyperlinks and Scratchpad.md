@@ -853,7 +853,7 @@ https://github.com/tock/tock/pull/1857
 https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 
 ---
-PCB Design:
+PCB & Chip Design:
 ---
 
 https://opencomputeproject.github.io/ODSA-BoW/bow_specification.html
@@ -1002,6 +1002,19 @@ Seeed Studio’s XIAO nRF52840 dev board. https://www.amazon.com/Seeed-Studio-XI
 Eaton 50F, 3.8V hybrid supercapacitor https://www.digikey.com/en/products/detail/eaton-electronics-division/HSL1020-3R8506-R/12179232
 SM141K04LV solar cells x 2 (IXYSYS/Anysolar) https://www.digikey.com/en/products/detail/anysolar-ltd/SM141K04LV/9990461
 LCD module 1x4 i2C https://www.ebay.com/itm/284843842249
+
+https://en.wikipedia.org/wiki/ARM9#cite_note-5
+https://www.allaboutcircuits.com/news/teardown-tuesday-graphing-calculator/
+
+https://en.wikipedia.org/wiki/List_of_ARM_processors
+
+https://www.eetimes.com/cambridge-calling-the-rise-of-the-arm-clones/
+
+https://opencores.org/
+
+https://forums.nesdev.org/viewtopic.php?t=14417
+
+https://www.reddit.com/r/hardware/comments/uqnv20/what_stops_us_from_designing_an_x86_cpu_from/ 
 
 ----
 ISA
