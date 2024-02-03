@@ -392,6 +392,7 @@ https://www.vortex86.com/
 https://en.wikipedia.org/wiki/Vortex86
 
 https://opencores.org/projects/amber
+https://opencores.org/projects/storm_core
 
 https://www.reddit.com/r/todayilearned/comments/a23p5i/til_intels_patent_on_the_original_486_cpu_expired/
 
