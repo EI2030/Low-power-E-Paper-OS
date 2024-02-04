@@ -556,6 +556,10 @@ https://www.ti.com/tool/TIDA-00246
 Wireless Modems:
 ----
 
+https://www.eenewseurope.com/en/neocortec-and-mikroe-make-wireless-mesh-networking-simple/
+
+https://neocortec.com/products-2/the-neocortec-nc1000-8-wireless-mesh-network-module/
+
 https://dl.acm.org/doi/10.1145/3628353.3628546
 
 https://www.everythingrf.com/news/details/17193-qorvo-introduces-new-cellular-iot-transmit-module-for-nb-iot1-2-and-lte-cat-m1-2-operation
