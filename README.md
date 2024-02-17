@@ -57,6 +57,16 @@ https://en.wikipedia.org/wiki/Melvin_Kranzberg#Kranzberg's_laws_of_technology
 
 http://pantaneto.co.uk/the-decline-of-unfettered-research-andrew-odlyzko/
 
+https://en.wikipedia.org/wiki/The_Logic_of_Collective_Action
+
+https://en.wikipedia.org/wiki/Collective_action_problem
+
+"A collective action problem or social dilemma is a situation in which all individuals would be better off cooperating but fail to do so because of conflicting interests between individuals that discourage joint action.[1][2][3] The collective action problem has been addressed in political philosophy for centuries, but was most clearly established in 1965 in Mancur Olson's The Logic of Collective Action.
+
+Problems arise when too many group members choose to pursue individual profit and immediate satisfaction rather than behave in the group's best long-term interests."
+
+"David Hume provided another early and better-known interpretation of what is now called the collective action problem in his 1738 book A Treatise of Human Nature. Hume characterizes a collective action problem through his depiction of neighbors agreeing to drain a meadow"
+
 -----
 History on Marketing for Apple
 -----
