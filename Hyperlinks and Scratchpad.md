@@ -515,6 +515,9 @@ https://www.youtube.com/watch?v=EKLBpOeX97c
 
 https://www.j-display.com/english/product/reflective.html
 
+https://eazeye.com/
+https://www.youtube.com/watch?v=m7wlQYMt9Vk
+
 
 ---
 Solar Power Managers (integrated):
@@ -1096,6 +1099,12 @@ https://tiny.wiki.kernel.org/use_cases
 https://youtu.be/mysM-V5h9z8?t=1913 (Zephyr & modular linux)
 
 https://www.coreboot.org/
+
+---
+Audio
+----
+
+https://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html (not low-power specific, but helpful for quality considerations)
 
 ---
 Similar projects/ of interest:
