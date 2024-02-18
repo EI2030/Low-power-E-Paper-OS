@@ -390,15 +390,51 @@ Vortex DX / MX - vortex86dx.com, vortex86mx.com"
 https://www.vortex86.com/
 
 https://en.wikipedia.org/wiki/Vortex86
-
-https://opencores.org/projects/amber
-https://opencores.org/projects/storm_core
-
 https://www.reddit.com/r/todayilearned/comments/a23p5i/til_intels_patent_on_the_original_486_cpu_expired/
 
 https://www.allaboutcircuits.com/news/are-designers-still-using-the-vortex86-old-cpu-ces-2018/
 
 https://www.icop.com.tw/article/205 
+
+---
+SkyWater ideas
+---
+
+https://opencores.org/projects/amber
+
+https://opencores.org/projects/storm_core
+
+https://en.wikipedia.org/wiki/ARM_architecture_family#ARM2 
+
+@
+https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source-program-to-new-90nm-technology.html 
+
+https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
+
+ARM2aS	ARMv2a	ARM250	Integrated MEMC (MMU), graphics and I/O processor. ARMv2a added the SWP and SWPB (swap) instructions	None, MEMC1a		
+ARM3	First integrated memory cache	4 KB unified	0.50 DMIPS/MHz 
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/57370646-6bd8-46eb-89b1-a3a3ba545abe)
+
+using DVS+Body Bias Control
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/6048c8a9-3995-42cf-bf09-de48844b4260)
+
+https://www.micromagic.com/news/icicdt04final.pdf 
+
+https://www.cs.umd.edu/~meesh/cmsc411/website/proj01/arm/history.html
+
+https://websrv.cecs.uci.edu/~papers/mpr/MPR/ARTICLES/061404.pdf
+
+[https://en.wikipedia.org/wiki/Acorn_Archimedes
+](https://en.wikipedia.org/wiki/Acorn_Archimedes#A5000_and_A4_laptop )
+https://www.nostalgianerd.com/acorn-archimedes-a3010-review/
+
+https://www.flickr.com/photos/acb/4715965538/in/photostream/
+
+https://www.flickr.com/photos/acb/4715963490/in/photostream/
+
+"Just as the processor could be slowed down to save power, so the 12 MHz RAM could be slowed to 3 MHz, with various subsystems also being switched off as appropriate, and with power saving being activated after "more than a second or so" of user inactivity. "
+
 
 RISC-V history (& ARM developments)
 ----
