@@ -1,3 +1,5 @@
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/0247543a-be5f-4724-aee7-3244f2dd9ad3)
+
 ---
 Origins of this Project - to my best recollection (and occasionally updated, as recently done here)
 ---
