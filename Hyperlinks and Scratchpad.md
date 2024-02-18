@@ -411,6 +411,10 @@ https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source
 
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
 
+https://en.wikipedia.org/wiki/Dynamic_logic_(digital_electronics)#Static_versus_dynamic_logic
+
+"In particular, although many popular CPUs use dynamic logic,[citation needed] only static cores—CPUs designed with fully static technology—are usable in space satellites owing to their higher radiation hardness.[7][better source needed]"
+
 ARM2aS	ARMv2a	ARM250	Integrated MEMC (MMU), graphics and I/O processor. ARMv2a added the SWP and SWPB (swap) instructions	None, MEMC1a		
 ARM3	First integrated memory cache	4 KB unified	0.50 DMIPS/MHz 
 
@@ -423,7 +427,21 @@ https://www.micromagic.com/news/icicdt04final.pdf
 
 https://www.cs.umd.edu/~meesh/cmsc411/website/proj01/arm/history.html
 
-https://websrv.cecs.uci.edu/~papers/mpr/MPR/ARTICLES/061404.pdf
+https://websrv.cecs.uci.edu/~papers/mpr/MPR/ARTICLES/061404.pdf "Unlike the ARM610, the ARM250 has been qualified for operation at 3V. The newer chip uses about 21
+mW per MHz at 5V, or 250 mW at 12 MHz. When
+throttled down to 3V, power consumption goes down to a
+miserly 90 mW. Although much of the chip is fully static,
+portions of the IOEB are not, limiting the ability to save
+power by reducing the clock speed.
+This low power consumption is primarily due to the
+minimal transistor count. The CPU core requires just
+over 29,000 transistors, and the entire ARM250 uses
+less than 100,000. The chip is built in a conservative 1.0-
+micron CMOS process with two layers of metal. The die
+(see Figure 3) is just 58 mm2. The ARM250 uses a 160-
+pin Japanese PQFP (PJQFP)."
+
+https://heyrick.eu/assembler/32bit.html
 
 [https://en.wikipedia.org/wiki/Acorn_Archimedes
 ](https://en.wikipedia.org/wiki/Acorn_Archimedes#A5000_and_A4_laptop )
@@ -435,6 +453,16 @@ https://www.flickr.com/photos/acb/4715963490/in/photostream/
 
 "Just as the processor could be slowed down to save power, so the 12 MHz RAM could be slowed to 3 MHz, with various subsystems also being switched off as appropriate, and with power saving being activated after "more than a second or so" of user inactivity. "
 
+https://en.wikipedia.org/wiki/Static_core
+https://www.semanticscholar.org/topic/Static-core/409338
+
+http://www.riscos.com/support/developers/asm/cpu.html
+http://www.riscos.com/support/developers/prm/armhw.html
+
+https://www.abortretry.fail/p/mips-for-the-masses
+https://everything2.com/title/ARM3
+
+http://ouc.ai/zhenghaiyong/courses/dsd/20122/materials/Brief_History_of_ARM-LeeSmith.pdf
 
 RISC-V history (& ARM developments)
 ----
