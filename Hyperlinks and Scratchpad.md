@@ -411,6 +411,10 @@ https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source
 
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
 
+https://efabless.com/tinytapeout 
+
+https://store.efabless.com/products/tiny-tapeout-project
+
 https://en.wikipedia.org/wiki/Dynamic_logic_(digital_electronics)#Static_versus_dynamic_logic
 
 "In particular, although many popular CPUs use dynamic logic,[citation needed] only static cores—CPUs designed with fully static technology—are usable in space satellites owing to their higher radiation hardness.[7][better source needed]"
