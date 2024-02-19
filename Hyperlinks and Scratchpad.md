@@ -1168,6 +1168,8 @@ https://youtu.be/mysM-V5h9z8?t=1913 (Zephyr & modular linux)
 
 https://www.coreboot.org/
 
+https://leanrada.com/htmz/ a low power tool for html
+
 ---
 Audio
 ----
