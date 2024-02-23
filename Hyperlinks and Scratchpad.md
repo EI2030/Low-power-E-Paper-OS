@@ -511,7 +511,24 @@ https://github.com/yhzhang0128/egos-2000
 
 --------------------------------------------------
 
+Foundry
+--
+
+https://semiwiki.com/events/342309-intel-direct-connect-event/ 
+
+"It was interesting to see Arm’s CEO Rene Haas on stage with Intel’s CEO Pat Gelsinger. Arm was described as Intel’s most important business partner, and it was noted that 80% of parts run at TSMC have Arm cores. In my view this shows how seriously Intel is taking foundry, in the past it was unthinkable for Intel to run Arm IP."
+
+This is analogous to Apple in the 90s  licensing Microsoft Office and offering support for Microsoft products, as the latter supporting iTunes and realizing they could make more business as partners: https://www.youtube.com/watch?v=wvhW8cp15tk
+
+----
+ULL
+---
+
 https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_22nm
+
+https://ambiq.com/blog/arm-enables-the-lowest-power-iot-devices-with-new-ambiq-apollo4-soc-on-tsmc-22nm-ulp-and-ull-libraries/
+
+https://ambiq.com/blog/a-painless-upgrade-to-22nm-the-right-cost-with-the-available-ip/
 
 "The Apollo3 Blue Plus adds two additional MSPI modules (3 total), and increases the external memory execute-in-place (XiP) aperture from 64MB to 96MB (32MB/ MSPI instance). Additionally, internal flash increases from IMB to 2MB, SRAM from 384KB to 768KB (TCM size remains at 64KB) and the GPIO count increases from 50 to 74."
 https://www.top-electronics.com/en/apollo3-blue-plus-mcu-768kb-108pin-bga
