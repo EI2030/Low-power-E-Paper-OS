@@ -291,7 +291,7 @@ CPU and background:
 ----
 NTV & STV:
 ---
-
+https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/
 https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
 https://courses.grainger.illinois.edu/cs598jt/fa2019/reading_list/5a.pdf
 https://ieeexplore.ieee.org/document/4586001
@@ -303,6 +303,7 @@ https://www.eetimes.com/arm-preps-near-threshold-processor-for-iot/#
 https://www.theregister.com/2012/02/19/intel_isscc_ntv_digital_radio/
 https://www.engadget.com/2011-09-15-intel-reveals-claremont-near-threshold-voltage-processor-othe.html 
 https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
+
 
 https://www.movellus.com/product-overview/aeonic-connect/
 
