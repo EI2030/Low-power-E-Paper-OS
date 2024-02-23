@@ -175,6 +175,8 @@ Since most sites have a folder of scripts to download when saving a cached page,
 RAM:
 ---
 
+https://semiengineering.com/sram-scaling-issues-and-what-comes-next/
+
 https://www.design-reuse.com/news/55554/itri-tsmc-sot-mram.html
 "The SOT-MRAM array chip showcases innovative computing in memory architecture and boasts a power consumption of merely one percent of an STT-MRAM product."
 
