@@ -241,6 +241,10 @@ The DRAM is attached to the DDR4 interface which is attached to the Unified Memo
 CAKE
 The workhorse mechanism that interfaces between the SDF and the various SerDes that link both multiple dies together and multiple chips together is the CAKE. The Coherent AMD socKet Extender (CAKE) module encodes local SDF requests onto 128-bit serialized packets each cycle and ships them over any SerDes interface. Responses are also decoded by the CAKE back to the SDF. As with everything else that is attached to the SDF, the CAKEs operate at DRAM’s MEMCLK frequency in order to eliminate clock-domain crossing latency.
 
+https://escholarship.org/uc/item/99f6q9c9 "A 64 kb Differential Single-Port 12T SRAM Design with a Bit-Interleaving Scheme for LowVoltage Operation in 32 nm SOI CMOS" (2016)
+
+https://escholarship.org/content/qt7vx9n089/qt7vx9n089_noSplash_cfc4ba479d8eb1b6ec25d7c92357bc18.pdf "STATISTICAL MODELING OF SRAMS" 2022
+
 ---
 Near threshold voltage CPU speeds = RAM speeds
 --
