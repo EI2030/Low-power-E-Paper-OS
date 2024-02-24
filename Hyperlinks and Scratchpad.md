@@ -297,6 +297,8 @@ CPU and background:
 ----
 NTV & STV:
 ---
+https://nanopowersemi.com/subthreshold-ic-design-a-powerful-way-to-redefine-low-power
+https://www.eenewseurope.com/en/epishine-adds-nanopower-to-power-indoor-solar-cell/
 https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/
 https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
 https://courses.grainger.illinois.edu/cs598jt/fa2019/reading_list/5a.pdf
