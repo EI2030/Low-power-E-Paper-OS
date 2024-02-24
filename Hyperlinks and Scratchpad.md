@@ -959,6 +959,32 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB & Chip Design:
 ---
 
+https://sourceforge.net/projects/mmi-pd/ from a Slack thread:
+
+" 3 years ago
+TIL that Micro Magic (micromagic.com) SUE EDA tools have been open sourced: https://sourceforge.net/projects/mmi-pd  
+This is the tool they used to make a 5 GHz RISC-V.
+
+SourceForgeSourceForge
+MMI Software Tools Public Domain Version
+Download MMI Software Tools Public Domain Version for free. IC CAD tools, documentation, scripts, and libraries for designing high-performance ICs, including SUE for schematics, MAX for layouts, DPC for datapaths and MCC for megacells. Prebuilt binaries for Linux, Sparc-Solaris, and HP-PA."
+
+3 years ago
+"the source release tarball on sourceforge is from 2004
+:sob:
+1
+
+  3 years ago
+At least they have:
+"Prebuilt binaries for Linux, Sparc-Solaris, and HP-PA."
+I hate having to build on Solaris and HPUX. :zany_face:
+
+  3 years ago
+I tried to rebuid , (prebuilt binaries are for 32 bit, my system is 64 bit linux), however the distribution is really old, there are even pre-ANSI C files...so there are lot of edits to be done...
+
+  3 years ago
+I looked into it, but I think even pulling out a 2004's vintage 32-bit Linux, this would be very challenging.  There's no documentation on how to build it (just incoherent bits and pieces) and there's a lot of interdependencies. After a few hours it seemed unlikely that the 20+ year old code base would be valuable enough to merit this pain (and TCL should be wiped from all known universe). (edited) "
+
 https://opencomputeproject.github.io/ODSA-BoW/bow_specification.html
 
 "" In your implementation you have to enable low-frequency operation so you can interoperate with devices that, by the nature of the process node, cannot go to 60 megabit per second. Some things need to stay at low data rates. They can interoperate with these circuits.”"
