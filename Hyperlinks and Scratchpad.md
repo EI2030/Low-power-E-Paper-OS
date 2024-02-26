@@ -297,6 +297,10 @@ CPU and background:
 ----
 NTV & STV:
 ---
+
+https://cmosedu.com/cmos1/BSIM4_manual.pdf (3.1-3.2) Channel Charge and
+Subthreshold Swing Models
+
 https://nanopowersemi.com/subthreshold-ic-design-a-powerful-way-to-redefine-low-power
 https://www.eenewseurope.com/en/epishine-adds-nanopower-to-power-indoor-solar-cell/
 https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/
