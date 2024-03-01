@@ -657,6 +657,8 @@ https://www.ti.com/tool/TIDA-00246
 Wireless Modems:
 ----
 
+https://www.eenewseurope.com/en/ultra-low-power-bluetooth-core-for-hearables/
+
 https://www.eenewseurope.com/en/lpwa-soc-for-lte-m-nb-iot-commercially-available/ Quectel BG950S-GL LPWA https://www.quectel.com/product/lpwa-bg950s-gl-cat-m1-nb2 https://altair.sony-semicon.com/ "It features cellular connected standby mode (eDRX) connectivity at a power consumption of below 3µA, and its overall power consumption performance achieves up to 10 times longer battery life compared to previous generations."
 https://www.tekmodul.de/wp-content/uploads/2022/02/Quectel_BG950A-GLBG951A-GL_LPWA_Specification_V1.2.pdf (A, not S)
 https://www.rcrwireless.com/20240222/internet-of-things-4/power-no-longer-a-concern-sony-hails-revolutionary-lte-m-nb-iot-soc 
