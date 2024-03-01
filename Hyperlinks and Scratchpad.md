@@ -1390,6 +1390,20 @@ https://news.mit.edu/2010/fuzzy-logic-0103
 Miscellaneous and unrelated links:
 --
 
+https://hackaday.io/project/195010-pocket-pad
+
+https://hackaday.com/2024/02/29/internet-of-production-alliance-wants-you-to-think-globally-make-locally/
+
+https://www.solarpunkpresents.com/season-four/the-radical-democratizing-power-of-a-better-way-to-make-things-with-sarah-hutton
+
+https://www.internetofproduction.org/electroniccomponents
+
+https://hackaday.com/2023/02/21/openstructures-is-a-modular-building-system-for-the-reprap-age/
+
+https://hackaday.com/2018/02/27/can-open-source-hardware-be-like-open-source-software/
+
+https://search.openknowhow.org/
+
 https://en.wikipedia.org/wiki/Graph_database
 https://github.com/franzinc
 https://franz.com/about/company.history.lhtml
