@@ -874,8 +874,20 @@ https://www.youtube.com/watch?v=RkeaQNU8EtA Mac OS X Developer Preview 1 & 2 (19
 
 https://www.devuan.org/
 https://en.wikipedia.org/wiki/Devuan
+https://git.devuan.org/devuan/amprolla3
 https://www.reddit.com/r/linuxquestions/comments/11a3law/is_there_a_good_reason_to_use_devuan/
 https://wiki.archlinux.org/title/Systemd/Journal#Journald_in_conjunction_with_syslog
+https://fossbytes.com/devuan-beowulf-3-0-0-released-a-gnulinux-debian-without-systemd/
+https://www.pcworld.com/article/436680/meet-devuan-the-debian-fork-born-from-a-bitter-systemd-revolt.html
+https://news.softpedia.com/news/Fork-Debian-Project-Announces-the-Systemd-less-OS-Devuan-466178.shtml
+https://web.archive.org/web/20141203145909/http://www.theregister.co.uk/2014/12/01/ttsystemdtt_row_ends_with_debian_getting_forked/
+
+https://distrowatch.com/table.php?distribution=star
+https://sourceforge.net/projects/linnix/
+https://en.wikipedia.org/wiki/Peppermint_OS
+
+https://distrowatch.com/table.php?distribution=exe
+https://web.archive.org/web/20160112142830/https://devuan.org/pics/devuan-ci-graph.png
 
 ----
 Plan 9 and related Resources
