@@ -107,6 +107,7 @@ https://en.wikipedia.org/wiki/APNG
 JXL
 https://en.wikipedia.org/wiki/JPEG_XL
 https://shkspr.mobi/blog/wp-content/uploads/2024/01/1.jxl
+https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front
 
 QOI:
 https://qoiformat.org/
