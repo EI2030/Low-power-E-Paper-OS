@@ -1391,6 +1391,8 @@ https://news.mit.edu/2010/fuzzy-logic-0103
 Miscellaneous and unrelated links:
 --
 
+https://spectrum.ieee.org/history-of-power-grid
+
 https://hackaday.io/project/195010-pocket-pad
 
 https://hackaday.com/2024/02/29/internet-of-production-alliance-wants-you-to-think-globally-make-locally/
