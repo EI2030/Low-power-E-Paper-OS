@@ -886,7 +886,8 @@ https://distrowatch.com/table.php?distribution=star
 https://sourceforge.net/projects/linnix/
 https://en.wikipedia.org/wiki/Peppermint_OS
 
-https://distrowatch.com/table.php?distribution=exe
+https://distrowatch.com/table.php?distribution=exe https://exegnulinux.net/
+
 https://web.archive.org/web/20160112142830/https://devuan.org/pics/devuan-ci-graph.png
 
 ----
