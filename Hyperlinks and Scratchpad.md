@@ -872,6 +872,10 @@ https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
 
 https://www.youtube.com/watch?v=RkeaQNU8EtA Mac OS X Developer Preview 1 & 2 (1999-2000)
 
+https://www.devuan.org/
+https://en.wikipedia.org/wiki/Devuan
+https://www.reddit.com/r/linuxquestions/comments/11a3law/is_there_a_good_reason_to_use_devuan/
+https://wiki.archlinux.org/title/Systemd/Journal#Journald_in_conjunction_with_syslog
 
 ----
 Plan 9 and related Resources
