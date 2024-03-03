@@ -1414,6 +1414,8 @@ https://news.mit.edu/2010/fuzzy-logic-0103
 Miscellaneous and unrelated links:
 --
 
+https://youtu.be/WE3R29_6XKw CP/M-65 port to the Olimex neo6502. impractical but nonetheless interesting, like the fuzix port.
+
 https://spectrum.ieee.org/history-of-power-grid
 
 https://hackaday.io/project/195010-pocket-pad
