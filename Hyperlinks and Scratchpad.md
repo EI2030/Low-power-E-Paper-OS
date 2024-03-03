@@ -894,6 +894,8 @@ https://distrowatch.com/table.php?distribution=exe https://exegnulinux.net/
 
 https://web.archive.org/web/20160112142830/https://devuan.org/pics/devuan-ci-graph.png
 
+https://github.com/hatonthecat/linux_distro_tests/blob/main/README.md#devuan-daedalus-50
+
 ----
 Plan 9 and related Resources
 ----
