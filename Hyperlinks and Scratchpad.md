@@ -872,6 +872,10 @@ https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
 
 https://www.youtube.com/watch?v=RkeaQNU8EtA Mac OS X Developer Preview 1 & 2 (1999-2000)
 
+
+Devuan
+--
+
 https://www.devuan.org/
 https://en.wikipedia.org/wiki/Devuan
 https://git.devuan.org/devuan/amprolla3
