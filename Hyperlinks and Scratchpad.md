@@ -886,6 +886,10 @@ https://www.pcworld.com/article/436680/meet-devuan-the-debian-fork-born-from-a-b
 https://news.softpedia.com/news/Fork-Debian-Project-Announces-the-Systemd-less-OS-Devuan-466178.shtml
 https://web.archive.org/web/20141203145909/http://www.theregister.co.uk/2014/12/01/ttsystemdtt_row_ends_with_debian_getting_forked/
 
+https://nosystemd.org/
+
+https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=All&netinstall=All&language=All&defaultinit=Not+systemd&status=Active#simple
+
 https://distrowatch.com/table.php?distribution=star
 https://sourceforge.net/projects/linnix/
 https://en.wikipedia.org/wiki/Peppermint_OS
