@@ -379,3 +379,7 @@ Ambiq Update, March 2023 (p.10)
 ---
 A newsletter at Substack has a great piece on the early days of Xerox PARC, called ChipLetter:
 https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc Part of it is paywalled, but there is substantial content, including a reference to LA Times writer Michael Hiltzik in his 1999 book, "The Dealers of Lightning". Written just 1 year before the dot com bubble burst, a biography on a company with such unfettered access to frank employee interviews today would be highly unusual, as brands have many more trade secrets to protect in an ultra-competitive market. Nonetheless, the book reads with a much more activist tone than the fluff today in the Wirecutter section of the NYT. https://en.wikipedia.org/wiki/PARC_(company)#The_GUI  
+
+3-4-2024
+
+https://albertcory50.substack.com/p/bring-back-private-offices An interesting story on the myth of open (collaboration) spaces. Covers Xerox  and Bell Labs offices. 
