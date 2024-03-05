@@ -900,6 +900,22 @@ https://web.archive.org/web/20160112142830/https://devuan.org/pics/devuan-ci-gra
 
 https://github.com/hatonthecat/linux_distro_tests/blob/main/README.md#devuan-daedalus-50
 
+https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=Under+100MB&netinstall=All&language=All&defaultinit=Not+systemd&status=All#simple (active+inactive distros less than 100MB):
+
+https://distrowatch.com/weekly.php?issue=20170327#minimal
+https://distrowatch.com/table.php?distribution=nanolinux
+
+https://distrowatch.com/table.php?distribution=ipcop
+
+https://distrowatch.com/index.php?distribution=4mlinux
+
+http://www.tinycorelinux.net/13.x/x86_64/release/
+
+https://distrowatch.com/table.php?distribution=reactos
+
+https://sourceforge.net/projects/reactos/ 
+
+
 ----
 Plan 9 and related Resources
 ----
