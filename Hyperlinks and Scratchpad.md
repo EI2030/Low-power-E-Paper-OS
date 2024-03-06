@@ -754,6 +754,16 @@ E-paper display drivers
 RTOS/Linux/Legacy OS development:
 ----
 
+https://github.com/sarah-walker-pcem/pcem/?tab=readme-ov-file#386-based
+https://casadevall.pro/articles/2020/06/softlanding-linux-system-1.0.5/
+
+https://www.ventoy.net/en/index.html
+
+https://copy.sh/v86/?profile=elks
+
+https://www.linux-distros.com/category/1993/
+
+
 https://distrowatch.com/search.php?ostype=All&category=All&origin=All&basedon=All&notbasedon=None&desktop=All&architecture=All&package=All&rolling=All&isosize=Under+250MB&netinstall=All&language=All&defaultinit=All&status=All#simple (linux distros under 250MB) 
 
 New DSL, released February 2024, <700MB https://www.damnsmalllinux.org/
