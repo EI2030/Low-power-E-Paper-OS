@@ -756,6 +756,8 @@ RTOS/Linux/Legacy OS development:
 
 https://github.com/ivandavidov/minimal?tab=readme-ov-file#related-projects 
 
+https://distrowatch.com/weekly.php?issue=20170327#minimal "I found MLL generally used approximately 10MB to 40MB of RAM when no extra programs or services were running."
+
 https://gist.github.com/ravecat/63a0d49014b6187bebc68cf855d55a83
 
 http://www.prognosticlab.org/pisces/
