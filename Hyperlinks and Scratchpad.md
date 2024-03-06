@@ -754,6 +754,10 @@ E-paper display drivers
 RTOS/Linux/Legacy OS development:
 ----
 
+https://github.com/ivandavidov/minimal?tab=readme-ov-file#related-projects 
+
+https://gist.github.com/ravecat/63a0d49014b6187bebc68cf855d55a83
+
 Slackware 1.1.2 on 3MB RAM (1994) w/ TCP/IP support  running at 40Mhz on a 386SX (Linux kernel 0.99.15)
 
 https://www.youtube.com/watch?v=5DBPuZHWEXc
