@@ -1241,6 +1241,8 @@ https://wow.groq.com/wp-content/uploads/2020/06/ISCA-TSP.pdf when old architectu
 
 https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Comparison_to_CPUs_and_GPUs (Efficiencies in TPUs, while improved, do not necessitate the transition from Harvard/modified Harvard architecture to TSP or Domain Specific Architectures for every task. In other words, the utility of "general purpose" architecture still has utility for as long as Moore's law allows the Harvard architecture to be economically feasible in certain energy scarce applications- ones "too cheap to matter" (similar to an 1954 Atomic Energy Commission saying by Lewis Strauss, and a 2008 Wired artticle) https://www.mimiran.com/not-free-why-0-00-is-not-the-future-of-business/  
 
+If I were to price computer architectures as a commodity- radiation hardening and EMI protection would have more intrinsic value than computation per joule in a microeconomy where energy is not scarce but susceptible to EMI. 
+
 https://en.wikipedia.org/wiki/SuperH#J_Core
 
 https://lwn.net/Articles/647636/
