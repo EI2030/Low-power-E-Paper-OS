@@ -172,6 +172,12 @@ Saving a webpage often takes far longer than the number of bytes per second as d
 https://superuser.com/questions/1745770/saving-webpages-on-chrome-takes-longer-than-expected-and-downloaded-filesize-is
 Since most sites have a folder of scripts to download when saving a cached page, the page will download much slower than an advertised ISP's speeds (in the tens/hundreds or Gbps). Having a faster harddrive (such as PCI-e Gen3 or Gen4) will help with the 4KQD1 random write speeds for the small script files it needs to save the page to disk, but a far simpler solution would be for the page to minimize its scripts needed to display, at least for a non-Javascript version. Thus static site generators, or very simplified dynamic site generators can fit the bill far better when designed well. https://github.com/gohugoio/hugo
 
+64K demoscene
+---
+https://www.youtube.com/watch?v=QqHTwtXvYW4
+
+https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
+
 ---
 RAM:
 ---
