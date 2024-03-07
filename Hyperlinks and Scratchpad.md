@@ -29,6 +29,15 @@ https://github.com/kragen/dernocua/blob/master/intro.md
 
 http://canonical.org/~kragen/dernocua/dernocua-020211231.pdf 
 
+Another aspect of system design is whether a program/OS uses more resources than needed:
+
+
+http://www.catb.org/jargon/html/H/hog.html
+
+http://www.catb.org/jargon/html/E/elephantine.html
+
+http://www.catb.org/jargon/html/M/monstrosity.html
+
 The current issue here is that there is not much demand right now. However, as more research and development goes into products that can easily be recharged by solar, the demand to avoid long charging cycles for app-hungry phones will increase. Instead of waiting for an application processor to be released using NTV, it may be more practical to port linux to the Ambiq Apollo4, which uses  Sub-threshold Power Optimized Technology: https://www.electronicdesign.com/technologies/microcontrollers/article/21800524/subthreshold-cortexm4f-design-sips-less-power-than-cortexm3 With the Apollo4 being released Q2 2021, Ambiq has lowered uA/mhz from 30uA/mhz in the Apollo1 to 3uA/mhz in the Apollo4. Furthermore, Sparkfun's Artemis boards which use the Apollo3 running 6uA/mhz, use so little power than I was able to solar power the LED for an Adafruit boost charger, along with the Red and blue power LEDs on the Artemis.
 
 Furthermore, the definition of "high-tech" and "low-tech" is due for a re-examination: https://en.wikipedia.org/wiki/High_tech This subject will be examined more in detail in a future analysis. 
@@ -1471,6 +1480,8 @@ https://news.mit.edu/2010/fuzzy-logic-0103
 
 Miscellaneous and unrelated links:
 --
+
+http://www.catb.org/jargon/html/overgeneralization.html 
 
 https://youtu.be/WE3R29_6XKw CP/M-65 port to the Olimex neo6502. impractical but nonetheless interesting, like the fuzix port.
 
