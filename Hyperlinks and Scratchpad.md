@@ -1258,7 +1258,7 @@ https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Comparison_to_CPUs_and_GPUs
 
 If I were to price computer architectures as a commodity- radiation hardening and EMI protection would have more intrinsic value than computation per joule in a microeconomy where energy is not scarce but susceptible to EMI. 
 
-That comparison, as well as pegging von-Neumann architectures to a commodity like gold, is obviously not historically continuous. EMI protection was not needed in agrarian economies, nor in Rennaissance Europe. Likewise, the cost of compute in the 20th century was not a linear scale from electromechanical machines (such as a Zuse Z3) was more pegged to the cost of raw materials that weighed much more, but were not as mass produced nor as exotic as the number of materials in an EUV machine by ASML and Zeiss. However, to examine the continuation of "FLOPs" from the vacuum tube era to today is not entirely discontinuous or inaccurate:
+That comparison, as well as pegging von-Neumann architectures to a commodity like gold, is obviously not historically continuous. EMI protection was not needed in agrarian economies, nor in Rennaissance Europe. Likewise, the cost of compute in the 20th century was not a linear scale from electromechanical machines (such as a Zuse Z3) that were temporarily more pegged to the cost of raw materials that weighed much more, but were not as mass produced nor as exotic as the number of materials in an EUV machine by ASML and Zeiss. However, to examine the continuation of "FLOPs" from the vacuum tube era to today is not entirely discontinuous or inaccurate:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/48f9a3b8-b2ff-4bf0-bfde-9e838d3205e1)
 
