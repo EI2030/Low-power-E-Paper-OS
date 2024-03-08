@@ -1487,6 +1487,8 @@ https://news.mit.edu/2010/fuzzy-logic-0103
 Miscellaneous and unrelated links:
 --
 
+https://youtu.be/3EPTfOTC4Jw?t=885 Double-precision floating point in video games (an excellent demonstration of a glitch in aligning flippers in Space Cadet Pinball and boxes in Minecraft, pre-64 bit patch) 
+
 http://www.catb.org/jargon/html/overgeneralization.html 
 
 https://youtu.be/WE3R29_6XKw CP/M-65 port to the Olimex neo6502. impractical but nonetheless interesting, like the fuzix port.
