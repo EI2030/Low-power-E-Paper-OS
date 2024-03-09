@@ -193,11 +193,15 @@ RAM:
 
 https://www.eenewseurope.com/en/surecore-optimises-ai-memory-ip-for-low-power/
 
-https://www.sure-core.com/new-wp/wp-content/uploads/2022/05/PowerMiser.pdf
+https://www.sure-core.com/new-wp/wp-content/uploads/2022/05/PowerMiser.pdf 22 ULL
 
 https://www.sure-core.com/new-wp/wp-content/uploads/2022/05/EverOn.pdf
 
 https://www.eenewseurope.com/en/ultra-low-power-memory-ip-optimised-for-ai/
+
+https://www.eenewseurope.com/en/ceo-interview-paul-wells-of-surecore-on-low-power-memory-and-china/
+
+https://www.eenewseurope.com/en/surecore-takes-sram-below-0-5v-for-the-first-time/
 
 https://semiengineering.com/sram-scaling-issues-and-what-comes-next/
 
