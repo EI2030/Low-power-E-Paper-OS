@@ -191,6 +191,14 @@ https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 RAM:
 ---
 
+https://www.eenewseurope.com/en/surecore-optimises-ai-memory-ip-for-low-power/
+
+https://www.sure-core.com/new-wp/wp-content/uploads/2022/05/PowerMiser.pdf
+
+https://www.sure-core.com/new-wp/wp-content/uploads/2022/05/EverOn.pdf
+
+https://www.eenewseurope.com/en/ultra-low-power-memory-ip-optimised-for-ai/
+
 https://semiengineering.com/sram-scaling-issues-and-what-comes-next/
 
 https://www.design-reuse.com/news/55554/itri-tsmc-sot-mram.html
