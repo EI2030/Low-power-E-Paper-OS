@@ -1264,6 +1264,28 @@ https://en.wikipedia.org/wiki/Von_Neumann_architecture#Von_Neumann_bottleneck
 
 https://en.wikipedia.org/wiki/Harvard_architecture
 
+Von Neumann architecture is [not dead yet](https://youtu.be/DnBtoOAhba4?t=23), but:
+
+"Today’s computers are horribly inefficient. The dominant “von Neumann” processor design wastes 99% of energy. This inefficiency is, unfortunately, baked deeply into their design. In von Neumann processors, programs are expressed as a sequence of simple instructions, but running programs in a simple sequence is unacceptably slow. Improving performance requires complex hardware to find instructions that can safely run in parallel.
+
+Improving efficiency requires a fundamental rethinking of how we design computers. Others have approached this problem by restricting programs, i.e., limiting the processor to only run programs where parallelism is easy to find. These restrictions let designers simplify and specialize the hardware. While this approach improves efficiency, it gives up on general-purpose programmability, which is a huge problem. Generality is efficiency: any part of a program that runs inefficiently quickly limits energy-efficiency of the entire system. Moreover, these specialized processors ignore software, which is where the real value lies in computing.
+
+A new approach to computer design
+At Efficient, we are taking a different approach. Going back to the original research at Carnegie Mellon University with Graham and Nathan, we embraced the value of software, and have sought from the outset a general-purpose, post-von Neumann processor design that is easy to program and also extremely energy-efficient.
+
+Our approach spans hardware and software, which is the only path to efficiency. Instead of executing a series of instructions like von Neumann designs, our architecture expresses programs as a “circuit” of instructions that shows which instructions talk to each other. This model lets us lay out the circuit spatially across an array of extremely simple processors and execute the program in parallel, with much simpler hardware (and thus less energy!) than any existing processor."
+
+from:
+https://efficient.computer/blog/efficient-computer-raises-16m-to-solve-computings-energy-problem
+
+The takeaway is that while there are a lot of new architectures out there, one not need to rely on post-Von Newmann architecture for everything if efficiency improvements allow for it, using conventional CMOS. Waiting 10 years to ship a project is sometimes less impactful than optimizing an old architecture to deliver improved gains. Similar to how DUV operates at 193nm
+
+https://www.newport.com/n/deep-uv-photolithography
+
+
+
+https://g-ram.github.io/files/gobieski_thesis.pdf
+
 https://wow.groq.com/wp-content/uploads/2020/06/ISCA-TSP.pdf when old architectures do not make economic sense: https://artificialanalysis.ai/ ( https://www.youtube.com/watch?v=WQDMKTEgQnY)
 
 https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Comparison_to_CPUs_and_GPUs (Efficiencies in TPUs, while improved, do not necessitate the transition from Harvard/modified Harvard architecture to TSP or Domain Specific Architectures for every task. In other words, the utility of "general purpose" architecture still has utility for as long as Moore's law allows the Harvard architecture to be economically feasible in certain energy scarce applications- ones "too cheap to matter" (similar to an 1954 Atomic Energy Commission saying by Lewis Strauss, and a 2008 Wired artticle) https://www.mimiran.com/not-free-why-0-00-is-not-the-future-of-business/  
