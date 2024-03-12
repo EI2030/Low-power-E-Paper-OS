@@ -1278,7 +1278,7 @@ Our approach spans hardware and software, which is the only path to efficiency. 
 from:
 https://efficient.computer/blog/efficient-computer-raises-16m-to-solve-computings-energy-problem
 
-The takeaway is that while there are a lot of new architectures out there, one not need to rely on post-Von Newmann architecture for everything if efficiency improvements allow for it, using conventional CMOS. Waiting 10 years to ship a project is sometimes less impactful than optimizing an old architecture to deliver improved gains. Similar to how DUV operates at 193nm
+The takeaway is that while there are a lot of new architectures out there, one not need to rely on post-Von Neumann architecture for everything if efficiency improvements allow for it, using conventional CMOS. Waiting 10 years to ship a project is sometimes less impactful than optimizing an old architecture to deliver improved gains. Similar to how DUV operates at 193nm
 
 https://www.newport.com/n/deep-uv-photolithography
 
