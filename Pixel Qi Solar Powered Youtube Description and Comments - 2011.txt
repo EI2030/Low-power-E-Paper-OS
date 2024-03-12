@@ -1,0 +1,169 @@
+Pixel Qi solar powered
+
+https://www.youtube.com/watch?v=EbL3-1vB73c
+
+Charbax
+101K subscribers
+
+Join
+
+Subscribe
+
+53
+
+
+Share
+
+Download
+
+Thanks
+
+Save
+
+22,648 views  Jun 3, 2011
+A quite small modern solar panel can produce 1W of power, enough to power both the Pixel Qi and the whole ARM Powered tablet motherboard behind it. Think for a second how amazing this is. They can put solar panels on the bezel  and the Tablet could basically be fully solar powered, have a bigger solar panel on the back of the tablet if you want to just charge it and not use it. This compact 1W Solar panel is $3. OLPC could be using this for the upcoming OLPC XO-1.75 Laptop and the XO-3 tablet.
+
+Solar Worth It?
+solar-estimate.org/Calculator
+Calculate
+Sponsored ·
+2:47
+solar-estimate.org/calculator
+2
+
+
+0:03 / 2:50
+
+
+Pixel Qi solar powered
+
+Charbax
+101K subscribers
+
+Join
+
+Subscribe
+
+53
+
+
+Share
+
+Download
+
+Thanks
+
+Save
+
+22,648 views  Jun 3, 2011
+A quite small modern solar panel can produce 1W of power, enough to power both the Pixel Qi and the whole ARM Powered tablet motherboard behind it. Think for a second how amazing this is. They can put solar panels on the bezel  and the Tablet could basically be fully solar powered, have a bigger solar panel on the back of the tablet if you want to just charge it and not use it. This compact 1W Solar panel is $3. OLPC could be using this for the upcoming OLPC XO-1.75 Laptop and the XO-3 tablet.
+Transcript
+Follow along using the transcript.
+
+
+Show transcript
+
+Charbax
+101K subscribers
+Videos
+About
+
+Twitter
+10 Comments
+lakesandponds
+Add a comment...
+@malkdk
+@malkdk
+12 years ago
+1W total power consumption is really impressive. I know a Freescale i.MX51-based system that uses ~3.5W (1.2GHz A8) (Efika MX Smartbook) not counting the screen. so getting this down to 1W is really an accomplishment.
+
+1
+
+
+Reply
+
+@abaeran
+@abaeran
+12 years ago
+lovelovelove! I can't wait to see more things like this on the market. :)
+
+1
+
+
+Reply
+
+@imachynn
+@imachynn
+12 years ago
+You could use perhaphs translucent photovoltaics underneath the screen. Instead of competing with the sun like the LCD other lit displays do, one would harness the energy of the sun.
+
+1
+
+
+Reply
+
+@frantahouska
+@frantahouska
+11 years ago
+thats the point of qi or kindle dispaly. sunshine does not disturb the screen at all! 
+
+1
+
+
+Reply
+
+@depro9
+@depro9
+12 years ago
+very cool stuff!
+
+1
+
+
+Reply
+
+@razorgarf
+@razorgarf
+12 years ago
+Let's get solar on our roofs now.
+
+
+
+Reply
+
+@imachynn
+@imachynn
+12 years ago
+Finally
+
+
+
+Reply
+
+@HispanicImpression
+@HispanicImpression
+11 years ago
+Can you give me one striking argument, why not all smartphones and tablets have this integrated ? I mean, battery is the problem no. 1 for these devices and that's just the perfect solution - green, endless battery life, for free.
+
+
+
+Reply
+
+@frantahouska
+@frantahouska
+11 years ago
+can you browse internet or send email on your book?
+
+1
+
+
+Reply
+
+@jadaro2600
+@jadaro2600
+12 years ago
+Leaving the screen in the sun is a bad idea, ...putting it on the rear is an option - how many of us actually see what's on the screen in full sunlight - or even spend time reading in the sun for that matter.
+
+
+
+Reply
