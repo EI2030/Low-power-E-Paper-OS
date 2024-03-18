@@ -28,6 +28,30 @@ Also, half the kids in the world don’t have electricity at home. Half the kids
 
 Yes, it might be just a trickle, a low-bandwidth connection from the Internet to the laptop, but between the laptops is a high-bandwidth connection through the mesh network. We use 802.11s, which is the standard for mesh. The standard isn’t actually complete, but we will be compatible with it when it’s completed. We’ve had to make it up as we go along, so we’re a little ahead of that. There’s truly so little power in the developing world. If a school is wired, it tends to be on a generator, and there’s one 60-watt light bulb per classroom. Generators make really weird power. Usually what comes out of the wall in most countries is 50 or 60 hertz, or somewhere in between. With generators, the frequency of the AC power can go down to 35 hertz. We therefore had to do really interesting power conditioning on the AC adapter. The laptop itself can take between negative 32 volts to 40 volts, and work well with anything from 11 to 18 volts. You can plug a car battery into it. You can plug a solar panel into it."
 
+In early-2023, I recall listening to a audio interview with Richard Barbook https://www.youtube.com/watch?v=KyoxwUmQBns. Being quite wired to the maker community in the past 15 years, I did not really pay much attention to the political differences of Silicon Valley's origin and European constitutions:
+
+"Unlike its American equivalent, the French revolution went beyond economic liberalism
+to popular democracy. Following the victory of the Jacobins over their liberal opponents
+in 1792, the democratic republic in France became the embodiment of the ‘General Will’.
+As such, the state was believed to defend the interests of all citizens, rather than just to
+protect the rights of individual property-owners. The discourse of French politics allows
+for collective action by the state to mitigate – or even remove – problems encountered by
+society. While the Californian Ideologues try to ignore the taxpayers’ dollars subsidising
+the development of hypermedia, the French government can openly intervene in this sector of the economy.46
+
+Although its technology is now increasingly dated, the history of Minitel clearly refutes the
+anti-statist prejudices of the Californian Ideologues – and of the Bangemann committee.
+The digital future will be a hybrid of state intervention, capitalist entrepreneurship and
+DIY culture. Crucially, if the state can foster the development of hypermedia, conscious
+action could also be taken to prevent the emergence of the social apartheid between the
+‘information rich’ and the ‘information poor’. By not leaving everything up to the vagaries
+of market forces, the EU and its member states could ensure that every citizen has the opportunity 
+to be connected to a broadband fibre-optic network at the lowest possible price."
+https://networkcultures.org/wp-content/uploads/2015/10/0585-INC_NN10-totaal-RGB.pdf
+
+
+It is within this context that I see an opportunity for solar powered mobile devices to become the 21st century equivalent of Minitel- a wireless, decentralized and distributed means to connect the information-poor economy.
+
 ---
 Why this project has not been funded for more than 3 years:
 ---
