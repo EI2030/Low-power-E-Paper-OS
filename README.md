@@ -6,8 +6,8 @@ Origins of this Project - to my best recollection (and occasionally updated, as 
 
 3/11/2024- Update to my previous "origin" story. In June 2011, Liliputing posted an [article](https://liliputing.com/pixel-qi-suggests-low-power-tablets-could-be-powered-by-1w-solar-panels/) titled, "Pixel Qi suggests low power tablets could be powered by 1W solar panels,"  where I [commented](https://liliputing.com/pixel-qi-suggests-low-power-tablets-could-be-powered-by-1w-solar-panels/#comment-218940429) on the original article. That link I posted was to a 6/2011 [TechCrunch article](https://techcrunch.com/2011/06/04/first-solar-powered-laptop/), documenting an Industrial designer, "[Andrea Ponti](https://www.andreaponti.com/index.html)'s Luce Solar Panel Powered PC." Luce in Italian means "Light." I don't claim to have been the first to have the idea for a solar powered laptop. I just want(ed) and (still) want the idea to come to fruition.
 
-I ~~first~~ later conceived of this project after ~~visiting and [reviewing](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/2011%20Maker%20Faire%20%E2%80%93%20Queens%2C%20NYC%20_%20Fujimoto.pdf
-) the Maker Faire in 2011~~, seeing both the Raspberry Pi and a booth with a kit for solar powerable electronics, solar power managers  (similar to Adafruit kits [now sold](https://www.adafruit.com/product/4755)) called [BootStrap Solar](https://www.instructables.com/Assembling-a-BootstrapSolar-Chi-qoo-Solar-Battery-/).
+I ~~first~~ later conceived of this project after visiting and [reviewing](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/2011%20Maker%20Faire%20%E2%80%93%20Queens%2C%20NYC%20_%20Fujimoto.pdf
+) the Maker Faire in 2011, seeing both the Raspberry Pi and a booth with a kit for solar powerable electronics, solar power managers  (similar to Adafruit kits [now sold](https://www.adafruit.com/product/4755)) called [BootStrap Solar](https://www.instructables.com/Assembling-a-BootstrapSolar-Chi-qoo-Solar-Battery-/).
 
 I wrote about it weeks [later](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Theoretically%20assembling%20a%20solar%20laptop%20_%20Fujimoto.pdf). 
 
