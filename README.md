@@ -50,7 +50,7 @@ to be connected to a broadband fibre-optic network at the lowest possible price.
 https://networkcultures.org/wp-content/uploads/2015/10/0585-INC_NN10-totaal-RGB.pdf
 
 
-It is within this context that I see an opportunity for solar powered mobile devices to become the 21st century equivalent of Minitel- a wireless, decentralized and distributed means to connect the information-poor economy.
+It is within this context that I see an opportunity for solar powered mobile devices to become the 21st century equivalent of Minitel- a wireless, decentralized and distributed means to connect the information-poor global economy.
 
 ---
 Why this project has not been funded for more than 3 years:
