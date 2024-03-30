@@ -1342,6 +1342,8 @@ https://github.com/jcmvbkbc/linux-xtensa (runs on 3MB+ of RAM)
 https://hackaday.com/2023/08/19/linux-running-on-not-a-lot/
 https://www.youtube.com/watch?v=MpjRqMPWrAg
 
+https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/
+
 https://popovicu.com/posts/making-a-micro-linux-distro/
 https://github.com/popovicu/linux-micro-distro
 
