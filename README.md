@@ -5,7 +5,7 @@ Solar Computer: A History of Tech Memes:
 
 https://knowyourmeme.com/memes/but-can-it-run-crysis
 
-2007 Crysis released: But can it run Crysis? 2010: Quake II demo in [browser](https://games.slashdot.org/comments.pl?sid=1605116&cid=31710240) "But can it run linux?". 2011: But can it run on solar? Intel Claremont runs on Windows 95. 2024: Can it run on solar and is it commercially available? No. 2034 : Can it run on Solar? Who knows? 2044: Can it run Crysis on Solar? Who knows, did they even get Solar linux running yet? 
+2007: Crysis [game](https://en.wikipedia.org/wiki/Crysis_(video_game)) released: But can it run Crysis? 2010: Quake II demo in [browser](https://games.slashdot.org/comments.pl?sid=1605116&cid=31710240) "But can it run linux?". 2011: But can it run on solar? Intel Claremont runs on Windows 95. 2024: Can it run on solar and is it commercially available? No. 2034 : Can it run on Solar? Who knows? 2044: Can it run Crysis on Solar? Who knows, did they even get Solar linux running yet? 
 
 "About
 
