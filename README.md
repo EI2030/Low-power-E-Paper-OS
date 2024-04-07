@@ -19,6 +19,39 @@ Snowclones are a type of phrasal templates[2] in which certain words may be repl
 
 Solar Powered Computer is a Snowclone of "But can it run Crysis?" because it expands the template from game/program to operating system, as was done in 2010. 
 
+Mad Libs:
+
+https://en.wikipedia.org/wiki/Mad_Libs 
+
+Mad Libs is a phrasal template word game created by Leonard Stern[1][2] and Roger Price.[3] It consists of one player prompting others for a list of words to substitute for blanks in a story before reading aloud. The game is frequently played as a party game or as a pastime.
+
+The game was invented in the United States, and more than 110 million copies of Mad Libs books have been sold since the series was first published in 1958.[3]
+
+Mad Libs was invented in 1953[4] by Leonard Stern and Roger Price. Stern and Price created the game, but could not agree on a name for their invention.[3] No name was chosen until five years later (1958), when Stern and Price were eating Eggs Benedict at a restaurant in New York City. While eating, the two overheard an argument at a neighboring table between a talent agent and an actor.[3] According to Price and Stern, during the overheard argument, the actor said that he wanted to "ad-lib" an upcoming interview. The agent, who clearly disagreed with the actor's suggestion, retorted that ad-libbing an interview would be "mad".[3] Stern and Price used that eavesdropped conversation to create, at length, the name "Mad Libs".[3] In 1958, the duo released the first book of Mad Libs, which resembled the earlier games[5] of consequences and exquisite corpse.
+
+Stern was head writer and comedy director for The Steve Allen Show, and suggested to the show's host that guests be introduced using Mad Libs completed by the audience. Four days after an episode introduced "our guest NOUN, Bob Hope", bookstores sold out of Mad Libs books.[6]
+
+
+https://en.wikipedia.org/wiki/Ad_libitum
+"Ad libitum
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Ad libitum" – news · newspapers · books · scholar · JSTOR (December 2021) (Learn how and when to remove this template message)
+In music and other performing arts, the phrase ad libitum (/ædˈlɪbɪtəm/; from Latin for 'at one's pleasure' or 'as you desire'), often shortened to "ad lib" (as an adjective or adverb) or "ad-lib" (as a verb or noun), refers to various forms of improvisation.
+
+The roughly synonymous phrase a bene placito ('in accordance with [one's] good pleasure') is less common but, in its Italian form a piacere, has entered the musical lingua franca (see below).
+
+The phrase "at liberty" is often associated mnemonically (because of the alliteration of the lib- syllable), although it is not the translation (there is no cognation between libitum and liber). Libido is the etymologically closer cognate known in English.
+
+In biology and nutrition, the phrase is used to describe feeding without restriction.[1]" 
+
+"Other performing arts
+"Ad-lib" is used to describe individual moments during live theatre when an actor speaks through their character using words not found in the play's text. When the entire performance is predicated on spontaneous creation, the process is called improvisational theatre.
+
+In film, the term ad-lib usually refers to the interpolation of unscripted material in an otherwise scripted performance. For example, in interviews, Dustin Hoffman says he ad-libbed the now famous line, "I'm walking here! I'm walking here!" as "Ratso" Rizzo in Midnight Cowboy (1969). While filming at a streetcorner, the scene was interrupted by a taxi driver. Hoffman wanted to say, "We're filming a movie here!", but stayed in character, allowing the take to be used.[2]"
+
+On a tangent, the phrase was also in Forrest Gump: https://www.reddit.com/r/MovieDetails/comments/and66e/in_forrest_gump_1994_when_lt_dan_and_forrest/
+
+
 ---
 Origins of this Project - to my best recollection (and occasionally updated, as recently done here)
 ---
