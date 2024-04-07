@@ -7,6 +7,16 @@ https://knowyourmeme.com/memes/but-can-it-run-crysis
 
 2007 Crysis released: But can it run Crysis? 2010: Quake II demo in [browser](https://games.slashdot.org/story/10/04/02/1812220/google-gets-quake-ii-running-in-html5). 2011: But can it run on solar? Intel Claremont runs on Windows 95. 2024: Can it run on solar and is it commercially available? No. 2034 : Can it run on Solar? Who knows? 2044: Can it run Crysis on Solar? Who knows, did they even get Solar linux running yet? 
 
+"About
+But Can It Run Crysis? is a phrase referring to the 2007 Crytek first-person shooter Crysis, underscoring the reputation the game has obtained for it's steep system requirements at the time of its release. The phrase has slowly evolved into a snowclone as years pass, substituting "But can it run X?" for the most recent and system-demanding title at the time."
+
+https://knowyourmeme.com/memes/snowclone
+
+"About
+Snowclones are a type of phrasal templates[2] in which certain words may be replaced with another to produce new variations with altered meanings, similar to the "fill-in-the-blank" game of Mad Libs. Although freeform parody of quotes from popular films, music and TV shows is a fairly common theme in Internet humor, snowclones usually adhere to a particular format or arrangement order which may be reduced down to a grammatical formula with one or more custom variables. They can be understood as the verbal or text-based form of photoshopped exploitables."
+
+Solar Powered Computer is a Snowclone of "But can it run Crysis?" because it expands the template from game/program to operating system, as was done in 2010. 
+
 ---
 Origins of this Project - to my best recollection (and occasionally updated, as recently done here)
 ---
