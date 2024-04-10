@@ -36,7 +36,7 @@ The beginning of an enshittification era necessitates a parallel internet infras
 https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust NPR took tax-payer dollars. "I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust.
 Uri Berliner, a veteran at the public radio institution, says the network lost its way when it started telling listeners how to think. By Uri Berliner April 9, 2024"
 
-For a long time, this was actually completely acceptable, because it attempted to be non-partisan.
+For a long time, accepting tax-payer dollars was actually completely acceptable, because it attempted to be non-partisan.
 
 Why not an internet advocacy group similar to NLNet in[ the U.S](https://en.wikipedia.org/wiki/Municipal_broadband)?
 
