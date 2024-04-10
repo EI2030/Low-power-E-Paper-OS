@@ -11,9 +11,6 @@ On May 1, 1969, Fred Rogers appeared before the U.S. Senate Commerce Committee r
 
 
 "On May 1, 1969, Fred Rogers, host of the (then) recently nationally syndicated children's television series, Mister Rogers' Neighborhood (named Misterogers' Neighborhood at the time), testified before the Senate Committee on Commerce Subcommittee on Communications to defend $20 million in federal funding proposed for the newly formed non-profit Corporation for Public Broadcasting, which was at risk of being reduced to $10 million. Subcommittee chairman, Senator John Pastore (D-RI), unfamiliar with Fred Rogers, is initially abrasive toward him. Over the course of Rogers' 6 minutes of testimony, Pastore's demeanor gradually transitions to one of awe and admiration as Rogers speaks."
- 
-
-![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/0247543a-be5f-4724-aee7-3244f2dd9ad3)
 
 https://www.youtube.com/watch?v=fKy7ljRr0AA
 
@@ -604,3 +601,6 @@ https://thechipletter.substack.com/p/chip-letter-links-no-21-xerox-parc Part of 
 3-4-2024
 
 https://albertcory50.substack.com/p/bring-back-private-offices An interesting story on the myth of open (collaboration) spaces. Covers Xerox  and Bell Labs offices. 
+
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/0247543a-be5f-4724-aee7-3244f2dd9ad3)
