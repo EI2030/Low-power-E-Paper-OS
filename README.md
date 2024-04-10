@@ -20,6 +20,9 @@ ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by Open
 
 By January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to the growth of OpenAI's current valuation of $80 billion.[3][4] 
 
+A Neologism is Coined
+--
+
 Enshittification is a term coined by writer Cory Doctorow in **November 2022** to describe a pattern of decreasing quality observed in online services and products such as Amazon, Facebook, Google Search, Twitter, Bandcamp, Reddit, Uber and Unity. The American Dialect Society selected the term as its 2023 Word of the Year. Doctorow has also used the term platform decay to describe the same concept.
 
 History and definition
