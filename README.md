@@ -14,7 +14,7 @@ On May 1, 1969, Fred Rogers appeared before the U.S. Senate Commerce Committee r
 
 https://www.youtube.com/watch?v=fKy7ljRr0AA
 
-November 30, 2022: The beginning of the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet
+November 30, 2022: The [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)-like amplification of the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet
 ---
 ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. Based on a large language model, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.[2]
 
