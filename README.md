@@ -1,4 +1,136 @@
+May 1, 1969: Fred Rogers Testifies Before Congress
+
+
+On May 1, 1969, Fred Rogers appeared before the U.S. Senate Commerce Committee requesting funds to help support the growth of a new concept -- national public television.
+
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/7103666f-a92e-4b86-9061-93049fd08408)
+
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/62f4348b-de0e-47d4-a94c-c37a1c5f3d1a)
+
+
+"On May 1, 1969, Fred Rogers, host of the (then) recently nationally syndicated children's television series, Mister Rogers' Neighborhood (named Misterogers' Neighborhood at the time), testified before the Senate Committee on Commerce Subcommittee on Communications to defend $20 million in federal funding proposed for the newly formed non-profit Corporation for Public Broadcasting, which was at risk of being reduced to $10 million. Subcommittee chairman, Senator John Pastore (D-RI), unfamiliar with Fred Rogers, is initially abrasive toward him. Over the course of Rogers' 6 minutes of testimony, Pastore's demeanor gradually transitions to one of awe and admiration as Rogers speaks."
+ 
+
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/0247543a-be5f-4724-aee7-3244f2dd9ad3)
+
+https://www.youtube.com/watch?v=fKy7ljRr0AA
+
+November 30, 2022 The beginning of the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet
+---
+ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. Based on a large language model, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.[2]
+
+By January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to the growth of OpenAI's current valuation of $80 billion.[3][4] 
+
+Enshittification is a term coined by writer Cory Doctorow in **November 2022** to describe a pattern of decreasing quality observed in online services and products such as Amazon, Facebook, Google Search, Twitter, Bandcamp, Reddit, Uber and Unity. The American Dialect Society selected the term as its 2023 Word of the Year. Doctorow has also used the term platform decay to describe the same concept.
+
+History and definition
+An Audacious Plan to Halt the Internet's Enshittification by Cory Doctorow at DEF CON 31, 2023
+The term enshittification was coined by Doctorow in a November 2022 blog post[1] that was republished in Locus in January 2023.[2] He expanded on the concept in another blog post,[3] which was republished in the January 2023 edition of Wired:[4]
+
+In a 2024 article on ft.com, Doctorow extended the word with the term "enshittocene" to state that "'enshittification' is coming for absolutely everything".[[5]](https://web.archive.org/web/20240208152542/https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5)
+
+The beginning of an enshittification era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where shit is absent. Publically funded internet in the pubkic interest.
+
+
+Transcript of the Senate 
+AUTHENTICITY CERTIFIED: Text version below transcribed directly from audio
+
+Senator Pastore: Alright Rogers, you've got the floor.
+
+Mr. Rogers: Senator Pastore, this is a philosophical statement and would take about ten
+minutes to read, so I'll not do that. One of the first things that a child learns in a healthy
+family is trust, and I trust what you have said that you will read this. It's very important to
+me. I care deeply about children.
+
+Senator Pastore: Will it make you happy if you read it?
+
+Mr. Rogers: I'd just like to talk about it, if it's alright. My first children's program was on
+WQED fifteen years ago, and its budget was $30. Now, with the help of the Sears-Roebuck
+Foundation and National Educational Television, as well as all of the affiliated stations -- each
+station pays to show our program. It's a unique kind of funding in educational television. With
+this help, now our program has a budget of $6000. It may sound like quite a difference, but
+$6000 pays for less than two minutes of cartoons.
+
+AmericanRhetoric.com
+Transcription by Michael E. Eidenmuller Property of AmericanRhetoric.com Updated 12/16/21 Page 2
+
+Two minutes of animated, what I sometimes say, bombardment. I'm very much concerned, as
+I know you are, about what's being delivered to our children in this country. And I've worked
+in the field of child development for six years now, trying to understand the inner needs of
+children. We deal with such things as -- as the inner drama of childhood. We don't have to
+bop somebody over the head to...make drama on the screen. We deal with such things as
+getting a haircut, or the feelings about brothers and sisters, and the kind of anger that arises
+in simple family situations. And we speak to it constructively.
+Senator Pastore: How long of a program is it?
+
+Mr. Rogers: It's a half hour every day. Most channels schedule it in the noontime as well as
+in the evening. WETA here has scheduled it in the late afternoon.
+
+Senator Pastore: Could we get a copy of this so that we can see it? Maybe not today, but I'd
+like to see the program.
+Mr. Rogers: I'd like very much for you to see it.
+
+Senator Pastore: I'd like to see the program itself, or any one of them.
+
+Mr. Rogers: We made a hundred programs for EEN, the Eastern Educational Network, and
+then when the money ran out, people in Boston and Pittsburgh and Chicago all came to the
+fore and said we've got to have more of this neighborhood expression of care. And this is what
+-- This is what I give. I give an expression of care every day to each child, to help him realize
+that he is unique. I end the program by saying, "You've made this day a special day, by just
+your being you. There's no person in the whole world like you, and I like you, just the way
+you are." And I feel that if we in public television can only make it clear that feelings are
+mentionable and manageable, we will have done a great service for mental health. I think that
+it's much hmore dramatic that two men could be working out their feelings of anger -- much
+more dramatic than showing something of gunfire. I'm constantly concerned about what our
+children are seeing, and for 15 years I have tried in this country and Canada, to present what
+I feel is a meaningful expression of care.
+
+Senator Pastore: Do you narrate it?
+
+Mr. Rogers: I'm the host, yes. And I do all the puppets and I write all the music, and I write
+all the scripts --
+
+AmericanRhetoric.com
+Transcription by Michael E. Eidenmuller Property of AmericanRhetoric.com Updated 12/16/21 Page 3
+
+Senator Pastore: Well, I'm supposed to be a pretty tough guy, and this is the first time I've
+had goose bumps for the last two days.
+
+Mr. Rogers: Well, I'm grateful, not only for your goose bumps, but for your interest in -- in
+our kind of communication. Could I tell you the words of one of the songs, which I feel is very
+important?
+
+Senator Pastore: Yes.
+
+Mr. Rogers: This has to do with that good feeling of control which I feel that children need to
+know is there. And it starts out, "What do you do with the mad that you feel?" And that first
+line came straight from a child. I work with children doing puppets in -- in very personal
+communication with small groups:
+What do you do with the mad that you feel? When you feel so mad you could bite.
+When the whole wide world seems oh so wrong, and nothing you do seems very right.
+What do you do? Do you punch a bag? Do you pound some clay or some dough? Do
+you round up friends for a game of tag or see how fast you go? It's great to be able to
+stop when you've planned a thing that's wrong. And be able to do something else
+instead, and think this song --
+'I can stop when I want to. Can stop when I wish. Can stop, stop, stop
+anytime....And what a good feeling to feel like this! And know that the feeling is
+really mine. Know that there's something deep inside that helps us become
+what we can. For a girl can be someday a lady, and a boy can be someday a
+man.'
+
+Senator Pastore: I think it's wonderful. I think it's wonderful. Looks like you just earned the
+20 million dollars."
+
+If it appears my pet project is vastly incomparable to a public national TV program that needs funding, I beg to differ. Today, public tax dollars are spent on vanity projects that serve special-interest groups without ensuring that the money is not wasted on largely redundant overhead (popups, bloated websites, horrible user-interfaces)
+
+https://userinyerface.com/ A perfect exercise in discombobulation)
+
+The need for a public, no-frills, no-nonsense internet pipeworks should have already been built yesterday. As George Carlin once said "As you swim the river of life, do the breast stroke. It helps to clear the turds from your path." 
+
+https://www.youtube.com/watch?v=JPrAuF2f_oI Tom Lehrer - Pollution September, 1967
+
 
 Solar Computer: A History of Tech Memes:
 --
