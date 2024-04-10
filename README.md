@@ -1,5 +1,5 @@
 May 1, 1969: Fred Rogers Testifies Before Congress
-
+--
 
 On May 1, 1969, Fred Rogers appeared before the U.S. Senate Commerce Committee requesting funds to help support the growth of a new concept -- national public television.
 
@@ -35,6 +35,7 @@ The beginning of an enshittification era necessitates a parallel internet infras
 
 
 Transcript of the Senate 
+--
 AUTHENTICITY CERTIFIED: Text version below transcribed directly from audio
 
 Senator Pastore: Alright Rogers, you've got the floor.
@@ -93,7 +94,7 @@ Mr. Rogers: I'm the host, yes. And I do all the puppets and I write all the musi
 all the scripts --
 
 AmericanRhetoric.com
-Transcription by Michael E. Eidenmuller Property of AmericanRhetoric.com Updated 12/16/21 Page 3
+[Transcription](https://www.americanrhetoric.com/speeches/PDFFiles/Fred%20Rogers%20-%20Testimony%20to%20Congress%20on%20PBS%20Funding.pdf) by Michael E. Eidenmuller Property of AmericanRhetoric.com Updated 12/16/21 Page 3
 
 Senator Pastore: Well, I'm supposed to be a pretty tough guy, and this is the first time I've
 had goose bumps for the last two days.
@@ -122,6 +123,8 @@ man.'
 
 Senator Pastore: I think it's wonderful. I think it's wonderful. Looks like you just earned the
 20 million dollars."
+
+
 
 If it appears my pet project is vastly incomparable to a public national TV program that needs funding, I beg to differ. Today, public tax dollars are spent on vanity projects that serve special-interest groups without ensuring that the money is not wasted on largely redundant overhead (popups, bloated websites, horrible user-interfaces)
 
