@@ -31,8 +31,15 @@ The term enshittification was coined by Doctorow in a November 2022 blog post[1]
 
 In a 2024 article on ft.com, Doctorow extended the word with the term "enshittocene" to state that "'enshittification' is coming for absolutely everything".[[5]](https://web.archive.org/web/20240208152542/https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5)
 
-The beginning of an enshittification era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where shit is absent. Publically funded internet in the pubkic interest.
+The beginning of an enshittification era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where feces is absent. Publically funded internet in the pubic interest.
 
+
+https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust NPR took tax-payer dollars. "I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust.
+Uri Berliner, a veteran at the public radio institution, says the network lost its way when it started telling listeners how to think. By Uri Berliner April 9, 2024"
+
+For a long time, this was actually completely acceptable, because it attempted to be non-partisan.
+
+Why not an internet advocacy group similar to NLNet in[ the U.S](https://en.wikipedia.org/wiki/Municipal_broadband)?
 
 Transcript of the Senate 
 --
