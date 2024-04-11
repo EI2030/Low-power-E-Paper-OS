@@ -33,7 +33,7 @@ In a 2024 article on ft.com, Doctorow extended the word with the term "enshittoc
 
 The beginning of an enshittification era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where feces is absent. Publically funded internet in the public interest.
 
-https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust NPR took tax-payer dollars. "I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust.
+https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust NPR applied for and accepted tax-payer dollars. "I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust.
 Uri Berliner, a veteran at the public radio institution, says the network lost its way when it started telling listeners how to think. By Uri Berliner April 9, 2024"
 
 For a long time, accepting tax-payer dollars was actually completely acceptable, because it attempted to be non-partisan.
