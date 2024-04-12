@@ -139,7 +139,7 @@ https://userinyerface.com/ A perfect exercise in discombobulation)
 
 The need for a public, no-frills, no-nonsense internet pipeworks should have already been built yesterday. As George Carlin once said "As you swim the river of life, do the breast stroke. It helps to clear the turds from your path." 
 
-https://www.youtube.com/watch?v=JPrAuF2f_oI Tom Lehrer - Pollution September, 1967
+https://www.youtube.com/watch?v=JPrAuF2f_oI Tom Lehrer - [Pollution](https://www.nytimes.com/2024/03/29/opinion/ai-internet-x-youtube.html) September, 1967
 
 
 Solar Computer: A History of Tech Memes:
