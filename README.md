@@ -1,3 +1,16 @@
+July, 1967
+--
+
+https://youtu.be/cXlIZBZpkoA?t=1177 "Firing Line with William F. Buckley Jr.: Is the World Funny?
+
+Hoover Institution Library & Archives
+97.4K subscribers
+
+966,423 views  Jan 25, 2017
+Episode 064, Recorded on July 7, 1967
+
+Guest: Groucho Marx" (2 years before PBS- Groucho advocating for better programming) 
+
 May 1, 1969: Fred Rogers Testifies Before Congress
 --
 
