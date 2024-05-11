@@ -774,6 +774,11 @@ https://www.youtube.com/watch?v=YwnfT665Ns8
 https://www.digikey.com/en/products/detail/eaton-electronics-division/HSL1020-3R8506-R/12179232 CAP LITH HYBRID 50F 20% 3.8V TH
 https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-supercapacitor-hybrid-cylindrical-cells-data-sheet.pdf
 
+https://www.popularmechanics.com/science/a60732620/capacitor-energy-storage-breakthrough/
+
+https://www.science.org/doi/10.1126/science.adl2835 "High energy density in artificial heterostructures through relaxation time modulation"
+
+
 **Looking for:** Microcontrollers
 E-paper display drivers
 
