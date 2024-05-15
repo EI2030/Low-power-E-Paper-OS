@@ -227,6 +227,8 @@ I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberry
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
+On November 6th, 2022, I wrote a lengthy [Substack post](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) on the case for solar powered electronics, which I continued to edit, revise, and add source material well into 2023.
+
 Though technically the concept of a solar powered computer existed as a solar calculator before that, which also influenced my interest, I can't think of any time before 2011 that I had wanted to solar power a device like a small PC, although I had been aware of the [OLPC](https://en.wikipedia.org/wiki/OLPC_XO) since the mid 00s. 
 
 In "A [Conversation](https://dl.acm.org/doi/pdf/10.1145/1331287.1331291) with Mary Lou Jepsen What’s behind that funky green machine?" (11/2007, ACM QUEUE), then CTO Jepsen describes the power consumption:
