@@ -227,7 +227,20 @@ I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberry
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
-On November 6th, 2022, I wrote a lengthy [Substack post](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) on the case for solar powered electronics, which I continued to edit, revise, and add source material well into 2023.
+On November 6th, 2022, I wrote a lengthy [Substack post](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) on the case for solar powered electronics, which I continued to edit, revise, and add source material well into 2023. In it, I addressed foundry space, and the term "pure play." I examined that while they are "pay to play," they are also potentially and profoundly unequal:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ea7de085-c4f9-49b8-bd3a-ebd8544ab815)
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/9ae8fa76-4c7a-4ebe-a561-1addb7905d1a)
+
+From a recent PC Gamer article ([5/23/2024](https://www.pcgamer.com/hardware/processors/apple-reportedly-seeks-to-lock-out-its-competitors-from-tsmcs-2nm-process-by-booking-all-of-its-manufacturing-capacity/
+)), "Even mega-companies such as Google and Qualcomm don't have the cash on hand to outbid big daddy Apple." My predictions were more than a year in advance. Would anyone want one company to reserve all the tooling at a company like TSMC? Hence the word foundry neutrality, similar to net neutrality. It's like when the FCC steps in to ensure a minimum of wafers are reserved for startups without 100% control of semiconductors, lest it be considered a monopoly (not so coincidentally, Apple is being sued by the DOJ for monopolizing the app market: https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets It should not be hard to make the connection to hardware that Apple would not want the same type of dominance. The tech media could cover that instead of Chat-GPT for once. It might sound like they are catching up to regulation news, after the CHIPS act led to new foundry investments in Arizona:
+
+https://www.barrons.com/articles/apple-computer-chips-taiwan-trade-geopolitics-1605f116
+
+"Your next iPhone won’t be stamped Made in America. But pry open the casing in 2025 and you may see semiconductor chips that were etched into silicon in the Arizona desert." If you're wondering why Apple may be doing business in Arizona soon, it's not because they are as American as Apple Pie. It's beccause they're being dragged, kicking and screaming to comply with U.S. regulations. For a company as callous to produce a [hydraulic press](https://www.youtube.com/watch?v=ntjkwIXWtrc) ad, it should be a reflection of the steely heart that the company now is.
+
+---
 
 Though technically the concept of a solar powered computer existed as a solar calculator before that, which also influenced my interest, I can't think of any time before 2011 that I had wanted to solar power a device like a small PC, although I had been aware of the [OLPC](https://en.wikipedia.org/wiki/OLPC_XO) since the mid 00s. 
 
