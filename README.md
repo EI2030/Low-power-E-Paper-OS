@@ -246,7 +246,7 @@ My predictions were more than a year in advance. Would anyone want one company t
 
 https://www.barrons.com/articles/apple-computer-chips-taiwan-trade-geopolitics-1605f116
 
-"Your next iPhone won’t be stamped Made in America. But pry open the casing in 2025 and you may see semiconductor chips that were etched into silicon in the Arizona desert." If you're wondering why Apple may be doing business in Arizona soon, it's not because they are as American as Apple Pie. It's beccause they're being dragged, kicking and screaming to comply with U.S. regulations. For a company as callous to produce a [hydraulic press](https://www.youtube.com/watch?v=ntjkwIXWtrc) ad, it should be a reflection of the steely heart that the company now is.
+"Your next iPhone won’t be stamped Made in America. But pry open the casing in 2025 and you may see semiconductor chips that were etched into silicon in the Arizona desert." If you're wondering why Apple may be doing business in Arizona soon, it's not because they are as American as Apple Pie. It's because they're being dragged, kicking and screaming, to comply with U.S. regulations (and a tax concession). For a company as callous to produce a [hydraulic press](https://www.youtube.com/watch?v=ntjkwIXWtrc) ad, it should be a reflection of the steely heart that the company now is.
 
 ---
 
