@@ -1576,6 +1576,12 @@ away than ever from the children—it came to me as a shock that no child had pr
 various needed technologies were starting to be commercially feasible—some of them, unfortunately, like the flat-screen display, abandoned to the Japanese by the US companies who had invented them. This was a major case of "snatching defeat from the jaws of victory." 
 Larry Tesler decided that Xerox was never going to "get it" and was hired by Steve Jobs in May 1980 to be a principal designer of the Lisa. I agreed, had a sabbatical coming, and took it." - Alan Kay
 
+https://news.ycombinator.com/item?id=40506495 
+
+https://web.archive.org/web/20240528075957/https://firstmicroprocessor.com/ 
+
+https://www.youtube.com/watch?v=dxvcBa2RIbU
+
 ---
 Low-Precision/High THroughput
 ---
@@ -1585,6 +1591,10 @@ https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Comparison_to_CPUs_and_GPUs
 https://www.youtube.com/watch?v=WQDMKTEgQnY
 
 https://news.mit.edu/2010/fuzzy-logic-0103
+
+https://spectrum.ieee.org/1-bit-llm
+
+https://arxiv.org/abs/2402.04291
 
 ---
 
