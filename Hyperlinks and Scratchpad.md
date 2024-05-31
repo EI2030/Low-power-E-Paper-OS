@@ -703,6 +703,13 @@ https://e-peas.com/
 https://news.utdallas.edu/science-technology/thermoelectric-generators-2020/
 https://www.ti.com/tool/TIDA-00246
 
+Internet Infrastructure
+--
+
+https://brr.fyi/posts/engineering-for-slow-internet
+
+https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
+
 ----
 Wireless Modems:
 ----
@@ -731,8 +738,6 @@ https://www.qorvo.com/products/p/QM55003 4mmx433
 https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
 
 https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ur
-
-https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
 
 https://hackaday.com/2023/11/08/2g-or-not-2g-that-is-the-question/
 
