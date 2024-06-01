@@ -1420,6 +1420,9 @@ https://www.youtube.com/watch?v=MpjRqMPWrAg
 https://bootlin.com/blog/ext2-filesystem-driver-now-marked-as-deprecated/
 
 https://popovicu.com/posts/making-a-micro-linux-distro/
+
+https://popovicu.com/posts/789-kb-linux-without-mmu-riscv/
+
 https://github.com/popovicu/linux-micro-distro
 
 https://hackaday.com/2023/10/13/because-you-can-linux-on-an-arduino-uno/
