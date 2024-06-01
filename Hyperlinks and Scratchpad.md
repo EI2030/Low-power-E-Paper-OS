@@ -812,6 +812,11 @@ https://forums.raspberrypi.com/viewtopic.php?t=317884
 
 https://hackaday.io/project/25107-single-supercapacitor-ups-for-raspberry-pi
 
+https://www.youtube.com/watch?v=LDzxifG7VeA
+
+https://hackaday.com/2020/11/05/a-super-ups-for-the-pi/
+
+https://hackaday.io/project/168286-cheap-o-nas/log/173824-ok-it-works-but-i-can-do-better
 
 **Looking for:** Microcontrollers
 E-paper display drivers
