@@ -808,6 +808,10 @@ https://www.popularmechanics.com/science/a60732620/capacitor-energy-storage-brea
 
 https://www.science.org/doi/10.1126/science.adl2835 "High energy density in artificial heterostructures through relaxation time modulation"
 
+https://forums.raspberrypi.com/viewtopic.php?t=317884
+
+https://hackaday.io/project/25107-single-supercapacitor-ups-for-raspberry-pi
+
 
 **Looking for:** Microcontrollers
 E-paper display drivers
