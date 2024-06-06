@@ -199,6 +199,9 @@ https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 ---
 RAM:
 ---
+https://www.eenewseurope.com/en/efabless-to-offer-weebit-reram-memory-at-130nm/
+
+https://www.eenewseurope.com/en/reram-sees-high-temperature-qualification-first-22nm-wafers/
 
 https://www.eenewseurope.com/en/surecore-optimises-ai-memory-ip-for-low-power/
 
@@ -817,6 +820,14 @@ https://www.youtube.com/watch?v=LDzxifG7VeA
 https://hackaday.com/2020/11/05/a-super-ups-for-the-pi/
 
 https://hackaday.io/project/168286-cheap-o-nas/log/173824-ok-it-works-but-i-can-do-better
+
+Supercapacitors/Microcapacitors
+--
+https://www.popularmechanics.com/science/a60732620/capacitor-energy-storage-breakthrough/
+
+https://www.eenewseurope.com/en/trench-microcapacitor-for-chip-power/
+
+
 
 **Looking for:** Microcontrollers
 E-paper display drivers
