@@ -1273,11 +1273,26 @@ http://lib.tkk.fi/Diss/2004/isbn9512273209/isbn9512273209.pdf
 
 https://www.silabs.com/mcu/32-bit-microcontrollers
 
+Standards
+----
+
 https://en.wikipedia.org/wiki/ATX
 
 https://en.wikipedia.org/wiki/De_facto_standard
 
 https://en.wikipedia.org/wiki/Harmonization_(standards)
+
+https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect
+
+https://en.wikipedia.org/wiki/USB#History
+
+https://tedium.co/2024/02/09/intel-pci-standardization-history/ In the early 90s, Intel developed PCI (1992), ATX (1995), and USB (1995). It is interesting that this circular was released in 1998:
+
+CIRCULAR NO. A-119 Revised
+February 10, 1998
+MEMORANDUM FOR HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES
+SUBJECT: Federal Participation in the Development and Use of Voluntary Consensus Standards and
+in Conformity Assessment Activities
 
 "The US Government Office of Management and Budget published CircularA-119[11] instructing its agencies to adopt voluntary consensus standards before relying upon private standards. The circular mandates standard harmonization by eliminating or reducing US agency use of private standards and 
 government standards. The priority for governments to adopt voluntary consensus standards is supported by international standards such as ISO supporting public policy initiatives.[12]"
@@ -1285,6 +1300,9 @@ government standards. The priority for governments to adopt voluntary consensus 
 https://www.whitehouse.gov/wp-content/uploads/2017/11/Circular-119-1.pdf
 https://onlinelibrary.wiley.com/doi/10.1111/j.1468-5965.1987.tb00294.x
 https://www.sciencedirect.com/science/article/abs/pii/S1386505697001214?via%3Dihub
+
+Near Threshold Voltage & Chiplets:
+--
 
 https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/ History
 
