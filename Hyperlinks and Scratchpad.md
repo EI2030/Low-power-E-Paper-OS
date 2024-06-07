@@ -1292,6 +1292,19 @@ https://www.silabs.com/mcu/32-bit-microcontrollers
 Standards
 ----
 
+https://web.archive.org/web/20091205032921/http://www.via.com.tw/en/resources/pressroom/pressrelease.jsp?press_release_no=4287
+
+https://web.archive.org/web/20081120174810/http://www.via.com.tw/en/resources/pressroom/pressrelease.jsp?press_release_no=1310
+
+https://web.archive.org/web/20070723203650/http://www.epiacenter.com/modules.php?name=News&file=article&sid=1108
+
+https://www.youtube.com/watch?v=MUz_PtAt468
+
+https://archive.ph/20130127190655/http://www.linuxfordevices.com/c/a/News/SUMIT-aims-to-unify-SBC-expansion/
+
+https://en.wikipedia.org/wiki/Mobile-ITX
+https://web.archive.org/web/20091229082529/http://www.via.com.tw/en/downloads/whitepapers/initiatives/spearhead/WP091201-ITXFormFactor.pdf
+
 https://en.wikipedia.org/wiki/ATX
 
 https://en.wikipedia.org/wiki/De_facto_standard
