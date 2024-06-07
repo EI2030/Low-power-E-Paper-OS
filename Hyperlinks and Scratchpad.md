@@ -349,20 +349,36 @@ https://cmosedu.com/cmos1/BSIM4_manual.pdf (3.1-3.2) Channel Charge and
 Subthreshold Swing Models
 
 https://nanopowersemi.com/subthreshold-ic-design-a-powerful-way-to-redefine-low-power
+
 https://www.eenewseurope.com/en/epishine-adds-nanopower-to-power-indoor-solar-cell/
+
+https://semiengineering.com/near-threshold-computing-gets-a-boost/
+
 https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-design/
+
 https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
+
 https://courses.grainger.illinois.edu/cs598jt/fa2019/reading_list/5a.pdf
+
 https://ieeexplore.ieee.org/document/4586001
+
 http://blaauw.engin.umich.edu/wp-content/uploads/sites/342/2018/02/Mingoo-Seok-The-Phoenix-Processor-A-30pW-Platform-for-Sensor-Applications.pdf
+
 https://www.ee.columbia.edu/~mgseok/pdfs/phoenix_isscc_dac_design_contest.pdf
+
 https://semiengineering.com/dealing-with-sub-threshold-variation/
+
 https://www.eetimes.com/arm-preps-near-threshold-processor-for-iot/#
+
  https://semiaccurate.com/2012/12/20/intel-explains-claremont-the-near-threshold-solar-pentium/ 
+ 
 https://www.theregister.com/2012/02/19/intel_isscc_ntv_digital_radio/
+
 https://www.engadget.com/2011-09-15-intel-reveals-claremont-near-threshold-voltage-processor-othe.html 
+
 https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
 
+https://semiengineering.com/sram-scaling-issues-and-what-comes-next/ 
 
 https://www.movellus.com/product-overview/aeonic-connect/
 
@@ -1301,18 +1317,16 @@ https://www.whitehouse.gov/wp-content/uploads/2017/11/Circular-119-1.pdf
 https://onlinelibrary.wiley.com/doi/10.1111/j.1468-5965.1987.tb00294.x
 https://www.sciencedirect.com/science/article/abs/pii/S1386505697001214?via%3Dihub
 
+https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized platform needs a network effect for it to be affordable and attractive 
+
 Near Threshold Voltage & Chiplets:
 --
 
 https://semiengineering.com/knowledge_centers/packaging/advanced-packaging/chiplets/ History
 
-https://semiengineering.com/near-threshold-computing-gets-a-boost/
-
 https://semiengineering.com/sram-in-ai-the-future-of-memory/
 
 https://semiengineering.com/is-your-voltage-drop-flow-obsolete/
-
-https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized platform needs a network effect for it to be affordable and attractive 
 
 "Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open AI" https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4543807
 
