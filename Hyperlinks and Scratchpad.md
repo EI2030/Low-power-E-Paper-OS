@@ -1292,7 +1292,7 @@ https://www.silabs.com/mcu/32-bit-microcontrollers
 Standards
 ----
 
-https://web.archive.org/web/20091205032921/http://www.via.com.tw/en/resources/pressroom/pressrelease.jsp?press_release_no=4287
+https://web.archive.org/web/20091205032921/http://www.via.com.tw/en/resources/pressroom/pressrelease.jsp?press_release_no=4287 "VIA Mobile-ITX Brings Further Miniaturization and Greater Flexibility to Embedded Devices"
 
 https://web.archive.org/web/20081120174810/http://www.via.com.tw/en/resources/pressroom/pressrelease.jsp?press_release_no=1310
 
