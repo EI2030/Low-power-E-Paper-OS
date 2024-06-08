@@ -291,6 +291,8 @@ https://escholarship.org/uc/item/99f6q9c9 "A 64 kb Differential Single-Port 12T 
 
 https://escholarship.org/content/qt7vx9n089/qt7vx9n089_noSplash_cfc4ba479d8eb1b6ec25d7c92357bc18.pdf "STATISTICAL MODELING OF SRAMS" 2022
 
+https://escholarship.org/uc/item/9dc0v8g3  (SRAM Design with OpenRAM in SkyWater 130nm)
+
 ---
 Near threshold voltage CPU speeds = RAM speeds
 --
