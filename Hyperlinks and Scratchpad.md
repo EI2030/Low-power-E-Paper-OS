@@ -382,7 +382,26 @@ https://semiengineering.com/sram-scaling-issues-and-what-comes-next/
 
 https://www.movellus.com/product-overview/aeonic-connect/
 
+https://www.inf.pucrs.br/~calazans/graduate/TSESD2/Bibliography/Surveys/2016-IEEED&T_De-etal_NTV-Computing.pdf
+
+https://ieeexplore.ieee.org/document/7479466 Near Threshold Voltage (NTV) Computing: Computing in the Dark Silicon Era, 26 May 2016 
+
+"When the performance need is well below the NTV operating point,
+then we should operate at the minimum energy
+point and then shut down completely and wake up
+when the next workload arrives. When we are simply waiting for the next workload to arrive but do
+not have enough time to shut off completely and
+wake up on time, we can park in the minimumenergy or NTV operating point, then quickly ramp
+up to the desired operating point when we need
+to restart computing. For highly parallel, throughput-oriented workloads, we can use multiple units
+in parallel operating at the minimum energy point
+to deliver the same throughput as a single unit operating at the highest voltage/frequency. This costs us
+die area, but allows us to achieve the best energy
+efficiency for a target throughput for parallel workloads, limited primarily by the energy consumed by
+inter-unit communications." 
+
 Neuromorphic:
+--
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
 https://arxiv.org/abs/2104.13983
 
