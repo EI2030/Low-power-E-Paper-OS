@@ -300,8 +300,6 @@ https://www.cnn.com/2023/01/15/business/flip-phone-gen-z-ctrp/index.html
 https://www.cnbc.com/2023/03/29/dumb-phones-are-on-the-rise-in-the-us-as-gen-z-limits-screen-time.html
 
 https://mashable.com/article/gen-z-flip-phones-trend
----
-
 
 Despite submitting several grant applications, this project exceeds the risk-taking of the Lower-Level Agents:
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ef2b337b-36e4-4f7e-a5c7-0eeb70849b49)
@@ -314,7 +312,7 @@ Amount of risk of this project (perceived or real):
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/1885064b-6278-4044-84ff-e1f171d3dd8f)
 
-The risks may be perceived or real risks. For example, do you believe solar powered computers are possible? If you believe yes, you are correct- solar powered calculators existed since 1976, and solar powered computers have been demonstrated since 2011. If you believe no, then you may not have been around solar powered calculators or computers in your youth. If smartphones were the only thing that one understood as "computers," then their view of history is quite limited. I was surprised, as you may be, to learn that many people who were interested in radios before computers were a lot like the hobbysists of today. https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers 
+The risks may be perceived or real risks. For example, do you believe solar powered computers are possible? If you believe yes, you are correct- solar powered calculators existed since 1976, and solar powered computers have been demonstrated since 2011. If you believe no, then you may not have been around solar powered calculators or computers in your youth. If smartphones were the only thing that one understood as "computers," then their view of history is quite limited. I was surprised, as you may be, to learn that many people who were interested in [radios](https://en.wikipedia.org/wiki/Amateur_radio#History) before computers were a lot like the hobbysists of today. https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers 
 
 https://spectrum.ieee.org/ham-radio What has changed, however, is that a dependence on a single smartphone for all of one's interaction has caused a clear rejection of the platform by some in Gen Z, due to its near monopoly on attention. Radios and early desktop computers, at least, were offline and did not try to wedge themselves in to every aspect of life. 
 
