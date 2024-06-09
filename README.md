@@ -287,19 +287,48 @@ https://networkcultures.org/wp-content/uploads/2015/10/0585-INC_NN10-totaal-RGB.
 It is within this context that I see an opportunity for solar powered mobile devices to become the 21st century upgrade from Minitel- a wireless, local-first, decentralized and distributed means to connect the information-poor global economy.
 
 ---
-Why this project has not been funded for more than 3 years:
+Fund this project?
+---
+I'm not the best person to manage a project. There are far more qualified designers with knowledge about supercomputers from 60 years ago that has not yet even been optimized: https://www.crowdsupply.com/libre-risc-v/m-class/updates/modernising-1960s-computer-technology-learning-from-the-cdc-6600 (RISC-V is actually adopting this old Cray tech now that its utility is being realized)
+
+That said, I have an eye towards user-experience. An engineer like Woz might be a brilliant engineer, but Jobs understood UI far better. What I see to fuse is the minimalist appearance of a laptop like the Luce, with the low power consumption of something like an [Ambiq 510](https://finance.yahoo.com/news/ambiq-apollo510-delivers-30x-power-121500335.html). The issue with microcontrollers is that, in using a Cortex M55, it is not designed as an application processor, and there is a scarcity of development in this field, at least public development.
+
+Could anyone in the 1940s anticipate Rock and Roll of the 50s, counter-culture in the 60s,  disco in the 70s, electronica/synthwave in the 80s, grunge in the 90's, indie-rock/metal in the 00's, and superpop in 10s? Market research can't predict what the next generation is doing, but there are sometimes hints that counter-culture skips a generation. It could be also what is to explain the rise of the flip phone generation, despite the plethora of octa-core options being given to them by the mega-conglomerates: 
+
+https://www.cnn.com/2023/01/15/business/flip-phone-gen-z-ctrp/index.html
+
+https://www.cnbc.com/2023/03/29/dumb-phones-are-on-the-rise-in-the-us-as-gen-z-limits-screen-time.html
+
+https://mashable.com/article/gen-z-flip-phones-trend
 ---
 
-Despite submitting several grant applications, it exceeds the risk-taking of the Lower-Level Agents:
+
+Despite submitting several grant applications, this project exceeds the risk-taking of the Lower-Level Agents:
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ef2b337b-36e4-4f7e-a5c7-0eeb70849b49)
 
-from: "The agent principal problem" : https://www.strangeloopcanon.com/p/the-agent-principal-problem
+If there is skepticism from this project, then I am willing to sign a non-profit clause, in that I wish not to be funded, if someone else is willing to steer this project to completion. How else can I prove my sincerity?
+
+Another issue, is the "The agent principal problem" : https://www.strangeloopcanon.com/p/the-agent-principal-problem
 
 Amount of risk of this project (perceived or real): 
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/1885064b-6278-4044-84ff-e1f171d3dd8f)
 
-If you'd like to contribute to this project, first look for ways to lower the perceived or real risks. This repository is not an ideology, but a pursuit of ideas.
+The risks may be perceived or real risks. For example, do you believe solar powered computers are possible? If you believe yes, you are correct- solar powered calculators existed since 1976, and solar powered computers have been demonstrated since 2011. If you believe no, then you may not have been around solar powered calculators or computers in your youth. If smartphones were the only thing that one understood as "computers," then their view of history is quite limited. I was surprised, as you may be, to learn that many people who were interested in radios before computers were a lot like the hobbysists of today. https://en.wikipedia.org/wiki/Institute_of_Radio_Engineers 
+
+https://spectrum.ieee.org/ham-radio What has changed, however, is that a dependence on a single smartphone for all of one's interaction has caused a clear rejection of the platform by some in Gen Z, due to its near monopoly on attention. Radios and early desktop computers, at least, were offline and did not try to wedge themselves in to every aspect of life. 
+
+An important aspect in science literacy is understanding how things work. A solar calculator allowed a student to believe that a small amount of light could, in fact, power a calculator, using a static [RCA 1802](https://forums.raspberrypi.com/viewtopic.php?p=1785972#p1785972). In an era where students are all issued Chromebooks for calculators, they are not brought up in the same era where electricity is a privilege, rather than an expectation.
+
+https://en.wikipedia.org/wiki/RCA_1802#Programming_languages
+
+"But that doesn’t mean children of the ‘80s, ‘90s, and today are all rushing to make their houses as green as their calculators. Solar calculators may have convinced a generation that the sun could power gadgets, but it’s not the same as convincing them that the power in tiny calculators could stream from an outlet.
+
+The problem, says professor and futurist Cindy Frewen, is that people don’t necessarily think of rooftop panels the same way they might think of consumer electronics. "People adopt their gadgets, but they accept their energy,” she says. “They take it for granted: ‘This is what I have in my house.'"
+
+from: https://www.nationalgeographic.com/science/article/160225-solar-calculator-history-energy-objects
+
+This repository is not an ideology, but a pursuit of ideas.
 
 A great [Substack](https://dgardner.substack.com/p/the-history-of-technology-is-most
 ) post today mentioned Kranzberg's six laws of Technology:
