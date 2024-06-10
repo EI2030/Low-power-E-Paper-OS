@@ -293,6 +293,24 @@ https://escholarship.org/content/qt7vx9n089/qt7vx9n089_noSplash_cfc4ba479d8eb1b6
 
 https://escholarship.org/uc/item/9dc0v8g3  (SRAM Design with OpenRAM in SkyWater 130nm)
 
+https://en.wikipedia.org/wiki/Execute_in_place
+
+"Samsung S3C2416X have 64kB embedded SRAM available on the system bus 
+ Broadcom BCM2835 uses its Level 2 Cache as boot loader RAM before SDRAM is initialized ([128KB](https://en.wikipedia.org/wiki/Raspberry_Pi#Processor))
+ US patent 4485457, Richard K. Balaska, Robert L. Hunter, and Scott S. Robinson, "Memory system including RAM and page switchable ROM", issued 1984-11-27, assigned to CBS Inc.
+ Uebayashi, Masao (2010-04-05). "eXecute-In-Place (XIP) Support for NetBSD" (PDF). BSDCan."
+
+https://en.wikipedia.org/wiki/AXFS
+
+https://web.archive.org/web/20120113041854/http://ols.fedoraproject.org/OLS/Reprints-2008/hulbert-reprint.pdf Introducing the Advanced XIP File System"
+
+https://web.archive.org/web/20100515124729/http://www.academypublisher.com/ojs/index.php/jcp/article/viewFile/03017989/370 "The Enabling of an Execute-In-Place
+Architecture to Reduce the Embedded System Memory Footprint and Boot Time" -2008 
+
+https://www.kernel.org/doc/ols/2004/ols2004v1-pages-79-88.pdf "Methods to Improve Bootup Time in Linux" 2004
+
+https://ambiq.com/wp-content/uploads/2023/03/Apollo510-SoC-Product-Brief.pdf
+
 ---
 Near threshold voltage CPU speeds = RAM speeds
 --
