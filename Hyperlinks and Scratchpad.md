@@ -734,6 +734,8 @@ https://www.ti.com/product/BQ25570
 
 https://www.ti.com/product/BQ25185
 
+https://spectrum.ieee.org/after-the-ic-jack-kilbys-solar-misadventure (general history)
+
 ---
 Multi-Source Harvesters (an inexhaustive list):
 ---
