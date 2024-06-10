@@ -296,8 +296,11 @@ https://escholarship.org/uc/item/9dc0v8g3  (SRAM Design with OpenRAM in SkyWater
 https://en.wikipedia.org/wiki/Execute_in_place
 
 "Samsung S3C2416X have 64kB embedded SRAM available on the system bus 
+ 
  Broadcom BCM2835 uses its Level 2 Cache as boot loader RAM before SDRAM is initialized ([128KB](https://en.wikipedia.org/wiki/Raspberry_Pi#Processor))
+
  US patent 4485457, Richard K. Balaska, Robert L. Hunter, and Scott S. Robinson, "Memory system including RAM and page switchable ROM", issued 1984-11-27, assigned to CBS Inc.
+ 
  Uebayashi, Masao (2010-04-05). "eXecute-In-Place (XIP) Support for NetBSD" (PDF). BSDCan."
 
 https://en.wikipedia.org/wiki/AXFS
