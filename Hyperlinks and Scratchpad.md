@@ -1182,6 +1182,10 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB & Chip Design:
 ---
 
+https://semiengineering.com/software-defined-hardware-architectures/
+
+https://www.darpa.mil/program/software-defined-hardware
+
 https://sourceforge.net/projects/mmi-pd/ from a Slack thread:
 
 " 3 years ago
