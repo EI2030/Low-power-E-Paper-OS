@@ -199,6 +199,12 @@ https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 ---
 RAM:
 ---
+https://www.nature.com/articles/s41586-022-04992-8 "A compute-in-memory chip based on resistive random-access memory" 2022 
+
+https://en.wikipedia.org/wiki/Resistive_random-access_memory 
+
+https://ieeexplore.ieee.org/document/4796677 "Low power and high speed bipolar switching with a thin reactive Ti buffer layer in robust HfO2 based RRAM" 2008
+
 https://arxiv.org/pdf/1605.04897 "Well-Posed Models of Memristive Devices" 2016
 
 https://ieeexplore.ieee.org/document/9439623 "A Comprehensive Oxide-Based ReRAM TCAD Model with Experimental Verification" 2021
