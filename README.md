@@ -675,7 +675,7 @@ https://albertcory50.substack.com/p/bring-back-private-offices An interesting st
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/0247543a-be5f-4724-aee7-3244f2dd9ad3)
 
-6-12-2024 Real Tech Journalists cover Science too
+6-12-2024 Real Tech Journalists cover Science & Engineering too
 --
 
 https://www.404media.co/elon-musk-tweeted-a-thing/ "If we want journalism to survive we need to move away from the model where dozens of humans write the same exact blog about an errant Elon Musk tweet in hopes of appeasing an algorithm that is actively changing to kill this exact business model" -Jason Koebler
