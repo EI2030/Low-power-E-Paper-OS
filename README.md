@@ -674,3 +674,23 @@ https://albertcory50.substack.com/p/bring-back-private-offices An interesting st
 
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/0247543a-be5f-4724-aee7-3244f2dd9ad3)
+
+6-12-2024 Real Tech Journalists cover Science too
+--
+
+https://www.404media.co/elon-musk-tweeted-a-thing/ "If we want journalism to survive we need to move away from the model where dozens of humans write the same exact blog about an errant Elon Musk tweet in hopes of appeasing an algorithm that is actively changing to kill this exact business model" -Jason Koebler
+
+Of the few human journalists remaining at major news outlets, they are forced between choosing to cover thinly veneered promtional reviews in the name of unbiased reviews, and covering a story that is not even on the algorithmic radar. Someone could discover then next gen fusion reactor, and tech wouldn't cover it because they wouldn't be able to explain it to their audience (but have no problem using the phrase mansplainer and tech bro when ridiculing Silicon Valley). So which will it be, BigMedia, educating readers about basic science concepts or debating the minor details about which new product you should or should not buy (while plugging in nearly every model of the company you're covering).
+
+100 years of Hobbyism
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ef2f1d2b-988d-4e30-8144-779633784b18)
+
+Hobbits engaging in hobbyism (smelting a ring in a volcano to prevent Smeagol from finagling)
+
+Several years ago, an article which went virtually unnoticed still rings true https://www.nationalgeographic.com/science/article/160225-solar-calculator-history-energy-objects Children from the silent generation grew up with [Erector sets](https://en.wikipedia.org/wiki/Erector_Set) as a hobby. Before the internet, tinkerers from the baby boom era spent plenty of time working with antennas to build radios out of transistors. The Generation X and early Millenials are probably the only two generations that grew up with pocket-sized calculators, which cost more than $400 in the early 1970s. By the late-90s, cell phones began integrating all of these features into the first multimedia smartphones, and the ease of access to computing made hobbyism less about access to basic information and more about high-speed social media.
+
+A little bit of a handicap encourages each generation not to become super dependent on convenience. Call it the most basic pc. Portable computers are even more capable of being multi-featured PCs in even less of a thermal design power/envelope (TDP), and the focus of journalism has often been we're covering all the new features of a product release- let us educate you, and throw away your old pc (we wouldn't know what to do with it- linux? what's that?).
+
+Hyperbole asides, A balanced tech media like the Wired, The Verge, Ars Technica, ExtremeTech would cover 10% software, 10% hardware, 10% Superconductors, 10% particle physics, 10% climatology, 10% astrophysics, 10% biology, 10% culture/politics, 10% business, and 10% pure mathematics (you can see where my bias leans, some of this was humor-intended). Instead it's 95% leading FAANG company releasing incremental product/feature XYZ.
+
