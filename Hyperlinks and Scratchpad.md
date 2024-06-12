@@ -959,6 +959,18 @@ various software packages- old versions from early 90s:https://www.mirrorservice
 https://mirrors.slackware.com/slackware/slackware-1.01/a1/
 
 uClinux
+
+https://docs.kernel.org/next/admin-guide/mm/nommu-mmap.html
+
+https://www.design-reuse.com/news/17672/uclinux-latticemico32-embedded-soft-core-processor.html
+
+https://github.com/vowstar/k210-linux-nommu 
+https://www.dfrobot.com/product-1985.html 
+
+https://hackaday.com/2023/10/11/tiny-linux-on-a-no-mmu-risc-v-microcontroller/
+
+
+
 https://elinux.org/UClinux_Shared_Library#FDPIC_ELF
 https://bootlin.com/doc/legacy/uclinux/uclinux_introduction.pdf
 
