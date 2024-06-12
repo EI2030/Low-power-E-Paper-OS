@@ -199,6 +199,10 @@ https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 ---
 RAM:
 ---
+https://arxiv.org/pdf/1605.04897 "Well-Posed Models of Memristive Devices" 2016
+
+https://ieeexplore.ieee.org/document/9439623 "A Comprehensive Oxide-Based ReRAM TCAD Model with Experimental Verification" 2021
+
 https://www.eenewseurope.com/en/efabless-to-offer-weebit-reram-memory-at-130nm/
 
 https://www.eenewseurope.com/en/reram-sees-high-temperature-qualification-first-22nm-wafers/
