@@ -1206,6 +1206,11 @@ PCB & Chip Design:
 
 https://semiengineering.com/specialization-vs-generalization-in-processors
 
+https://semiengineering.com/knowledge_centers/standards-laws/laws/makimotos-wave/ big picture dynamics that explains market development
+
+https://www.extremetech.com/computing/287137-how-makimotos-wave-explains-the-tsunami-of-specialized-ai-processors-headed-for-market
+
+https://semiengineering.com/the-other-side-of-makimotos-wave/ 
 
 https://semiengineering.com/software-defined-hardware-architectures/
 
