@@ -32,7 +32,11 @@ Modified chart from above link
 
 As you can see, this project is not all about computational efficiency at higher power levels. It is about computational efficiency at the lowest power levels possible to run in energy autarkic form factors.
 
+_Why invest in aging architectures and software languages?_
+--
+Github's own ReadME project has [a lot to say](https://github.com/readme/featured/vintage-computing) about that.
 
+There are more efficient processors out there, which will undoubtedly more practical for low-power, but the timeline to develop such products and develop middleware/emulation/application programming interfaces/ would require thousands, if not hundreds of thousands of coding hours, if it is ever prioritized at all. A simpler solution is to stay the course of the most conventional architectures (ARM [A720E](https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a720) on 2nm, for example would consume how much power at 200 Mhz and 16MB of RAM?). Without an Artisanal license like those by Apple, Intel and Samsung, amateur chip designers aren't going to have access to the most efficient cores, unless an [open source one](https://iis-projects.ee.ethz.ch/index.php/PULP) is developed.
 
 _Why hasn't this project begun earlier?_
 --
