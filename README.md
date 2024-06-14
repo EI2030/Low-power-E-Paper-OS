@@ -1,9 +1,6 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
-Questions, Seldomly Asked (QSAs)
----
-
-*Is this a real project?*
+Questions, Seldomly Asked (QSAs): *Is this a real project?*
 --
 
 Yes, it has since been late 2020. 
@@ -13,7 +10,7 @@ _Why is this important?_
 --
 This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion.
 
-_Hasn't soemthing like this project already been developed?_
+_Hasn't something like this project already been developed?_
 --
 Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
 
