@@ -25,8 +25,9 @@ I just had to take the hypertext idea and connect it to the TCP and DNS ideas an
 — Tim Berners-Lee[[32](https://www.w3.org/People/Berners-Lee/Kids.html)]" 
 
 _Why hasn't this project begun earlier?_
+--
 
-It's actually my fault. I got admitted to a university under a College of Liberal Arts and Science program, because I would not have stood a chance if I applied to the Engineering school, which I only had a tangential familiarity and interest at the time. I still haven't learned Linear Algebra and Differential Equations, so I do not have an M.S. or EE after my B.S. (though that didn't stop Steve Jobs from building anything, even without a B.A.) 
+It's actually my fault. I got admitted to a university under a College of Liberal Arts and Science program, because I would not have stood a chance if I applied to the Engineering school, which I only had a tangential familiarity and interest at the time. I still haven't learned Linear Algebra and Differential Calculus II, and  I do not have an M.S. or EE after my B.S. (though that didn't stop Steve Jobs from building anything, even without a B.A.) 
 
 _How can this project be completed?_
 --
