@@ -40,8 +40,9 @@ There are already programs for that. Congress is spending over [$280 Billion on 
 
 
 _Do you have some 1950's view of the future?_
+--
 
-Ask yourself, how many products you use and implicitly accept that are created from some previous inventor's idea of the future?
+Ask yourself first: how many products you use and implicitly accept that are created from some previous inventor's idea of the future?
 
 July, 1967
 --
