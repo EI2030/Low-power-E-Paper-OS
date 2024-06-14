@@ -1,5 +1,4 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
---
 ---
 Questions, Seldomly Asked (QSAs)
 ---
