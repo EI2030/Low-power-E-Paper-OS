@@ -1,3 +1,20 @@
+Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
+--
+Questions, Seldomly Asked (QSAs)
+--
+
+_Is this a real project?_ Yes, it has since late 2020. 
+
+_Why is this important?_ This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if they are on the pole at all, it's under the visible portion.
+
+_Hasn't this project already been developed?_ Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
+
+_Why did this project begin_ Partly inspired by the [Apollo program](https://en.wikipedia.org/wiki/George_Mueller_(engineer)#%22Father_of_the_Space_Shuttle%22) to place someone one the moon by 1970. 
+
+_Isn't an actual space mission (another) more important?_ There are already programs for that. Congress is spending over [$280 Billion on the CHIPS act](https://www.tomshardware.com/pc-components/cpus/unexpected-intel-military-chip-contract-drained-dollar3-billion-from-chips-act-senate-mulls-auction-to-restore-funds), and it's unclear how much of that is [going](https://tomdispatch.com/engelhardt-roads-to-nowhere-ghost-soldiers-and-a-43-million-gas-station-in-afghanistan/) [nowhere](https://en.wikipedia.org/wiki/Pork_barrel). 
+
+
+
 July, 1967
 --
 
