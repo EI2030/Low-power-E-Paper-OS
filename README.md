@@ -13,7 +13,7 @@ _Why is this important?_
 --
 This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion.
 
-_Hasn't this project already been developed?_ 
+Hasn't soemthing like this project already been developed?
 --
 Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
 
