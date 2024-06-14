@@ -1588,6 +1588,8 @@ Audio
 
 https://nwavguy.blogspot.com/2011/02/headphone-amp-impedance.html (not low-power specific, but helpful for quality considerations)
 
+https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/ 
+
 ---
 Similar projects/ of interest:
 ---
