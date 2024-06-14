@@ -28,6 +28,8 @@ In essence, it is following in a long tradition of technological [convergence](h
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/54a0a583-e846-4321-bf70-ba1feb0498eb)
 Modified chart from above link
 
+As you can see, this project is not all about computational efficiency at higher power levels. It is about computational efficiency at the lowest power levels possible to run in energy autarkic form factors.
+
 
 
 _Why hasn't this project begun earlier?_
