@@ -39,7 +39,7 @@ _Isn't an actual space mission (another) more important?_
 There are already programs for that. Congress is spending over [$280 Billion on the CHIPS act](https://www.tomshardware.com/pc-components/cpus/unexpected-intel-military-chip-contract-drained-dollar3-billion-from-chips-act-senate-mulls-auction-to-restore-funds), and it's unclear how much of that is [going](https://tomdispatch.com/engelhardt-roads-to-nowhere-ghost-soldiers-and-a-43-million-gas-station-in-afghanistan/) [nowhere](https://en.wikipedia.org/wiki/Pork_barrel).
 
 
-_Do you have some 1950's view of the future?_
+_Do you have some outdated 1950's view of the future?_
 --
 
 Ask yourself first: how many products you use and implicitly accept that are created from some previous inventor's idea of the future?
