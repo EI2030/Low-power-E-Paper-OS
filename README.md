@@ -3,23 +3,28 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 Questions, Seldomly Asked (QSAs)
 --
 
-_Is this a real project?_ Yes, it has since been late 2020. 
+*Is this a real project?*
+-- 
+Yes, it has since been late 2020. 
+--
+_Why is this important?_ 
+This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion.
 
-_Why is this important?_ This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion.
+_Hasn't this project already been developed?_ 
+--
+Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
 
-_Hasn't this project already been developed?_ Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
-
-_Why did this project begin?_ It's partly inspired by the [Apollo program](https://en.wikipedia.org/wiki/George_Mueller_(engineer)#%22Father_of_the_Space_Shuttle%22) to place someone one the moon by 1970. Also, Steve Jobs designed the 1984 Macintosh as a "computer for the rest of us," according to a [1990 Interview](https://www.youtube.com/watch?v=oNC8LEj5X4U) with [WGBH Boston](https://www.theatlantic.com/technology/archive/2011/10/time-capsule-an-hour-with-steve-jobs-in-1990/246388/). He integrated various technology components that previously only were used in technical laboratories. Tim-Berner's Lee, in 1989, integrated many of the internet protocols that already existed- hypertext - with HTTP:
-
+_Why did this project begin?_ 
+--
+It's partly inspired by the [Apollo program](https://en.wikipedia.org/wiki/George_Mueller_(engineer)#%22Father_of_the_Space_Shuttle%22) to place someone one the moon by 1970. Also, Steve Jobs designed the 1984 Macintosh as a "computer for the rest of us," according to a [1990 Interview](https://www.youtube.com/watch?v=oNC8LEj5X4U) with [WGBH Boston](https://www.theatlantic.com/technology/archive/2011/10/time-capsule-an-hour-with-steve-jobs-in-1990/246388/). He integrated various technology components that previously only were used in technical laboratories. Tim-Berner's Lee, in 1989, integrated many of the internet protocols that already existed- hypertext - with HTTP:
 ""In 1989, CERN was the largest Internet node in Europe and Berners-Lee saw an opportunity to join hypertext with the Internet:
-
 I just had to take the hypertext idea and connect it to the TCP and DNS ideas and—ta-da!—the World Wide Web.
-
 — Tim Berners-Lee[[32](https://www.w3.org/People/Berners-Lee/Kids.html)]" 
 
+How can this project be completed?
+--
 There are a state-of-the art memory technologies, processors, low power displays and radios out there that can be integrated into a laptop [listed here](https://github.com/EI2030/Low-power-E-Paper-OS/edit/master/Hyperlinks%20and%20Scratchpad.md), which has been updated continuously since 2021. I do not know which combination of components work best, but the [Law of Ergodicity](https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean) suggests each permutation will eventually produce the right combination. I am kidding, of course- it requires an educated analysis to make the fewest number of guesses. Kinda of like a Rubix cube? I am not a shape rotator- I am a word rotator. Yes, I made that up _too_.
-
-Few, if any companies are integrating them for users. If anything, they are prioritizing AI, because of "shiny thing syndrome." They believe that consumers have too many privileges, and think that solar powered computers are too slow to be worth trying.  
+Few, if any companies are integrating them for users. If anything, they are prioritizing AI, because of "shiny thing syndrome." They believe that consumers have too many privileges, and think that solar powered computers are too slow to be worth trying. Or, it is being worked, but they aren't telling anyone, and if so, why should consumers wait another 15 years before anyone realizes it's been possible since ~2011? 
 
 _Isn't an actual space mission (another) more important?_ There are already programs for that. Congress is spending over [$280 Billion on the CHIPS act](https://www.tomshardware.com/pc-components/cpus/unexpected-intel-military-chip-contract-drained-dollar3-billion-from-chips-act-senate-mulls-auction-to-restore-funds), and it's unclear how much of that is [going](https://tomdispatch.com/engelhardt-roads-to-nowhere-ghost-soldiers-and-a-43-million-gas-station-in-afghanistan/) [nowhere](https://en.wikipedia.org/wiki/Pork_barrel). 
 
