@@ -11,7 +11,7 @@ Yes, it has since been late 2020.
 
 _Why is this project important?_ 
 --
-This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion. It took 10 years to put someone on the moon, and it's been 13 years since the laptop was a product. So in a lot ofways, it's harder to put a solar panel on a laptop than it is to put a person on the moon or to explore the [bottom](https://www.reddit.com/r/explainlikeimfive/comments/jyi07p/eli5_how_is_it_easier_to_send_people_into_space/) of the sea.
+This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion. It took 10 years to put someone on the moon, and it's been 13 years since the Samsung[ NC 215S](https://news.samsung.com/global/samsung-electronics-launches-eco-friendly-solar-powered-rechargeable-netbook-nc-215s) laptop was a product. So in a lot of ways, it's harder to put a solar panel on a laptop than it is to put a person on the moon or to explore the [bottom](https://www.reddit.com/r/explainlikeimfive/comments/jyi07p/eli5_how_is_it_easier_to_send_people_into_space/) of the sea.
 
 _Hasn't something like this project already been developed?_
 --
