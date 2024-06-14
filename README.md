@@ -5,7 +5,7 @@ Questions, Seldomly Asked (QSAs)
 
 _Is this a real project?_ Yes, it has since been late 2020. 
 
-_Why is this important?_ This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if they are on the pole at all, it's under the visible portion.
+_Why is this important?_ This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion.
 
 _Hasn't this project already been developed?_ Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
 
