@@ -24,6 +24,10 @@ It's partly inspired by the [Apollo program](https://en.wikipedia.org/wiki/Georg
 I just had to take the hypertext idea and connect it to the TCP and DNS ideas and—ta-da!—the World Wide Web.
 — Tim Berners-Lee[[32](https://www.w3.org/People/Berners-Lee/Kids.html)]" 
 
+_Why hasn't this project begun earlier?_
+
+It's actually my fault. I got admitted to a university under a College of Liberal Arts and Science program, because I would not have stood a chance if I applied to the Engineering school, which I only had a tangential familiarity and interest at the time. I still haven't learned Linear Algebra and Differential Equations, so I do not have an M.S. or EE after my B.S. (though that didn't stop Steve Jobs from building anything, even without a B.A.) 
+
 _How can this project be completed?_
 --
 There are a number of state-of-the art memory technologies, processors, low power displays and radios out there that can be integrated into a laptop [listed here](https://github.com/EI2030/Low-power-E-Paper-OS/edit/master/Hyperlinks%20and%20Scratchpad.md), which has been updated continuously since 2021. I do not know which combination of components work best, but the [Law of Ergodicity](https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean) suggests each permutation will eventually produce the right combination. I am kidding, of course- it requires an educated analysis to make the fewest number of guesses. Kinda of like a Rubik's cube? I am not a shape rotator- I am a word rotator. Yes, I made that up _too_.
