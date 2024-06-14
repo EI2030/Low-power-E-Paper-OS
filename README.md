@@ -8,7 +8,7 @@ Questions, Seldomly Asked (QSAs)
 
 Yes, it has since been late 2020. 
 
---
+
 _Why is this important?_ 
 --
 This project would be a joke if it weren't so sad. Academia, Industry, and the Government considers this project so low on the totem pole that if it's on the pole at all, it's under the visible portion.
