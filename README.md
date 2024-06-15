@@ -41,7 +41,7 @@ It's partly inspired by the [Apollo program](https://en.wikipedia.org/wiki/Georg
 I just had to take the hypertext idea and connect it to the TCP and DNS ideas and—ta-da!—the World Wide Web. — Tim Berners-Lee[[32](https://www.w3.org/People/Berners-Lee/Kids.html)]" 
 
 In essence, it is following in a long tradition of technological [convergence](https://en.wikipedia.org/wiki/Technological_convergence), starting from the integrated [circuit](https://semiengineering.com/knowledge_centers/standards-laws/laws/makimotos-wave/) from [Makimoto's wave](https://semiengineering.com/specialization-vs-generalization-in-processors/):
-![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f9ed93ac-a01b-4141-9c47-25d628abd0f7)
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f9ed93ac-a01b-4141-9c47-25d628abd0f7) to even "intangible" things like protocols (e.g. HTTP/hypertext & TCP/IP)
 Source: Semi-engineering
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/54a0a583-e846-4321-bf70-ba1feb0498eb)
