@@ -907,6 +907,7 @@ RTOS/Linux/Legacy OS development:
 ----
 
 https://axio.ms/projects/2024/06/16/MicroMac.html
+https://macgui.com/news/article.php?t=492#:~:text=Would%20you%20believe%20that%20there,the%20Mac%20512K%20was%20released
 
 https://github.com/sarah-walker-pcem/pcem/?tab=readme-ov-file#386-based
 https://casadevall.pro/articles/2020/06/softlanding-linux-system-1.0.5/
