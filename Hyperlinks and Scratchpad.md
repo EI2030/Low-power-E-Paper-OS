@@ -45,6 +45,8 @@ Apollo3 running 6uA/mhz, use so little power than I was able to solar power the 
 
 Furthermore, the definition of "high-tech" and "low-tech" is due for a re-examination: https://en.wikipedia.org/wiki/High_tech This subject will be examined more in detail in a future analysis. 
 
+https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution
+
 http://www.paperterm.org/notes.html (low bandwidth, low power, pixel perfect ASCII-like text (1 bit per pixel?) interface over SSH and remote clients using low powered microcontrollers. Kind of like SteamLink, but for 2D/TUI interfaces.
 
 Solar Powered Webserver: https://solar.lowtechmagazine.com/2023/06/rebuilding-a-solar-powered-website/ Lowtech Magazine recently benchmarked the website generation times for their solar powered website, and has compared the generation times between Hugo and Pelican:
