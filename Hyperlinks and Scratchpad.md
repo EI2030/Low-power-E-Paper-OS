@@ -246,6 +246,7 @@ https://en.wikipedia.org/wiki/DDR_SDRAM#History
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/d84fa78e-09e4-40f1-9d6d-2a030e67f1b8)
 
+Linux 6.1 on 8MB: https://twitter.com/ReimuNotMoe/status/1787146317594321241/photo/1
 
 A Samsung DDR SDRAM 64 Mbit chip
 
