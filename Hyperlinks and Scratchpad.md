@@ -1004,6 +1004,10 @@ https://www.w3.org/People/Berners-Lee/FAQ.html#browser
 https://www.w3.org/History/1991-WWW-NeXT/Implementation/
 
 Symbian OS and Psion's earlier OS
+--
+
+https://www.abortretry.fail/p/of-psion-and-symbian
+
 https://en.wikipedia.org/wiki/EPOC_(operating_system) 16 & 32-bit
 https://en.wikipedia.org/wiki/EKA2 32-bit
 
