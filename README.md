@@ -611,13 +611,17 @@ I had written something in my draft about I/O shields, and how many new SBC boar
 
 from https://www.aaeon.com/en/p/pico-itx-boards-pico-apl3-semi  (smallest case with _standard_ form factor- pico ITX. With Raspberry Pi, you are at the manufacturer's whims each generation if they change up the design)
 
-![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e2e89a73-c420-4dce-967c-feebfec8f22e)
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/6b0b3e94-728f-438d-a845-c2d0cf62469a)
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/d3463ad3-a89b-417f-89bf-14baf503b445)
 
-
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/a2309074-029b-4f68-bf7a-2d234bcfb455)
 
+Other mini-ITX cases with flexible backplate slots: 
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/f0e7dc49-62a7-4d3f-abb6-fb696e126b86)
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/387c6768-eb6d-4d16-9302-86d854cec055)
 
 This little "cosmetic" detail could support more reusability and dual-use integration into laptops such as the PiTop, which do not require major modification of chassis if the rectangular I/O shield can be limited to a narrow segment of the chassis. As mentioned in my mobile-ITX [blog](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Mobile-ITX%20and%20ATX-like%20standards%20for%20SBCs%20and%20mobile%20motherboards.pdf) post, degrees of freedom are a chemistry concept that chemist know more about, and architects of SBCs have far more leeway into rearranging components that do not require convoluted overpasses of wires above heatsinks to reach the backplate I/O.
 
