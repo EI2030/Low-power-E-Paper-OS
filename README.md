@@ -605,6 +605,10 @@ To tie this back to the hypothesis stage, the phrase "talk is cheap" isn't to de
 The cost of prototypes, toys, and research, are, according to Byrne Hobart, "But there's a feature of the outside world that also has a major impact: solutions-in-search-of-a-problem and toys-in-search-of-real-world-use are both less costly and more valuable in a world of lower real interest rates." (A Solution in Search of a Problem" is a Low-Rates Phenomenon
  12/12/20222) 
 
+Form Factors
+--
+
+
 I had written something in my draft about I/O shields, and how many new SBC boards such as Raspberry Pi, Orange Pi and even AMD, could share more similar [form factors](https://hackaday.io/page/21232-platos-ideal-world) to support even long-side backplates (as in AMD's case)  if they developed something like a mini i/o shield (1/6 scale perhaps).
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/8ae9c019-3fe0-4e4a-ba06-3e69bea48545)
