@@ -57,6 +57,16 @@ Also,[ Reduce first, then reuse second, THEN recycle](https://en.wikipedia.org/w
 
 There are more efficient processors out there, which will undoubtedly more practical for low-power, but the timeline to develop such products and develop middleware/emulation/application programming interfaces/ would require thousands, if not hundreds of thousands of coding hours, if it is ever prioritized at all. A simpler solution, for underdeveloped and emerging markets, is to stay the course of the most conventional architectures (ARM [A720E](https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a720) on 2nm, for example would consume how much power at 200 Mhz and 16MB of RAM?). This would allow chipsets to be developed within a few years, rather than more than 5. Without an [Artisanal](https://www.arm.com/products/silicon-ip-physical) [license](https://www.anandtech.com/show/18811/intel-ifs-partners-up-with-arm-to-design-socs-on-intel-s-upcoming-18a-node) like those by Apple, Intel and Samsung, amateur chip designers aren't going to have access to the most efficient cores, unless an [open source one](https://iis-projects.ee.ethz.ch/index.php/PULP) is developed.
 
+Legacy Software Developers who have moved on to new platforms (or new paid work):
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/56c807c9-e667-438c-838a-b9d484a78958)
+
+Vintage software salvagers/dumpster divers:
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/261d28c6-e230-44aa-bda6-473a3ef7b7e7)
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/937e1265-2475-488b-b70d-43ad4def5c4f)
+
 _Why hasn't this project begun earlier?_
 --
 
