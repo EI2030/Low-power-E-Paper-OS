@@ -607,7 +607,17 @@ The cost of prototypes, toys, and research, are, according to Byrne Hobart, "But
 
 I had written something in my draft about I/O shields, and how many new SBC boards such as Raspberry Pi, Orange Pi and even AMD, could share more similar [form factors](https://hackaday.io/page/21232-platos-ideal-world) to support even long-side backplates (as in AMD's case)  if they developed something like a mini i/o shield (1/6 scale perhaps).
 
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/8ae9c019-3fe0-4e4a-ba06-3e69bea48545)
+
+from https://www.aaeon.com/en/p/pico-itx-boards-pico-apl3-semi  (smallest case with _standard_ form factor- pico ITX. With Raspberry Pi, you are at the manufacturer's whims each generation if they change up the design)
+
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/e2e89a73-c420-4dce-967c-feebfec8f22e)
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/d3463ad3-a89b-417f-89bf-14baf503b445)
+
+
+![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/a2309074-029b-4f68-bf7a-2d234bcfb455)
+
 
 This little "cosmetic" detail could support more reusability and dual-use integration into laptops such as the PiTop, which do not require major modification of chassis if the rectangular I/O shield can be limited to a narrow segment of the chassis. As mentioned in my mobile-ITX [blog](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Mobile-ITX%20and%20ATX-like%20standards%20for%20SBCs%20and%20mobile%20motherboards.pdf) post, degrees of freedom are a chemistry concept that chemist know more about, and architects of SBCs have far more leeway into rearranging components that do not require convoluted overpasses of wires above heatsinks to reach the backplate I/O.
 
