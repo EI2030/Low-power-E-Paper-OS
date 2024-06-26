@@ -74,7 +74,7 @@ It's actually my fault. I got admitted to a university under a College of Libera
 
 It's also likely that industry is more interested in developing products that fit into nice, clean boxes- and claiming that wanting to meet climate goals for carbon emissions is easier by check all the boxes for meeting individual products's carbon footprint, but discourage [Right to Repair](https://www.404media.co/samsung-requires-independent-repair-shops-to-share-customer-data-snitch-on-people-who-use-aftermarket-parts-leaked-contract-shows/) product lifecycles, which collectively can re-use and re-pool parts to the second-hand market. Instead of trying to repair expensive products, it's better to develop a basic platform separate from all of that, one that doesn't create disposable hobby waste with incompatible form factors, but can be upgraded over time, piecemeal. 
 
-_How does this project affect GNP?_
+_How does this project contribute to Gross National Product (GNP)?_
 --
 For Gross National Product, see this [Investopedia](https://www.investopedia.com/terms/g/gnp.asp#:~:text=Gross%20national%20product%20is%20one,income%20earned%20by%20foreign%20residents.) for definition. There are other metrics of [Growth](https://www.rostoneopex.com/short-reads/what-are-the-alternatives-to-gdp-as-a-measure-of-growth#:~:text=Alternative%20measures%20to%20GDP%20provide,comprehensive%20assessment%20of%20societal%20advancement.), such as GNH, SPI, and HDI.
 
