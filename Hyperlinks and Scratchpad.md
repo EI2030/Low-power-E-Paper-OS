@@ -215,6 +215,10 @@ https://www.eenewseurope.com/en/efabless-to-offer-weebit-reram-memory-at-130nm/
 
 https://www.eenewseurope.com/en/reram-sees-high-temperature-qualification-first-22nm-wafers/
 
+https://www.cnx-software.com/2024/06/21/nuvoton-numicro-m2l31-arm-cortex-m23-mcu-embeds-up-to-512kb-high-durability-reram-168kb-sram/
+
+https://direct.nuvoton.com/en/numaker-m2l31ki
+
 https://www.eenewseurope.com/en/surecore-optimises-ai-memory-ip-for-low-power/
 
 https://www.sure-core.com/new-wp/wp-content/uploads/2022/05/PowerMiser.pdf 22 ULL
@@ -1068,6 +1072,7 @@ https://drive.google.com/file/d/1CD3CSYefHzrhmKAMiCMr0bcJLKvqwj3r/view
 
 https://www.youtube.com/watch?v=RkeaQNU8EtA Mac OS X Developer Preview 1 & 2 (1999-2000)
 
+https://hcsimulator.com/ Hypercard sim 
 
 Devuan
 --
