@@ -856,6 +856,11 @@ https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Microcontroller%20to%
 https://www.eejournal.com/article/a-history-of-early-microcontrollers-part-1-calculator-chips-came-first/
 https://ethw.org/Oral-History:Gary_Boone
 
+Computer History
+--
+https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/
+
+
 ----
 Li-ion capacitors:
 -----
