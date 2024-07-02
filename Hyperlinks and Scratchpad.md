@@ -803,6 +803,9 @@ https://www.rcrwireless.com/20240222/internet-of-things-4/power-no-longer-a-conc
 https://iotbusinessnews.com/2024/02/22/78879-sony-semiconductor-israel-announces-commercial-availability-of-the-alt1350-lpwa-chipset/
 https://www.digikey.com/en/products/detail/quectel/BG950SGL00AA-8N-TB0AA/22155939 
 
+https://reticulum.network/ 
+https://github.com/markqvist/Reticulum
+https://github.com/markqvist/Reticulum/raw/master/docs/Reticulum%20Manual.pdf 
 
 https://www.eenewseurope.com/en/neocortec-and-mikroe-make-wireless-mesh-networking-simple/
 
@@ -816,6 +819,8 @@ https://www.qorvo.com/products/p/QM55001 4mmx4mm
 https://www.qorvo.com/products/p/QM55003 4mmx433
 
 https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
+
+https://meshtastic.org/ 
 
 https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ur
 
