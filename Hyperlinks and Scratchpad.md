@@ -1681,6 +1681,13 @@ https://github.com/TheNeuronProject/ef.qt
 DOS + GUISs
 ----
 
+https://arstechnica.com/gadgets/2024/06/30-years-later-freedos-is-still-keeping-the-dream-of-the-command-prompt-alive/
+
+https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/
+
+https://arstechnica.com/gadgets/2023/07/going-deep-with-the-book-8088-the-brand-new-laptop-that-runs-like-its-1981/
+
+
 http://www.fabglib.org/ https://github.com/fdivitto/fabgl
 
 https://www.youtube.com/watch?v=Tr2yMjrgP8o  IBM PC on ESP32 with FabGL - Part VI (Linux ELKS)
