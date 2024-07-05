@@ -30,6 +30,10 @@ What it is emphasizing, however, is that a smartphone or laptop/monitor with suf
 
 As computers becoming more powerful in smaller envelopes, one day there might be quad core or even octa-core processors running on microwatts of power and running 10 Chrome tabs, powered by body-heat, RF or solar power. To get there, though, one needs/really ought/should make a Nokia [6110](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) first on solar power.  
 
+Reason 3: 
+
+If you could identify a low-cost, low-risk, information bottleneck that could be commodified as a counter-intelligence operation, would you a: sell it to DARPA, b: do nothing but request a FOIA that takes years after the discovery, or C: educate the public?  
+
 _Hasn't something like this project already been developed?_
 --
 Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
