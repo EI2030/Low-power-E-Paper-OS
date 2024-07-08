@@ -506,6 +506,7 @@ VIA Isaiah (SSE1, SSE2, SSE3, 64-bit, virtualization)
 http://www.bitsavers.org/components/intel/_dataBooks/1988_Introduction_to_Intel_Cell-Based_Design.pdf
 
 https://www.righto.com/2024/07/pentium-standard-cells.html 
+https://news.ycombinator.com/item?id=40899393
 
 EE Times on Intel and AMD system-on-chip progress https://www.eetimes.com/latest-32-bit-risc-architecture-for-automotive-expands-functionality/?articleid=204702686
 non-X86
