@@ -507,6 +507,7 @@ http://www.bitsavers.org/components/intel/_dataBooks/1988_Introduction_to_Intel_
 
 https://www.righto.com/2024/07/pentium-standard-cells.html 
 https://news.ycombinator.com/item?id=40899393
+https://vimeo.com/731037615
 
 EE Times on Intel and AMD system-on-chip progress https://www.eetimes.com/latest-32-bit-risc-architecture-for-automotive-expands-functionality/?articleid=204702686
 non-X86
