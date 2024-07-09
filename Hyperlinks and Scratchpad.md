@@ -1445,6 +1445,10 @@ https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized plat
 
 https://paragraph.xyz/@protocolized/protocols-are-eating-the-world
 
+https://en.wikipedia.org/wiki/Project_Ara One wonders why these projects gets cancelled. Perhaps Apple hands a bag of money to the lead developer, and nothing is heard again? How many times do modular concepts get cancelled due to greed, rather than infeasability? 
+
+https://www.theverge.com/2014/1/29/5359068/google-keeping-motorola-advanced-technology-group-project-ara-phone 
+
 Near Threshold Voltage & Chiplets:
 --
 
