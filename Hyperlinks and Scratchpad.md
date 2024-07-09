@@ -1443,6 +1443,8 @@ https://www.sciencedirect.com/science/article/abs/pii/S1386505697001214?via%3Dih
 
 https://en.wikipedia.org/wiki/Network_effect any harmonized or standardized platform needs a network effect for it to be affordable and attractive 
 
+https://paragraph.xyz/@protocolized/protocols-are-eating-the-world
+
 Near Threshold Voltage & Chiplets:
 --
 
