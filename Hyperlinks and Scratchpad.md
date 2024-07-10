@@ -213,7 +213,7 @@ https://ieeexplore.ieee.org/document/9439623 "A Comprehensive Oxide-Based ReRAM 
 
 https://www.eenewseurope.com/en/efabless-to-offer-weebit-reram-memory-at-130nm/
 
- https://www.eenewseurope.com/en/fujitsu-takes-nuvoton-reram-to-12mbit/ This article reveals some interesting power consumption numbers: 150uA at 5MHz is interesting. Seems like a large, quadratic(?) leap from 5 to 10mHz: it's 1mA at double to the speed.
+ https://www.eenewseurope.com/en/fujitsu-takes-nuvoton-reram-to-12mbit/ This article reveals some interesting power consumption numbers: 150uA at 5MHz is great. Seems like a large, quadratic(?) leap from 5 to 10mHz: it's 1mA at double the speed.
 
 https://www.eenewseurope.com/en/reram-sees-high-temperature-qualification-first-22nm-wafers/
 
