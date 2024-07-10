@@ -11,7 +11,13 @@ Yes, it has since been late 2020.
 _Why are there so many jokes in my Github repositories?_
 --
 
-"Isaac Asimov once said “The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ but ‘That’s funny…'” https://quoteinvestigator.com/2015/03/02/eureka-funny/#google_vignette
+"Isaac Asimov supposedly once said “The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ but ‘That’s funny…'” https://quoteinvestigator.com/2015/03/02/eureka-funny/#google_vignette
+
+"A thematically related passage appeared in 1965 within the London periodical “Science Journal”. An article by British journalist Gordon Rattray Taylor discussed the process of scientific discovery:3
+
+The popular picture of the scientist is of a man who is visited by a flash of insight and cries, in effect, “Eureka!” Or, more modestly, as a man who notices something others have ignored and mutters “That’s odd.”
+
+To be realistic, however, the successful scientist often seizes on a new tool or a new technique and applies it sooner than anyone else."
 
 I do not have an institutional position that represents expertise, therefore I am less obligated to make a tidy and neat project. That said, this page could be tidier. It's more a scattered collection of long ruminated thoughts rather than a completely consistent focus. That I joke about many things doesn't detract from the proven technologies demonstrated by others here (and in my [own](https://youtu.be/428cgrpPR0w) [solar](https://youtu.be/0ztj_MDNRcI) [tests](https://www.youtube.com/watch?v=jeXPXmlq9TQ)). I don't think this project would be possible without a little humor. For those that still don't understand the many contradictions here, it involves some [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), along with the need for [abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning) as a common form of analysis. I particularly think disbelief also has a lot to do with [agnotology](https://www.optoutproject.net/what-is-true-on-the-internet/), a new word I just learned, but have understood for decades as the study of both willfull and unwitting ignorance/doubt.
 
