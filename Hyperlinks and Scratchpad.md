@@ -1078,6 +1078,25 @@ https://en.wikipedia.org/wiki/Capability-based_security
 https://en.wikipedia.org/wiki/CapROS
 https://en.wikipedia.org/wiki/Smalltalk
 
+https://inf.ethz.ch/news-and-events/spotlights/infk-news-channel/2021/05/from-the-archives-lilith.html
+
+https://www.theregister.com/2024/02/26/starting_over_rebooting_the_os/
+
+https://github.com/btreut/a2
+https://gitlab.inf.ethz.ch/felixf/oberon
+
+https://squeak.org/
+https://opendylan.org/
+
+https://steve-yegge.blogspot.com/2008/11/ejacs-javascript-interpreter-for-emacs.html
+
+https://newspeaklanguage.org/
+
+https://steve-yegge.blogspot.com/2008/11/ejacs-javascript-interpreter-for-emacs.html
+
+https://pretalx.com/devconf-cz-2024/talk/W3AVCT/ 
+https://news.ycombinator.com/item?id=40907933
+
 https://www.vitanuova.com/inferno/docs.html
 https://dboddie.gitlab.io/inferno-diary/2023-08-22.html
 https://github.com/dboddie/inferno-os/tree/apollo3
