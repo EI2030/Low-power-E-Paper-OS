@@ -8,7 +8,7 @@ Brainstorming Draft Specs to develop "FemtoTX" and "AttoTX" form factor
 
 https://en.wikipedia.org/wiki/Small_Form_Factor_Special_Interest_Group
 
-"FemtoTX" (fTX) could be used for tablets and laptops, whereas "AttoTX" (aTX) could be for cell phones, or at least small enough to be in a keycard or usb drive. Though there could be an overlap so that attoTX can also fit on a femtoTX mounting holes (similar to mini-ITX fitting on 4 of 9 Micro holes.
+"FemtoTX" (fTX) could be used for tablets and laptops, whereas "AttoTX" (aTX) could be for cell phones, and least small enough to be in a RSA, keycards and usb drives. Though there could be an overlap so that attoTX can also fit on a femtoTX mounting holes (similar to mini-ITX fitting on 4 of 9 Micro holes.
 
 micro	μ	10−6	0.000001	1873
 
