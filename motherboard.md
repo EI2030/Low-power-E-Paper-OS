@@ -11,11 +11,16 @@ https://en.wikipedia.org/wiki/Small_Form_Factor_Special_Interest_Group
 "FemtoTX" (fTX) could be used for tablets and laptops, whereas "AttoTX" (aTX) could be for cell phones, or at least small enough to be in a keycard or usb drive. Though there could be an overlap so that attoTX can also fit on a femtoTX mounting holes (similar to mini-ITX fitting on 4 of 9 Micro holes.
 
 micro	μ	10−6	0.000001	1873
+
 nano	n	10−9	0.000000001	1960
+
 pico	p	10−12	0.000000000001
+
 femto	f	10−15	0.000000000000001	1964
+
 atto	a	10−18	0.000000000000000001
 
+https://en.wikipedia.org/wiki/Metric_prefix#List_of_SI_prefixes (chosen for easy reference, rather than arbitrarily small form factor concept)
 
 Modules and Stackable PCBs are typically the most common form factors at sizes under NanoITX. I think this reasoning is not ideal for this standard, because both require or emphazing extra vertical spacing and boards. While this might apppear to ensure a secure connectivity, it appears to increase the minimum number of "boards" to 2.
 
