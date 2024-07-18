@@ -492,6 +492,7 @@ Problems arise when too many group members choose to pursue individual profit an
 History on Marketing for Apple
 -----
 
+https://stevejobsarchive.com/exhibits/objects-of-our-life (!983 International Design Conference in Aspen, Colorado)
 
 "Of all the great companies of recent memory, there is only one
 that seemed to have no character, but only an attitude, a style, a
