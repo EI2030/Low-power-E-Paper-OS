@@ -494,6 +494,8 @@ History on Marketing for Apple
 
 https://stevejobsarchive.com/exhibits/objects-of-our-life (1983 International Design Conference in Aspen, Colorado)
 
+https://stevejobsarchive.com/book/download (EPUB, 32MB)
+
 "Of all the great companies of recent memory, there is only one
 that seemed to have no character, but only an attitude, a style, a
 collection of mannerisms. It constructed a brilliant simulacrum of
