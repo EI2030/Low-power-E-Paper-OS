@@ -500,6 +500,7 @@ from https://wiki.laptop.org/go/Gen2_CPU_Ideas :
 This section (indeed, the whole page) is all about ideas -- not about deals with chip vendors, plans for products, or anything so concrete. Add your own ideas.
 
 X86
+--
 AMD Geode family extensions (SSE1)
 Intel "Diamondville" (SSE1, SSE2, SSE3, 64-bit, virtualization, 2 cores, some (2?) threads per core)
 VIA Isaiah (SSE1, SSE2, SSE3, 64-bit, virtualization)
@@ -536,6 +537,8 @@ https://www.reddit.com/r/todayilearned/comments/a23p5i/til_intels_patent_on_the_
 https://www.allaboutcircuits.com/news/are-designers-still-using-the-vortex86-old-cpu-ces-2018/
 
 https://www.icop.com.tw/article/205 
+
+https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/ 
 
 ---
 SkyWater ideas
