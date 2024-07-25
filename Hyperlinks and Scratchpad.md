@@ -876,6 +876,9 @@ Computer History
 --
 https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/
 
+https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon
+
+https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand
 
 ----
 Li-ion capacitors:
