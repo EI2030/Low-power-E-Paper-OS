@@ -880,6 +880,10 @@ https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-y
 
 https://culture.pl/en/article/jacek-karpinski-the-computer-genius-the-communists-couldnt-stand
 
+https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/ 
+
+https://dl.acm.org/doi/pdf/10.1145/237090.237169 "Multiple-block ahead branch predictors" (1996)
+
 ----
 Li-ion capacitors:
 -----
