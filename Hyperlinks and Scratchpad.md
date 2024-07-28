@@ -745,6 +745,8 @@ https://www.j-display.com/english/product/reflective.html
 
  https://www.theverge.com/23954584/e-ink-color-tablets-ereader "Is E Ink finally ready for prime time?"
 
+ https://liliputing.com/zerowriter-ink-is-an-open-source-word-processor-with-an-e-ink-display-and-a-mechanical-keyboard-crowdfunding/
+
 https://www.youtube.com/watch?v=EKLBpOeX97c
 
 
