@@ -118,6 +118,18 @@ _Isn't an actual space mission (another) more important?_
 --
 There are already programs for that. Congress is spending over [$280 Billion on the CHIPS act](https://www.tomshardware.com/pc-components/cpus/unexpected-intel-military-chip-contract-drained-dollar3-billion-from-chips-act-senate-mulls-auction-to-restore-funds), and it's unclear how much of that is [going](https://tomdispatch.com/engelhardt-roads-to-nowhere-ghost-soldiers-and-a-43-million-gas-station-in-afghanistan/) [nowhere](https://en.wikipedia.org/wiki/Pork_barrel).
 
+https://www.intel.com/content/www/us/en/newsroom/news/us-chips-act-intel-direct-funding.html#gs.d1qhjn (3/20/24)
+
+"Intel’s investments are expected to create more than 10,000 company jobs and nearly 20,000 construction jobs, and to support more than 50,000 indirect jobs with suppliers and supporting industries."
+
+
+However, from https://www.theverge.com/2024/8/1/24210656/intel-is-laying-off-over-10000-employees-and-will-cut-10-billion-in-costs :
+
+"The chipmaker just announced it’s downsizing its workforce by over 15 percent as part of a new $10 billion cost savings plan for 2025, which will mean a headcount reduction of greater than 15,000 roles, Intel tells The Verge. The company currently employs over 125,000 workers, so layoffs could be as many as 19,000 people.
+
+Intel will reduce its R&D and marketing spend by billions each year through 2026; it will reduce capital expenditures by more than 20 percent this year; it will restructure to “stop non-essential work,” and it’ll review “all active projects and equipment” to make sure it’s not spending too much."
+
+10,000 jobs created, followed by 15,000 jobs lost = net staff of -5000 jobs. Plus R&D is cut. So there goes the Intel [Claremont](https://bit-tech.net/reviews/tech/cpus/intel-solar-powered-cpu/1/). Have a datacenter? Intel has no problem selling you its Dynamic Voltage Frequency Scaling technology in orders above 10,000. Create a single core, x86 processor that can run on 5mW? Intel is not interested in your pocket change. 
 
 _Do you have some outdated 1950's view of the future?_
 --
