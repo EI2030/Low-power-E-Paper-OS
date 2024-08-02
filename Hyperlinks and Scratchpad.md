@@ -2001,3 +2001,8 @@ Forking Practices in Social Coding
 https://cmustrudel.github.io/papers/fse19forks.pdf
 
 Not related, but an early LCD: https://www.youtube.com/watch?v=eGQQWIbD-nM&t=0s
+
+3D Printed Cases (Phones, Laptops, etc)
+---
+
+https://github.com/ZitaoTech/Hackberry-Pi_Zero
