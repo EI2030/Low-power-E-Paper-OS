@@ -201,6 +201,8 @@ https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 ---
 RAM:
 ---
+https://www.eenewseurope.com/en/imec-asml-show-logic-and-dram-built-with-high-na-euv-lithography/ 
+
 https://www.nature.com/articles/s41586-022-04992-8 "A compute-in-memory chip based on resistive random-access memory" 2022 
 
 https://en.wikipedia.org/wiki/Resistive_random-access_memory 
