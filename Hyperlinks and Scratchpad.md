@@ -1270,6 +1270,8 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB & Chip Design:
 ---
 
+https://spectrum.ieee.org/avnet-amd-space
+
 https://resources.altium.com/p/open-source-laptop-part-one
 
 https://semiengineering.com/specialization-vs-generalization-in-processors
