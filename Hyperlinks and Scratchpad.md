@@ -809,6 +809,8 @@ https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
 Wireless Modems:
 ----
 
+ "[Integrated Silicon Microwave and Millimeterwave Passive Components and Functions](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aaaeb7cd32ae4ecaca699702f77b890248abbc82)" (2010)
+
 https://www.eenewseurope.com/en/ultra-low-power-bluetooth-core-for-hearables/
 
 https://www.eenewseurope.com/en/lpwa-soc-for-lte-m-nb-iot-commercially-available/ Quectel BG950S-GL LPWA https://www.quectel.com/product/lpwa-bg950s-gl-cat-m1-nb2 https://altair.sony-semicon.com/ "It features cellular connected standby mode (eDRX) connectivity at a power consumption of below 3µA,
