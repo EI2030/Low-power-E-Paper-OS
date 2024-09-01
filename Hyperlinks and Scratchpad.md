@@ -880,6 +880,12 @@ https://ethw.org/Oral-History:Gary_Boone
 
 Computer History
 --
+
+https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3884041/nsa-releases-copy-of-internal-lecture-delivered-by-computing-giant-rear-adm-gra/  (8-26-2024)
+
+https://www.youtube.com/watch?v=si9iqF5uTFk (pat 1)  Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)
+https://www.youtube.com/watch?v=AW7ZHpKuqZg (part 2)  Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)
+
 https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/
 
 https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon
