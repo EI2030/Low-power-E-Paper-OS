@@ -70,6 +70,13 @@ Also,[ Reduce first, then reuse second, THEN recycle](https://en.wikipedia.org/w
 
 There are more efficient processors out there, which will undoubtedly more practical for low-power, but the timeline to develop such products and develop middleware/emulation/application programming interfaces/ would require thousands, if not hundreds of thousands of coding hours, if it is ever prioritized at all. A simpler solution, for underdeveloped and emerging markets, is to stay the course of the most conventional architectures (ARM [A720E](https://www.arm.com/products/silicon-ip-cpu/cortex-a/cortex-a720) on 2nm, for example would consume how much power at 200 Mhz and 16MB of RAM?). This would allow chipsets to be developed within a few years, rather than more than 5. Without an [Artisanal](https://www.arm.com/products/silicon-ip-physical) [license](https://www.anandtech.com/show/18811/intel-ifs-partners-up-with-arm-to-design-socs-on-intel-s-upcoming-18a-node) like those by Apple, Intel and Samsung, amateur chip designers aren't going to have access to the most efficient cores, unless an [open source one](https://iis-projects.ee.ethz.ch/index.php/PULP) is developed.
 
+https://www.eenewseurope.com/en/intel-cpu-architects-leave-to-form-risc-v-startup/
+
+https://www.reddit.com/r/hardware/comments/1f0j0kh/former_top_intel_cpu_architects_launch_ahead/ https://en.wikipedia.org/wiki/Traitorous_eight
+
+![image](https://github.com/user-attachments/assets/a87b8a52-8ccc-477d-8568-a6a84e35786b)
+
+
 Legacy Software Developers who have moved on to new platforms (or new paid work):
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/56c807c9-e667-438c-838a-b9d484a78958)
