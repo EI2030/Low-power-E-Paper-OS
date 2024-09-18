@@ -726,6 +726,8 @@ https://www.modos.tech/
 
 https://www.crowdsupply.com/soldered/inkplate-6-motion
 
+https://www.tomshardware.com/monitors/boe-and-intels-winning-display-reduces-power-consumption-by-65-using-ai-driven-1-to-120-hz-dynamic-refresh (1HZ!)
+
 Transflective (non-backlit): https://www.youtube.com/watch?v=L-GJjOucBNY 
 
 Thin Film Diode: https://corporate.epson/en/about/history/milestone-products/2000-11-md19.html
