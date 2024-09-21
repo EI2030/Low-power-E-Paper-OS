@@ -765,6 +765,10 @@ https://en.wikipedia.org/wiki/Passive_matrix_addressing
 https://retro.swarm.cz/20170902/1143/ (why passive matrix screens use far fewer transistors)
 https://retro.swarm.cz/tag/lcd/
 https://en.wikipedia.org/wiki/DSTN
+https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket
+https://en.wikipedia.org/wiki/STN_display#FSTN
+https://en.wikipedia.org/wiki/High-performance_addressing
+https://web.archive.org/web/20110722071900/http://users.utcluj.ro/~baruch/media/siee/lecture/Lecture-IOS07.pdf
 
 ---
 Solar Power Managers (integrated):
