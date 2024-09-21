@@ -763,6 +763,8 @@ https://www.youtube.com/watch?v=BKm45Az02YE
 https://newhavendisplay.com/blog/a-beginners-guide-to-active-matrix-and-passive-matrix/?srsltid=AfmBOopv_b5pOGzlagvE7k6nX9-zOVUjAsJa14VohEcEcrv3YZ9eI2I-
 https://en.wikipedia.org/wiki/Passive_matrix_addressing
 https://retro.swarm.cz/20170902/1143/ (why passive matrix screens use far fewer transistors)
+https://retro.swarm.cz/tag/lcd/
+https://en.wikipedia.org/wiki/DSTN
 
 ---
 Solar Power Managers (integrated):
