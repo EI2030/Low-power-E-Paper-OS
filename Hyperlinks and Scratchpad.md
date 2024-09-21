@@ -759,6 +759,10 @@ https://www.j-display.com/english/product/reflective.html
 https://eazeye.com/
 https://www.youtube.com/watch?v=m7wlQYMt9Vk
 
+https://www.youtube.com/watch?v=BKm45Az02YE
+https://newhavendisplay.com/blog/a-beginners-guide-to-active-matrix-and-passive-matrix/?srsltid=AfmBOopv_b5pOGzlagvE7k6nX9-zOVUjAsJa14VohEcEcrv3YZ9eI2I-
+https://en.wikipedia.org/wiki/Passive_matrix_addressing
+https://retro.swarm.cz/20170902/1143/ (why passive matrix screens use far fewer transistors)
 
 ---
 Solar Power Managers (integrated):
