@@ -1840,8 +1840,10 @@ https://web.archive.org/web/20240528075957/https://firstmicroprocessor.com/
 
 https://www.youtube.com/watch?v=dxvcBa2RIbU
 
+https://www.youtube.com/watch?v=wVyu7NB7W6Y Exposing The Flaw In Our Phone System (Blue Boxes)
+
 ---
-Low-Precision/High THroughput
+Low-Precision/High Throughput
 ---
 
 https://en.wikipedia.org/wiki/Tensor_Processing_Unit#Comparison_to_CPUs_and_GPUs
