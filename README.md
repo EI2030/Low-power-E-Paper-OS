@@ -150,6 +150,14 @@ Ask yourself first: how many products you use and implicitly accept that are cre
 ------
 
 ------
+
+June 1752
+---
+![image](https://github.com/user-attachments/assets/1a82bb17-5b5e-4f0a-9298-5ff791a91ca4)
+
+"Ben Franklin Demonstrates the identity of Lightning and Electricity, from which he invented the lightning Rod.
+
+
 Dawn of Public TV: July, 1967
 --
 
@@ -195,13 +203,20 @@ Conceived in the UK by the Raspberry Pi Foundation, this credit card-sized compu
 
 ![Science](https://github.com/user-attachments/assets/d5c516ae-d928-4f96-807e-2faa82a616c6)
 
+https://en.wikipedia.org/wiki/Intel_Quark
 
+Quark powers the (now discontinued) Intel Galileo developer microcontroller board.[3] In 2016 Arduino released the Arduino 101 board that includes an Intel Quark SoC.[4][5] The CPU instruction set is, for most models, the same as a Pentium (P54C/i586) CPU.[6]
+
+Intel announced the end-of-life of its Quark products in January 2019, with orders accepted until July 2019 and final shipments set for July 2022.[1][11]
 
 November 30, 2022: The [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)-like amplification of the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet
 ---
 ChatGPT (Chat Generative Pre-trained Transformer) is a chatbot developed by OpenAI and launched on November 30, 2022. Based on a large language model, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Successive prompts and replies, known as prompt engineering, are considered at each conversation stage as a context.[2]
 
 By January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to the growth of OpenAI's current valuation of $80 billion.[3][4] 
+
+
+![image](https://github.com/user-attachments/assets/778054c7-eaaa-4500-9f1d-b2685cc5917d)
 
 A Neologism is Coined
 --
@@ -215,6 +230,8 @@ The term enshittification was coined by Doctorow in a November 2022 blog post[1]
 In a 2024 article on ft.com, Doctorow extended the word with the term "enshittocene" to state that "'enshittification' is coming for absolutely everything".[[5]](https://web.archive.org/web/20240208152542/https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5)
 
 The beginning of an enshittification era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where feces is absent. Publically funded internet in the public interest.
+
+
 
 https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust NPR applied for and accepted tax-payer dollars. "I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust.
 Uri Berliner, a veteran at the public radio institution, says the network lost its way when it started telling listeners how to think. By Uri Berliner April 9, 2024"
