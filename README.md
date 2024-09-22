@@ -169,6 +169,7 @@ May 1, 1969: Fred Rogers Testifies Before Congress
 On May 1, 1969, Fred Rogers appeared before the U.S. Senate Commerce Committee requesting funds to help support the growth of a new concept -- national public television.
 
 
+
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/7103666f-a92e-4b86-9061-93049fd08408)
 
 
@@ -178,6 +179,23 @@ On May 1, 1969, Fred Rogers appeared before the U.S. Senate Commerce Committee r
 "On May 1, 1969, Fred Rogers, host of the (then) recently nationally syndicated children's television series, Mister Rogers' Neighborhood (named Misterogers' Neighborhood at the time), testified before the Senate Committee on Commerce Subcommittee on Communications to defend $20 million in federal funding proposed for the newly formed non-profit Corporation for Public Broadcasting, which was at risk of being reduced to $10 million. Subcommittee chairman, Senator John Pastore (D-RI), unfamiliar with Fred Rogers, is initially abrasive toward him. Over the course of Rogers' 6 minutes of testimony, Pastore's demeanor gradually transitions to one of awe and admiration as Rogers speaks."
 
 https://www.youtube.com/watch?v=fKy7ljRr0AA
+
+1995 https://www.computerhistory.org/timeline/software-languages/#a2eed4bb9308a22315003de9062221ec  
+
+2006 https://www.computerhistory.org/timeline/computers/#169ebbe2ad45559efbc6eb357204d969 
+
+https://www.computerhistory.org/timeline/2012/  
+
+"Raspberry Pi computer
+
+Raspberry Pi, a credit-card-size single board computer, is released as a tool to promote science education
+Computers
+Conceived in the UK by the Raspberry Pi Foundation, this credit card-sized computer features ease of use and simplicity making it highly popular with students and hobbyists. In October 2013, the one millionth Raspberry Pi was shipped. Only one month later, another one million Raspberry Pis were delivered. The Pi weighed only 45 grams and initially sold for only $25-$35 U.S. Dollars."
+
+
+![Science](https://github.com/user-attachments/assets/d5c516ae-d928-4f96-807e-2faa82a616c6)
+
+
 
 November 30, 2022: The [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)-like amplification of the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet
 ---
