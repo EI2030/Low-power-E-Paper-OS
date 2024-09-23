@@ -770,6 +770,22 @@ https://en.wikipedia.org/wiki/STN_display#FSTN
 https://en.wikipedia.org/wiki/High-performance_addressing
 https://web.archive.org/web/20110722071900/http://users.utcluj.ro/~baruch/media/siee/lecture/Lecture-IOS07.pdf
 
+i3C
+---
+https://en.wikipedia.org/wiki/I3C_(bus)
+https://www.youtube.com/watch?v=2mNpYOYL7Ss
+
+Maybe there could be a display driver over i3C? 1-bit display wouldn't use much data...
+Bitrate	
+12.5 Mbit/s (SDR, standard), 25 Mbit/s (DDR), 33 Mbit/s (ternary),
+legacy I²C rates
+400 Kbits/s (FM),
+
+640x480x 16fps at 1 bit is 4,915,200, or 4.8Mbps,,
+
+a larger screen, or more frames per second could easily run under 12.5Mbit/s
+https://www.nxp.com/products/interfaces/ic-spi-i3c-interface-devices:MC_41735
+
 ---
 Solar Power Managers (integrated):
 ---
