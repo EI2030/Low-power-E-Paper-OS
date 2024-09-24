@@ -414,6 +414,10 @@ I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberry
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
+[9-24-24 Note: the Hackaday.io server (not the .com site) occasionally has outages throughout the year- the last time was around 2-3 months ago. The project site's [500 error](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500) is:
+
+![hackabot](https://github.com/user-attachments/assets/ae3f19c2-0803-4160-a125-8689cefffe15) If it appears, it might be intermittently accessible, or can return in a few days.]
+
 On November 6th, 2022, I wrote a lengthy [Substack post](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) on the case for solar powered electronics, which I continued to edit, revise, and add source material well into 2023. In it, I addressed foundry space, and the term "pure play." I examined that while they are "pay to play," they are also potentially and profoundly unequal:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ea7de085-c4f9-49b8-bd3a-ebd8544ab815)
