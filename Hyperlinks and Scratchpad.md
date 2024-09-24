@@ -1036,6 +1036,10 @@ various software packages- old versions from early 90s:https://www.mirrorservice
 
 https://mirrors.slackware.com/slackware/slackware-1.01/a1/
 
+https://krzysztofjankowski.com/floppinux/ 
+
+http://distro.ibiblio.org/baslinux/
+
 uClinux
 
 https://docs.kernel.org/next/admin-guide/mm/nommu-mmap.html
@@ -1202,6 +1206,19 @@ http://www.tinycorelinux.net/13.x/x86_64/release/
 https://distrowatch.com/table.php?distribution=reactos
 
 https://sourceforge.net/projects/reactos/ 
+
+Raspberry Pi Video Core IV
+--
+
+https://en.wikipedia.org/wiki/ThreadX
+
+http://www.ombertech.com/cnk/pitrex/wiki/index.php?wiki=GPU
+
+https://www.embedded.com/bill-lamie-story-of-a-man-and-his-real-time-operating-systems/
+
+https://web.archive.org/web/20220531105341/https://ownyourbits.com/2019/02/02/whats-wrong-with-the-raspberry-pi/
+
+
 
 
 ----
@@ -1754,6 +1771,7 @@ https://github.com/mackstann/tinywm (0.2MB RAM)
 https://unauthorised.org/dhog/9wm.html 
 https://en.wikipedia.org/wiki/Twm
 https://forums.freebsd.org/threads/window-manager-resident-ram-usage.81914/
+https://www.xfree86.org/current/TinyX.1.html
 
 Display Driver
 https://github.com/8l/fbui
@@ -1763,6 +1781,7 @@ https://github.com/Bareflank/hypervisor
 https://static.sched.com/hosted_files/osseu2022/2c/Trading_Fbdev_for_DRM_no_returns_accepted_Handouts.pdf
 https://www.x.org/releases/X11R7.6/doc/man/man4/fbdev.4.xhtml
 https://github.com/TheNeuronProject/ef.qt
+https://dri.freedesktop.org/wiki/DDX/
 
 ---
 DOS + GUISs
