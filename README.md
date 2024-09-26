@@ -218,6 +218,8 @@ By January 2023, it had become what was then the fastest-growing consumer softwa
 
 ![image](https://github.com/user-attachments/assets/778054c7-eaaa-4500-9f1d-b2685cc5917d)
 
+![image](https://github.com/user-attachments/assets/22e22213-f25e-4d68-b8f7-346ac7236050)
+
 A Neologism is Coined
 --
 
