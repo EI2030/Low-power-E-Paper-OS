@@ -1661,6 +1661,13 @@ https://raw.githubusercontent.com/TUDSSL/ENGAGE/master/doc-images/hw-overview.pn
 
 https://doc.dustri.org/hardware/Cores%20that%20don%E2%80%99t%20count%20-%202021.pdf
 
+https://arnaud-carre.github.io/2024-10-06-vpternlogd/
+
+https://tomforsyth1000.github.io/papers/LRBNI%20origins%20v4%20full%20fat.pdf
+
+https://software.intel.com/en-us/download/intel-64-and-ia-32-architectures-sdm-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4 (5,057 pages, covering 286, 386 and up)
+
+
 ---
 RT/OSes & Tools of interest:
 ---
