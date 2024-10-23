@@ -455,8 +455,15 @@ Neuromorphic:
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
 https://arxiv.org/abs/2104.13983
 
+486
+--
+https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md (+Coreboot)
 
+ARM7
+https://bmchtech.github.io/post/multiply/
 
+J-Core
+---
 Super-H/J-Core (runs uClinux)
 https://j-core.org/
 https://en.wikipedia.org/wiki/SuperH#J_Core "
