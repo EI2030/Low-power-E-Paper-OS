@@ -461,6 +461,7 @@ https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md (+Coreboot)
 
 ARM7
 https://bmchtech.github.io/post/multiply/
+https://problemkaputt.de/gbatek.htm
 
 J-Core
 ---
