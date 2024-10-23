@@ -107,6 +107,16 @@ _Is this a profitable product?_
 
 The short-term answer is no. The long answer, is it will save millions of consumers billions of dollars over the course of decades. It can result in mild revenue for component manufacturers, but less for vertical designs that are mutually exclusive. For a example a single board computer Foundation could make a tiny board that could fit inside a phone. They could build a SD sized chip, and Gigabyte, ASRock, MSI and Asus could build phone chassis with Innolux and AOC making displays. Established OEMS might benefit, but there is nothing stopping startups from doing so. New and used gas-powered vehicle _sales_ (not usage) are being phased out in some countries and states [by 2035](https://www.nerdwallet.com/article/cars/car-news/gas-car-sales-ban). Does anyone plan to be using a cell phone in 2035, or some holographic kinect device that recognizes hand and neural telepathy? It's very likely that phones will still be around in 2035 in a similar form factor, and the market for flip phones and upgradeable chasses, while not huge, still represents an important part of communication infrastructure. The same applies to tablets and laptops. The motherboard is _scalable_. 
 
+_Have I applied to Grants before?_
+--
+
+[Yes](https://github.com/hatonthecat/Solar-Kernel/blob/main/USP%20Proposal-%20Rejected%2001-2023.pdf)- [two](https://github.com/hatonthecat/Solar-Kernel/blob/main/Grant-Proposal%20-%20Rejected%2004-2023.pdf), and another one is currently being reviewed.
+
+Also, check out these two articles:
+
+https://www.experimental-history.com/p/the-rise-and-fall-of-peer-review
+
+https://www.asimov.press/p/peer-review
 
 _How can this project be completed?_
 --
