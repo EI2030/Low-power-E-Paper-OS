@@ -201,6 +201,7 @@ https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 ---
 RAM:
 ---
+https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world
 
 https://raaam-tech.com/technology/
 https://www.eenewseurope.com/en/nxp-partners-with-raaam-for-sram-replacement/
