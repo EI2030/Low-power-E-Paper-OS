@@ -11,7 +11,7 @@ https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-
 
 https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
 
-Interesting to see Congress criticizing Intel. Here's an idea, Intel, Restart your Quark series of processors. But this time, include more than 0KB of RAM!
+Interesting to see Congress criticizing Intel. Here's an idea, Intel, restart your Quark series of processors. But this time, include more than 0KB of RAM!
 
 
 Questions, Seldomly Asked (QSAs): 
