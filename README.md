@@ -11,6 +11,9 @@ https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-
 
 https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
 
+Why no solar?
+--
+
 ![image](https://github.com/user-attachments/assets/d9a609b1-08ed-4d96-86e0-661171d3ecd4)
 
 
