@@ -3,6 +3,16 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 ![image](https://github.com/user-attachments/assets/c75bd4b9-dc0b-4860-ae48-23fb366fdd75)
 
+The latest in Intel entitled news:
+
+https://www.msn.com/en-us/money/companies/intel-ceo-is-frustrated-with-chips-act-payout-progress-intel-has-received-0-from-the-8-5-billion-that-the-us-government-promised/ar-AA1sWllz?ocid=BingNewsSerp
+
+https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-act-payout-progress-%E2%80%94-intel-has-received-0-from-the-8-5-billion-that-the-us-government-promised.21321/
+
+https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
+
+Interesting to see Congress criticizing Intel. Here's an idea, Intel, Restart your Quark series of processors. But this time, include more than 0KB of RAM!
+
 
 Questions, Seldomly Asked (QSAs): 
 --
