@@ -16,6 +16,10 @@ Why no solar?
 
 ![image](https://github.com/user-attachments/assets/d9a609b1-08ed-4d96-86e0-661171d3ecd4)
 
+A closeup of what Atom allows today:
+
+![image](https://github.com/user-attachments/assets/d6c1f5d9-b615-42e6-a7e9-27b8d799cffe)
+
 
 https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they expected to get funding for doing nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot and out of the loop.
 
