@@ -11,6 +11,9 @@ https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-
 
 https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
 
+![image](https://github.com/user-attachments/assets/d9a609b1-08ed-4d96-86e0-661171d3ecd4)
+
+
 https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they expected to get funding for doing nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot and out of the loop.
 
 Interesting to see Congress criticizing Intel. Here's an idea, Intel, restart your Quark series of processors. But this time, include more than 0KB of RAM!
