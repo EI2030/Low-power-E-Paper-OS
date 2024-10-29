@@ -11,6 +11,8 @@ https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-
 
 https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
 
+https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they haven't revealed anything and expected to get funding for nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot.
+
 Interesting to see Congress criticizing Intel. Here's an idea, Intel, restart your Quark series of processors. But this time, include more than 0KB of RAM!
 
 https://www.msn.com/en-us/video/money/why-are-chip-competitors-trying-to-takeover-intel/vi-AA1rWvBZ As news-buzzy as these stories are, neither Qualcomm nor ARM are likely to be able to purchase any part of Intel, due to CHIPS contingencies: https://www.electronicsweekly.com/uncategorised/intel-to-get-chips-act-funds-by-year-end-but-must-not-sell-units-to-arm-qualcomm-2024-09/
