@@ -80,6 +80,8 @@ The second reason, is that it is based on a prediction of computational trends c
 
 What it is emphasizing, however, is that a smartphone or laptop/monitor with sufficient display resolution- from 480p monitors to 1080p monitors in the mid 00s to 4k monitors in the mid 10s, whether it is a VR headset or goggle, is increasing the _density_ of information for human interaction and productivity, often exceeding the minds ability to interpret, analyze and synthesize feedback. Thus multi-taskers' ability are plateuing for user-interfaces on hardware platforms that do not require that level of inefficiency on [thin-clients](https://en.wikipedia.org/wiki/Thin_client). While I have criticized AR goggles and VR before, the point was never in absolute, but in the prioritization of chip's energy design and software that performs basic information for the markets without as/much access. Granted some of this technology wasn't even possible until a little more than a decade ago, but there is little reason to not prioritize and not optimize a user interface in a smalle power envelope today. Shortly after rockets were developed, the U.S. & the U.S.S.R wasted no time putting them to use...
 
+https://www.youtube.com/watch?v=thZUMaGEE-8 "We can split the atom but not distinguish truth. Our information is failing us | Yuval Noah Harari" 10/18/2024
+
 As computers becoming more powerful in smaller envelopes, one day there might be quad core or even octa-core processors running on microwatts of power and running 10 Chrome tabs, powered by body-heat, RF or solar power. To get there, though, one needs/really ought/should make a Nokia [6110](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) first on solar power.  
 
 Reason 3: 
