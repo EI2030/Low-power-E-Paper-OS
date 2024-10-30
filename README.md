@@ -24,6 +24,10 @@ A closeup of what Atom allows today:
 
 Typo: ISSCC, not ISSC. https://hothardware.com/reviews/intel-details-nextgen-radios-solarpowered-cpus
 
+Imagine having a seat at the table that develops laptops. If you're Samsung, Dell, HP, ASUS, Lenovo, you develop laptops. And yet all these laptop makers think making more powerful laptops is always better. To what extent is product design social conditioning?
+
+"It's a pretty ugly table, guys." https://www.youtube.com/watch?v=XBzhk5eANTU Imagine being an OEM and offering a competitive product- a company willing to take risks, somehow has little time to explore alternative laptop designs. 
+
 Lots of OEMs and All-in-One makers that benefitted from setting a floor to pricing- they needed an excuse to keep the 6-cell battery in their laptops.
 
 Intel provides the transistors, AUO/Asus/Samsung makes the bright LCDS/OLEDs, and Lithium Suppliers continue to make a large portion of sales from laptops.
@@ -46,7 +50,7 @@ Yes, it has since been late 2020.
 _Why are there so many jokes in my Github repositories?_
 --
 
-The companies I make fun of don't take solar power seriously enough, and its benefit to humanity. Therefore I don't take them seriously in equal proportion.
+The companies I make fun of don't take solar power seriously enough, and its benefit to humanity. Therefore I don't take them seriously in equal proportion. 
 
 "Isaac Asimov supposedly once said “The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ but ‘That’s funny…'” https://quoteinvestigator.com/2015/03/02/eureka-funny/#google_vignette
 
