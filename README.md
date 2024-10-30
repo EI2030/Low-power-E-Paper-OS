@@ -46,6 +46,8 @@ Yes, it has since been late 2020.
 _Why are there so many jokes in my Github repositories?_
 --
 
+The companies I make fun of don't take solar power seriously enough, and its benefit to humanity. Therefore I don't take them seriously in equal proportion.
+
 "Isaac Asimov supposedly once said “The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ but ‘That’s funny…'” https://quoteinvestigator.com/2015/03/02/eureka-funny/#google_vignette
 
 "A thematically related passage appeared in 1965 within the London periodical “Science Journal”. An article by British journalist Gordon Rattray Taylor discussed the process of scientific discovery:3
