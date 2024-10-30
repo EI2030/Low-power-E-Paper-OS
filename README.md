@@ -20,6 +20,13 @@ A closeup of what Atom allows today:
 
 ![image](https://github.com/user-attachments/assets/d6c1f5d9-b615-42e6-a7e9-27b8d799cffe)
 
+![image](https://github.com/user-attachments/assets/939e5531-c01a-473b-abd3-abf9c6173467)
+
+Typo: ISSCC, not ISSC. https://hothardware.com/reviews/intel-details-nextgen-radios-solarpowered-cpus
+
+Lots of OEMs and All-in-One makers that benefitted from setting a floor to pricing- they needed an excuse to keep the 6-cell battery in their laptops.
+
+Intel provides the transistors, AUO/Asus/Samsung makes the bright LCDS/OLEDs, and Lithium Suppliers continue to make a large portion of sales from laptops.
 
 https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they expected to get funding for doing nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot and out of the loop.
 
