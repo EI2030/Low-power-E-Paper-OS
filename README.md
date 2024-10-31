@@ -1,6 +1,9 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+![image](https://github.com/user-attachments/assets/6e021525-3498-40ac-924d-f108b296e688)
+
+
 ![image](https://github.com/user-attachments/assets/c75bd4b9-dc0b-4860-ae48-23fb366fdd75)
 
 The latest in Intel entitled news:
