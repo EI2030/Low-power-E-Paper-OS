@@ -784,6 +784,10 @@ https://en.wikipedia.org/wiki/STN_display#FSTN
 https://en.wikipedia.org/wiki/High-performance_addressing
 https://web.archive.org/web/20110722071900/http://users.utcluj.ro/~baruch/media/siee/lecture/Lecture-IOS07.pdf
 
+Keyboards
+--
+https://spectrum.ieee.org/touchscreens
+
 i3C
 ---
 https://en.wikipedia.org/wiki/I3C_(bus)
