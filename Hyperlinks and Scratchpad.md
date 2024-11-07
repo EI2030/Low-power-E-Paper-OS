@@ -999,6 +999,11 @@ E-paper display drivers
 RTOS/Linux/Legacy OS development:
 ----
 
+https://github.com/vocho/openqnx
+https://gitlab.com/elahav/qnx-rpi-book/-/blob/master/pdf/qnx_book.pdf
+https://news.ycombinator.com/item?id=42079460
+https://www.qnx.com/developers/docs/6.4.1/momentics/welcome/whatis.html
+
 https://axio.ms/projects/2024/06/16/MicroMac.html
 https://macgui.com/news/article.php?t=492#:~:text=Would%20you%20believe%20that%20there,the%20Mac%20512K%20was%20released
 
