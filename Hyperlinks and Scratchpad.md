@@ -199,6 +199,11 @@ https://www.youtube.com/watch?v=QqHTwtXvYW4
 https://www.youtube.com/watch?v=JZ6ZzJeWgpY&t=2s
 
 ---
+
+Video Compression
+--
+https://mlumiste.com/technical/liveportrait-compression/ 22Kb/s
+
 RAM:
 ---
 https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world
