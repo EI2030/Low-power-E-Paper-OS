@@ -522,12 +522,17 @@ This section (indeed, the whole page) is all about ideas -- not about deals with
 
 X86
 --
+
 AMD Geode family extensions (SSE1)
 Intel "Diamondville" (SSE1, SSE2, SSE3, 64-bit, virtualization, 2 cores, some (2?) threads per core)
 VIA Isaiah (SSE1, SSE2, SSE3, 64-bit, virtualization)
+
+https://www.abortretry.fail/p/a-brief-history-of-cyrix
+
 [ Ken Shirriff's deep dive in the 386
 ](https://www.righto.com/2023/10/intel-386-die-versions.html)
 http://www.bitsavers.org/components/intel/_dataBooks/1988_Introduction_to_Intel_Cell-Based_Design.pdf
+
 
 https://www.righto.com/2024/07/pentium-standard-cells.html 
 https://news.ycombinator.com/item?id=40899393
