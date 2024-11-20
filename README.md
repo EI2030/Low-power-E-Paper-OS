@@ -274,6 +274,113 @@ By January 2023, it had become what was then the fastest-growing consumer softwa
 
 ![image](https://github.com/user-attachments/assets/778054c7-eaaa-4500-9f1d-b2685cc5917d)
 
+![image](https://github.com/user-attachments/assets/2b7b0a3d-3bf4-4ed9-be4e-81640e220ffe)
+
+[linkedin.com/in/enis-ya…
+](https://www.linkedin.com/in/enis-yazici?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAADSByOYBudaqhH-sxv-wV4MugKFBsHBCSZQ) (11-18-24):
+”This week, I picked up Max Planck’s classic book, "Where Is Science Going" (Wohin geht die Wissenschaft) and found it incredibly thought-provoking. The book starts with a touching prologue by Einstein, where he speaks highly of Planck’s dedication to science. It's particularly meaningful because Planck was one of the first to recognize the importance of Einstein’s early work and even brought him to Berlin. What really struck me while reading was how much emphasis Planck and his contemporaries placed on the philosophy of science. Today, we see many scientists focusing almost exclusively on numerical simulations and experimental results, often overlooking the deeper questions about nature. In contrast, old school scientists like Planck and Einstein were driven by a curiosity to understand the world, not just to crunch numbers. Maybe this is why we have hit a wall in fundamental physics, or generally, in scientific discoveries. Without a philosophical approach, maybe we are missing the bigger picture. Highly recommend this book for anyone interested in how science was once driven by curiosity.“
+
+https://assets-eu.researchsquare.com/files/rs-5336072/v1_covered_4479cf53-c6e8-40ba-918f-434311c41d74.pdf?c=1731033221 (Tamás Bódai, 11-2024):
+
+"3 Discussion
+294 In this paper I scrutinised what we can imply from the single most important result of the Article, namely,
+295 what I call here the observed or apparent prediction skill. I demonstrated that it is not indicative of what
+296 I regard as the true skill of a data-driven forecast (Fig. 4).
+297 Yet, I make the observation that this true skill, the ensemble-wise RMSE, or REMSE, has a persistence
+298 – even if short – as the window of data from which the forecast model is inferred is extending/moving with
+299 the passing of time (Fig. 3). Persistence always indicates some determinism and, so, predictability [18].
+300 Therefore, it would be worthwhile to try to predict the true prediction skill. Interesting questions in this
+301 regard might be, e.g.: what (hopefully easily interpretable) states of ENSO are responsible for better or
+302 worse skill (especially the horrible spikes of the REMSE seen in Fig. 3 (a)); how long memory of ENSO
+303 states does the skill have?
+304 The apparent skill evaluated from observations of the unique history of our Earth climate can be
+305 useful in comparing models wrt. their predictive power; but also in providing a ballpark figure of skill
+306 for a single model. Relating to the latter, I discovered power scaling laws for the ensemble-mean and
+307 ensemble-standard-deviation of the apparent skill depending on the observational time series length. The
+308 E-mean approaches the climatological skill much faster than the vanishing of the E-std. Unfortunately,
+309 though, we have a bottle neck problem regarding the reliability of the ballpark figure of the observed
+310 skill: the slow vanishing of the E-std, the variability, would keep our approximation of the climatological
+311 skill by the apparent skill uncertain, inaccurate. Mind how the “technological” (ISO 5725) definition of
+312 “accuracy” [21] combines the “trueness” (no bias, E-mean) and “precision” (variability, E-std).
+313 Finally, I remark that from Fig. 2 (m) of the Article it is unclear if the XROM beats the AI-based
+314 model [2] wrt. prediction skill. Indeed, the main contribution of the Article that it offers, instead, as per
+315 the title itself, is the explanation of the enhanced prediction skill of the XROM over the ROM. – We have
+316 a binary alternative and we were promised to get an explanation for the outcome. However, I do not see
+317 much of an explanation why one or the other model – inferred from data – would have better prediction
+318 skill. Or we can see the situation in the way that the substance of the explanation is exhausted by the
+319 statement of the title. Because if we can take it for granted that some major modes of climate variability
+320 can causally influence ENSO, then it should go without saying that the prediction skill of a model that
+321 includes those modes – ideally, i.e., regarding the theoretical maximum skill – is better than what has
+322 only the local ENSO variables (T, h) (say, the ROM). And I think we can take it for granted, because in
+323 a fully coupled system we can know apriori that there is information flow both ways concerning any two
+324 state variables; the chances for a one-way flow/coupling, i.e., a master-slave relationship, is zero. It is
+325 akin to the situation with, say, a one-sample t-test for the mean of a population in a practical situation,
+326 when we know apriori that the null-hypothesis is false, because the chances that it is true are zero. (Thus,
+327 if we are not able the reject the null-hypothesis, it is because we do not have enough data.)
+328 Much of what the authors present are results in terms of numerical figures for the “contributions”
+329 of different modes of variability to the prediction skill. They come up with these by performing three
+330 sets of experiments as follows (I quote): “(1) uninitialized experiments (referred to as Uj ), (2) decoupled
+331 experiments (Dj ) and (3) relaxation towards observations experiments (Rj )”. Mind that we can speak
+332 about “contributions” only if the principle of superposition applies [10], and the authors claim that in the
+333 case of the nonlinear XROM “...the uninitialized experiment framework is a suitable approach to quantify
+334 the nearly additive relative contributions of each basin to ENSO forecast skill”. It is unfortunate that
+335 the authors do not make their exposition in this regard in the context of response theory which is the
+336 mathematical basis of the principle of superposition. Thus, we are left unsure what is the forcing and
+337 what is the system that responds to a forcing (linearly). Anyhow, what has it to do with the promised
+338 explanation?
+339 In his monumental yet slim volume “The Structure of Scientific Revolutions” [22], Thomas S. Kuhn
+340 posits that a theory has only so much explanatory power as predictive power. Had the numerical figures
+341 of the said contributions been meant to be explained – which is certainly not what the Article’s title
+342 refers to – then there is no such explanation in the Article in the sense of Kuhn. I would be desperate if
+343 I was tasked to come up with such explanations, I admit. Vague references to physical processes have no
+10
+344 chance of suggesting approximate numerical figures for contributions. Making such references to physical
+345 processes in an attempt of an explanation is usually called a “handwaving explanation”. I am afraid that
+346 this is not what people believe the journal Nature would knowingly target.
+347 I do think that the rather achievable task is the explanation promised indeed by the Article’s title, i.e.,
+348 explaining the outcome of the said binary alternative. However, I think, it has to do with mathematics
+349 rather than geophysics. (See also e.g. how some of the same authors purport to explain [23] a statistical
+350 fluke [24], which had been well known to some forecasting experts [17]. And the cherry on top is the
+351 anecdote that I shared on Linkedin [25].) Otherwise, as I argued above, any explanation is lacking
+352 because we are not so much interested in the theoretical maximum skill, but rather the skill of a model
+353 inferred from finite data. Considering that the promised explanation should be mathematical in nature,
+354 references to geophysical effects by Zhao et al. are based on hindsight, which could at best be regarded
+355 as interpretations – instead of explanations. What are not trivial and remain open questions, waiting for
+356 appropriate mathematical analyses, are: why is the overfitting of the X(D)ROM(+) benign (had [20] not
+357 actually had it explained already); is there a certain time series length when e.g. the prediction skills of
+358 the XROM fitted to 10 time series and the ROM to 2 time series of that same length break even (similarly
+359 to the case of the XDROM versus the XDROM+); if so, why that length; why does the XDROM have a
+360 memory of roughly only one month; why does e.g. the 2D DROM of any large D have worse skill than
+361 the 10D XDROM, D = 1?
+362 I would like to point out that I myself did not supply any explanation as to why the XDROM+ can
+363 outperform the XDROM only if fed more data than a certain critical amount. I do not quite know yet
+364 how to tackle that challenge, actually. A further question that I pose is: why is the AI-based mod
+365 completely unable to account for the ingredients of the XDROM+ over the XROM?
+366 My critique of Zhao et al. that they did not deliver on their promise implies that the authors misrepre367 sent their merit. (I will not speculate if they do this knowingly or not.) I think their actual merit derives
+368 from, ad 1, coming up with the XROM, and, ad 2, providing the numerical figures for the contributions.
+369 To me, the former is far more admirable than the rather straightforward analysis of the latter – even
+370 if the latter is also genuine scientific novelty given that the contributions cannot be guessed, but one
+371 needs to perform calculations to find them out. Otherwise, the latter seems to be used to “beef up” the
+372 paper, on the one hand, and to “have a story to spin”, on the other, perhaps out of a sense of insecurity
+373 that coming up with the XROM alone is not seen valuable enough by an editor of a “luxury journal”.
+374 Unfortunately, I observe a “gold rush” in the Earth sciences where scientists make each other believe
+375 that so-called physical explanations are the holy grail of science. (Does the sound of a title “Unravelling
+376 the physical mechanism of [*phenomenon*]” ring familiar? Use the word “unravelling”, and you are one
+377 step closer to success; if you unravel a physical mechanism, actually or purportedly, then you might well
+378 be in, had you ticked other important boxes [26].) Thus, scientists will feed editors and their peers with
+379 what they expect. No wonder, then, that in this “echo chamber” a lot of serious issues with the quality
+380 of science are overlooked. And the few who could and would point it out often do not have a voice.
+381 I think, we see an article here that exemplifies a grave problem with our current system of scientific
+382 publishing including – if the manuscript is not desk-rejected [26] – peer review. None of the three reviewers
+383 of the Article noticed A.) the said misrepresentation of merit and B.) that the promised explanation will
+384 be mathematical not physical. This story turned out so partly because the editor himself is not competent
+385 enough, inviting only Earth scientists to reviewing the Article. I think the lesson here is that we need
+386 to train ourselves, and the next generation of scientists, to look deeper at problems, and from various
+387 angles. Earth scientists too often lack sufficient or even basic mathematical competence [23, 24], let alone
+388 some training in philosophy, because of which science evidently badly suffers. I cannot resist pointing out
+389 the irony that despite of this trend, the primary scientific title also in the STEM subjects is still called
+390 PhD: Doctor of Philosophy."
+
 A Neologism is Coined
 --
 
