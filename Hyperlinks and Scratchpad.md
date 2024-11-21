@@ -854,6 +854,8 @@ https://e-peas.com/
 https://news.utdallas.edu/science-technology/thermoelectric-generators-2020/
 https://www.ti.com/tool/TIDA-00246
 
+https://phys.org/news/2024-11-method-generating-eco-friendly-energy.html#google_vignette
+
 Internet Infrastructure
 --
 
