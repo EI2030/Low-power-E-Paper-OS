@@ -874,6 +874,14 @@ Other mini-ITX cases with flexible backplate slots:
 
 This little "cosmetic" detail could support more reusability and dual-use integration into laptops such as the PiTop, which do not require major modification of chassis if the rectangular I/O shield can be limited to a narrow segment of the chassis. As mentioned in my mobile-ITX [blog](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Mobile-ITX%20and%20ATX-like%20standards%20for%20SBCs%20and%20mobile%20motherboards.pdf) post, degrees of freedom are a chemistry concept that chemist know more about, and architects of SBCs have far more leeway into rearranging components that do not require convoluted overpasses of wires above heatsinks to reach the backplate I/O.
 
+
+ The Nuclear Energy Industry is Doing it, Why Can't the Laptop Industry Do It Too?
+ ---
+ 
+ _"SMRs are designed to solve this problem. They will be smaller than traditional reactors, using standardised parts that can be assembled quickly, at sites close to where the power is needed."_
+ 
+ https://www.bbc.com/news/articles/czr764nr873o
+ 
  ---
 
 "The [cubane](https://en.wikipedia.org/wiki/Cubane) name derives from the cube-shaped geometry of the molecule. Since carbon normally bonds at angles of 109.5 degrees, the forced 90-degree angles of the cube framework introduce a high degree of strain into the molecule—so much so that prior to Eaton’s seminal synthesis, most chemists and theoreticians deemed the very existence of the molecule impossible.
