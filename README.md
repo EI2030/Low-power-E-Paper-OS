@@ -647,7 +647,7 @@ I'm not the best person to manage a project. There are far more qualified design
 
 That said, I have an eye towards user-experience. An engineer like Woz might be a brilliant engineer, but Jobs understood UI far better. What I see to fuse is the minimalist appearance of a laptop like the Luce, with the low power consumption of something like an [Ambiq 510](https://finance.yahoo.com/news/ambiq-apollo510-delivers-30x-power-121500335.html). The issue with microcontrollers is that, in using a Cortex M55, it is not designed as an application processor, and there is a scarcity of development in this field, at least public development.
 
-https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/ For the low price of $100k/year, I am  be willing to wear an ankle bracelet 24/7 so you can track my productivity. I'm kidding. Price negotiable. 
+https://www.forbes.com/sites/josipamajic/2024/11/27/the-great-tech-wake-up-call-vcs-discover-billions-in-inefficient-engineering-teams/ For the low price of $100k/year, I am  willing to wear an ankle bracelet 24/7 so you can track my productivity. I'm kidding. Price negotiable. 
 
 Could anyone in the 1940s anticipate Rock and Roll of the 50s, counter-culture in the 60s,  disco in the 70s, electronica/synthwave in the 80s, grunge in the 90's, indie-rock/metal in the 00's, and superpop in 10s? Market research can't predict what the next generation is doing, but there are sometimes hints that counter-culture skips a generation. It could be also what is to explain the rise of the flip phone generation, despite the plethora of octa-core options being given to them by the mega-conglomerates: 
 
