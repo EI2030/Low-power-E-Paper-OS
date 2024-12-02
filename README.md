@@ -42,6 +42,19 @@ Interesting to see Congress criticizing Intel. Here's an idea, Intel, restart yo
 https://www.msn.com/en-us/video/money/why-are-chip-competitors-trying-to-takeover-intel/vi-AA1rWvBZ As news-buzzy as these stories are, neither Qualcomm nor ARM are likely to be able to purchase any part of Intel, due to CHIPS contingencies: https://www.electronicsweekly.com/uncategorised/intel-to-get-chips-act-funds-by-year-end-but-must-not-sell-units-to-arm-qualcomm-2024-09/
 https://www.tomshardware.com/tech-industry/intel-confirms-dollar3-billion-award-for-secure-enclave-18a-chips-coming-to-us-military
 
+12-2-2024
+--
+"Intel's CEO steps down
+Share
+By Emma W. Thorne, Editor at LinkedIn News
+Updated 3 hours ago
+
+Intel CEO Pat Gelsinger has retired, the company announced Monday. Current execs David Zinsner and Michelle Johnston "MJ" Holthaus will serve as interim co-CEOs until a new chief is named. Gelsinger, who joined Intel in 1979, was "forced out" after the board lost confidence in his plan to revive the struggling chipmaker, Bloomberg reports, citing anonymous sources. Intel has faced intense headwinds of late, notching a record net loss of nearly $17 billion last quarter and losing its place on the Dow Jones Industrial Average. Its stock is down more than 50% this year."
+
+https://www.reuters.com/business/intel-ceo-pat-gelsinger-retire-2024-12-02/ " The board told Gelsinger he could retire or be removed, and he chose to step down, according to the source."
+
+Now can someone work on the Claremont/Quark?
+
 Questions, Seldomly Asked (QSAs): 
 --
 
