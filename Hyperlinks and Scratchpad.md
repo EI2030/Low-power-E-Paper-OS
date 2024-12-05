@@ -1358,6 +1358,11 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB & Chip Design:
 ---
 
+Recommendations and Roadmap for Open-Source EDA in Europe
+Version: November 19, 2024 - Public Release: https://drive.google.com/file/d/1dVIi6BnwZg78IU1jd8Iq7z0UYfAnwBdW/view
+
+https://broccolimicro.io/ https://github.com/broccolimicro
+
 https://spectrum.ieee.org/avnet-amd-space
 
 https://resources.altium.com/p/open-source-laptop-part-one
