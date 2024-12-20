@@ -7,7 +7,7 @@ National Science Foundation to US Citizens:
 
 ![image](https://github.com/user-attachments/assets/2a03fa05-ada9-4d23-84a5-0190e79da011)
 
-NSF: But don't bother us if you're trying to build an solar powered laptop:
+NSF: But don't bother us if you're trying to build a solar powered laptop:
 
 ![image](https://github.com/user-attachments/assets/15641d8a-229c-41c1-95b0-c6dea6e026cd)
 
@@ -18,6 +18,9 @@ let alone an unaffiliated [researcher](https://new.nsf.gov/policies/pappg/24-1/c
 My e-mail apparently wasn't deserving of a dignified response.
 
 ![17336930939978680627665918830209](https://github.com/user-attachments/assets/03155f98-27a4-43b8-9808-6ee1873abbcc)
+
+Actors found no vacancy in [Washington](https://i0.wp.com/www.grunchbox.com/tpfd/reg/2008/actors-in-politics.gif), thus they moved to academia:
+![image](https://github.com/user-attachments/assets/c8258902-4c3f-4010-8f17-84b38e540b9b)
 
 
 ![image](https://github.com/user-attachments/assets/6e021525-3498-40ac-924d-f108b296e688)
