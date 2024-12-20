@@ -17,6 +17,8 @@ let alone an unaffiliated [researcher](https://new.nsf.gov/policies/pappg/24-1/c
 
 My e-mail apparently wasn't deserving of a dignified response.
 
+Apparently, our country would rather have our most-able bodied men wait outside than bother important scientists:
+
 ![image](https://github.com/user-attachments/assets/8f7c0c11-5d4c-4816-9d94-dece2f6ff4e7)
 
 Surely, there are science jobs for everyone, even getting [someone coffee](https://www.dreamstime.com/stock-photo-young-handsome-office-worker-assistant-brings-coffee-cup-to-senior-manager-sitting-desk-laptop-isolated-white-image42629300)?
