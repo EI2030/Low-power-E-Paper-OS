@@ -711,7 +711,7 @@ But, to put things in perspective, Linux took 8 years to get a kernel (1983-1991
 
 So am I being a bit too optimistic that I haven't amassed an open hardware idea/following/movement that few even understand? Of course! And I shouldn't stop raising awareness of this valuable idea.
 
-According to a recent LinkedIn comment, an x86 license can cost $10b, and a former engineer suggested only Qualcomm, Mediatek, and Nvidia could afford that: https://www.linkedin.com/feed/update/urn:li:activity:7270536198576582658/
+According to a recent LinkedIn comment, an x86 license can cost $10b (deleted by the original poster), and a former engineer suggested only Qualcomm, Mediatek, and Nvidia could afford that: https://www.linkedin.com/feed/update/urn:li:activity:7270536198576582658/
 
 So I am not surprised I got no response. I don't have $10b. I don't even have $1m. Have I been slacking from 2013-2020? Can't say I haven't, but I didn't give the idea much thought- I had other priorities at the time. From 2020 though, I can't say I have been slacking. I imagine if I had a degree from MIT, maybe I might have a few more connections and could have made one phone call and gotten a job in 2020 to work on this quietly for the past 4 years. But I don't have any connections, so I do the next best thing. Raise a stink.
 
