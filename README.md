@@ -17,14 +17,15 @@ let alone an unaffiliated [researcher](https://new.nsf.gov/policies/pappg/24-1/c
 
 My e-mail apparently wasn't deserving of a dignified response.
 
-![17336930939978680627665918830209](https://github.com/user-attachments/assets/03155f98-27a4-43b8-9808-6ee1873abbcc)
 
 Actors found no vacancy in [Washington](https://i0.wp.com/www.grunchbox.com/tpfd/reg/2008/actors-in-politics.gif), thus they moved to academia:
 ![image](https://github.com/user-attachments/assets/c8258902-4c3f-4010-8f17-84b38e540b9b)
 
+![17336930939978680627665918830209](https://github.com/user-attachments/assets/03155f98-27a4-43b8-9808-6ee1873abbcc)
+
+I waasn't suggesting powerful cliques have turned our society into [Fight Club](https://en.wikipedia.org/wiki/Fight_Club#Themes), but I will just let you reach that conclusion. 
 
 ![image](https://github.com/user-attachments/assets/6e021525-3498-40ac-924d-f108b296e688)
-
 
 ![image](https://github.com/user-attachments/assets/c75bd4b9-dc0b-4860-ae48-23fb366fdd75)
 
