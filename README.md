@@ -1,6 +1,22 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+National Science Foundation:
+
+=![image](https://github.com/user-attachments/assets/28f76618-bb84-43e7-b445-7861c395d701)
+
+![image](https://github.com/user-attachments/assets/2a03fa05-ada9-4d23-84a5-0190e79da011)
+
+But don't bother us if you're an unaffiliated [researcher](https://new.nsf.gov/policies/pappg/24-1/ch-1-pre-submission#ch1E3):
+
+![image](https://github.com/user-attachments/assets/e8f0e855-c5cc-41eb-bad4-5408eca0b930)
+
+let alone trying to build an solar powered laptop:
+
+![image](https://github.com/user-attachments/assets/15641d8a-229c-41c1-95b0-c6dea6e026cd)
+
+My e-mail apparently wasn't deserving of a dignified response.
+
 ![17336930939978680627665918830209](https://github.com/user-attachments/assets/03155f98-27a4-43b8-9808-6ee1873abbcc)
 
 
