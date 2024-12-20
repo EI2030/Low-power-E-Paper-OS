@@ -845,7 +845,10 @@ It is within this context that I see an opportunity for solar powered mobile dev
 ---
 Fund this project?
 ---
-I'm not the best person to manage a project. There are far more qualified designers with knowledge about supercomputers from 60 years ago that has not yet even been optimized: https://www.crowdsupply.com/libre-risc-v/m-class/updates/modernising-1960s-computer-technology-learning-from-the-cdc-6600 (RISC-V is actually adopting this old Cray tech now that its utility is being realized)
+
+Would you give [hundreds of thousands](https://en.wikipedia.org/wiki/Mike_Markkula#Apple) to an English major [dropout](https://bretwaters.medium.com/would-you-have-hired-a-young-steve-jobs-2d72c178965d#:~:text=young%20Steve%20Jobs?-,Bret%20Waters,abilities%20include%20%E2%80%9Cdesign%20engineer%E2%80%9D.) of [Reed](https://www.reed.edu/about/steve-jobs.html) college?
+
+I'm not the best person to manage a project. But I have a clear idea on how to run it. There are far more qualified designers with knowledge about supercomputers from 60 years ago that has not yet even been optimized: https://www.crowdsupply.com/libre-risc-v/m-class/updates/modernising-1960s-computer-technology-learning-from-the-cdc-6600 (RISC-V is actually adopting this old Cray tech now that its utility is being realized)
 
 That said, I have an eye towards user-experience. An engineer like Woz might be a brilliant engineer, but Jobs understood UI far better. What I see to fuse is the minimalist appearance of a laptop like the Luce, with the low power consumption of something like an [Ambiq 510](https://finance.yahoo.com/news/ambiq-apollo510-delivers-30x-power-121500335.html). The issue with microcontrollers is that, in using a Cortex M55, it is not designed as an application processor, and there is a scarcity of development in this field, at least public development.
 
