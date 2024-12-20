@@ -593,11 +593,117 @@ I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberry
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
-I reached out to universities, companies in 2021:
+I reached out to universities, companies, anf governmenta in 2021:
 
 ![image](https://github.com/user-attachments/assets/d8154754-ef3c-465a-872f-fea5563b4b79)
 
 No response. While I have met some sympathetic developers, the majority of the industry isn't focused on this product idea, or hasn't shared much publically about it. 
+
+--
+
+Subject: RE: [EXTERNAL] Unsolicited NETL Proposal (A-2023-27)
+From: DOEUSP@NETL.DOE.GOV DOEUSP@NETL.DOE.GOV
+To: giovanni.los giovanni.los@proton.me
+Date: 1/19/23 10:51
+
+Dear Giovanni,
+
+Your submission received by the U.S. Department of Energy (DOE)
+Unsolicited Proposals (USP) Program Office entitled “The Autarkic
+Standard for Integrated Chiplets (The ASIC)” (assigned #A-2023-27) has
+been reviewed by our technical personnel.
+
+Upon careful review, DOE has concluded that this submission does not
+align with DOE’s current program areas of research and development;
+therefore, DOE cannot consider this under the USP Program.
+
+We encourage your participation in one of the Department’s future
+competitive announcements or solicitations, and recommend you
+monitor DOE’s financial assistance funding opportunity announcement
+(FOA) and procurement solicitation postings, which can be found at
+public Government portals such as: https://sam.gov/,
+
+https://www.fedconnect.net/, https://www.grants.gov/learn-
+grants/grant-making-agencies/department-of-energy.html, and
+
+https://netl.doe.gov/business/solicitations-hub. Please note, if your
+technology or idea fits under the scope of a FOA or solicitation, and you
+do not submit a proposal accordingly, rules do not allow us to accept an
+unsolicited proposal that would have been in response to a competitive
+announcement.
+
+Thank you for your interest in DOE’s programs! If we can be of further
+assistance, please do not hesitate to contact us.
+
+DOE USP Program Office
+DOEUSP@netl.doe.gov
+
+From: DOEUSP
+Sent: Thursday, January 12, 2023 1:46 PM
+To: 'giovanni.los' 
+Subject: RE: [EXTERNAL] Unsolicited NETL Proposal (A-2023-27)
+Hello Giovanni, your proposal submission titled, The Autarkic
+Standard for Integrated Chiplets (The ASIC), was received by the U.S.
+Department of Energy (DOE) Unsolicited Proposal (USP) Program
+Office and forwarded on for technical review to determine
+programmatic interest (assigned tracking #A-2023-27).
+
+Your submission in no way ensures the potential of DOE funding
+for a research idea or technology since other program priorities or
+funding limitations may preclude such actions. It merely serves to
+assist DOE in determining if there is programmatic interest in the
+idea, concept or technology from DOE’s perspective, or whether it
+fits under the scope of any DOE competitive funding opportunity
+announcement (FOA) or procurement solicitation.
+
+Please understand that at this point your proposal submission can
+not be revised/re-submitted, as your initial submission is currently
+being reviewed/processed by our technical team.
+If your proposal is of interest to the DOE, the cognizant program
+will request a full unsolicited proposal submission. Once the
+review of your information has been completed, you will be
+notified of the results.
+
+In the interim, we suggest reviewing DOE’s current FOA and
+solicitation postings and consider submitting a proposal should
+your technology or idea apply. This information can be found on
+Government public portals such as: https://sam.gov/,
+
+https://www.fedconnect.net/, https://www.grants.gov/learn-
+grants/grant-making-agencies/department-of-energy.html, and
+
+https://netl.doe.gov/business/solicitations-hub. Please note, if your
+technology or idea fits under the scope of a FOA or solicitation, and
+you do not submit a proposal accordingly, rules do not allow us to
+accept an unsolicited proposal that would have been in response to
+a competitive announcement.
+As a reminder, all entities and individuals seeking to do business
+with the Federal Government must register in the System for
+Award Management (SAM) portal at https://SAM.gov/. An
+unsolicited proposal may be submitted to DOE without being
+registered in SAM; however, prior to any financial assistance or
+contract award being issued by the Government, an active
+registration in SAM is required. Beginning the SAM registration
+process sooner than later is highly encouraged.
+Thank you for your interest in DOE programs and if we can be of
+further assistance, please do not hesitate to contact us.
+
+DOE USP Program Office
+DOEUSP@netl.doe.gov
+
+From: giovanni.los
+Sent: Friday, January 6, 2023 4:38 PM
+
+To: DOEUSP <DOEUSP@NETL.DOE.GOV>
+Subject: [EXTERNAL] Unsolicited NETL Proposal
+Dear National Energy Technology Laboratory,
+Attached is my unsolicited proposal for a renewable energy technology project,
+"The Autarkic Standard for Integrated Chiplets."
+Sincerely,
+Giovanni Lostumbo
+Sent with Proton Mail secure email."
+
+--
 
 But, to put things in perspective, Linux took 8 years to get a kernel (1983-1991), and 21 years for Ubuntu 4.04 to be released.
 
@@ -607,7 +713,7 @@ So am I being a bit too optimistic that I haven't amassed an open hardware idea/
 
 According to a recent LinkedIn comment, an x86 license can cost $10b, and a former engineer suggested only Qualcomm, Mediatek, and Nvidia could afford that: https://www.linkedin.com/feed/update/urn:li:activity:7270536198576582658/
 
-So I am not surprised I got no response. I don't have $10b. I don't even have $1m. Have I been slacking from 2012-2020? Can't say I haven't, but I didn't give the idea much thought- I had other priorities at the time. From 2020 though, I can't say I have been slacking. I imagine if I had a degree from MIT, maybe I might have a few more connections and could have made one phone call and gotten a job in 2020 to work on this quietly for the past 4 years. But I don't have any connections, so I do the next best thing. Raise a stink.
+So I am not surprised I got no response. I don't have $10b. I don't even have $1m. Have I been slacking from 2013-2020? Can't say I haven't, but I didn't give the idea much thought- I had other priorities at the time. From 2020 though, I can't say I have been slacking. I imagine if I had a degree from MIT, maybe I might have a few more connections and could have made one phone call and gotten a job in 2020 to work on this quietly for the past 4 years. But I don't have any connections, so I do the next best thing. Raise a stink.
 
 https://www.linkedin.com/posts/laurie-kirk_in-1992-andrew-tanenbaum-made-some-predictions-activity-7275640523321696256-TFEs/ (12/19/2024) With more people studying the history of predictions, I'd like to think that the way towards solar powered computers arrive on the most open-minded platform, and that might not be a monolithic kernel:
 
@@ -652,6 +758,11 @@ _It's interesting to look back at Tanenbaum's arguments in the modern age. In th
 Who am I? (updated 12-20-24)
 ---
 I am not Richard Stallman nor Linus Torvalds. I haven't invented a single item of software nor hardware. That's not going to impress you, but I do not need to fake anything to make it.
+
+Previously abandoned ideas:
+
+![image](https://github.com/user-attachments/assets/f3abafe7-a2bf-401a-a4d5-707452fa1114)
+
 
 Earlier posts
 --
