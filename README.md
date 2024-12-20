@@ -25,6 +25,15 @@ Actors found no vacancy in [Washington](https://i0.wp.com/www.grunchbox.com/tpfd
 
 I waasn't suggesting powerful cliques have turned our society into [Fight Club](https://en.wikipedia.org/wiki/Fight_Club#Themes), but I will just let you reach that conclusion. 
 
+The U.s. is no longer a party of [Lincoln](https://www.dailynews.com/2007/02/08/historian-offers-lincoln-insights/) or even Johnson:
+
+"“Team of Rivals: The Political Genius of Abraham Lincoln,” is her Lincoln history published in 2005. It explains how Lincoln placed political rivals, some of whom initially despised him, in his cabinet and molded them into the effective team that guided the nation through the Civil War."
+
+“Lincoln said they were the strongest, most able men in the country,” Goodwin said. “Lyndon Johnson said, `It's better to have your enemies inside the tent p***ng out, than outside the tent p***ing in.”' 
+
+[""Lincoln would have said that more nobly.""
+](https://www.normantranscript.com/news/local_news/historian-passes-on-abe-lincolns-legacy/article_b89d4fdf-9352-576a-81d4-ca643f91d1ad.html)
+
 ![image](https://github.com/user-attachments/assets/6e021525-3498-40ac-924d-f108b296e688)
 
 ![image](https://github.com/user-attachments/assets/c75bd4b9-dc0b-4860-ae48-23fb366fdd75)
@@ -36,6 +45,7 @@ https://www.msn.com/en-us/money/companies/intel-ceo-is-frustrated-with-chips-act
 https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-act-payout-progress-%E2%80%94-intel-has-received-0-from-the-8-5-billion-that-the-us-government-promised.21321/
 
 https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
+
 
 Why no solar?
 --
