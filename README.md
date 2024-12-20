@@ -25,11 +25,11 @@ Actors found no vacancy in [Washington](https://i0.wp.com/www.grunchbox.com/tpfd
 
 I waasn't suggesting powerful cliques have turned our society into [Fight Club](https://en.wikipedia.org/wiki/Fight_Club#Themes), but I will just let you reach that conclusion. 
 
-The U.s. is no longer a party of [Lincoln](https://www.dailynews.com/2007/02/08/historian-offers-lincoln-insights/) or even Johnson:
+The U.S. is no longer a party of [Lincoln](https://www.dailynews.com/2007/02/08/historian-offers-lincoln-insights/) or even Johnson:
 
 "“Team of Rivals: The Political Genius of Abraham Lincoln,” is her Lincoln history published in 2005. It explains how Lincoln placed political rivals, some of whom initially despised him, in his cabinet and molded them into the effective team that guided the nation through the Civil War."
 
-“Lincoln said they were the strongest, most able men in the country,” Goodwin said. “Lyndon Johnson said, `It's better to have your enemies inside the tent p***ng out, than outside the tent p***ing in.”' 
+“Lincoln said they were the strongest, most able men in the country,” Goodwin said. “Lyndon Johnson said, `It's better to have your enemies inside the tent p*** ng out, than outside the tent p*** ing in.”' 
 
 [""Lincoln would have said that more nobly.""
 ](https://www.normantranscript.com/news/local_news/historian-passes-on-abe-lincolns-legacy/article_b89d4fdf-9352-576a-81d4-ca643f91d1ad.html)
