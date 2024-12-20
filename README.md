@@ -32,6 +32,9 @@ The U.S. is no longer a party of [Lincoln](https://www.dailynews.com/2007/02/08/
 “Lincoln said they were the strongest, most able men in the country,” Goodwin said. “Lyndon Johnson said, `It's better to have your enemies inside the tent p*** ng out, than outside the tent p*** ing in.”' 
 
 [""Lincoln would have said that more nobly.""
+
+The system today resembles [Jackon](https://en.wikipedia.org/wiki/Spoils_system#Origins)'s.
+
 ](https://www.normantranscript.com/news/local_news/historian-passes-on-abe-lincolns-legacy/article_b89d4fdf-9352-576a-81d4-ca643f91d1ad.html)
 
 ![image](https://github.com/user-attachments/assets/6e021525-3498-40ac-924d-f108b296e688)
