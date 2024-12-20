@@ -228,13 +228,6 @@ Intel will reduce its R&D and marketing spend by billions each year through 2026
 
 10,000 jobs created, followed by 15,000 jobs lost = net staff of -5000 jobs. Plus R&D is cut. So there goes the Intel [Claremont](https://bit-tech.net/reviews/tech/cpus/intel-solar-powered-cpu/1/). Have a datacenter? Intel has no problem selling you its Dynamic Voltage Frequency Scaling technology in orders above 10,000. Create a single core, x86 processor that can run on 5mW? Intel is not interested in your pocket change. 
 
-_Do you have some outdated 1950's view of the future?_
---
-
-A PBS video on Futurism, aired April, 2024:https://www.pbs.org/video/beyond-the-now-ft4j2u/
-
-Ask yourself first: how many products you use and implicitly accept that are created from some previous inventor's idea of the future? Or, why are you still reading this?
-
 ------
 
 ------
