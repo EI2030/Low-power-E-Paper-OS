@@ -593,6 +593,69 @@ I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberry
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
+I reached out to universities, companies in 2021:
+
+![image](https://github.com/user-attachments/assets/d8154754-ef3c-465a-872f-fea5563b4b79)
+
+No response. While I have met some sympathetic developers, the majority of the industry isn't focused on this product idea, or hasn't shared much publically about it. 
+
+But, to put things in perspective, Linux took 8 years to get a kernel (1983-1991), and 21 years for Ubuntu 4.04 to be released.
+
+![image](https://github.com/user-attachments/assets/57c286bb-1614-4be8-a949-f1cf8ba43b5d)
+
+So am I being a bit too optimistic that I haven't amassed an open hardware idea that few even understand? Of course! And I shouldn't stop raising awareness of this valuable idea.
+
+According to a recent LinkedIn comment, an x86 license can cost $10b, and a former engineer suggested only Qualcomm, Mediatek, and Nvidia could afford that: https://www.linkedin.com/feed/update/urn:li:activity:7270536198576582658/
+
+So I am not surprised I got no response. I don't have $10b. I don't even have $1m. 
+
+https://www.linkedin.com/posts/laurie-kirk_in-1992-andrew-tanenbaum-made-some-predictions-activity-7275640523321696256-TFEs/ (12/19/2024) With more people studying the history of predictions, I'd like to think that the way towards solar powered computers arrive on the most open-minded platform, and that might not be a monolithic kernel:
+
+"_In 1992, Andrew Tanenbaum made some predictions about computing._
+
+_1. Microkernels are the future_
+_2. x86 will die out and RISC will dominate the market_
+_3. Everyone will be running a free GNU OS._
+
+_An argument ensued between him and Linus Torvalds. But who was right?_
+
+
+---
+
+_It's all a matter of perspective._
+
+_Microkernels never fully took off, but hybrid kernels like Windows NT, and mach derived kernels found on macOS + iOS control a ton of_ _market share. Linux is the main exception here, being the most monolithic out of the bunch._
+
+---
+
+_As for x86 vs RISC...partial credit._
+
+_x86 obviously still exists, but RISC architectures like ARM completely dominate mobile (and some of the laptop!) market._
+
+_All of the major 7th gen consoles were also running RISC architectures (Xbox 360, PS3, Wii)._
+
+---
+
+_You might be thinking that Tanenbaum got point 3 the "most" incorrect; very few people use GNU Hurd._
+
+_But ponder this:_
+
+_How many operating systems still use GNU userland tools? Tools like Bash, cat, ls, grep, GCC, Make, Tar, and GDB just to name a few._
+
+---
+
+_I'd argue that the majorty of computing systems in the world have at least one GNU-derived (or at least GNU-inspired) tool._
+
+_It's interesting to look back at Tanenbaum's arguments in the modern age. In the early 2000s especially, Tanenbaum seemed quite wrong. It's only recently his arguments have paradoxically gotten more correct."_
+
+---
+Who am I? (updated 12-20-24)
+---
+I am not Richard Stallman nor Linus Torvalds. I haven't invented a single item of software nor hardware. That's not going to impress you, but I do not need to fake anything to make it.
+
+Earlier posts
+--
+
 [9-24-24 Note: the Hackaday.io server (not the .com site) occasionally has outages throughout the year- the last time was around 2-3 months ago. The project site's [500 error](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500) is:
 
 ![hackabot](https://github.com/user-attachments/assets/ae3f19c2-0803-4160-a125-8689cefffe15) If it appears, it might be intermittently accessible, or can return in a few days.]
