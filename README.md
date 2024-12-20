@@ -7,7 +7,7 @@ National Science Foundation:
 
 ![image](https://github.com/user-attachments/assets/2a03fa05-ada9-4d23-84a5-0190e79da011)
 
-But don't bother us if you're an unaffiliated [researcher](https://new.nsf.gov/policies/pappg/24-1/ch-1-pre-submission#ch1E3):
+NSF: But don't bother us if you're an unaffiliated [researcher](https://new.nsf.gov/policies/pappg/24-1/ch-1-pre-submission#ch1E3):
 
 ![image](https://github.com/user-attachments/assets/e8f0e855-c5cc-41eb-bad4-5408eca0b930)
 
