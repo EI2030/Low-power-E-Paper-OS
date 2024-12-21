@@ -9,7 +9,7 @@ National Science Foundation to US Citizens:
 
 ![image](https://github.com/user-attachments/assets/97908ed1-f019-4cfa-a398-3e090881dfac)
 
-NSF: But don't [bother](https://vampires.fandom.com/wiki/Sunlight) us if you're trying to build a [solar](https://www.grunge.com/1412916/why-vampires-fear-sun/) [powered](https://www.pinterest.com/pin/859835753833670308/) laptop:
+NSF: And don't [bother](https://vampires.fandom.com/wiki/Sunlight) us if you're trying to build a [solar](https://www.grunge.com/1412916/why-vampires-fear-sun/) [powered](https://www.pinterest.com/pin/859835753833670308/) laptop:
 
 ![image](https://github.com/user-attachments/assets/15641d8a-229c-41c1-95b0-c6dea6e026cd)
 
