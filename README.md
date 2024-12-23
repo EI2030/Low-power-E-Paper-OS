@@ -55,6 +55,16 @@ https://semiwiki.com/forum/index.php?threads/intel-ceo-is-frustrated-with-chips-
 
 https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-secretary-over-woke-diversity-mandates/
 
+https://finance.yahoo.com/news/how-innovation-died-at-intel-americas-only-leading-edge-chip-manufacturer-faces-an-uncertain-future-and-lawsuits-130018997.html
+
+"But after the dot-com bust, Intel invested in multiple projects that never materialized or failed to reach their potential. Two former executives told Yahoo Finance that innovative efforts were often killed if they didn't immediately contribute to revenue or risked cannibalizing existing products."
+
+It's true, Intel possibly feared that commercializing the Claremont would divert sales away from their pricier i3, i5's and i7s if they were only selling 3 million transistor Pentiums on 22nm, similar to Milhouse getting bored of a video game and playing "cup and ball" in this Simpsons episode: https://youtu.be/_t-kMYIRMME?t=10
+
+![image](https://github.com/user-attachments/assets/656408ea-e9e1-45dd-b47b-7e123c980ad4)
+
+![image](https://github.com/user-attachments/assets/d52c584e-a9bd-4109-a368-5db42d6bf588)
+
 
 Why no solar?
 --
