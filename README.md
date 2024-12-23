@@ -57,7 +57,9 @@ https://www.vance.senate.gov/press-releases/senator-vance-slams-biden-commerce-s
 
 https://finance.yahoo.com/news/how-innovation-died-at-intel-americas-only-leading-edge-chip-manufacturer-faces-an-uncertain-future-and-lawsuits-130018997.html
 
-"But after the dot-com bust, Intel invested in multiple projects that never materialized or failed to reach their potential. Two former executives told Yahoo Finance that innovative efforts were often killed if they didn't immediately contribute to revenue or risked cannibalizing existing products."
+"But after the dot-com bust, Intel invested in multiple projects that never materialized or failed to reach their potential. Two former executives told Yahoo Finance that innovative efforts were often killed if they didn't immediately contribute to revenue or risked cannibalizing existing products.
+
+One former high-level executive, who worked within several divisions, said Intel didn't support the team working on low-power Atom chips for mobile phones in the early 2000s. It sold its license for Xscale, then Arm's most advanced architecture for mobile chips, to Marvell (MRVL) in 2006."
 
 It's true, Intel possibly feared that commercializing the Claremont would divert sales away from their pricier i3, i5's and i7s if they were only selling 3 million transistor Pentiums on 22nm, similar to Milhouse getting bored of a video game and playing "cup and ball" in this Simpsons episode: https://youtu.be/_t-kMYIRMME?t=10
 
