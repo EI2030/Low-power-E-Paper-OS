@@ -527,6 +527,45 @@ This section (indeed, the whole page) is all about ideas -- not about deals with
 X86
 --
 
+https://en.wikipedia.org/wiki/Transmeta_Efficeon
+https://en.wikipedia.org/wiki/Transmeta_Crusoe
+https://en.wikipedia.org/wiki/Sony_Vaio_C1_series#3rd_revision
+https://web.archive.org/web/20090216221141/http://www.transmeta.com/tech/microip.html
+https://www.eetimes.com/microsoft-brings-vista-to-developing-world-pcs/
+
+5-16-2007
+
+"LOS ANGELES  After a year in trials, Microsoft Corp. is fine tuning its
+FlexGo initiative for developing world PCs. Partners including Advanced Micro Devices, Infineon, Intel, and Via Technologies are collaborating on new designs focused on a subscription business model through local telephone companies.
+
+The new designs will use Windows Vista and a new security chip from Infineon. Microsoft reported on the outlook of its FlexGo program at the Windows Hardware Engineering Conference here Tuesday (May 15). FlexGo was first launched at WinHEC in 2006.
+
+Microsoft found a subscription model working through telcos was the best approach, in part because telcos have existing relationships with many families who want but cannot afford a PC. In addition, the availability of consumer credit is on the rise in countries where Microsoft is working including Brazil, India, Mexico and Russia.
+
+“We are going forward with both our original pay-as-you-go and subscription business models, but our main focus will be on telcos and a subscription model,” said David Foster, general manager of the program for Microsoft.
+
+The new systems will generally be bought on credit for about $300 and paid off via a regular subscription fees. In lieu of collateral, the system will keep track of the user's account thanks to the Infineon security chip. If the subscription lapses, the system will warn the user and eventually shut down if the subscription is not renewed.
+
+
+The initial FlexGo PCs were based on a Transmeta Efficeon CPU, Windows XP and BIOS from Phoenix Technologies. A second-generation of PCs in the works for late this year will use a variety of CPUs from Advanced Micro Devices, Intel and Via along with the Infineon chip.
+
+Via has completed a board design, now available as a Gerber file, with variations for AMD Turion, Intel Celeron and Via C7M processors. It was designed to Microsoft's specifications for a basic Vista system.
+
+Intel is preparing its own board called Cash Canyon. It uses a Celeron D processor, Intel 945GZ and ICH7 chip set and 533 MHz DDR2 memory.
+
+The Infineon chip, loosely based on the work of the Trusted Computing Group, will be used on all the designs. The chip runs Microsoft firmware and provides a secure hardware ID, secure key storage, a random number generator and a trusted clock. The clock tracks usage of systems sold on a pay-as-you-go basis.
+
+Foster estimated as many as a million PCs were sold worldwide through telcos last year, though he would not say how many were FlexGo systems. Microsoft hopes to expand the number of cities in which it supports FlexGo programs in 2007 though it is not disclosing sales expectations, he added.
+
+With chip and board partners lined up, Microsoft's next big step is to get systems makers to adopt the designs and take them into developing markets. “Getting OEMs on board is exactly where we are right now,” said John Wilkes, an alliance manager with AMD.
+
+Microsoft has modified the software used on the initial Windows XP systems so that FlexGo can now be more easily loaded and configured by OEMs to meet the needs of various telco customers. The FlexGo software now runs like an application rather than a unique image of a Windows operating system.
+
+“I heard it loud and clear that was unacceptable,” said Martin Hall, lead FlexGo program manager at Microsoft, referring to the OS approach. “It was clear we had to make the FlexGo software much more manufacturable for OEMs,” he added.
+
+FlexGo represents a relatively high-end approach to getting the latest PCs to people who could not otherwise afford a home computer. AMD has a separate Ultra Low Value PC design based on its Geode processor running Windows XP. A consortium of companies including AMD is working on the One Laptop Per Child project which targets a system costing as little as $100."
+
+
 AMD Geode family extensions (SSE1)
 Intel "Diamondville" (SSE1, SSE2, SSE3, 64-bit, virtualization, 2 cores, some (2?) threads per core)
 VIA Isaiah (SSE1, SSE2, SSE3, 64-bit, virtualization)
