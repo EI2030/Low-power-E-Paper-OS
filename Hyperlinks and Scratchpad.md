@@ -565,6 +565,11 @@ Microsoft has modified the software used on the initial Windows XP systems so th
 
 FlexGo represents a relatively high-end approach to getting the latest PCs to people who could not otherwise afford a home computer. AMD has a separate Ultra Low Value PC design based on its Geode processor running Windows XP. A consortium of companies including AMD is working on the One Laptop Per Child project which targets a system costing as little as $100."
 
+"Subsequent reverse engineering, published in 2004, clarifies some details of the native VLIW architecture and associated instruction set, and suggests that there are fundamental limitations that preclude porting an operating system such as Linux to it.[48][49]" 
+
+https://www.realworldtech.com/crusoe-exposed/
+https://www.realworldtech.com/crusoe-intro/
+https://en.wikipedia.org/wiki/Transmeta#cite_note-RealWorldTechnologiesCrusoeExposedI-48
 
 AMD Geode family extensions (SSE1)
 Intel "Diamondville" (SSE1, SSE2, SSE3, 64-bit, virtualization, 2 cores, some (2?) threads per core)
