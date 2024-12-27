@@ -945,6 +945,10 @@ https://en.wikipedia.org/wiki/Narrowband_IoT#3GPP_LPWAN_standards
 
 https://meshtastic.org/ 
 
+https://www.eetimes.eu/murata-adds-wi-fi-halow-to-wireless-module-line-up/ (802.11ah)
+
+https://www.eetimes.eu/open-digital-radio-broadcast-standard-provides-emergency-notifications/
+
 https://www.ted.com/talks/danny_hillis_the_internet_could_crash_we_need_a_plan_b/transcript?language=ur
 
 https://hackaday.com/2023/11/08/2g-or-not-2g-that-is-the-question/
