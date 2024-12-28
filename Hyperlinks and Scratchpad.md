@@ -1084,6 +1084,10 @@ https://www.zdnet.com/article/what-is-immutable-linux-heres-why-youd-run-an-immu
 https://archive.org/details/debian_3.1r8_i386
 https://www.broadcom.com/support/knowledgebase/1211161490111/debian-linux-sarge-3.1-kernels-2.4.27-and-2.6.8
 "Unlike a compressed image of a conventional file system, a cramfs image can be used as it is, i.e. without first decompressing it. For this reason, some Linux distributions use cramfs for initrd images (Debian 3.1 in particular) and installation images (SUSE Linux in particular), where there are constraints on memory and image size." https://en.wikipedia.org/wiki/Cramfs
+
+https://www.youtube.com/watch?v=CIKHwsSQC4s
+Has anyone made this theory: Benefits of uncompressed filesystem is less CPU processing utilization and therefore less power consumption (this video is part of a greater goal- solar powered systems.. :)
+
 https://www.kernel.org/doc/Documentation/filesystems/cramfs.txt
 
 https://docs.kernel.org/filesystems/cramfs.html
