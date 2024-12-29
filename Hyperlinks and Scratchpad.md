@@ -1092,6 +1092,9 @@ https://www.kernel.org/doc/Documentation/filesystems/cramfs.txt
 
 https://docs.kernel.org/filesystems/cramfs.html
 
+https://claroty.com/team82/research/lexmark-printers-firmware-extraction-part-b
+https://en.wikipedia.org/wiki/Zlib
+
 https://en.wikipedia.org/wiki/OpenSUSE#Historic_(1994-2005)
 "Since the acquisition by Novell in 2003 and with the advent of openSUSE, this has been reversed: starting with version 9.2, an unsupported one-DVD ISO image of SUSE Professional was made available for download. "
 
