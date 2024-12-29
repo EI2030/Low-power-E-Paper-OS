@@ -1063,6 +1063,14 @@ E-paper display drivers
 RTOS/Linux/Legacy OS development:
 ----
 
+https://ignorethecode.net/blog/2009/04/22/oberon/
+https://web.archive.org/web/20090416033922/http://stevenf.tumblr.com/post/94591835/warning-a-long-rambly-exploration-of-the-state
+
+https://liam-on-linux.livejournal.com/73983.html
+https://liam-on-linux.dreamwidth.org/
+https://chrisacorns.computinghistory.org.uk/docs/Mags/PCW/PCW_Aug87_Archimedes.pdf
+https://www.riscosopen.org/content/downloads
+
 https://github.com/vocho/openqnx
 https://gitlab.com/elahav/qnx-rpi-book/-/blob/master/pdf/qnx_book.pdf
 https://news.ycombinator.com/item?id=42079460
