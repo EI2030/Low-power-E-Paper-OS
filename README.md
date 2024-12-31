@@ -804,7 +804,8 @@ _It's interesting to look back at Tanenbaum's arguments in the modern age. In th
 ---
 Who am I? (updated 12-20-24)
 ---
-I am not Richard Stallman nor Linus Torvalds. I haven't invented a single item of software nor hardware. That's not going to impress you, but I do not need to fake anything to make it.
+
+![groening](https://github.com/user-attachments/assets/4c11deb0-3904-4e46-91bb-b22a5a2414b8)
 
 Previously abandoned ideas:
 
