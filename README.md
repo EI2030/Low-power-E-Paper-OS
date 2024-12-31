@@ -1,6 +1,9 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+![image](https://github.com/user-attachments/assets/c4053eaa-83cd-41aa-ac19-844587490ef1)
+
+
 National Science Foundation to US Citizens:
 
 =![image](https://github.com/user-attachments/assets/28f76618-bb84-43e7-b445-7861c395d701)
