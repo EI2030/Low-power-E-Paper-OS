@@ -802,13 +802,14 @@ _I'd argue that the majorty of computing systems in the world have at least one 
 _It's interesting to look back at Tanenbaum's arguments in the modern age. In the early 2000s especially, Tanenbaum seemed quite wrong. It's only recently his arguments have paradoxically gotten more correct."_
 
 ---
-Who am I? (updated 12-20-24)
+Who am I? (updated 12-[30-24](https://www.youtube.com/watch?v=PiAZ7l3eMdM))
 ---
 
-![groening](https://github.com/user-attachments/assets/4c11deb0-3904-4e46-91bb-b22a5a2414b8)
+![image](https://github.com/user-attachments/assets/c202397d-7b05-4364-8902-533c00465a1e)
+
 
 Previously abandoned ideas:
-
+--
 ![image](https://github.com/user-attachments/assets/f3abafe7-a2bf-401a-a4d5-707452fa1114)
 
 
