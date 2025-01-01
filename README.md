@@ -801,6 +801,9 @@ _I'd argue that the majorty of computing systems in the world have at least one 
 
 _It's interesting to look back at Tanenbaum's arguments in the modern age. In the early 2000s especially, Tanenbaum seemed quite wrong. It's only recently his arguments have paradoxically gotten more correct."_
 
+the ARPANet that used to be, and what it became:
+https://www.freaktakes.com/p/a-note-on-the-changing-faces-of-darpa
+
 ---
 Who am I? (updated 12-[30-24](https://www.youtube.com/watch?v=PiAZ7l3eMdM))
 ---
