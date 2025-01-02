@@ -133,6 +133,13 @@ The popular picture of the scientist is of a man who is visited by a flash of in
 
 To be realistic, however, the successful scientist often seizes on a new tool or a new technique and applies it sooner than anyone else."
 
+And by sooner, I have direct knowledge of a time when a chemist applied a method sooner than anyone else: Fred Sanger and Carl [Woese](https://github.com/hatonthecat/Biology/blob/main/Woese%20Tribute.pdf)
+
+“[Sanger](https://en.wikipedia.org/wiki/Frederick_Sanger#cite_note-37)'s [rule](https://newsteve.substack.com/p/most-ideas-come-from-previous-ideas)
+... anytime you get technical development that’s two to threefold or more efficient, accurate, cheaper, a whole range of experiments opens up.[37]"
+
+https://www.youtube.com/watch?v=SG-iLV_NJL8 
+
 I do not have an institutional position that represents expertise, therefore I am less obligated to make a tidy and neat project. That said, this page could be tidier. It's more a scattered collection of long ruminated thoughts rather than a completely consistent focus. That I joke about many things doesn't detract from the proven technologies demonstrated by others here (and in my [own](https://youtu.be/428cgrpPR0w) [solar](https://youtu.be/0ztj_MDNRcI) [tests](https://www.youtube.com/watch?v=jeXPXmlq9TQ)). I don't think this project would be possible without a little humor. For those that still don't understand the many contradictions here, it involves some [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), along with the need for [abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning) as a common form of analysis. I particularly think disbelief also has a lot to do with [agnotology](https://www.optoutproject.net/what-is-true-on-the-internet/), a new word I just learned, but have understood for decades as the study of both willfull and unwitting ignorance/doubt.
 
 https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything
