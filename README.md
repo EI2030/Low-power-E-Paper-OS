@@ -138,6 +138,32 @@ And by sooner, I have direct knowledge of a time when a chemist applied a method
 “[Sanger](https://en.wikipedia.org/wiki/Frederick_Sanger#cite_note-37)'s [rule](https://newsteve.substack.com/p/most-ideas-come-from-previous-ideas)
 ... anytime you get technical development that’s two to threefold or more efficient, accurate, cheaper, a whole range of experiments opens up.[37]"
 
+The full [quote](https://www.genome.gov/sites/default/files/media/files/2019-05/david_schlessinger_transcript.pdf) is:
+
+"I think my feeling was that everything remained in a pilot level, and that it was always important
+to be able to walk before you tried to run. So, that we were early enough to continue the
+mapping. And again, the question was when the transition point would come. All of us in the
+field had been dominated by the development of technology, and everything runs by Sangers
+rule; that anytime you get technical development that’s two to threefold or more efficient,
+accurate, cheaper, a whole range of experiments opens up. So, the question was, "Would these
+be incremental, or completely transformative?" And it turns out that simple changes, like the
+development of automatic loaders for capillary electro freezes were enough to start bringing the
+cost down and make things feasible on a large scale. Again, it was Sanger and Washington
+University, rather than Sanger at that point, who were making decisions for box sequencing. The
+real question was the point at which one decided that mapping could be dispensed with. And in
+the historical record, I think that's unclear. We did get to the answer, but it wasn't an obvious
+choice. The -- how can I put this? The -- one feature of the mapped clones that is -- that remains
+and has never been completely exploited, is the fact that they reproduce large sections of the
+NHGRI: Schlessinger, David 2018-03-06 15 03/09/2018
+Prepared by National Capitol Contracting 8255 Greensboro Drive, Suite C100
+(703) 243-9696 McLean, VA 22102
+genome in a form that can be manipulated in a study. So, for example, the A.C. clones we made
+at the time remain the only source of a complete factor eight gene, a complete factor nine gene.
+These have both commercial and medical implications. And, they're only available by actually
+having the clones, which are still achievable in 3D yeast artificial chromosomes at this point.
+There's the group led by Vladimir Larionov at NCI, which does recombination-based cloning.
+That's got help with that as well. So, that remains something of great interest."
+
 https://www.youtube.com/watch?v=SG-iLV_NJL8 
 
 I do not have an institutional position that represents expertise, therefore I am less obligated to make a tidy and neat project. That said, this page could be tidier. It's more a scattered collection of long ruminated thoughts rather than a completely consistent focus. That I joke about many things doesn't detract from the proven technologies demonstrated by others here (and in my [own](https://youtu.be/428cgrpPR0w) [solar](https://youtu.be/0ztj_MDNRcI) [tests](https://www.youtube.com/watch?v=jeXPXmlq9TQ)). I don't think this project would be possible without a little humor. For those that still don't understand the many contradictions here, it involves some [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), along with the need for [abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning) as a common form of analysis. I particularly think disbelief also has a lot to do with [agnotology](https://www.optoutproject.net/what-is-true-on-the-internet/), a new word I just learned, but have understood for decades as the study of both willfull and unwitting ignorance/doubt.
