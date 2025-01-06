@@ -4,7 +4,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 Update 1/2025:
 
-A U.S. developer in China made an ESP32 solar laptop emulating an 80186 running DOS and up to Windows 3.1 and consumes 5mA-60mA
+A U.S. developer in China made an ESP32 solar laptop emulating an 80186 running DOS and up to Windows 3.0, with an e-ink display, 8MB PSRAM, and consumes 5mA-60mA
 
 ![17361485007868938451660751104617](https://github.com/user-attachments/assets/0512b9f0-2fa1-4917-a211-79b26b884930)
 
