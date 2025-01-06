@@ -1,8 +1,31 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
-![image](https://github.com/user-attachments/assets/c4053eaa-83cd-41aa-ac19-844587490ef1)
 
+Update 1/2025:
+
+A U.S. developer in China made an ESP32 solar laptop emulating an 80186 running DOS and up to Windows 3.1 and consumes 5mA-60mA
+
+![17361485007868938451660751104617](https://github.com/user-attachments/assets/0512b9f0-2fa1-4917-a211-79b26b884930)
+
+![17361483707505073947516352834173](https://github.com/user-attachments/assets/bbab2b88-50dd-419b-8384-e4a16c72f2da)
+
+![17361476505122151142614783572227](https://github.com/user-attachments/assets/7999fee6-9712-4a6a-9e56-e10833b543fb)
+
+![17361482106648024781241775048203](https://github.com/user-attachments/assets/f5ea032b-be03-4cc0-bf9d-c227da8b7541)
+
+![17361477033328048160753763284191](https://github.com/user-attachments/assets/f62c6f07-1060-433d-a8ed-2486ffb5227e)
+
+![17361480250514468162571299165724](https://github.com/user-attachments/assets/b9ada715-5e67-40da-bf67-f9f1fedcc97b)
+
+![17361477245084727414253959357365](https://github.com/user-attachments/assets/0e33a7fc-2d86-4f22-adbb-b92d1e826a0b)
+
+
+Really well made!
+
+-------
+
+![image](https://github.com/user-attachments/assets/c4053eaa-83cd-41aa-ac19-844587490ef1)
 
 National Science Foundation to US Citizens:
 
