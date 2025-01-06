@@ -9,7 +9,9 @@ A U.S. [developer](https://www.facebook.com/groups/RCRpodcast/posts/300865592597
 ![17361485007868938451660751104617](https://github.com/user-attachments/assets/0512b9f0-2fa1-4917-a211-79b26b884930)
 
 ![17361483707505073947516352834173](https://github.com/user-attachments/assets/bbab2b88-50dd-419b-8384-e4a16c72f2da)
-The Bios bootup with solar logo is reminiscent of the vintage Phoenix Bios logo :)
+The Bios bootup with solar logo is reminiscent of the vintage Energy Star logo on some Award Modular and Phoenix Bios logo :)
+
+![1736149207579779412515748844202](https://github.com/user-attachments/assets/ac474244-e0df-4a57-ada5-ccd4b7359126)
 
 ![17361476505122151142614783572227](https://github.com/user-attachments/assets/7999fee6-9712-4a6a-9e56-e10833b543fb)
 
