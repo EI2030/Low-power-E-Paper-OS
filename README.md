@@ -4,7 +4,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 Update 1/2025:
 
-A U.S. developer in China made an ESP32 solar laptop emulating an 80186 running DOS and up to Windows 3.0, with an e-ink display, 8MB PSRAM, and consumes 5mA-60mA
+A U.S. [developer](https://www.facebook.com/groups/RCRpodcast/posts/3008655925978283/) in China made an ESP32 solar laptop emulating an 80186 running DOS and up to Windows 3.0, with an e-ink display, 8MB PSRAM, and consumes 5mA-60mA
 
 ![17361485007868938451660751104617](https://github.com/user-attachments/assets/0512b9f0-2fa1-4917-a211-79b26b884930)
 
@@ -24,8 +24,6 @@ A U.S. developer in China made an ESP32 solar laptop emulating an 80186 running 
 Really well made!
 
 -------
-
-![image](https://github.com/user-attachments/assets/c4053eaa-83cd-41aa-ac19-844587490ef1)
 
 National Science Foundation to US Citizens:
 
@@ -144,6 +142,8 @@ Questions, Seldomly Asked (QSAs):
 --
 
 Yes, it has since been late [2020](https://forums.raspberrypi.com/viewtopic.php?p=1753787#p1753787). 
+
+![image](https://github.com/user-attachments/assets/c4053eaa-83cd-41aa-ac19-844587490ef1)
 
 _Why are there so many jokes in my Github repositories?_
 --
