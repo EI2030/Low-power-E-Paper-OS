@@ -76,6 +76,8 @@ The system today resembles [Jackon](https://en.wikipedia.org/wiki/Spoils_system#
 
 The latest in Intel entitled news:
 
+https://youtu.be/TdSAuYCcs_o?feature=shared Asianometery's story "Intel's Reign of Terror"
+
 https://www.wsj.com/tech/intel-microchip-competitors-challenges-562a42e3 1-4-2025
 
 https://www.msn.com/en-us/money/companies/intel-ceo-is-frustrated-with-chips-act-payout-progress-intel-has-received-0-from-the-8-5-billion-that-the-us-government-promised/ar-AA1sWllz?ocid=BingNewsSerp
