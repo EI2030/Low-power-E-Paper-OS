@@ -76,7 +76,17 @@ The system today resembles [Jackon](https://en.wikipedia.org/wiki/Spoils_system#
 
 The latest in Intel entitled news:
 
+https://semiwiki.com/forum/index.php?threads/asianometry-intels-reign-of-terror.21796/ 
+
 https://youtu.be/TdSAuYCcs_o?feature=shared Asianometery's story "Intel's Reign of Terror"
+https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma (intel's own Claremont was a casualty of this "dilemma" because if its own Atoms were too affordable, thrn certainly a smaller, ntv x86 woukd be hard to justify a premium without multimodal integration into a chipset that doesn't rely on energy harvesting as a fallback)
+
+https://www.theregister.com/2001/06/07/intel_incensed_at_via_inflatables/
+
+"The reason? Intel had secured the permission of sundry mobo makers in writing to remove VIA balloons from their stands."
+https://www.theregister.com/2003/01/02/balloons_burst_in_intelvia_trial/
+
+https://www.anandtech.com/show/782
 
 https://www.wsj.com/tech/intel-microchip-competitors-challenges-562a42e3 1-4-2025
 
