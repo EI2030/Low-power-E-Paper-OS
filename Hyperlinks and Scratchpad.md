@@ -459,6 +459,18 @@ die area, but allows us to achieve the best energy
 efficiency for a target throughput for parallel workloads, limited primarily by the energy consumed by
 inter-unit communications." 
 
+Chip Design and Circuit Simulation software
+--
+
+https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html 
+
+https://www.qorvo.com/design-hub/design-tools/interactive/qspice
+
+https://en.wikipedia.org/wiki/Qorvo#History 
+
+https://www.eenewseurope.com/en/re-writing-spice-for-a-digital-world/ 
+
+
 Neuromorphic:
 --
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
