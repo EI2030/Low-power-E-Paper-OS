@@ -505,6 +505,7 @@ Quark
 https://en.wikipedia.org/wiki/Intel_Quark
 https://en.wikipedia.org/wiki/Intel_Quark#List_of_processors  "Atlas Peak" Quark SE C1000 
 https://elinux.org/images/c/c6/Guedes.pdf
+https://linuxgizmos.com/who-killed-the-quark/
 https://ark.intel.com/content/www/us/en/ark/products/91949/intel-quark-se-c1000-microcontroller.html
 
 https://docs.zephyrproject.org/1.14.0/boards/x86/quark_se_c1000_devboard/doc/index.html
