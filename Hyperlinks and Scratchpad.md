@@ -470,6 +470,7 @@ https://en.wikipedia.org/wiki/Qorvo#History
 
 https://www.eenewseurope.com/en/re-writing-spice-for-a-digital-world/ 
 
+https://en.wikipedia.org/wiki/Soft_microprocessor (x86 and other cores)
 
 Neuromorphic:
 --
