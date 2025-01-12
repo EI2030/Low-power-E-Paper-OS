@@ -399,7 +399,13 @@ https://en.wikipedia.org/wiki/Intel_Quark
 
 Quark powers the (now discontinued) Intel Galileo developer microcontroller board.[3] In 2016 Arduino released the Arduino 101 board that includes an Intel Quark SoC.[4][5] The CPU instruction set is, for most models, the same as a Pentium (P54C/i586) CPU.[6]
 
-Intel announced the end-of-life of its Quark products in January 2019, with orders accepted until July 2019 and final shipments set for July 2022.[1][11]
+Intel announced the end-of-life of its Quark products in January 2019, with orders accepted until July 2019 and final shipments set for July 2022.[1][11] https://linuxgizmos.com/who-killed-the-quark/ 
+
+"Perhaps Intel’s largest impediment was itself. It could never quite decide what the Quark was for and was never able to capture the developer market. The Curie was especially notorious for spotty public documentation and the requirement for signing NDAs to get the full specs.
+
+The low-end chip market is tough going and marked by low margins. Intel had the market clout to succeed, but it was earning such high profits from its popular Xeon and Core chips, the Quark was quickly neglected. To a lesser degree, its Atom line has suffered from the same dynamics.
+
+With IoT morphing into edge computing, and with the dropping costs for Cortex-A53 SoCs, the embedded market is shifting upward. Edge gateways are increasingly asked to process video and do analytics, which need more powerful chips. Still, there’s room at the bottom for more innovation on power-efficient SoCs that can still run Linux." 
 
 November 30, 2022: The [PCR](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)-like amplification of the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet
 ---
