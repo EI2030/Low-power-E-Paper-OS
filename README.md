@@ -1402,5 +1402,9 @@ Several years ago, an article which went virtually unnoticed still rings true ht
 
 A little bit of a handicap encourages each generation not to become super dependent on convenience. Call it the most basic pc. My first PC came with a CD pack that included an Encyclopedia (MS Encarta '95). Before that, home bookshelves had [encyclopedias](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/) in many homes. Portable computers are even more capable of being multi-featured PCs in even less of a thermal design power/envelope (TDP), and the focus of journalism has often been "we're covering all the new features of a product release- let us educate you, and throw away your old pc (we wouldn't know what to do with it- linux? what's that?"
 
+![image](https://github.com/user-attachments/assets/b1bbbf6b-7330-4528-909f-c24d751e7cbe)
+
+https://www.youtube.com/watch?v=WCdDKPonXXA <- 1996 PC that had more information than an empty internet device today
+
 Hyperbole asides, A balanced tech media like the Wired, The Verge, Ars Technica, ExtremeTech would cover 10% software, 10% hardware, 10% Superconductors, 10% particle physics, 10% climatology, 10% astrophysics, 10% biology, 10% culture/politics, 10% business, and 10% pure mathematics (you can see where my bias leans, some of this was humor-intended). Instead it's 95% leading FAANG company releasing incremental product/feature XYZ.
 
