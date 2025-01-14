@@ -636,6 +636,8 @@ https://opencores.org/projects/amber
 
 https://opencores.org/projects/storm_core
 
+https://opencores.org/projects/v586 or even a 386 https://github.com/hatonthecat/linux_distro_tests#386
+
 https://en.wikipedia.org/wiki/ARM_architecture_family#ARM2 
 
 @
