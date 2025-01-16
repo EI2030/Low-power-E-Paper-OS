@@ -212,7 +212,13 @@ https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/th
 
 Computer Science is deep. Physics is deeper. Your app probably isn't deep. Jack Handey wrote _[Deepest Thoughts: So Deep They Squeak](https://www.amazon.com/Deepest-Thoughts-Deep-They-Squeak/dp/0786880449)_ in 1994. If there's [plenty](https://arxiv.org/abs/2306.06020) of [humor](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!) [at the bottom](https://en.wikipedia.org/wiki/There%27s_Plenty_of_Room_at_the_Bottom), I want to be there. 
 
-Another phrase I learned from the Opt-Out project is "epistemic literacy". Epistemic literacy requires basic knowledge resources- such as researched books and encyclopedias, rather than software that does acrobatic tricks with tens of hops in a traceroute with Chat-GPT. In other words, epistemic literacy requires basic computers (or in Gen-Z speak, _based_ computers) for learning. In retrospect, it makes some of the previous criticism towards the OLPC seem a lot more "cruel pessimism", whereas the "cruel optimism" was a lot more epistemic and not as ahistorical as it seems...
+Epistemic Knowledge, at Risk from AI Data-Training Poisoning
+--
+https://spectrum.ieee.org/ai-cybersecurity-data-poisoning
+https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/data-poisoning/
+https://blog.barracuda.com/2024/04/03/generative-ai-data-poisoning-manipulation
+
+Another phrase I learned from the Opt-Out project is "[epistemic](https://www.jstor.org/stable/26609249) literacy". Epistemic literacy requires basic knowledge resources- such as researched books and encyclopedias, rather than software that does acrobatic tricks with tens of hops in a traceroute with Chat-GPT. In other words, epistemic literacy requires basic computers (or in Gen-Z speak, _based_ computers) for learning. In retrospect, it makes some of the previous criticism towards the OLPC seem a lot more "cruel pessimism", whereas the "cruel optimism" was a lot more epistemic and not as ahistorical as it seems...
 
 _Why is this project important?_ 
 --
