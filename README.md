@@ -134,8 +134,6 @@ Intel provides the transistors, AUO/Asus/Samsung makes the bright [LCDS](https:/
 
 ![image](https://github.com/user-attachments/assets/a3bf150f-6685-4d36-b955-665d6e95482a)
 
-
-
 https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they expected to get funding for doing nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot and out of the loop.
 
 Interesting to see Congress criticizing Intel. Here's an idea, Intel, restart your Quark series of processors. But this time, include more than 0KB of RAM!
@@ -225,6 +223,23 @@ https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/data-poisoning/
 https://blog.barracuda.com/2024/04/03/generative-ai-data-poisoning-manipulation
 
 Another phrase I learned from the Opt-Out project is "[epistemic](https://www.jstor.org/stable/26609249) literacy". Epistemic literacy requires basic knowledge resources- such as researched books and encyclopedias, rather than software that does acrobatic tricks with tens of hops in a traceroute with Chat-GPT. In other words, epistemic literacy requires basic computers (or in Gen-Z speak, _based_ computers) for learning. In retrospect, it makes some of the previous criticism towards the OLPC seem a lot more "cruel pessimism", whereas the "cruel optimism" was a lot more epistemic and not as ahistorical as it seems...
+
+"Learning creates progress when it expands our capabilities to be and to do things that we
+have reason to value. As Sen has pointed out, our capabilities are rooted in social, cultural,
+and bodily contexts that are not universal. Development is about expansion of these
+personal and highly contextual capabilities. Although the debate still goes on about
+whether some basic universal human capabilities can be defined,vi in practice progress and
+development are deeply subjective and highly idiosyncratic. In the Senian capability-based
+approach, this subjective foundation of development is linked to a universal requirement
+that valuations are reasonable. They cannot be purely subjective preferences or based on
+hedonistic fulfillment; instead, we need to be able make a coherent argument about
+valuations that can be accepted as coherent also by those who do not share these values."
+
+from "Epistemic Literacy or a Clash of Clans? A Capability-based View on the Future of Learning and Education
+Ilkka Tuomi
+
+European Journal of Education
+Vol. 50, No. 1 (March 2015), pp. 21-24 (4 pages)"
 
 _Why is this project important?_ 
 --
