@@ -134,6 +134,18 @@ Intel provides the transistors, AUO/Asus/Samsung makes the bright [LCDS](https:/
 
 ![image](https://github.com/user-attachments/assets/a3bf150f-6685-4d36-b955-665d6e95482a)
 
+This [Tumblr post](https://swarmik.tumblr.com/post/164890487174/monochrome-and-color-passive-matrix-lcd-screens) belongs in a museum!  
+
+"640x480 monochrome passive-matrix screens needed about 1.800 transistors to control all pixels (n*2+m for dual-scan). Color active-matrix screens (TFT) with the same resolution needed 300.000 transistors as each pixel is controlled by three transistors (3*n*m). That’s why these screens were so expensive.
+
+Color passive-matrix screens (DSTN) were a good low-cost alternative for everybody who wanted colors “on the road”. This technology needed only about 5.000 transistors for the resolution of 640x480 (2*3*n+m). The result was not exceptional but it was good enough for many productivity applications where slow response rate (300-700 milliseconds) was not a problem.
+
+Unfortunately, quality varied a lot between DSTN screens. Although some had a very crisp picture with shiny colors on par with today’s cheap TN panels, some suffered from significantly poorer contrast, washed colors and color bleeding."
+
+"UPDATE: (1) I was not completely right with the transistor counts – for passive-matrix displays, there will be at least twice as much transistors (one on Vcc and one on GND for each row/column to output both logic levels 0 and 1). (2) I also forgot to mention that passive-matrix screens don’t have transistors in the panel itself. There are special chips on a separate board which makes the solution much cheaper in comparison with TFT (which has multiple layers with tiny transistors inside the panel)."
+
+Ok, do you know what that means? Solar powered laptops might benefit from DSTN panels because they use 1/1000th the transistors (or 1/500th) of active matrix (300,000) depending on his math. I do not know if they required a backlight or constituted part of the backlight, but it is certainly an option that should be explored. Like the AC vs DC wars of the Electric, active matrix won and innovation stagnated in the display industry even while resolution improved- the [technological determinism](https://firstmonday.org/ojs/index.php/fm/article/view/1000/921) of Moore's Law had a parallel in Displays- more were certainly welcome, but diversity of display materials lagged behind (e.g LCD/LED over e-ink and reflective). Intel i series are 15 generations ahead of solar powered calculators, which are 2nd gen (if you count scientific calculators). Displays since the CRTS underwent maybe 5 big transformations in 40 yrs- Green passive matrix screens, LCDs, then LEDs, then OLEDs. But 3 main types today is still less than than 5 options. It would be ideal to have crisp, low power, matte screens (both monochrome and color) that don't require high refresh rates and have low intensity illunination that don't feel like they're blinding the users who feel tethered to a [sunk cost](https://en.wikipedia.org/wiki/Sunk_cost). 
+
 https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they expected to get funding for doing nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot and out of the loop.
 
 Interesting to see Congress criticizing Intel. Here's an idea, Intel, restart your Quark series of processors. But this time, include more than 0KB of RAM!
