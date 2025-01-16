@@ -128,7 +128,13 @@ Imagine having a seat at the table that develops laptops. If you're Samsung, Del
 
 Lots of OEMs and All-in-One makers that benefitted from setting a floor to pricing- they needed an excuse to keep the 6-cell battery in their laptops.
 
-Intel provides the transistors, AUO/Asus/Samsung makes the bright LCDS/OLEDs, and Lithium Suppliers continue to make a large portion of sales from laptops.
+Intel provides the transistors, AUO/Asus/Samsung makes the bright [LCDS](https://www.culpium.com/p/the-death-of-lcds-means-new-life)/OLEDs, and Lithium Suppliers continue to make a large portion of sales from laptops.
+
+![image](https://github.com/user-attachments/assets/dcad7352-5e5b-4878-b05c-0eea822f0c86)
+
+![image](https://github.com/user-attachments/assets/a3bf150f-6685-4d36-b955-665d6e95482a)
+
+
 
 https://www.blog.baldengineering.com/2024/10/intel-sets-record-with-2d-tmd.html seem like Intel finally disclosed some IP- probably because they expected to get funding for doing nothing. Now of course others are going to try to copy this. But at least the taxpayer isn't treated like a complete idiot and out of the loop.
 
