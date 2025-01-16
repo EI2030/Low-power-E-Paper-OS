@@ -835,12 +835,11 @@ https://www.youtube.com/watch?v=psYJGW7u7Sc Nokia 232 (1994)
 https://www.j-display.com/product/pdf/Leaflet/2LL_2.7_rectagular_LPM027M128B.pdf
 https://www.j-display.com/english/product/reflective.html 
 
- https://www.theverge.com/23954584/e-ink-color-tablets-ereader "Is E Ink finally ready for prime time?"
+https://www.theverge.com/23954584/e-ink-color-tablets-ereader "Is E Ink finally ready for prime time?"
 
- https://liliputing.com/zerowriter-ink-is-an-open-source-word-processor-with-an-e-ink-display-and-a-mechanical-keyboard-crowdfunding/
+https://liliputing.com/zerowriter-ink-is-an-open-source-word-processor-with-an-e-ink-display-and-a-mechanical-keyboard-crowdfunding/
 
 https://www.youtube.com/watch?v=EKLBpOeX97c
-
 
 https://www.j-display.com/english/product/reflective.html
 
@@ -857,6 +856,9 @@ https://en.wikipedia.org/wiki/Game_Boy#Game_Boy_Pocket
 https://en.wikipedia.org/wiki/STN_display#FSTN
 https://en.wikipedia.org/wiki/High-performance_addressing
 https://web.archive.org/web/20110722071900/http://users.utcluj.ro/~baruch/media/siee/lecture/Lecture-IOS07.pdf
+
+https://rdotdisplays.com/articles/passive-matrix 
+https://rdotdisplays.com/articles/how-to-drive-displays
 
 Keyboards
 --
