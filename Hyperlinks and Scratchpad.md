@@ -862,6 +862,8 @@ https://web.archive.org/web/20110722071900/http://users.utcluj.ro/~baruch/media/
 https://rdotdisplays.com/articles/passive-matrix 
 https://rdotdisplays.com/articles/how-to-drive-displays
 
+https://hackaday.com/2025/01/18/a-pda-from-an-esp32/
+
 Keyboards
 --
 https://spectrum.ieee.org/touchscreens
