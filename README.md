@@ -1,6 +1,8 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+How to design a solar laptop: Step 1: Set a TDP: https://drive.google.com/file/d/10iBjuD6cOmJkIFf_-4hwC3QjRUUu2tl_/view?usp=sharing I wasn't able to save it as a JPG, so it is in BMP format (300+MB)
+
 https://www.google.com/search?q=intel+claremont
 
 https://www.google.com/search?q=intel+solar+claremont
