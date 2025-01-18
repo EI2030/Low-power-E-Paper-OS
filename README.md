@@ -1,6 +1,10 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+https://www.google.com/search?q=intel+claremont
+
+https://www.google.com/search?q=intel+solar+claremont
+
 
 Update 1/2025:
 
