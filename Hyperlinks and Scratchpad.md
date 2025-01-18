@@ -453,8 +453,9 @@ https://happytrees.org/dieshots/Intel_-_Claremont
 
 https://www.xataka.com/componentes/intel-claremont-tener-glados-en-una-patata-no-parece-tan-lejano
 
-https://bit-tech.net/reviews/tech/cpus/intel-solar-powered-cpu/1/ "Who knows, maybe one day they can use offshoots of this technology to make digital devices that are entirely powered off of solar energy. Wouldn’t that be cool? If you ever needed more power, you could simply shine more light at your computer." RIP Greg, you were right.
+https://bit-tech.net/reviews/tech/cpus/intel-solar-powered-cpu/1/ 
 
+"Who knows, maybe one day they can use offshoots of this technology to make digital devices that are entirely powered off of solar energy. Wouldn’t that be cool? If you ever needed more power, you could simply shine more light at your computer." RIP Greg, you were right.
 https://www.route-fifty.com/emerging-tech/2011/09/solar-powered-processor-raises-new-possibilities/283172/
 
 https://hothardware.com/reviews/intel-tremont-cpu-microarchitecture-overview 
