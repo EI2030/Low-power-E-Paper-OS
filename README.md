@@ -78,6 +78,8 @@ The system today resembles [Jackon](https://en.wikipedia.org/wiki/Spoils_system#
 
 ![image](https://github.com/user-attachments/assets/c75bd4b9-dc0b-4860-ae48-23fb366fdd75)
 
+![image](https://github.com/user-attachments/assets/7c7f911a-066f-4184-be88-cdb31098628f)
+
 The latest in Intel entitled news:
 
 https://semiwiki.com/forum/index.php?threads/asianometry-intels-reign-of-terror.21796/ 
