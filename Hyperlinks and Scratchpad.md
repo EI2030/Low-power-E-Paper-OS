@@ -435,6 +435,28 @@ https://www.theregister.com/2012/02/19/intel_isscc_ntv_digital_radio/
 
 https://www.engadget.com/2011-09-15-intel-reveals-claremont-near-threshold-voltage-processor-othe.html 
 
+https://old.hotchips.org/wp-content/uploads/hc_archives/hc24/HC24-6-Tech-Scalability/HC24.29.625-IA-23-Wide-Ruhl-Intel_2012_NTV_iA.pdf
+
+https://semiengineering.com/intels-claremont-near-threshold-voltage-ia-core/
+
+https://theiotlearninginitiative.gitbook.io/intelcurie/hardware/processors
+
+https://www.pcworld.com/article/482847/intel_runs_pc_on_cpu_powered_by_solar_cell-2.html
+
+https://nordichardware.se/intel-claremont-consumes-as-little-as-0002-watt/
+
+https://semiengineering.com/return-to-claremont/
+
+https://www.anandtech.com/show/5555/intel-at-isscc-12-more-research-into-near-threshold-voltage
+
+https://happytrees.org/dieshots/Intel_-_Claremont
+
+https://www.xataka.com/componentes/intel-claremont-tener-glados-en-una-patata-no-parece-tan-lejano
+
+https://hothardware.com/reviews/intel-tremont-cpu-microarchitecture-overview 
+
+https://www.silicon.co.uk/workspace/intel-pushes-low-power-limits-with-claremont-chip-40037
+
 https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
 
 https://semiengineering.com/sram-scaling-issues-and-what-comes-next/ 
