@@ -1,6 +1,9 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+![image](https://github.com/user-attachments/assets/7647d218-ceef-4fe8-9c81-617e9c44a1d4)
+Start Small
+
 How to design a solar laptop: Step 1: [Set a TDP](https://github.com/EI2030/Low-power-E-Paper-OS/blob/e806bdd8c27096c3e4b24d7362b53103b5a044ad/Set%20a%20TDP%20limit.jpeg): Chart sourced from:
 "Near-Threshold Voltage Design Techniques for Heterogenous Manycore System-on-Chips"
  J. Low Power Electron. Appl. 2020
