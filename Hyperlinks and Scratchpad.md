@@ -413,6 +413,10 @@ https://www.eenewseurope.com/en/power-first-some-thoughts-on-drowsy-logic-chip-d
 
 https://www.researchgate.net/publication/282687029_Design_and_performance_analysis_of_ultra_low_power_RISC_processor_using_hybrid_drowsy_logic_in_CMOS_technologies
 
+https://islped.org/2014/files/ISLPED2014_FD_SOI_Philippe_Flatresse_STMicroelectronics.pdf
+
+https://www.st.com/content/st_com/en/about/innovation---technology/FD-SOI.html
+
 https://www.ripublication.com/ijaer10/ijaerv10n2_175.pdf
 
 https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow
