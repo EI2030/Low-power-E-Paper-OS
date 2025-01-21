@@ -578,6 +578,15 @@ https://en.wikipedia.org/wiki/Sony_Vaio_C1_series#3rd_revision
 https://web.archive.org/web/20090216221141/http://www.transmeta.com/tech/microip.html
 https://www.eetimes.com/microsoft-brings-vista-to-developing-world-pcs/
 
+
+https://en.wikipedia.org/wiki/List_of_discontinued_x86_instructions#Instructions_specific_to_ALi/Nvidia/DM&P_M6117_MCUs 
+
+
+"
+V.M. Technology VM386SX+ was developed by Tsukuba, Japan-based fabless microprocessor design firm V.M. Technology (VMT), founded by former Intel 4004 and Zilog Z80 microprocessor design engineer Masatoshi Shima, with its primary funding originating from ASCII Corporation. The chip was primarily marketed in East Asia, avoiding the US market deliberately.[28][29] ALi M6117 SoC contains an x86 core derived from VM386SX+."
+
+
+
 5-16-2007
 
 "LOS ANGELES  After a year in trials, Microsoft Corp. is fine tuning its
