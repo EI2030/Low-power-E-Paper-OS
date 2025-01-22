@@ -692,6 +692,7 @@ man.'
 Senator Pastore: I think it's wonderful. I think it's wonderful. Looks like you just earned the
 20 million dollars."
 
+![image](https://github.com/user-attachments/assets/333b1dda-c277-4df1-928d-c09b1a2034b9)
 
 
 If it appears my pet project is vastly incomparable to a public national TV program that needs funding, I beg to differ. Today, public tax dollars are spent on vanity projects that serve special-interest groups without ensuring that the money is not wasted on largely redundant overhead (popups, bloated websites, horrible user-interfaces)
