@@ -669,7 +669,7 @@ https://www.icop.com.tw/article/205
 https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/ 
 
 ---
-SkyWater ideas
+SkyWater ideas/ resources
 ---
 
 https://opencores.org/projects/amber
@@ -688,6 +688,8 @@ https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-
 https://efabless.com/tinytapeout 
 
 https://store.efabless.com/products/tiny-tapeout-project
+
+http://ef.content.s3.amazonaws.com/OpenRAM_%20FOSSI%20Dial-Up%202020.pdf
 
 https://en.wikipedia.org/wiki/Dynamic_logic_(digital_electronics)#Static_versus_dynamic_logic
 
