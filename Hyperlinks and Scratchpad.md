@@ -726,9 +726,11 @@ Would it cost $10,000 to manufacture a 386 with 8KB of cache? Would Efabless all
 
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
 
-https://efabless.com/tinytapeout 
+https://efabless.com/tinytapeout
 
 https://store.efabless.com/products/tiny-tapeout-project
+
+https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/
 
 http://ef.content.s3.amazonaws.com/OpenRAM_%20FOSSI%20Dial-Up%202020.pdf
 
