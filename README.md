@@ -1,6 +1,10 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+“Whatever has been done, can be outdone.” —Gordon Moore (1929–2023)
+
+![17376447296276157780237440832714](https://github.com/user-attachments/assets/fb63c700-ed84-463e-bb55-6fb6591c7f28)
+
 ![image](https://github.com/user-attachments/assets/7647d218-ceef-4fe8-9c81-617e9c44a1d4)
 Start Small
 
