@@ -685,6 +685,43 @@ https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source
 
 https://verilog-meetup.com/2025/01/17/the-state-of-caravel-the-first-look/
 
+""4.1. Step 1. The capacity estimationCaravel-Mini is four times smaller than full Caravel and is less expensive, $3.5K versus $10K. Since Tiny Tapeout uses Caravel Infrastructure and has 512 tiles, we can roughly estimate that full Caravel accommodates ~512K standard cells and Caravel-Mini accommodates ~128K standard cells. This makes Caravel ~2.5 times more cost-efficient area-wise than TinyTapeout, and Caravel-Mini ~1.8 times more cost-efficient area-wise than TinyTapeout. Which is expected, this is similar to the difference in wholesale versus retail.Based on a rough estimation of 1:10 D-flip-flop and logic gates ratio in a typical ASIC design and a knowledge of industrial MIPS CPU cores in the past, we can guess that Caravel can accommodate a mid-range industrial CPU core such as MIPS 24K used in WiFi routers and capable of running Linux. Caravel-Mini can probably accommodate only microcontroller cores such as various MIPS 4K or Cortex M derivatives and their RISC-V equivalents. TinyTapeout, with its limits up to 16 tiles or ~16K standard cells, can be used only for simplified educational CPU cores such as school RISCV."
+
+I am unsure whether cells=transistors in a 1:1 ratio for all architectures, but a 386 is 275,000, and some early 386 clones added L1 cache (which made them competitive with the 486) For example, the [Super 386](https://websrv.cecs.uci.edu/~papers/mpr/MPR/ARTICLES/060101.PDF ):
+
+![image](https://github.com/user-attachments/assets/6a80a5ff-5117-4815-acec-451d5e7720e3)
+
+C&T’s Super386
+
+Chips and Technologies took a different approach to
+the 386 than did AMD (see µPR 10/2/91, p. 1). Since
+C&T has no rights to Intel’s patents or copyrights, it had
+to develop a more independent design. C&T’s 386 uses a
+more aggressive pipeline design and includes a 512-
+byte, on-chip instruction cache. C&T offers the chip in
+two versions: one is pin-compatible with Intel’s chip,
+and the other has an extended pinout and enables the
+on-chip cache. The extended-pinout version also offers
+SuperState, C&T’s answer to Intel’s SMM.
+
+C&T claims that the chips have no known compatibility problems, but there have not been enough chips in
+the field for the industry to accept this claim. As with
+AMD, it will take several months of customer testing
+and magazine reviews before the chip can be accepted
+as compatible.
+
+While C&T’s Super386 offers more features than
+AMD’s 386, its late entry may make it difficult to penetrate the market to the same degree. The most important aspect of C&T’s offering is that it will give the
+company the processor core and compatibility experience necessary to introduce integrated processor/system logic chips. Today, C&T’s PC/Chip provides the
+most PC functions on a single chip, but it is based on an
+8086-architecture processor and uses a low-resolution
+CGA display controller. By 1993, however, C&T is likely
+to introduce a conceptually similar chip combining its
+Super386 core with a VGA controller and AT system
+logic, providing a low-cost, minimum-chip-count solution for mainstream notebook and desktop computers"
+
+Would it cost $10,000 to manufacture a 386 with 8KB of cache? Would Efabless allow it? On 130nm/90nm? 
+
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
 
 https://efabless.com/tinytapeout 
