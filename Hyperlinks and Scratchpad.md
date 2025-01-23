@@ -683,6 +683,8 @@ https://en.wikipedia.org/wiki/ARM_architecture_family#ARM2
 @
 https://opensource.googleblog.com/2022/07/SkyWater-and-Google-expand-open-source-program-to-new-90nm-technology.html 
 
+https://verilog-meetup.com/2025/01/17/the-state-of-caravel-the-first-look/
+
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
 
 https://efabless.com/tinytapeout 
