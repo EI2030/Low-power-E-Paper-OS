@@ -572,6 +572,8 @@ This section (indeed, the whole page) is all about ideas -- not about deals with
 X86
 --
 
+https://jolt.law.harvard.edu/digest/intel-and-the-x86-architecture-a-legal-perspective
+
 https://en.wikipedia.org/wiki/Transmeta_Efficeon
 https://en.wikipedia.org/wiki/Transmeta_Crusoe
 https://en.wikipedia.org/wiki/Sony_Vaio_C1_series#3rd_revision
