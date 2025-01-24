@@ -738,6 +738,8 @@ logic, providing a low-cost, minimum-chip-count solution for mainstream notebook
 
 Would it cost $10,000 to manufacture a 386 with 8KB of cache? Would Efabless allow it? On 130nm/90nm? 
 
+386SLC with 8-16KB, unlike C&T, didnt have some of the same bugs (not referring to 386 broad level bugs): https://en.m.wikipedia.org/wiki/IBM_386SLC (lack of pin compatibility is not an issue for a shrink for a new form factor (e.g som)
+
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
 
 https://efabless.com/tinytapeout
