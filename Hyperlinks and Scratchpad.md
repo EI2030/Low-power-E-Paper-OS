@@ -691,6 +691,10 @@ https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-inte
 SkyWater ideas/ resources
 ---
 
+https://tinytapeout.com/
+
+[TinyTapeout paper 7/2024)](https://www.techrxiv.org/users/799365/articles/1165896-tiny-tapeout-a-shared-silicon-tapeout-platform-accessible-to-everyone)
+
 https://opencores.org/projects/amber
 
 https://opencores.org/projects/storm_core
