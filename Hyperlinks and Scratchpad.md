@@ -651,6 +651,7 @@ https://www.abortretry.fail/p/a-brief-history-of-cyrix
 ](https://www.righto.com/2023/10/intel-386-die-versions.html)
 http://www.bitsavers.org/components/intel/_dataBooks/1988_Introduction_to_Intel_Cell-Based_Design.pdf
 
+https://www.righto.com/2023/11/reverse-engineering-intel-386.html
 
 https://www.righto.com/2024/07/pentium-standard-cells.html 
 https://news.ycombinator.com/item?id=40899393
