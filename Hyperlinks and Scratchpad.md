@@ -1571,6 +1571,8 @@ https://elinux.org/images/d/d4/Optimize_uClinux_for_ARM_Cortex-M4.pdf
 PCB & Chip Design:
 ---
 
+https://tinytapeout.com/runs/tt05/tt_um_kianV_rv32ima_uLinux_SoC
+
 Recommendations and Roadmap for Open-Source EDA in Europe (FOSSi Foundation)
 Version: November 19, 2024 - Public Release: https://drive.google.com/file/d/1dVIi6BnwZg78IU1jd8Iq7z0UYfAnwBdW/view
 
