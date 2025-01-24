@@ -588,6 +588,20 @@ https://wiki.openvz.org/Different_kernel_flavors_(UP,_SMP,_ENTERPRISE,_ENTNOSPLI
 V.M. Technology VM386SX+ was developed by Tsukuba, Japan-based fabless microprocessor design firm V.M. Technology (VMT), founded by former Intel 4004 and Zilog Z80 microprocessor design engineer Masatoshi Shima, with its primary funding originating from ASCII Corporation. The chip was primarily marketed in East Asia, avoiding the US market deliberately.[28][29] ALi M6117 SoC contains an x86 core derived from VM386SX+."
 https://en.m.wikipedia.org/wiki/I386#cite_note-30
 
+https://en.m.wikipedia.org/wiki/Intel_80386EX
+
+https://en.m.wikipedia.org/wiki/BlackBerry_950
+https://en.m.wikipedia.org/wiki/Nokia_9000_Communicator
+
+"In May 2006, Intel announced that i386 production would stop at the end of September 2007.[18] Although it had long been obsolete as a personal computer CPU, Intel and others had continued making the chip for embedded systems. Such systems using an i386 or one of many derivatives are common in aerospace technology and electronic musical instruments, among others. Some mobile phones also used (later fully static CMOS variants of) the i386 processor, such as the BlackBerry 950[19] and Nokia 9000 Communicator. Linux continued to support i386 processors until December 11, 2012, when the kernel cut 386-specific instructions in version 3.8.[20]"
+
+https://en.m.wikipedia.org/wiki/I386#:~:text=Linux%20continued%20to%20support%20i386,specific%20instructions%20in%20version%203.8.
+
+![17376788633881523282497166508943](https://github.com/user-attachments/assets/57e8fd44-0915-4ceb-a4a1-5c2773f07abb)
+
+https://commons.m.wikimedia.org/wiki/File:Intel_A80386DX-20_CPU_Die_Image.jpg#mw-jump-to-license
+
+
 
 5-16-2007
 
