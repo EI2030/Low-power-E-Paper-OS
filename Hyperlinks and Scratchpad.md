@@ -1288,6 +1288,8 @@ https://krzysztofjankowski.com/floppinux/
 
 http://distro.ibiblio.org/baslinux/
 
+https://www.techspot.com/news/106501-linux-kernel-upgrade-promises-up-30-energy-savings.html (AI uses more energy, but trickle down effects of kernel improvements to could apply to unrelated OSes.)
+
 uClinux
 
 https://docs.kernel.org/next/admin-guide/mm/nommu-mmap.html
