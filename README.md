@@ -151,7 +151,7 @@ Lots of OEMs and All-in-One makers that benefitted from setting a floor to prici
 
 Intel provides the transistors, AUO/Asus/Samsung makes the bright [LCDS](https://www.culpium.com/p/the-death-of-lcds-means-new-life)/OLEDs, and Lithium Suppliers continue to make a large portion of sales from laptops.
 
-![image](https://github.com/user-attachments/assets/dcad7352-5e5b-4878-b05c-0eea822f0c86)
+![image](https://github.com/user-attachments/assets/5c6abe8a-4de8-4bba-9017-4e025e9b1006)
 
 ![image](https://github.com/user-attachments/assets/a3bf150f-6685-4d36-b955-665d6e95482a)
 
