@@ -155,6 +155,10 @@ Intel provides the transistors, AUO/Asus/Samsung makes the bright [LCDS](https:/
 
 ![image](https://github.com/user-attachments/assets/a3bf150f-6685-4d36-b955-665d6e95482a)
 
+![image](https://github.com/user-attachments/assets/4d549c1e-e76d-465f-ac16-c4bd03698c2d)
+
+https://www.reddit.com/r/Monitors/comments/10xk5y9/comment/j7toytc/
+
 This [Tumblr post](https://swarmik.tumblr.com/post/164890487174/monochrome-and-color-passive-matrix-lcd-screens) belongs in a museum!  
 
 "640x480 monochrome passive-matrix screens needed about 1.800 transistors to control all pixels (n*2+m for dual-scan). Color active-matrix screens (TFT) with the same resolution needed 300.000 transistors as each pixel is controlled by three transistors (3*n*m). That’s why these screens were so expensive.
