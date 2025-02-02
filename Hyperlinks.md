@@ -1931,6 +1931,7 @@ https://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs
 https://blog.adafruit.com/2021/05/05/elk-a-tiny-js-engine-for-embedded-systems-embedded-javascript/
 https://coder-mike.com/blog/2022/06/11/microvium-is-very-small/
 
+https://spectrum.ieee.org/open-source-crisis
 
 http://www.primrosebank.net/computers/pda/psion3a/psion3a_software_emulators.htm
 http://www.inference.org.uk/mackay/psion/part5.htm
