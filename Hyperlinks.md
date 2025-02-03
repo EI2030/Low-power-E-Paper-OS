@@ -714,6 +714,10 @@ I am unsure whether cells=transistors in a 1:1 ratio for all architectures, but 
 
 ![image](https://github.com/user-attachments/assets/6a80a5ff-5117-4815-acec-451d5e7720e3)
 
+https://arxiv.org/pdf/2501.10301 "AraXL: A Physically Scalable, Ultra-Wide RISC-V Vector Processor Design for Fast and Efficient Computation on Long Vectors" 
+
+"Implemented in a 22-nm technology node, our 64-lane AraXL achieves a performance peak of 146 GFLOPs on computationintensive HPC/ML kernels (>99% FPU utilization) and energy efficiency of 40.1 GFLOPs/W (1.15 GHz, TT, 0.8V), with only 3.8× the area of a 16-lane instance"
+
 C&T’s Super386
 
 Chips and Technologies took a different approach to
