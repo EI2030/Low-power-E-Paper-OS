@@ -514,6 +514,8 @@ https://arxiv.org/abs/2104.13983
 --
 https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md (+Coreboot)
 
+https://lists.sr.ht/~lioploum/forevercomputer/%3Ccd7745f5f974913b02548533ab437736@purelymail.com%3E
+
 ARM7
 https://bmchtech.github.io/post/multiply/
 https://problemkaputt.de/gbatek.htm
