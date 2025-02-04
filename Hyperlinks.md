@@ -516,6 +516,30 @@ https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md (+Coreboot)
 
 https://lists.sr.ht/~lioploum/forevercomputer/%3Ccd7745f5f974913b02548533ab437736@purelymail.com%3E
 
+Having tried to respond multiple times to the mailserv in plaintext, I gave up responding there:
+
+"Hi mntn,
+
+I found a couple articles that referenced that by using this search engine query: "accelerated aging 22nm" :
+
+"Exploring Aging Deceleration in FinFET-Based Multi-Core Systems"
+
+Multi-Step-Ahead Prediction for a CMOS Low Noise Amplifier Aging Due to NBTI and HCI Using Neural Networks
+
+ "'accelerated aging' 22nm cmos":
+
+"Leveraging CMOS Aging for Efficient Microelectronics Design"
+
+Exploiting Accelerated Aging Effect for On-line Configurability and Hardware Tracking
+
+Giovanni"
+
+https://drive.google.com/file/d/1toEXlfRpPfTJRkkpMjALPYibHRq2QqnZ/view?pli=1
+
+https://www.researchgate.net/publication/346315449_Multi-Step-Ahead_Prediction_for_a_CMOS_Low_Noise_Amplifier_Aging_Due_to_NBTI_and_HCI_Using_Neural_Networks
+
+ http://forte-research.com/UnTrustZone/docs/UnTrustZone_version_v0.pdf 
+
 ARM7
 https://bmchtech.github.io/post/multiply/
 https://problemkaputt.de/gbatek.htm
