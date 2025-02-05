@@ -1610,6 +1610,8 @@ Version: November 19, 2024 - Public Release: https://drive.google.com/file/d/1dV
 
 https://broccolimicro.io/ https://github.com/broccolimicro
 
+https://news.ycombinator.com/item?id=27559515
+
 https://spectrum.ieee.org/avnet-amd-space
 
 https://resources.altium.com/p/open-source-laptop-part-one
