@@ -721,6 +721,8 @@ https://tinytapeout.com/
 
 [TinyTapeout paper 7/2024)](https://www.techrxiv.org/users/799365/articles/1165896-tiny-tapeout-a-shared-silicon-tapeout-platform-accessible-to-everyone)
 
+https://dl.acm.org/doi/10.1145/3400302.3415689
+
 https://opencores.org/projects/amber
 
 https://opencores.org/projects/storm_core
