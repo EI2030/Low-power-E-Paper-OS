@@ -590,7 +590,7 @@ https://assets-eu.researchsquare.com/files/rs-5336072/v1_covered_4479cf53-c6e8-4
 A Neologism is Coined
 --
 
-Enshittification is a term coined by writer Cory Doctorow in **November 2022** to describe a pattern of decreasing quality observed in online services and products such as Amazon, Facebook, Google Search, Twitter, Bandcamp, Reddit, Uber and Unity. The American Dialect Society selected the term as its 2023 Word of the Year. Doctorow has also used the term platform decay to describe the same concept.
+Enshittification is a term coined by writer Cory Doctorow in **November 2022** to describe a pattern of decreasing quality observed in [online services](https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/) and products such as Amazon, Facebook, Google Search, Twitter, Bandcamp, Reddit, Uber and Unity. The American Dialect Society selected the term as its 2023 Word of the Year. Doctorow has also used the term platform decay to describe the same concept.
 
 History and definition
 An Audacious Plan to Halt the Internet's Enshittification by Cory Doctorow at DEF CON 31, 2023
