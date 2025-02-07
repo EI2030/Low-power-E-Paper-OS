@@ -413,6 +413,7 @@ June 1752
 
 "Ben Franklin Demonstrates the identity of Lightning and Electricity, from which he invented the lightning Rod.
 
+https://www.utilitydive.com/news/electricity-energy-crisis-demand-response-der-microgrid-alphastruxure/739191/
 
 Dawn of Public TV: July, 1967
 --
