@@ -87,13 +87,17 @@ The U.S. is no longer a party of [Lincoln](https://www.dailynews.com/2007/02/08/
 
 [""Lincoln would have said that more nobly](https://www.normantranscript.com/news/local_news/historian-passes-on-abe-lincolns-legacy/article_b89d4fdf-9352-576a-81d4-ca643f91d1ad.html).""
 
-The system today resembles [Jackon](https://en.wikipedia.org/wiki/Spoils_system#Origins)'s.
+The system today resembles [Jackson's](https://en.wikipedia.org/wiki/Spoils_system#Origins)'s.
 
 ![image](https://github.com/user-attachments/assets/6e021525-3498-40ac-924d-f108b296e688)
 
 ![image](https://github.com/user-attachments/assets/c75bd4b9-dc0b-4860-ae48-23fb366fdd75)
 
 ![image](https://github.com/user-attachments/assets/7c7f911a-066f-4184-be88-cdb31098628f)
+
+[[MOS Scaling](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/PMOS%20Scaling.png?raw=true)] https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/PMOS%20Scaling.png
+
+![PMOS Scaling](https://github.com/user-attachments/assets/043284c0-ed61-4a9f-9d42-837a5f4213a2)
 
 The latest in Intel entitled news:
 
