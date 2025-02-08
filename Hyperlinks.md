@@ -777,6 +777,47 @@ logic, providing a low-cost, minimum-chip-count solution for mainstream notebook
 
 Would it cost $10,000 to manufacture a 386 with 8KB of cache? Would Efabless allow it? On 130nm/90nm? 
 
+https://app.tinytapeout.com/projects/443 
+
+https://opencores.org/projects/mcs-4 (4004)
+
+https://www.tinytapeout.com/faq/#how-big-can-my-design-be "How big can my design be?
+For TT04 to TT10, the standard tile size is about 160x100 um. This is enough for about 1000 digital logic gates, depending on their size. You can also buy extra tiles if you need more room."
+
+![image](https://github.com/user-attachments/assets/486f12de-986f-467e-a97b-34fe3d9483cd)
+
+https://raw.githubusercontent.com/mattvenn/tt-ieee-paper/main/paper_TT.pdf
+
+"Twenty-four horizontal multiplexers connect to the vertical
+wiring spines, each of which supports 16 designs. This allows
+for up to 384 separate single tile designs. The new architecture
+also enabled multiple tile designs, allowing a maximum project
+size of 8×2 tiles or 1359×225 µm2—around 20 000 logic cells.
+Table II shows the key differences between Tiny Tapeout 3 and
+Tiny Tapeout 4."
+
+![image](https://github.com/user-attachments/assets/6a3001f0-fdfb-4636-9900-e45dc1650657)
+
+
+Transistor counts that fit less than 20,000 for Tiny Tapeout:
+
+Zilog Z80 (8-bit, 4-bit ALU, 40-pin)	8,500[d]	1976	Zilog	4,000 nm	18 mm2	470
+Motorola 6809 (8-bit with some 16-bit features, 40-pin)	9,000	1978	Motorola	5,000 nm	21 mm2	430
+Toshiba TLCS-12 (12-bit)	11,000+[20]	1973	Toshiba	6,000 nm	32.45 mm2	340+
+WDC 65C02	11,500[26]	1981	WDC	3,000 nm	6 mm2	1,920
+Zip CPU (32-bit, for FPGAs)	1,286 6-LUTs[108]	2016	Gisselquist Technology	
+F21 (21-bit; includes e.g. video)	15,000	1997[50]	Offete Enterprises	
+Novix NC4016 (16-bit)	16,000[30]	1985[31]	Harris Corporation	3,000 nm[32]	
+Zilog Z8000 (16-bit)	17,500[24]	1979	Zilog	
+
+>20,000
+
+WDC 65C816 (8/16-bit)	22,000[27]	1983	WDC	3,000 nm[28]	9 mm2	2,400
+ARM 1 (32-bit; no cache)	25,000[29]	1985	Acorn	3,000 nm	50 mm2	500
+ARM 2 (32-bit, 84-pin; no cache)	27,000[35][29]	1986	Acorn	2,000 nm	30.25 mm2	890
+Intel 8086 (16-bit, 40-pin)	29,000[23]	1978	Intel	3,000 nm	33 mm2	880
+Intel 8088 (16-bit, 8-bit data bus)	29,000	1979	Intel	3,000 nm	33 mm2	880
+
 386SLC with 8-16KB, unlike C&T, didnt have some of the same bugs (not referring to 386 broad level bugs): https://en.m.wikipedia.org/wiki/IBM_386SLC (lack of pin compatibility is not an issue for a shrink for a new form factor (e.g som)
 
 https://www.skywatertechnology.com/rh90-the-next-generation-stateside-strategic-rad-hard-by-process-technology/ ?
