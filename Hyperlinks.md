@@ -1045,9 +1045,17 @@ https://rdotdisplays.com/articles/how-to-drive-displays
 
 https://hackaday.com/2025/01/18/a-pda-from-an-esp32/
 
-Keyboards
+Keyboards (possibly low enough PS/2 input consumption for solar power)
 --
 https://spectrum.ieee.org/touchscreens
+
+https://www.ti.com/lit/an/slaa139a/slaa139a.pdf?ts=1674338500549
+
+https://www.ti.com/tool/TIDM-BATTERYLESSNFCKEYBOARD?HQS=ti-null-null-productcentre_refdes-manupromo-rd-ElectronicSpecifier-eu#overview
+
+https://www.ti.com/lit/ug/tidu398/tidu398.pdf
+
+https://www.mouser.com/ProductDetail/ZF/AFIG-0007?qs=KnNyCueLKRVo%252BCLj1DZFyQ%3D%3D
 
 i3C
 ---
