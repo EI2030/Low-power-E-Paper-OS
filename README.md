@@ -789,7 +789,7 @@ I resumed interest in 2020 on the Raspberry Pi [Forums](https://forums.raspberry
 
 This project then migrated across a few informal forum posts (EI2030-defunct, Raspberry Pi Forum), to [Hackaday](https://hackaday.io/project/177716-the-open-source-autarkic-motherboard) in 2021. From there, it has remained, although Github also provides an efficient mechanism for storing and and cloning projects. 
 
-I reached out to universities, companies, anf governmenta in 2021:
+I reached out to universities, companies, and governments in 2021:
 
 ![image](https://github.com/user-attachments/assets/d8154754-ef3c-465a-872f-fea5563b4b79)
 
