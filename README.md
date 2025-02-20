@@ -306,6 +306,12 @@ _Hasn't something like this project already been developed?_
 --
 Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
 
+Reason 4
+
+https://arstechnica.com/gadgets/2025/02/truly-a-middle-finger-humane-bricking-700-ai-pins-with-limited-refunds/ "AI Pins “will no longer function as a cellular device or connect to Humane’s servers. This means no calls, texts, or data usage will be possible,” according to the startup, which noted that users can’t port their phone number to another device or wireless carrier. Some offline features “like battery level” will still work, Humane said, but overall, the product will become $700 e-waste for most owners in nine days." 
+
+This could happen to any AI device, including the Rabbit: https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream Au contraire, a general purpose processor, such as a 286, still has a use after all those years.
+
 _Why did this project begin?_ 
 --
 It's partly inspired by the [Apollo program](https://en.wikipedia.org/wiki/George_Mueller_(engineer)#%22Father_of_the_Space_Shuttle%22) to place someone one the moon by 1970. Also, Steve Jobs designed the 1984 Macintosh as a "computer for the rest of us," according to a [1990 Interview](https://www.youtube.com/watch?v=oNC8LEj5X4U) with [WGBH Boston](https://www.theatlantic.com/technology/archive/2011/10/time-capsule-an-hour-with-steve-jobs-in-1990/246388/). He integrated various technology components that previously only were used in technical laboratories. Tim-Berner's Lee, in 1989, integrated many of the internet protocols that already existed- hypertext - with HTTP:
