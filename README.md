@@ -302,15 +302,23 @@ Reason 3:
 
 If you could identify a low-cost, low-risk, information bottleneck that could be commodified as a counter-intelligence operation, would you a: sell it to DARPA, b: do nothing but request a FOIA that takes years after the discovery, or C: educate the public?  
 
-_Hasn't something like this project already been developed?_
---
-Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
-
-Reason 4
+Reason 4:
 
 https://arstechnica.com/gadgets/2025/02/truly-a-middle-finger-humane-bricking-700-ai-pins-with-limited-refunds/ "AI Pins “will no longer function as a cellular device or connect to Humane’s servers. This means no calls, texts, or data usage will be possible,” according to the startup, which noted that users can’t port their phone number to another device or wireless carrier. Some offline features “like battery level” will still work, Humane said, but overall, the product will become $700 e-waste for most owners in nine days." 
 
 This could happen to any AI device, including the Rabbit: https://www.theverge.com/2024/1/18/24042688/rabbit-r1-ai-gadget-handheld-news-updates-storystream Au contraire, a general purpose processor, such as a 286, still has a use after all those years.
+
+Reason 5:
+
+If smartphones are increasingly becoming a necessity for everything from parking apps, to bar tabs, then a reliable, interoperable smartphone that doesn't run out of power increasingly becomes less a plastic credit card and more a brick out of battery power:
+
+https://www.theguardian.com/money/2025/feb/22/the-tyranny-of-apps-those-without-smartphones-are-unfairly-penalised-say-campaigners 
+
+_Hasn't something like this project already been developed?_
+--
+Yes, but mainly as an unsuccessful [product](https://solarmuseum.org/cells/samsung-nc215s/) or concept.
+
+
 
 _Why did this project begin?_ 
 --
