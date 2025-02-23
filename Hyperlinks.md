@@ -577,6 +577,8 @@ https://cdrdv2.intel.com/v1/dl/getContent/335158
 https://cdrdv2.intel.com/v1/dl/getContent/334715
 https://cdrdv2.intel.com/v1/dl/getContent/335278
 
+https://lcamtuf.substack.com/p/random-objects-intel-edison
+
 Blackberry OS/RIM/
 https://www.gsmarena.com/blackberry_7100x-1013.php
 https://www.phonearena.com/phones/BlackBerry-7100g_id1099
