@@ -103,7 +103,7 @@ The latest in Intel entitled news:
 
 https://finance.yahoo.com/news/ex-intel-exec-raja-koduri-130427676.html Raja, thank you for making the Radeon GPUS.
 
-"Intel's treasures, according to Koduri, are its IP and technology, with many innovations left "sitting on shelf." The contrasting snakes, however, are defined as the bureaucratic process that Koruri sees as dominating corporate decision making, leaving innovation behind.
+"Intel's treasures, according to Koduri, are its IP and technology, with many innovations left "sitting on shelf." The contrasting snakes, however, are defined as the bureaucratic process that Koruri[sic] sees as dominating corporate decision making, leaving innovation behind.
 
 "The 'spreadsheet & PowerPoint snakes' – bureaucratic processes that dominate corporate decision-making—often fail to grasp the true cost of surrendering performance leadership.
 
