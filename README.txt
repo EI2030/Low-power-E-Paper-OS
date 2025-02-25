@@ -101,6 +101,22 @@ The system today resembles [Jackson's](https://en.wikipedia.org/wiki/Spoils_syst
 
 The latest in Intel entitled news:
 
+https://finance.yahoo.com/news/ex-intel-exec-raja-koduri-130427676.html Raja, thank you for making the Radeon GPUS.
+
+"Intel's treasures, according to Koduri, are its IP and technology, with many innovations left "sitting on shelf." The contrasting snakes, however, are defined as the bureaucratic process that Koruri sees as dominating corporate decision making, leaving innovation behind.
+
+"The 'spreadsheet & PowerPoint snakes' – bureaucratic processes that dominate corporate decision-making—often fail to grasp the true cost of surrendering performance leadership.
+
+"They optimize for minimizing quarterly losses while missing the bigger picture. These processes multiply and coil around engineers, constraining their ability to execute on the product roadmap with the boldness it requires.
+
+"A climate of fear surrounds any attempt at skunkworks initiatives outside established processes—one misstep, and the bureaucratic snakes strike. This environment has bred a pervasive 'learned helplessness' throughout the engineering ranks, stifling the very innovation culture that built Intel's empire.""
+
+![image](https://github.com/user-attachments/assets/76fc71a7-cae8-423f-85c4-95a19c243357)
+
+![image](https://github.com/user-attachments/assets/a9b9ea37-cf95-4dc8-820a-e14703652c12)
+
+![image](https://github.com/user-attachments/assets/c2d11798-947d-4ce2-98e6-27f3c01a4f7f)
+
 https://semiwiki.com/forum/index.php?threads/asianometry-intels-reign-of-terror.21796/ 
 
 https://youtu.be/TdSAuYCcs_o?feature=shared Asianometery's story "Intel's Reign of Terror"
