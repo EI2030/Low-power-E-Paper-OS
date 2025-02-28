@@ -887,6 +887,9 @@ http://ouc.ai/zhenghaiyong/courses/dsd/20122/materials/Brief_History_of_ARM-LeeS
 
 RISC-V history (& ARM developments)
 ----
+
+https://www.aheadcomputing.com/post/a-seismic-shift-in-the-computing-ecosystem-brings-opportunity
+
 https://thechipletter.substack.com/p/risc-v-part-1-origins-and-architecture
 https://www.semianalysis.com/p/arm-and-a-leg-arms-quest-to-extract
 
