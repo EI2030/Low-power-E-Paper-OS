@@ -976,6 +976,8 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 Displays:
 ----
 
+https://www.e3displays.com/mlcd-displays/
+
 https://www.extremetech.com/archive/47940-more-than-meets-the-eye (2001 article, goes quite into detail of many forgotten or buried technologies that died in the Active Matrix vs Passive Matrix War of 1997.
 
 4.4" 640x480 MIP runs at 5.4mW without backlight: http://www.koe.j-display.com/upload/product/TX11D200VM1AAA.pdf
