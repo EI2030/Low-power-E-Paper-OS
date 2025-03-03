@@ -1129,6 +1129,10 @@ https://brr.fyi/posts/engineering-for-slow-internet
 
 https://www.lowtechmagazine.com/2015/10/how-to-build-a-low-tech-internet.html
 
+Solar Laptops
+---
+https://www.cnbc.com/2025/03/02/lenovo-teases-solar-powered-and-foldable-screen-concept-laptops.html
+
 ----
 Wireless Modems:
 ----
