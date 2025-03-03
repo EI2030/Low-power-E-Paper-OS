@@ -1133,6 +1133,8 @@ Solar Laptops
 ---
 https://www.cnbc.com/2025/03/02/lenovo-teases-solar-powered-and-foldable-screen-concept-laptops.html
 
+https://www.theverge.com/news/621693/lenovo-laptop-concept-yoga-solar-power-mwc
+
 ----
 Wireless Modems:
 ----
