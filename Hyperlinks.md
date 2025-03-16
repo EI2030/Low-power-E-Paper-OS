@@ -2074,6 +2074,17 @@ https://www.coreboot.org/
 https://leanrada.com/htmz/ a low power tool for html
 
 ---
+
+SSL Computation/Energy
+---
+https://security.stackexchange.com/questions/127028/does-the-https-protocol-consume-a-lot-of-cpu-time
+
+https://stackoverflow.com/questions/548029/how-much-overhead-does-ssl-impose
+
+https://sking7.github.io/articles/44961356.html#:~:text=Summarizing%20from%20above%3A%20Using%20SSL,generally%20fast%20like%20plain%20TCP.
+
+https://www.hosted.com/blog/ssl-decryption-process/
+
 Audio
 ----
 
