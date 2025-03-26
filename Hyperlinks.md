@@ -1135,6 +1135,23 @@ https://www.cnbc.com/2025/03/02/lenovo-teases-solar-powered-and-foldable-screen-
 
 https://www.theverge.com/news/621693/lenovo-laptop-concept-yoga-solar-power-mwc
 
+Ethernet 802.3cg 
+--
+
+https://www.mikroe.com/two-wire-eth-click
+https://download.mikroe.com/documents/add-on-boards/click/two-wire_ETH_click/Two-Wire_ETH_Click_v102_Schematic.pdf
+
+https://www.sparkfun.com/sparkfun-micromod-single-pair-ethernet-kit-kit-24804.html (discontinued) 
+
+Standard Carrier Boards
+--
+
+https://www.mikroe.com/sibrain 
+https://cdn.mikroe.com/cms/sibrain/sibrain-standard-guidelines-2021-10-6.pdf
+
+https://cdn.sparkfun.com/assets/c/e/0/2/8/SparkFun_Main_Board-Single_v21_Schematic.pdf 
+https://www.sparkfun.com/micromod
+
 ----
 Wireless Modems:
 ----
