@@ -1289,6 +1289,9 @@ https://hackaday.com/2020/11/05/a-super-ups-for-the-pi/
 
 https://hackaday.io/project/168286-cheap-o-nas/log/173824-ok-it-works-but-i-can-do-better
 
+https://github.com/hatonthecat/solarcircuits/commit/8db429668f331d1f72621fe4f2bf7b56cbca3c13 (option to convert 18650 and 14500 battery slots towards LiCaps) 
+https://hackaday.io/project/177716/gallery#df73ed3e67179b63bf890473e28bee06
+
 Supercapacitors/Microcapacitors
 --
 https://www.popularmechanics.com/science/a60732620/capacitor-energy-storage-breakthrough/
