@@ -493,6 +493,11 @@ inter-unit communications."
 Chip Design and Circuit Simulation software
 --
 
+https://github.com/krevanth/ZAP?tab=readme-ov-file
+https://www.innopower-tech.com/html/products/functional/FA5.jsp
+https://www.researchgate.net/figure/STORM-Core-Architecture-11_fig5_347558929
+
+
 https://gds-viewer.tinytapeout.com/
 
 https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html 
