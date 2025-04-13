@@ -493,6 +493,15 @@ inter-unit communications."
 Chip Design and Circuit Simulation software
 --
 
+https://github.com/kumarraj5364/AMBA-APB-PROTOCOL
+
+https://github.com/freecores/storm_core
+https://github.com/freecores/storm_core/blob/master/doc/STORM%20CORE%20datasheet.pdf
+
+https://github.com/freecores/storm_soc
+https://github.com/freecores/storm_soc/blob/master/doc/STORM%20SoC%20-%20Datasheet%20and%20Implementation%20Guide.pdf
+https://en.wikipedia.org/wiki/Wishbone_(computer_bus)
+
 https://github.com/krevanth/ZAP?tab=readme-ov-file
 https://www.innopower-tech.com/html/products/functional/FA5.jsp
 https://www.researchgate.net/figure/STORM-Core-Architecture-11_fig5_347558929
