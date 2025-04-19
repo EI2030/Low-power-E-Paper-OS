@@ -1068,6 +1068,22 @@ https://hackaday.com/2025/01/18/a-pda-from-an-esp32/
 
 Keyboards (possibly low enough PS/2 input consumption for solar power)
 --
+
+https://kbd.news/Designing-for-Wireless-1784.html 
+
+https://hackaday.com/2024/06/26/making-your-wireless-keyboard-truly-low-power/ 
+
+https://zmk.dev/ 
+https://zmk.dev/docs
+
+https://zmk.dev/power-profiler
+
+https://forums.parallax.com/discussion/116615/ps2-keyboard-anyone-able-to-tell-me-the-5v-current-requirement 
+
+https://deskthority.net/viewtopic.php?t=9126  "The most energy-saving board of mine was the Noppoo choc mini with only 0.009 W [9mW), the most power-consuming was the Model F-122 with a whopping 0.8 W (with the original controller plus including Soarer's converter)." 
+
+https://superuser.com/questions/472233/ps-2-vs-usb-keyboards-performance-and-energy-consumption 
+
 https://spectrum.ieee.org/touchscreens
 
 https://www.ti.com/lit/an/slaa139a/slaa139a.pdf?ts=1674338500549
