@@ -265,6 +265,9 @@ having the clones, which are still achievable in 3D yeast artificial chromosomes
 There's the group led by Vladimir Larionov at NCI, which does recombination-based cloning.
 That's got help with that as well. So, that remains something of great interest."
 
+https://sigbovik.org/2025/proceedings.pdf "More Fine-grained and Distributed Separation of Responsibilities in Microservice Architecture: The Arrival of Femtoservices . . . . ." (p.128/413)
+https://github.com/RyanHornby/femtoservices/blob/ec7f1fddd2a961671484edf73e0211f8d76e616a/SIGBOVIK_25.pdf
+
 https://www.youtube.com/watch?v=SG-iLV_NJL8 
 
 I do not have an institutional position that represents expertise, therefore I am less obligated to make a tidy and neat project. That said, this page could be tidier. It's more a scattered collection of long ruminated thoughts rather than a completely consistent focus. That I joke about many things doesn't detract from the proven technologies demonstrated by others here (and in my [own](https://youtu.be/428cgrpPR0w) [solar](https://youtu.be/0ztj_MDNRcI) [tests](https://www.youtube.com/watch?v=jeXPXmlq9TQ)). I don't think this project would be possible without a little humor. For those that still don't understand the many contradictions here, it involves some [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance), along with the need for [abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning) as a common form of analysis. I particularly think disbelief also has a lot to do with [agnotology](https://www.optoutproject.net/what-is-true-on-the-internet/), a new word I just learned, but have understood for decades as the study of both willfull and unwitting ignorance/doubt.
