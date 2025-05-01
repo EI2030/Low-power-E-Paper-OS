@@ -990,6 +990,21 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 Displays:
 ----
 
+https://iris-opt.com/en/blog/epd-vs-chlcd/ https://iris-opt.com/en/blog/what-is-chlcd/
+
+https://www.good-display.com/product/642.html
+
+https://www.youtube.com/watch?v=Y3z2IG6EjiY&t=17s
+
+https://en.wikipedia.org/wiki/Cholesteric_liquid_crystal
+
+https://ebulent.com/html/about/about-17.html
+
+https://www.youtube.com/watch?v=E0JbnUt26WI
+
+https://www.youtube.com/watch?v=rgP92xwHk6c
+
+
 https://www.e3displays.com/mlcd-displays/
 
 https://www.extremetech.com/archive/47940-more-than-meets-the-eye (2001 article, goes quite into detail of many forgotten or buried technologies that died in the Active Matrix vs Passive Matrix War of 1997.
