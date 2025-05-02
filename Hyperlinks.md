@@ -998,6 +998,10 @@ https://www.youtube.com/watch?v=Y3z2IG6EjiY&t=17s
 
 https://en.wikipedia.org/wiki/Cholesteric_liquid_crystal
 
+https://www.newvisiondisplay.com/new-zbd-driver/
+
+https://www.newvisiondisplay.com/what-are-zbd-lcds/
+
 https://ebulent.com/html/about/about-17.html
 
 https://www.youtube.com/watch?v=E0JbnUt26WI
