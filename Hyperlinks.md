@@ -493,6 +493,11 @@ inter-unit communications."
 Chip Design and Circuit Simulation software
 --
 
+https://github.com/SpinalHDL/VexRiscv
+https://github.com/SpinalHDL/VexiiRiscv
+
+https://nlnet.nl/project/LiteX/
+
 https://github.com/kumarraj5364/AMBA-APB-PROTOCOL
 
 https://github.com/freecores/storm_core
@@ -2164,6 +2169,11 @@ https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/
 ---
 Similar projects/ of interest:
 ---
+
+https://machdyne.com/
+https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/
+https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/attachments/slides/4713/export/events/attachments/new_type_of_computer/slides/4713/Starting_Over_slides_only.odp
+
 https://www.kickstarter.com/projects/170743596/ripple-the-most-advanced-solar-watch-strap-for-peb
 https://www.youtube.com/watch?v=EZDyDHFXKio
 
