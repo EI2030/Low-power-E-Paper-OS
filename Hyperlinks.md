@@ -1212,6 +1212,10 @@ https://www.sparkfun.com/micromod
 Wireless Modems:
 ----
 
+https://www.mouser.com/datasheet/2/367/EX_150AH_product_brief_en-3472978.pdf 900MHz wifi router (1km range- 32.5Mbps) 
+
+https://www.silextechnology.com/connectivity-solutions/embedded-wireless/sx-sdmah
+
  "[Integrated Silicon Microwave and Millimeterwave Passive Components and Functions](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=aaaeb7cd32ae4ecaca699702f77b890248abbc82)" (2010)
 
 https://www.eenewseurope.com/en/ultra-low-power-bluetooth-core-for-hearables/
