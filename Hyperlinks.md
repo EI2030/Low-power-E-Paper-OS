@@ -531,6 +531,8 @@ https://arxiv.org/abs/2104.13983
 
 486
 --
+https://www.osnews.com/story/142343/linux-removes-support-for-the-486-and-now-im-curious-what-that-means-for-vortex86-processors/ 
+
 https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md (+Coreboot)
 
 https://lists.sr.ht/~lioploum/forevercomputer/%3Ccd7745f5f974913b02548533ab437736@purelymail.com%3E
