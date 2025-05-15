@@ -997,6 +997,8 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 Displays:
 ----
 
+https://www.youtube.com/watch?v=2wenFr8H1Zw Liquid Powder Display (QR-LPD)
+
 https://iris-opt.com/en/blog/epd-vs-chlcd/ https://iris-opt.com/en/blog/what-is-chlcd/
 
 https://www.good-display.com/product/642.html
