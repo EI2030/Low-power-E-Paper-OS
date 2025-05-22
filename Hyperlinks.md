@@ -631,6 +631,8 @@ https://en.wikipedia.org/wiki/Sony_Vaio_C1_series#3rd_revision
 https://web.archive.org/web/20090216221141/http://www.transmeta.com/tech/microip.html
 https://www.eetimes.com/microsoft-brings-vista-to-developing-world-pcs/
 
+https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program
+
 
 https://en.wikipedia.org/wiki/List_of_discontinued_x86_instructions#Instructions_specific_to_ALi/Nvidia/DM&P_M6117_MCUs 
 
@@ -652,9 +654,15 @@ https://en.m.wikipedia.org/wiki/I386#:~:text=Linux%20continued%20to%20support%20
 
 https://commons.m.wikimedia.org/wiki/File:Intel_A80386DX-20_CPU_Die_Image.jpg#mw-jump-to-license
 
+HPC microkernels/L1 cache OS
+--
 
+https://people.cs.pitt.edu/~jacklange/teaching/cs3510-s14/papers/cnk.pdf
+
+https://flint.cs.yale.edu/certikos/framework.html
 
 5-16-2007
+--
 
 "LOS ANGELES  After a year in trials, Microsoft Corp. is fine tuning its
 FlexGo initiative for developing world PCs. Partners including Advanced Micro Devices, Infineon, Intel, and Via Technologies are collaborating on new designs focused on a subscription business model through local telephone companies.
