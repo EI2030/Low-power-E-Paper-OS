@@ -90,6 +90,8 @@ nounPhilosophy
 a value or principle which is regarded as universally valid or which may be viewed without relation to other things.
 "good and evil are presented as absolutes"
 
+Absolute design power is a concept rooted in predictable power envelopes factoring in known knowns and known unknowns, such as cosmic radiation and soft errrors that can't be predicted, but typical use a known level when fixed speeds are designated for known workloads. Dynamic voltage and frequency scaling (DVFS) can be implemented with ADP using a law of averages, however fixed speeds need not be precluded from achieving the aims of a basic ADP architecture.
+
 
 "Laurie KirkLaurie Kirk
  • FollowingFollowing
