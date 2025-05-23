@@ -18,7 +18,131 @@ How to design a solar laptop: Step 1: [Set a TDP](https://github.com/EI2030/Low-
 "Near-Threshold Voltage Design Techniques for Heterogenous Manycore System-on-Chips"
  J. Low Power Electron. Appl. 2020
 https://www.mdpi.com/2079-9268/10/2/16
+https://www.electronicdesign.com/technologies/analog/document/21807657/whats-all-this-subthreshold-stuff-anyhow-pdf-download
 
+5-23-2025: New Term: ADP: "Absolute Design Power" ( I am naming this after Thermal Design Power (TDP) and scenario design power (SDP), terms which are unreliable or subjective at best and deceiving at worst. Therefore absolute attempts to reach an actual number in universal terms:
+
+
+ab·so·lute
+/ˈabsəˌlo͞ot/
+adjective
+1.
+not qualified or diminished in any way; total.
+"absolute secrecy"
+Similar:
+complete
+total
+utter
+out-and-out
+outright
+entire
+perfect
+pure
+decided
+thorough
+thoroughgoing
+undivided
+unqualified
+unadulterated
+unalloyed
+unmodified
+unreserved
+downright
+undiluted
+solid
+consummate
+unmitigated
+sheer
+arrant
+rank
+dyed-in-the-wool
+plenary
+peremptory
+Opposite:
+partial
+qualified
+2.
+viewed or existing independently and not in relation to other things; not relative or comparative.
+"absolute moral standards"
+Similar:
+universal
+fixed
+independent
+nonrelative
+nonvariable
+absolutist
+rigid
+established
+set
+settled
+definite
+decided
+irrevocable
+unalterable
+unquestionable
+authoritative
+incontrovertible
+in black and white
+Opposite:
+relative
+flexible
+nounPhilosophy
+a value or principle which is regarded as universally valid or which may be viewed without relation to other things.
+"good and evil are presented as absolutes"
+
+
+"Laurie KirkLaurie Kirk
+ • FollowingFollowing
+researcher @google; serial complexity unpackerresearcher @google; serial complexity unpacker
+View my portfolio
+1w •  1 week ago • Visible to anyone on or off LinkedIn
+
+
+TDP (Thermal Design Power) of CPUs is a pretty terrible metric that misleads consumers.
+
+In the Pentium era, a 89W TDP meant just that; expect to dissipate 89W of heat in the worst case.
+
+With Alder Lake, a 125W CPU can draw ~241W indefinitely!
+
+Here's the goofy math:
+ 
+ —
+ 
+CPU’s didn’t really know how to idle until the early 2000s. They just kinda ran full bore all the time.
+
+With the introduction of C-States, various parts of the processor could be shut down, saving power when the computer was doing nothing.
+
+Of course, this was HUGE for laptops.
+
+ —
+ 
+If you temporarily downclock a CPU, why not upclock it as well?
+ 
+Around ~2008, Intel came up with the concept of Turbo Boost and the “energy bucket”.
+
+Short spikes *above* TDP are allowed, as long as the 28 second moving average stays <TDP. Okay, nothing too crazy yet.
+
+—
+ 
+In 2013, idle power got really good. CPUs can now downclock to just a few dozen milliwatts!
+
+This ruined the moving average; with such a low idle (~0W), CPUs could now burst to 2x-3x TDP for short periods. 
+
+New metrics, like SDP (scenario design power) get thrown around.
+
+ —
+ 
+2021, things get even worse. The pursuit of performance abandons all previous math.
+ 
+Alder Lake chips can now run at “maximum turbo power” as long as thermal limits aren’t hit. TDP becomes a useless marketing term.
+ 
+An i5, i7, and i9 now all have the same advertised “base power” (~TDP) of 125W. Yet the i5 maxes out at ~150W continuous, the i9 ~241W!
+ 
+The capabilities of these advanced processor states are useful, don’t get me wrong. But the “base power” marketing hurts consumers. 
+ 
+It’s very easy to dilude yourself into thinking that an i5 and i9 can use roughly the same power, when in reality you’ll be 50+% off"
+
+there's also another, lesser used term: absolute design power. I named it "ADP" (p.14/23) https://www.mdpi.com/2079-9268/10/2/16 & "absolute low minimum power" (p.3/3) w/ fixed speeds: https://img.electronicdesign.com/files/base/ebm/electronicdesign/document/2019/04/electronicdesign_25871_rako_subthreshold_pdflayout.pdf?dl=electronicdesign_25871_rako_subthreshold_pdflayout.pdf 
 
 https://www.google.com/search?q=intel+claremont
 
