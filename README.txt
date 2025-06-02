@@ -5,6 +5,18 @@ Status Updates:
 --
 https://ei2030.github.io/FemtoTX/
 
+06-02-2025 Update
+
+Vedula has completed synthesis of a ZAP processor on an Artix A7!:
+
+Github repository: https://github.com/srvedulageth/solar_femtoTx
+
+Vedula's notes:
+
+"Please see Save/ dir for Synthesis report3.
+
+Added a separate Readme for convenience." Readme: https://github.com/srvedulageth/solar_femtoTx/blob/main/README.solar_femtoTx 
+
 “Whatever has been done, can be outdone.” —Gordon Moore (1929–2023)
 
 ![17376447296276157780237440832714](https://github.com/user-attachments/assets/fb63c700-ed84-463e-bb55-6fb6591c7f28)
