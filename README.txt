@@ -13,7 +13,7 @@ Github repository: https://github.com/srvedulageth/solar_femtoTx
 
 Vedula's notes:
 
-"Please see Save/ dir for Synthesis report3.
+"Please see Save/ dir for Synthesis report.
 
 Added a separate Readme for convenience." Readme: https://github.com/srvedulageth/solar_femtoTx/blob/main/README.solar_femtoTx 
 
