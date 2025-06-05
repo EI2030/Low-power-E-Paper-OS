@@ -1,6 +1,15 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+6-5-2025
+--
+
+Interesting articles about the direction and influence of the Raspberry Pi:
+
+https://blogs.fsfe.org/pboddie/?p=2931
+
+https://www.theregister.com/2024/12/16/opinion_column_future_raspberry_pi/
+
 Status Updates: 
 --
 https://ei2030.github.io/FemtoTX/
