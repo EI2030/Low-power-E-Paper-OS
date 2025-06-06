@@ -538,6 +538,8 @@ https://direct.nuvoton.com/en/numaker-rtu-nuc980-chili-board
 
 https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-rtu-nuc980/?_gl=1*ouv4oz*_ga*NjY1NTAwNzM0LjE3NDkyMzcxODc.*_ga_6JZ62QPH6N*czE3NDkyMzcxODUkbzEkZzEkdDE3NDkyMzg5NjkkajYwJGwwJGgw
 
+https://github.com/OpenNuvoton/MPU-Family?tab=readme-ov-file#nuc980
+
 Neuromorphic:
 --
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
