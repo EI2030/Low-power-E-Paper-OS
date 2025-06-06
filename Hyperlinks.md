@@ -524,6 +524,20 @@ https://www.eenewseurope.com/en/re-writing-spice-for-a-digital-world/
 
 https://en.wikipedia.org/wiki/Soft_microprocessor (x86 and other cores)
 
+ARM9 (ARMv5) SoCs
+--
+
+https://iank.org/posts/frogsboro-embedded-linux-board-sam9x60-sip/
+
+https://www.mouser.com/datasheet/2/268/SAM9X60_Data_Sheet_DS60001579-3443133.pdf
+
+https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/DataSheets/SAM9X60-SIP-DataSheet-DS60001580C.pdf
+
+
+https://direct.nuvoton.com/en/numaker-rtu-nuc980-chili-board
+
+https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-rtu-nuc980/?_gl=1*ouv4oz*_ga*NjY1NTAwNzM0LjE3NDkyMzcxODc.*_ga_6JZ62QPH6N*czE3NDkyMzcxODUkbzEkZzEkdDE3NDkyMzg5NjkkajYwJGwwJGgw
+
 Neuromorphic:
 --
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
