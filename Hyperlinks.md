@@ -541,6 +541,14 @@ https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-rtu-nuc980/?_
 
 https://github.com/OpenNuvoton/MPU-Family?tab=readme-ov-file#nuc980
 
+https://www.techpowerup.com/forums/threads/atmel-microchip-sam9x60-embedded-linux-armv5-in-the-year-2023.313913/ 
+dragontamer5788
+"Sep 21, 2023
+#1
+So out of curiosity, I began to look into entry-level MPUs (microprocessors). Yeah yeah, Rasp. Pi are available and all... but not really? RP4 is like $70 these days, and besides, there's a huge chasm between 5mW microcontrollers and the 6400mW that a Rasp. Pi 4 can get up to these days.
+
+What about all the people who need an "in-between" device? Something that supports full Linux, USB 2.0 ports (Host or Device), WiFi (with the ATWILC1000), microSD cards, Ethernet... but maybe not all the bells and whistles of a spacious Quad-core 4GB RAM Raspberry Pi 4?" Exactly my thinking!
+
 Neuromorphic:
 --
 https://www.cnx-software.com/2021/07/16/innatera-neuromorphic-ai-accelerator-for-spiking-neural-networks-snn-enables-sub-mw-ai-inference/
