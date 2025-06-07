@@ -531,8 +531,9 @@ https://iank.org/posts/frogsboro-embedded-linux-board-sam9x60-sip/
 
 https://www.mouser.com/datasheet/2/268/SAM9X60_Data_Sheet_DS60001579-3443133.pdf
 
-https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/DataSheets/SAM9X60-SIP-DataSheet-DS60001580C.pdf
+https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/UserGuides/SAM9X60-Curiosity-User-Guide-DS60001783.pdf
 
+https://ww1.microchip.com/downloads/aemDocuments/documents/MPU32/ProductDocuments/DataSheets/SAM9X60-SIP-DataSheet-DS60001580C.pdf
 
 https://direct.nuvoton.com/en/numaker-rtu-nuc980-chili-board
 
