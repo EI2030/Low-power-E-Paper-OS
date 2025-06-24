@@ -625,6 +625,15 @@ https://cdrdv2.intel.com/v1/dl/getContent/335278
 https://lcamtuf.substack.com/p/random-objects-intel-edison
 https://github.com/edison-fw
 
+https://www.youtube.com/watch?v=VsUF_CBJq50 
+https://fuse.wikichip.org/news/2519/intel-labs-builds-a-neuromorphic-system-with-64-to-768-loihi-chips-8-million-to-100-million-neurons/
+https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/
+https://fuse.wikichip.org/news/1119/isscc-2018-intels-self-powered-intelligent-iot-edge-mote/2/
+"x86 Core
+This SoC incorporates a near-threshold voltage (NTV) x86 core Intel described earlier last year. Fabricated on their 14nm process, the core implements Intel’s IA32 ISA, and is capable of operating at 500 KHz to 300 MHz at 17.18pJ/cycle at roughly 17Î¼W/MHz. Interestingly, Intel noted that this is a Quark derivative (similar to Lakemont). This is possibly the same core which can also be found in the Loihi research chip.
+
+The chip described last year (shown below) was a full energy-harvesting stacked wireless sensor node. In that work, the chip was fabricated on Intel’s 14nm (looks to be 3rd generation ++ with 84nm poly pitch instead) with nine metal interconnect layers. The die area was 0.79 mmÂ² (0.56 mm Ã— 1.42 mm), consisting of 213,000 cells. For this edge mote compute SoC, much of the guts was taken out including the I/O and memory which reduced the overall core size considerably."
+
 Blackberry OS/RIM/
 https://www.gsmarena.com/blackberry_7100x-1013.php
 https://www.phonearena.com/phones/BlackBerry-7100g_id1099
