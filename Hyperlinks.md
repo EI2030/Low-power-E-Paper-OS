@@ -587,6 +587,8 @@ https://www.researchgate.net/publication/346315449_Multi-Step-Ahead_Prediction_f
  http://forte-research.com/UnTrustZone/docs/UnTrustZone_version_v0.pdf 
 
 ARM7
+--
+https://en.wikipedia.org/wiki/EMate_300
 https://bmchtech.github.io/post/multiply/
 https://problemkaputt.de/gbatek.htm
 
