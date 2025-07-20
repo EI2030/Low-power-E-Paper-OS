@@ -1753,6 +1753,9 @@ Function Virtualization": https://www.usenix.org/system/files/conference/nsdi14/
 Towards Highly Specialized, POSIX-compliant
 Software Stacks with Unikraft: Work-in-Progress: https://owl.eu.com/papers/unikraft-emsoft20.pdf
 
+https://atari8.co.uk/gui/ GEOS-like Atari GUI 
+https://www.youtube.com/watch?v=T14dL9MeMHE&t=37s
+
 
 https://www.techrepublic.com/article/how-pcgeos-found-a-5th-life-as-an-open-source-dos-shell/
 https://www.osnews.com/story/15223/geos-the-graphical-environment-operating-system/
