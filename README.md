@@ -1163,6 +1163,15 @@ Earlier posts
 
 On November 6th, 2022, I wrote a lengthy [Substack post](https://drive.google.com/file/d/1r63w_AZi0myfbrHzgzBZSHz2TrVRBPkq/view?usp=sharing) on the case for solar powered electronics, which I continued to edit, revise, and add source material well into 2023. In it, I addressed foundry space, and the term "pure play." I examined that while they are "pay to play," they are also potentially and profoundly unequal:
 
+Original Subheadline: "How much 1990s of a phone or PDA would anyone want today, if you never had to worry about a battery charge again?"
+
+<img width="1720" height="795" alt="image" src="https://github.com/user-attachments/assets/ea13fd56-cb00-4163-bc7a-97e941c3e433" />
+
+2nd Subheadline Headline: "The Ghost of Hunter S. Thompson shows up at an empty Las Vegas CES conference center in January of 2021, wondering where the world went." 
+
+"<img width="1271" height="230" alt="image" src="https://github.com/user-attachments/assets/90cb1d68-7b9f-4a95-a084-478a23acc93a" />
+
+
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/ea7de085-c4f9-49b8-bd3a-ebd8544ab815)
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/9ae8fa76-4c7a-4ebe-a561-1addb7905d1a)
