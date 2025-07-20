@@ -996,6 +996,16 @@ https://github.com/yhzhang0128/egos-2000
 Foundry
 --
 
+https://www.tomshardware.com/pc-components/cpus/globalfoundries-to-make-risc-v-cpus-fab-acquires-mips-will-integrate-risc-v-and-ai-ip-into-its-portfolio
+
+https://wiki.f-si.org/index.php?title=Making_Open_Silicon_Design_Everywhere:_Using_Cloud-based_Open_Agile_EDA_Platform
+
+https://wiki.f-si.org/images/a/ad/FSiC2025_Making_Open_Silicon_Design_Everywhere_final_version_present.pdf
+
+https://wafer.space/
+
+https://tinytapeout.com/runs/ (some closing)
+
 https://semiwiki.com/events/342309-intel-direct-connect-event/ 
 
 "It was interesting to see Arm’s CEO Rene Haas on stage with Intel’s CEO Pat Gelsinger. Arm was described as Intel’s most important business partner, and it was noted that 80% of parts run at TSMC have Arm cores. In my view this shows how seriously Intel is taking foundry, in the past it was unthinkable for Intel to run Arm IP."
