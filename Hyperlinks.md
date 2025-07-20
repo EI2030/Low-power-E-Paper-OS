@@ -527,6 +527,8 @@ https://en.wikipedia.org/wiki/Soft_microprocessor (x86 and other cores)
 ARM9 (ARMv5) SoCs
 --
 
+https://www.youtube.com/watch?v=anz17CNMixU https://crux-arm.nu/SupportedDevices/Wm8505 
+
 https://iank.org/posts/frogsboro-embedded-linux-board-sam9x60-sip/
 
 https://www.mouser.com/datasheet/2/268/SAM9X60_Data_Sheet_DS60001579-3443133.pdf
