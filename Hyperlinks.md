@@ -2581,6 +2581,9 @@ https://unsigned.io/private-messaging-over-lora/
 https://hackaday.com/2022/05/25/long-distance-text-communication-with-lora/
 https://www.mwrf.com/technologies/communications/wireless/article/21273819/microwaves-rf-the-lorawan-distance-world-record-now-over-1300-kilometers
 
+https://www.cnx-software.com/2025/07/19/meshcore-lightweight-alternative-to-meshtastic-for-lora-based-off-grid-messaging
+https://github.com/ripplebiz/MeshCore
+
 "Self-powered electronic paper with energy supplies and information inputs solely from mechanical motions" pp. 1496-1505 (2020)
 https://opg.optica.org/directpdfaccess/e1ac90b1-595d-47b7-ae3b3878d6347837_437501/prj-8-9-1496.pdf?da=1&id=437501&seq=0&mobile=no
 
