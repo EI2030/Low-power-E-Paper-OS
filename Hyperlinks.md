@@ -560,6 +560,8 @@ https://arxiv.org/abs/2104.13983
 
 486
 --
+https://www.allaboutcircuits.com/ip-cores/processor/ao486/ https://github.com/alfikpl/ao486
+
 https://www.osnews.com/story/142343/linux-removes-support-for-the-486-and-now-im-curious-what-that-means-for-vortex86-processors/ 
 
 https://github.com/pc2005cz/TheUltimate486Upgrade/blob/main/main.md (+Coreboot)
