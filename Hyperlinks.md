@@ -1253,6 +1253,11 @@ https://www.cnbc.com/2025/03/02/lenovo-teases-solar-powered-and-foldable-screen-
 
 https://www.theverge.com/news/621693/lenovo-laptop-concept-yoga-solar-power-mwc
 
+TCP/IP
+--
+
+https://link.springer.com/chapter/10.1007/978-3-030-27562-4_12 "Special forms of the TCP/IP stack like Lightweight IP (lwIP) or Micro IP (uIP) are built for small or even embedded processors without the need of an operating system. In this work we implemented the lwIP and uIP stacks on the ARM Cortex-M0 and ARM Cortex-M3 processors and measured the throughput of the resulting System on Chips (SoC) designed for high temperature applications. The results show a relatively poor throughput of maximum 20.29 MBit/s even for the more powerful Cortex-M3 processor using the lwIP stack. Software and hardware improvements like a Direct Memory Access (DMA) mechanism and extended checksum hardware could increase the performance by 1250% resulting in 228 MBit/s."
+
 Ethernet 802.3cg 
 --
 
