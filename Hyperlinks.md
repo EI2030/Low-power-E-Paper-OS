@@ -543,6 +543,8 @@ https://www.nuvoton.com/products/iot-solution/iot-platform/numaker-rtu-nuc980/?_
 
 https://github.com/OpenNuvoton/MPU-Family?tab=readme-ov-file#nuc980
 
+https://github.com/EI2030/FemtoTX/blob/gh-pages/Linux/Read.md
+
 https://www.techpowerup.com/forums/threads/atmel-microchip-sam9x60-embedded-linux-armv5-in-the-year-2023.313913/ 
 dragontamer5788
 "Sep 21, 2023
