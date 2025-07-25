@@ -2331,6 +2331,8 @@ https://github.com/enjoy-digital/litex/blob/master/litex/soc/cores/video.py "
 DOS + GUISs
 ----
 
+https://pandasauce.org/post/linux-fonts/ https://news.ycombinator.com/item?id=44685587
+
 https://arstechnica.com/gadgets/2024/06/30-years-later-freedos-is-still-keeping-the-dream-of-the-command-prompt-alive/
 
 https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/
