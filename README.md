@@ -1,5 +1,58 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
+
+7-30-2025
+--
+
+https://www.linkedin.com/posts/ali-kamaly_semiconductors-chipdesign-validation-activity-7355930371999383553-wzxl/
+
+"Ali KamalyAli Kamaly
+   • 2ndPremium • 2nd
+Co-Founder & CEO @ Atoms | Reducing chips time to market! 🌎 AI platform to automate chip validationCo-Founder & CEO @ Atoms | Reducing chips time to market! 🌎 AI platform to automate chip validation
+
+How Much Does a 2nm Chip Really Cost? - 725M per chip! 
+
+We often talk about Moore’s Law…But rarely about its cost.
+This chart reveals what it actually takes — in dollars — to design a modern chip at bleeding-edge nodes:
+
+→ 28nm: $48M
+
+ → 22nm: $63M
+ 
+ → 16nm: $90M
+ 
+ → 7nm: $249M
+ 
+ → 5nm: $449M
+ 
+ → 3nm: $581M
+ 
+ → 2nm: $725M
+
+And it’s not just tape-out or EDA tools.
+Each nanometer drop demands more effort across the entire stack:
+
+ Architecture:
+Defining compute units, memory hierarchy, interconnect — the strategic brain of the chip.
+
+IP Qualification & Verification:
+ Proving that every IP block works correctly under real conditions — critical in SoCs.
+
+Physical & Prototype Design:
+Designing the actual layout and validating it across PPA (Power, Performance, Area).
+
+Validation:
+And then comes validation — the most underestimated, but fastest-growing cost. By the time you hit 2nm, validation alone can cost over $100M — and delays here can cost millions more in missed windows and lost design wins.
+
+Key takeaway:
+Designing chips today isn’t just about engineering brilliance — it’s a capital-intensive, multi-disciplinary marathon. And as complexity rises, validation is emerging as the final frontier where projects succeed or fail.
+
+P.S. If you’re curious how leading teams reduce validation bottlenecks without compromising accuracy — check out our blog “The Semiconductor World” (link in comments).
+hashtag#Semiconductors hashtag#ChipDesign hashtag#Validation hashtag#EDA hashtag#2nm hashtag#MooresLaw hashtag#PostSilicon hashtag#TestFlow hashtag#HardwareEngineering hashtag#SiliconDesign hashtag#SoC"
+
+<img width="1348" height="1536" alt="image" src="https://github.com/user-attachments/assets/5832b85e-3557-4ee9-b29a-1bd89633fc49" />
+
+
 6-8-2025
 --
 
