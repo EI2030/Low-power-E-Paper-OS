@@ -1,8 +1,15 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+8-8-2025
+
+https://www.theguardian.com/commentisfree/2025/aug/02/billionaire-big-tech-frugal-elon-musk-innovation
+
+"There’s a common misconception that state-of-the-art technology has to be expensive, energy consumptive and hard to engineer. That’s because we have been persuaded to believe that innovative technology is whatever bombastic billionaires claim it is, whether that’s commercial spacecraft or the endless iterations of generative AI tools.
+
+As the Canadian technologist and engineer Ursula Franklin once said, fantasies of technology would have it that innovation is always “investment-driven, shiny, lab-born, experimental, exciting”. But more often than not, in the real world, it is “needs-driven, scrappy, on location, iterative, practical, mundane”. The real pioneering technologies of today are genuinely useful systems I like to call “frugal tech”, and they are brought to life not by eccentric billionaires but by people doing more with less. They don’t impose top-down “solutions” that seem to complicate our lives while making a few people very rich. It turns out that genuinely innovative technology really can set people free."
+
 7-30-2025
---
 
 https://www.linkedin.com/posts/ali-kamaly_semiconductors-chipdesign-validation-activity-7355930371999383553-wzxl/
 
