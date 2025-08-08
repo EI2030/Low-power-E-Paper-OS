@@ -3,6 +3,10 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 8-8-2025
 
+https://semiwiki.com/semiconductor-manufacturers/intel/359868-making-intel-great-again/ maybe it matters less who in the U.S. owns the Intel Foundry and more about what they're manufacturing. 
+
+8-8-2025
+
 https://www.theguardian.com/commentisfree/2025/aug/02/billionaire-big-tech-frugal-elon-musk-innovation
 
 "There’s a common misconception that state-of-the-art technology has to be expensive, energy consumptive and hard to engineer. That’s because we have been persuaded to believe that innovative technology is whatever bombastic billionaires claim it is, whether that’s commercial spacecraft or the endless iterations of generative AI tools.
