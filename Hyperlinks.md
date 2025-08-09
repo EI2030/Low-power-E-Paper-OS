@@ -665,6 +665,8 @@ This section (indeed, the whole page) is all about ideas -- not about deals with
 X86
 --
 
+https://www.righto.com/2025/08/intel-386-package-ct-scan.html
+
 https://jolt.law.harvard.edu/digest/intel-and-the-x86-architecture-a-legal-perspective
 
 https://en.wikipedia.org/wiki/Transmeta_Efficeon
