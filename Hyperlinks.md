@@ -954,6 +954,9 @@ http://www.riscos.com/support/developers/asm/cpu.html
 http://www.riscos.com/support/developers/prm/armhw.html
 
 https://www.abortretry.fail/p/mips-for-the-masses
+[https://www.msn.com/en-us/money/technologyinvesting/semiconductor-ceo-sends-bold-message-on-the-industry/ 
+](https://www.msn.com/en-us/money/technologyinvesting/semiconductor-ceo-sends-bold-message-on-the-industry/ar-AA1KfMqJ?ocid=finance-verthp-feeds)
+(MIPS bought by Global Foundries and on open source)
 https://everything2.com/title/ARM3
 
 http://ouc.ai/zhenghaiyong/courses/dsd/20122/materials/Brief_History_of_ARM-LeeSmith.pdf
