@@ -49,6 +49,10 @@ space using A17’s process node technology (a max of 732
 million transistors, using 183m x 4 as an estimate in 2mm x
 2mm squares)."  https://www.techrxiv.org/users/814616/articles/1270555-a-heuristic-method-for-designing-solar-circuits
 
+Apple was able to reserve the 3nm TSMC foundry at $130 per 103mm^2 for their A17 chip since they ordered in a significant volume. That same wafer space could be used to manufacture 100 1mm^2 $2 32MB DRAM chips which could be used for IoT, routers, IP cameras, smartwatches, fitbits, automotive, with a large enough consortium of interested buyers. Kind of like a publicly traded company, crowdsourcing the leading edge could outbid Apple and benefit more than just the top tech companies. 
+
+If companies could agree on a common RAM size to order for their PCBs (e.g. 16MB, 32MB, 64MB), they could have a leading edge memory chip only available to the wealthiest tech companies (FAANG). AMD's EPYC Genoa already produces 96MB of L3 cache at 5nm. A smaller amount could be used for microcontrollers, drones, laptops, cell phones, with excellent battery life, and not dependent on ginormous Android operating systems.  
+
 8-8-2025
 
 https://semiwiki.com/semiconductor-manufacturers/intel/359868-making-intel-great-again/ maybe it matters less who in the U.S. owns the Intel Foundry and more about what they're manufacturing. 
