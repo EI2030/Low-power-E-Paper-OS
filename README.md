@@ -24,7 +24,7 @@ https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pr
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2cf966ef-7e81-43e3-a079-d589243fa390" />
 
-Want to buy the most energy efficiency DRAM in the world without spending $725 million?
+Want to buy the most energy efficiency DRAM in the world without unilaterally spending $725 million? Groupon the change you want to see in the world.
 
 In order to outbid Apple, one needs to find enough buyers (like Groupon) to fullfill a minimum order quantity that is worth TSMC's time (or Global Foundries, or Samsung).
 
