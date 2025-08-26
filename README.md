@@ -1,6 +1,54 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+8-26-2025
+
+Crowdfunding the leading edge. A history in crowdfunding:
+
+Timeline of crowdsourcing examples
+618–907 – The Tang dynasty of China introduced the joint-stock company, the earliest form of crowdfunding. This was evident during the cold period of the Tang Dynasty when the colder climates resulted in poor harvests and the lessening of agricultural taxes, culminating in the fragmentation of the agricultural sector.[20] The fragmentation meant that the government had to reform the tax system relying more on the taxation of salt and most importantly business leading to the creation of the Joint-Stock Company.[20]
+
+In popular culture
+In the movie The Big Short, which is based on Michael Lewis' book by the same name, an ISDA Master Agreement is referred to as a "hunting license", reserved only for the "big boys" (i.e. institutional investors). Originally devised with the banks and other institutional players in mind, the doors were opened to ultra-high net worth individuals. The maximum licenses at any point peaked at 3000.[3]
+
+<img width="991" height="295" alt="image" src="https://github.com/user-attachments/assets/0a9f7ca4-ac57-4399-b767-212ebde46ba8" />
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/007c2536-fb5a-4f10-b6c8-59de8fed71b8" />
+
+
+https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pro-or-the-snapdragon-8-gen-2
+
+"In previous estimates, Nikkei media stated that manufacturing the A16 Bionic cost Apple $110, and the A17 Pro had a slightly higher price tag, at $130 each."
+
+"It’s noteworthy that, despite being manufactured using TSMC’s 3nm process and facing performance issues, Apple managed to produce these chips for only $20 more for the latest version. It’s possible that the tech giant was able to reduce this cost by increasing shipping volumes."
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2cf966ef-7e81-43e3-a079-d589243fa390" />
+
+In order to outbid Apple, one needs to find enough buyers (like Groupon) to fullfill a minimum order quantity that is worth TSMC's time (or Global Foundries, or Samsung).
+
+The Big Short ISDA master agreement became democratized with later apps such as Robinhood, where access to high-frequency trading and speculative markets became accessible to smaller investors (which still carry risk: https://en.wikipedia.org/wiki/Robinhood_Markets )
+
+So what does this have to do with designing chips? Well, instead of investing in companies like Intel or Nvidia, investors can do more research and determine what kind of technology they'd like to see. Instead of being happy with more iPhones and AI chips, developers can agree on where research and development should be directed. By pledging to invest in a fund (binding or non), you can crowdfund a specific type of chip that has more general purpose use, instead of something that is less general purpose (or vertically integrated into a custom design, such as the Apple A17) 
+
+https://semiengineering.com/baby-steps-towards-3d-dram/
+
+"First step is a smaller cell
+It’s far easier to optimize a single layer of DRAM cells than it is to stack them up, although “easier” is a relative term. The simplest way is to print smaller features. This can be done either by pushing self-aligned double and quadruple patterning (SADP, SAQP) using 193nm ArF lithography or moving to extreme ultraviolet (EUV) photolithography.
+
+“Most recent steps toward footprint reduction pit EUV patterning against traditional ArF SADP and SAQP processes for cutting-edge 2D DRAM nodes,” said Daniel Soden, business development manager at Brewer Science."
+
+[187] 2023 Apple 3 nm 103.8 mm^2 183,044,315
+from https://en.wikipedia.org/wiki/Transistor_count
+
+"Assuming 156,000,000 transistors would be remaining for DRAM, or a combination
+of large caches and extra power saving modes, a 1mm^2 die
+would be expected to support up to 16MB of DRAM using
+1T/1C (16MB is equal to 134 million bits)[22]. As 64MB is
+536,870,912 bits, a 3nm node would require 4mm^2 die
+space using A17’s process node technology (a max of 732
+million transistors, using 183m x 4 as an estimate in 2mm x
+2mm squares)."  https://www.techrxiv.org/users/814616/articles/1270555-a-heuristic-method-for-designing-solar-circuits
+
 8-8-2025
 
 https://semiwiki.com/semiconductor-manufacturers/intel/359868-making-intel-great-again/ maybe it matters less who in the U.S. owns the Intel Foundry and more about what they're manufacturing. 
