@@ -663,6 +663,10 @@ Vintage software salvagers/dumpster divers:
 
 ![image](https://github.com/EI2030/Low-power-E-Paper-OS/assets/76194453/937e1265-2475-488b-b70d-43ad4def5c4f)
 
+<img width="1459" height="980" alt="image" src="https://github.com/user-attachments/assets/07fd5ad1-e901-4c92-9284-5b01f9d66959" />
+
+https://youtu.be/Xv7eeMikM_w?t=128
+
 _Why hasn't this project begun earlier?_
 --
 
