@@ -9,20 +9,22 @@ Timeline of crowdsourcing examples
 618–907 – The Tang dynasty of China introduced the joint-stock company, the earliest form of crowdfunding. This was evident during the cold period of the Tang Dynasty when the colder climates resulted in poor harvests and the lessening of agricultural taxes, culminating in the fragmentation of the agricultural sector.[20] The fragmentation meant that the government had to reform the tax system relying more on the taxation of salt and most importantly business leading to the creation of the Joint-Stock Company.[20]
 
 In popular culture
-In the movie The Big Short, which is based on Michael Lewis' book by the same name, an ISDA Master Agreement is referred to as a "hunting license", reserved only for the "big boys" (i.e. institutional investors). Originally devised with the banks and other institutional players in mind, the doors were opened to ultra-high net worth individuals. The maximum licenses at any point peaked at 3000.[3]
+In the movie The Big Short, which is based on Michael Lewis' book by the same name, an ISDA Master Agreement is referred to as a "hunting license", reserved only for the "big boys" (i.e. institutional investors). Originally devised with the banks and other institutional players in mind, the doors were opened to ultra-high net worth individuals. The maximum licenses at any point peaked at 3000.[3] https://en.wikipedia.org/wiki/ISDA_Master_Agreement#In_popular_culture
 
 <img width="991" height="295" alt="image" src="https://github.com/user-attachments/assets/0a9f7ca4-ac57-4399-b767-212ebde46ba8" />
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/007c2536-fb5a-4f10-b6c8-59de8fed71b8" />
-
+** 
 
 https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pro-or-the-snapdragon-8-gen-2
 
-"In previous estimates, Nikkei media stated that manufacturing the A16 Bionic cost Apple $110, and the A17 Pro had a slightly higher price tag, at $130 each."
+"In previous estimates, Nikkei media stated that manufacturing the A16 Bionic cost Apple $110, and the A17 Pro had a slightly higher price tag, at $130 each." 
 
-"It’s noteworthy that, despite being manufactured using TSMC’s 3nm process and facing performance issues, Apple managed to produce these chips for only $20 more for the latest version. It’s possible that the tech giant was able to reduce this cost by increasing shipping volumes."
+** "It’s noteworthy that, despite being manufactured using TSMC’s 3nm process and facing performance issues, Apple managed to produce these chips for only $20 more for the latest version. It’s possible that the tech giant was able to reduce this cost by _increasing shipping volumes._" (emphasis added)
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2cf966ef-7e81-43e3-a079-d589243fa390" />
+
+Want to buy the most energy efficiency DRAM in the world without spending $725 million?
 
 In order to outbid Apple, one needs to find enough buyers (like Groupon) to fullfill a minimum order quantity that is worth TSMC's time (or Global Foundries, or Samsung).
 
