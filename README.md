@@ -55,7 +55,9 @@ Apple was able to reserve the 3nm TSMC foundry at $130 per 103mm^2 for their A17
 
 If companies could agree on a common RAM size to order for their PCBs (e.g. 16MB, 32MB, 64MB), they could have a leading edge memory chip only available to the wealthiest tech companies (FAANG). AMD's EPYC Genoa already produces 96MB of L3 cache at 5nm. A smaller amount could be used for microcontrollers, drones, laptops, cell phones, with excellent battery life, and not dependent on ginormous Android operating systems.  
 
-Actually, nevermind any of this. I don't know what I'm talking about. 
+Actually, nevermind any of this. I don't know what I'm talking about. Really....I'm no expert, but experts continue to talk Business to Business, when the economic model changed 40 years ago with the Macintosh. 
+
+
 
 8-8-2025
 
