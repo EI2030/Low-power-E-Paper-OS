@@ -28,7 +28,7 @@ In order to outbid Apple, one needs to find enough buyers (like Groupon) to full
 
 The Big Short ISDA master agreement became democratized with later apps such as Robinhood, where access to high-frequency trading and speculative markets became accessible to smaller investors (which still carry risk: https://en.wikipedia.org/wiki/Robinhood_Markets )
 
-So what does this have to do with designing chips? Well, instead of investing in companies like Intel or Nvidia, investors can do more research and determine what kind of technology they'd like to see. Instead of being happy with more iPhones and AI chips, developers can agree on where research and development should be directed. By pledging to invest in a fund (binding or non), you can crowdfund a specific type of chip that has more general purpose use, instead of something that is less general purpose (or vertically integrated into a custom design, such as the Apple A17) 
+So what does this have to do with designing chips? Well, instead of investing in compant stock like Intel or Nvidia at the NYSE, investors can do more research and determine what kind of technology they'd like to see. Instead of being happy with more iPhones and AI chips, developers can agree on where research and development should be directed. By pledging to invest in a fund (binding or non), you can crowdfund a specific type of chip that has more general purpose use, instead of something that is less general purpose (or vertically integrated into a custom design, such as the Apple A17) 
 
 https://semiengineering.com/baby-steps-towards-3d-dram/
 
