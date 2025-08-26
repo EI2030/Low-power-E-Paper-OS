@@ -3,7 +3,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 8-26-2025
 
-Crowdfunding the leading edge. A history in crowdfunding:
+Crowdfunding the leading edge. A history in crowdfunding: [https://en.wikipedia.org/wiki/Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing#Historical_examples)
 
 Timeline of crowdsourcing examples
 618–907 – The Tang dynasty of China introduced the joint-stock company, the earliest form of crowdfunding. This was evident during the cold period of the Tang Dynasty when the colder climates resulted in poor harvests and the lessening of agricultural taxes, culminating in the fragmentation of the agricultural sector.[20] The fragmentation meant that the government had to reform the tax system relying more on the taxation of salt and most importantly business leading to the creation of the Joint-Stock Company.[20]
