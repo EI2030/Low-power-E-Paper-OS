@@ -6,10 +6,10 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 Crowdfunding the leading edge. A history in crowdfunding: [https://en.wikipedia.org/wiki/Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing#Historical_examples)
 
 Timeline of crowdsourcing examples
-618–907 – The Tang dynasty of China introduced the joint-stock company, the earliest form of crowdfunding. This was evident during the cold period of the Tang Dynasty when the colder climates resulted in poor harvests and the lessening of agricultural taxes, culminating in the fragmentation of the agricultural sector.[20] The fragmentation meant that the government had to reform the tax system relying more on the taxation of salt and most importantly business leading to the creation of the Joint-Stock Company.[20]
+"618–907 CE – The Tang dynasty of China introduced the joint-stock company, the earliest form of crowdfunding. This was evident during the cold period of the Tang Dynasty when the colder climates resulted in poor harvests and the lessening of agricultural taxes, culminating in the fragmentation of the agricultural sector.[20] The fragmentation meant that the government had to reform the tax system relying more on the taxation of salt and most importantly business leading to the creation of the Joint-Stock Company.[20]"
 
-In popular culture
-In the movie The Big Short, which is based on Michael Lewis' book by the same name, an ISDA Master Agreement is referred to as a "hunting license", reserved only for the "big boys" (i.e. institutional investors). Originally devised with the banks and other institutional players in mind, the doors were opened to ultra-high net worth individuals. The maximum licenses at any point peaked at 3000.[3] https://en.wikipedia.org/wiki/ISDA_Master_Agreement#In_popular_culture
+"In popular culture
+In the movie The Big Short, which is based on Michael Lewis' book by the same name, an ISDA Master Agreement is referred to as a "hunting license", reserved only for the "big boys" (i.e. institutional investors). Originally devised with the banks and other institutional players in mind, the doors were opened to ultra-high net worth individuals. The maximum licenses at any point peaked at 3000.[3]" https://en.wikipedia.org/wiki/ISDA_Master_Agreement#In_popular_culture
 
 <img width="991" height="295" alt="image" src="https://github.com/user-attachments/assets/0a9f7ca4-ac57-4399-b767-212ebde46ba8" />
 
