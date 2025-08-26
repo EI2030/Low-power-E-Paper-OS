@@ -115,6 +115,8 @@ Designing chips today isn’t just about engineering brilliance — it’s a cap
 P.S. If you’re curious how leading teams reduce validation bottlenecks without compromising accuracy — check out our blog “The Semiconductor World” (link in comments).
 hashtag#Semiconductors hashtag#ChipDesign hashtag#Validation hashtag#EDA hashtag#2nm hashtag#MooresLaw hashtag#PostSilicon hashtag#TestFlow hashtag#HardwareEngineering hashtag#SiliconDesign hashtag#SoC"
 
+chart
+--
 <img width="1348" height="1536" alt="image" src="https://github.com/user-attachments/assets/5832b85e-3557-4ee9-b29a-1bd89633fc49" />
 
 
