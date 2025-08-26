@@ -57,7 +57,13 @@ If companies could agree on a common RAM size to order for their PCBs (e.g. 16MB
 
 Actually, nevermind any of this. I don't know what I'm talking about. Really....I'm no expert, but experts continue to talk Business to Business, when the economic model changed 40 years ago with the Macintosh. This is the era of drop-shipping, Direct to Consumer (D2C). It's only a matter of time before normies start wishing what the leading edge should manufacture. Maybe I'm the first, but I am probably not the last. 
 
+If this wish sounds impractical, just look at the competition:
 
+From an 8-26 Stratchery post: https://stratechery.com/2025/u-s-intel/
+"Steelmanning
+I’ll be honest: there is a very good chance this won’t work. Intel really is a mess: they are actively hostile to customers, no one in the industry trusts them, they prioritize the wrong things even today (i.e. technical innovation with backside power over yields for chips which don’t necessarily have interference issues), and that’s even without getting into the many problems with their business. Moreover, I led with Lincicome’s argument because I agree! Government involvement in private business almost always ends badly."
+
+Blind faith eventually wears off, not because some people miraculously get curious of blindness, but because a blind person over time listens more carefully, and can hear a huckster in an inflatable carrier ship. 
 
 8-8-2025
 
