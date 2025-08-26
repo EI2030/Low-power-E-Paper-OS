@@ -24,7 +24,7 @@ https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pr
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2cf966ef-7e81-43e3-a079-d589243fa390" />
 
-Want to buy the most energy efficiency DRAM in the world without unilaterally spending $725 million? Groupon the change you want to see in the world.
+Want to buy the most energy efficiency DRAM in the world without unilaterally spending [$725 million](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/README.md#chart)? Groupon the change you want to see in the world.
 
 In order to outbid Apple, one needs to find enough buyers (like Groupon) to fullfill a minimum order quantity that is worth TSMC's time (or Global Foundries, or Samsung).
 
@@ -54,6 +54,8 @@ million transistors, using 183m x 4 as an estimate in 2mm x
 Apple was able to reserve the 3nm TSMC foundry at $130 per 103mm^2 for their A17 chip since they ordered in a significant volume. That same wafer space could be used to manufacture 100 1mm^2 $2 32MB DRAM with 10mW power consumption, low enough to solar power a netbook, along with chips which could be used for IoT, routers, IP cameras, smartwatches, fitbits, automotive, with a large enough consortium of interested buyers. Kind of like a publicly traded company, crowdsourcing the leading edge could outbid Apple and benefit more than just the top tech companies. 
 
 If companies could agree on a common RAM size to order for their PCBs (e.g. 16MB, 32MB, 64MB), they could have a leading edge memory chip only available to the wealthiest tech companies (FAANG). AMD's EPYC Genoa already produces 96MB of L3 cache at 5nm. A smaller amount could be used for microcontrollers, drones, laptops, cell phones, with excellent battery life, and not dependent on ginormous Android operating systems.  
+
+Actually, nevermind any of this. I don't know what I'm talking about. 
 
 8-8-2025
 
