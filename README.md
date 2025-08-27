@@ -24,7 +24,7 @@ https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pr
 
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2cf966ef-7e81-43e3-a079-d589243fa390" />
 
-Want to buy the most energy efficiency DRAM in the world without unilaterally spending [$725 million](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/README.md#chart)? Groupon the change you want to see in the world. (I'm sure Ghandi would overlook the commercialization of his [quote](https://jenniferlphillips.com/blog/2021/2/24/origin-story-be-the-change), considering Apple appropriated him in the "youtube.com/watch?v=9-ZB2O8azI8&pp=0gcJCRsBo7VqN5tD Ad campaign 1997 using public domain stock footage. Now they are no longer the underdog, but as big as any multinational tech company organization can get.
+Want to buy the most energy efficiency DRAM in the world without unilaterally spending [$725 million](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/README.md#chart)? Groupon the change you want to see in the world. (I'm sure Ghandi would overlook the commercialization of his [quote](https://jenniferlphillips.com/blog/2021/2/24/origin-story-be-the-change), considering Apple appropriated him in the [1997 Ad campaign](http://youtube.com/watch?v=9-ZB2O8azI8&pp=0gcJCRsBo7VqN5tD) using public domain stock footage. Now they are no longer the underdog, but as big as any multinational tech company organization can get.
 
 "Be the change you wish to see in the world” is often attributed to Mahatma Gandhi, which isn’t the whole story. This might be because Gandhi authored a passage that evokes the sentiment in a 1913 journal article for Indian Opinion:
 
