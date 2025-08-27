@@ -65,6 +65,9 @@ I’ll be honest: there is a very good chance this won’t work. Intel really is
 
 Blind faith eventually wears off, not because some people miraculously get cured of blindness, but because a blind person over time listens more carefully, and can hear a huckster in an inflatable carrier ship. 
 
+<img width="594" height="192" alt="image" src="https://github.com/user-attachments/assets/f7846233-e11f-49ca-af4c-5989beeab9e5" />
+
+
 8-8-2025
 
 https://semiwiki.com/semiconductor-manufacturers/intel/359868-making-intel-great-again/ maybe it matters less who in the U.S. owns the Intel Foundry and more about what they're manufacturing. 
