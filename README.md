@@ -214,7 +214,18 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> 
 This webpage is similar to fantasy football for semiconductor future products:
 
+https://en.wikipedia.org/wiki/Derivative_(finance)
 "Some of the more common derivatives include forwards, futures, options, swaps, and variations of these such as synthetic collateralized debt obligations and credit default swaps. Most derivatives are traded over-the-counter (off-exchange) or on an exchange such as the Chicago Mercantile Exchange, while most insurance contracts have developed into a separate industry. In the United States, after the 2008 financial crisis, there has been increased pressure to move derivatives to trade on exchanges."
+
+https://en.wikipedia.org/wiki/Futures_contract#Origin 
+Origin
+The Dōjima Rice Exchange, first established in 1697 in Osaka, is considered by some to be the first futures exchange market, to meet the needs of samurai who—being paid in rice—needed a stable conversion to coin after a series of bad harvests.[6]
+
+The Chicago Board of Trade (CBOT) listed the first-ever standardized 'exchange traded' forward contracts in 1864, which were called futures contracts. This contract was based on grain trading, and started a trend that saw contracts created on a number of different standardized futures contracts based on commodities, as well as a number of futures exchanges set up in countries around the world. By 1875 cotton futures were being traded in Bombay in India and within a few years this had expanded to futures on edible oilseeds complex, raw jute and jute goods and bullion.[7] In the 1930s two thirds of all futures was in wheat.[8]
+
+The 1972 creation of the International Monetary Market (IMM) by the Chicago Mercantile Exchange was the world's first financial futures exchange, and launched currency futures. In 1976, the IMM added interest rate futures on US treasury bills, and in 1982 they added stock market index futures.[9]
+
+
 
 https://www.reddit.com/r/GMEJungle/comments/otd1d0/i_stumbled_across_the_concept_of_bucket_shops/
 
