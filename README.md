@@ -12,7 +12,7 @@ Compare that to the Intel deal, where Tan has made it clear that Intel, while st
 
 Investors told Reuters that it's unusual for the US to take this much control over a company that's not in crisis, noting that "this level of tractability was not usually associated with relations between businesses and Washington."
 
-In the 2009 PBS Documentary _Breaking the Bank,_ The Treasury Secretary Henry Paulson summoned the top 5 Bank's CEOs to Washington after Lehman's Brother's went into Bankruptcy:
+In the 2009 PBS Documentary _Breaking the Bank,_ The Treasury Secretary Henry Paulson summoned the top 7 Bank's CEOs to Washington on Sunday, October 12th, 2008 before the markets opened Monday morning, after Lehman's Brother's went into bankruptcy the week before:
 
 https://youtu.be/sYmGNetu-UU?t=1622 
 
