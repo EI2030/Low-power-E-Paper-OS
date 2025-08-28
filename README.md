@@ -210,6 +210,15 @@ https://youtu.be/sYmGNetu-UU?t=1622
 
 32:18
 >> a lot of downside risk was taken on that day. >> Government owning a stake in any private U.S. company..."
+>>
+>> 
+This webpage is similar to fantasy football for semiconductor future products:
+
+"Some of the more common derivatives include forwards, futures, options, swaps, and variations of these such as synthetic collateralized debt obligations and credit default swaps. Most derivatives are traded over-the-counter (off-exchange) or on an exchange such as the Chicago Mercantile Exchange, while most insurance contracts have developed into a separate industry. In the United States, after the 2008 financial crisis, there has been increased pressure to move derivatives to trade on exchanges."
+
+https://www.reddit.com/r/GMEJungle/comments/otd1d0/i_stumbled_across_the_concept_of_bucket_shops/
+
+https://en.wikipedia.org/wiki/R/wallstreetbets except where instead of trading money over speculative stocks, the trading of information, similar to wall street bets can still be influential if the platform is influential. 
 
 8-26-2025
 
