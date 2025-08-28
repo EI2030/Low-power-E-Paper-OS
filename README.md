@@ -225,13 +225,16 @@ The Chicago Board of Trade (CBOT) listed the first-ever standardized 'exchange t
 
 The 1972 creation of the International Monetary Market (IMM) by the Chicago Mercantile Exchange was the world's first financial futures exchange, and launched currency futures. In 1976, the IMM added interest rate futures on US treasury bills, and in 1982 they added stock market index futures.[9]
 
-
+https://en.wikipedia.org/wiki/Bucket_shop_(stock_market)
 
 https://www.reddit.com/r/GMEJungle/comments/otd1d0/i_stumbled_across_the_concept_of_bucket_shops/
+
+https://www.reddit.com/r/wallstreetbets/
 
 https://en.wikipedia.org/wiki/R/wallstreetbets except where instead of trading money over speculative stocks, the trading of information, similar to wall street bets can still be influential if the platform is influential. 
 
 8-26-2025
+--
 
 Crowdfunding the leading edge. A history in crowdfunding: [https://en.wikipedia.org/wiki/Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing#Historical_examples)
 
