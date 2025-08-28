@@ -23,16 +23,16 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> He had decided to dramatically change his approach.
 >> 
 25:34
->> At that point, Paulson bowed to the inevitable. One thing Paulson said to mein an interview is,
+>> At that point, Paulson bowed to the inevitable. One thing Paulson said to me in an interview is,
 >> 
 25:40
 >> "When the situation changes, you have to be willing to change with the situation."
 >> 
 25:47
->> NARRATOR: Fed chairmanBen Bernanke joined Paulson for the emergency meeting.
+>> NARRATOR: Fed chairman Ben Bernanke joined Paulson for the emergency meeting.
 >> 
 25:52
->> On Thursday, late afternoon, they go to Nancy Pelosi'soffice.
+>> On Thursday, late afternoon, they go to Nancy Pelosi's office.
 >> 
 25:58
 >> And there's a meeting of the senior legislators from both parties in both House and Senate.
@@ -41,7 +41,7 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> It was obviously a big meeting. I had no idea I was goingto hear what I heard.
 
 26:11
->> NARRATOR: Paulson nowbelieved government intervention was necessary, and he'd need hundreds of billions
+>> NARRATOR: Paulson now believed government intervention was necessary, and he'd need hundreds of billions
 >> 
 26:17
 >> from Congress to do it. >> They said they needed the authority to use $700 billion
@@ -50,13 +50,13 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> to unstop the credit markets. >> Sitting in that room with Hank Paulson saying to us--
 >> 
 26:29
->> in a very measured tones,no hyperbole, no excessive adjectives--that unless you act,
+>> in a very measured tones, no hyperbole, no excessive adjectives--that unless you act,
 >> 
 26:35
->> the financial system of this country and the world will melt downin a matter of days.
+>> the financial system of this country and the world will melt down in a matter of days.
 >> 
 26:41
->> Bernanke said,"If we don't do this tomorrow, we won't have an economyon Monday."
+>> Bernanke said,"If we don't do this tomorrow, we won't have an economy on Monday."
 >> 
 26:49
 >> There was literally a pause in that room where the oxygen left. >> NARRATOR: Paulson received the money,
@@ -68,34 +68,34 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> On October 12, he acted. >> I got a phone call on Sunday from Secretary Paulson,
 >> 
 27:07
->> and he basically said, "Ken, I need you to be in Washington Monday." And he said, "I really can'ttell you a lot about it."
+>> and he basically said, "Ken, I need you to be in Washington Monday." And he said, "I really can't tell you a lot about it."
 >> 
 27:15
->> NARRATOR: With the Merrillmerger not yet complete, Paulson also invited John Thain. >> He said, "Be at the Treasury at 3:00 tomorrow."
+>> NARRATOR: With the Merrill merger not yet complete, Paulson also invited John Thain. >> He said, "Be at the Treasury at 3:00 tomorrow."
 >> 
 27:23
->> I... I said,"Well, what's the topic?" You'll find outwhen you get there." I said, "Well, who's coming?"
+>> I... I said, "Well, what's the topic?" You'll find outwhen you get there." I said, "Well, who's coming?"
 >> 
 27:30
->> "You'll find outwhen you get there. See you at 3:00."Click.
+>> "You'll find out when you get there. See you at 3:00." Click.
 >> 
 27:35
->> NARRATOR: Seven other headsof the nation's largest banks received a similar summons.
+>> NARRATOR: Seven other heads of the nation's largest banks received a similar summons.
 >> 
 27:42
->> They turn up at 3:00, and they all fileinto the conference room,
+>> They turn up at 3:00, and they all file into the conference room,
 >> 
 27:48
 >> which is across the hall from Mr. Paulson's office. >> NARRATOR: They were told to sit on one side of the table.
 >> 
 27:57
->> The titans of the financ eworld are arrayed almost like school children,
+>> The titans of the finance world are arrayed almost like school children,
 >> 
 28:02
->> waiting to hear fromthe Treasury Secretary about a subject they'reprobably by then
+>> waiting to hear from the Treasury Secretary about a subject they're probably by then
 >> 
 28:07
->> slowly beginning to figure out. >> NARRATOR: John Thain's seatwas in the middle.
+>> slowly beginning to figure out. >> NARRATOR: John Thain's seat was in the middle.
 >> 
 28:13
 >> Lewis was put at the end. >> At first, I wondered why I was down toward the end.
@@ -110,7 +110,7 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> Because it's Paulson, who's not a man who beats around the bush, it became clear relatively quickly what he was proposing.
 >> 
 28:41
->> He says, "I've got here documents that say the U.S. government is going tomake an injection
+>> He says, "I've got here documents that say the U.S. government is going to make an injection
 >> 
 28:46
 >> of capital into each oneof your companies." >> NARRATOR: Paulson was aboutto spend $125 billion
@@ -122,7 +122,7 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> is going to take this taxpayer money, the TARP money.
 >> 
 29:10
->> And he basically says,you can't leave this room until you agree to take this money.
+>> And he basically says, you can't leave this room until you agree to take this money.
 >> 
 29:16
 >> We're all going to do it for the good of the country, for the good of the system. And it's not really discretionary.
@@ -154,10 +154,10 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> And so, don't do it on the basis of being... us being told, do it on the basis that things could get a lot worse
 >> 
 30:19
->> in America, and therefore,for us. And they're almost one in the same.
+>> in America, and therefore, for us. And they're almost one in the same.
 >> 
 30:25
->> NARRATOR: Lewis also knewthat he could expect two TARP shares, Merrill Lynch's and his own.
+>> NARRATOR: Lewis also knew that he could expect two TARP shares, Merrill Lynch's and his own.
 >> 
 30:32
 >> He also said, "Look, guys, we all know how this is going to end. We're going to sign this piece of paper."
