@@ -17,132 +17,196 @@ https://youtu.be/sYmGNetu-UU?t=1622
 
 25:21
 >> NARRATOR: Three days after Lehman's bankruptcy, Paulson headed to congress.
+>> 
 25:28
-He had decided to dramatically change his approach.
+>> 
+>> He had decided to dramatically change his approach.
+>> 
 25:34
 >> At that point, Paulson bowed to the inevitable. One thing Paulson said to mein an interview is,
+>> 
 25:40
-"When the situation changes, you have to be willing to change with the situation."
+>> "When the situation changes, you have to be willing to change with the situation."
+>> 
 25:47
 >> NARRATOR: Fed chairmanBen Bernanke joined Paulson for the emergency meeting.
+>> 
 25:52
 >> On Thursday, late afternoon, they go to Nancy Pelosi'soffice.
+>> 
 25:58
-And there's a meeting of the senior legislators from both parties in both House and Senate.
+>> And there's a meeting of the senior legislators from both parties in both House and Senate.
+>> 
 26:06
 >> It was obviously a big meeting. I had no idea I was goingto hear what I heard.
+
 26:11
 >> NARRATOR: Paulson nowbelieved government intervention was necessary, and he'd need hundreds of billions
+>> 
 26:17
-from Congress to do it. >> They said they needed the authority to use $700 billion
+>> from Congress to do it. >> They said they needed the authority to use $700 billion
+>> 
 26:22
-to unstop the credit markets. >> Sitting in that room with Hank Paulson saying to us--
+>> to unstop the credit markets. >> Sitting in that room with Hank Paulson saying to us--
+>> 
 26:29
-in a very measured tones,no hyperbole, no excessive adjectives--that unless you act,
+>> in a very measured tones,no hyperbole, no excessive adjectives--that unless you act,
+>> 
 26:35
-the financial system of this country and the world will melt downin a matter of days.
+>> the financial system of this country and the world will melt downin a matter of days.
+>> 
 26:41
 >> Bernanke said,"If we don't do this tomorrow, we won't have an economyon Monday."
+>> 
 26:49
 >> There was literally a pause in that room where the oxygen left. >> NARRATOR: Paulson received the money,
+>> 
 26:56
-$700 billion known as TARP, troubled asset relief program.
+>> $700 billion known as TARP, troubled asset relief program.
+>> 
 27:02
-On October 12, he acted. >> I got a phone call on Sunday from Secretary Paulson,
+>> On October 12, he acted. >> I got a phone call on Sunday from Secretary Paulson,
+>> 
 27:07
-and he basically said, "Ken, I need you to be in Washington Monday." And he said, "I really can'ttell you a lot about it."
+>> and he basically said, "Ken, I need you to be in Washington Monday." And he said, "I really can'ttell you a lot about it."
+>> 
 27:15
 >> NARRATOR: With the Merrillmerger not yet complete, Paulson also invited John Thain. >> He said, "Be at the Treasury at 3:00 tomorrow."
+>> 
 27:23
-I... I said,"Well, what's the topic?" You'll find outwhen you get there." I said, "Well, who's coming?"
+>> I... I said,"Well, what's the topic?" You'll find outwhen you get there." I said, "Well, who's coming?"
+>> 
 27:30
-"You'll find outwhen you get there. See you at 3:00."Click.
+>> "You'll find outwhen you get there. See you at 3:00."Click.
+>> 
 27:35
 >> NARRATOR: Seven other headsof the nation's largest banks received a similar summons.
+>> 
 27:42
 >> They turn up at 3:00, and they all fileinto the conference room,
+>> 
 27:48
-which is across the hall from Mr. Paulson's office. >> NARRATOR: They were told to sit on one side of the table.
+>> which is across the hall from Mr. Paulson's office. >> NARRATOR: They were told to sit on one side of the table.
+>> 
 27:57
 >> The titans of the financ eworld are arrayed almost like school children,
+>> 
 28:02
-waiting to hear fromthe Treasury Secretary about a subject they'reprobably by then
+>> waiting to hear fromthe Treasury Secretary about a subject they'reprobably by then
+>> 
 28:07
-slowly beginning to figure out. >> NARRATOR: John Thain's seatwas in the middle.
+>> slowly beginning to figure out. >> NARRATOR: John Thain's seatwas in the middle.
+>> 
 28:13
-Lewis was put at the end. >> At first, I wondered why I was down toward the end.
+>> Lewis was put at the end. >> At first, I wondered why I was down toward the end.
+>> 
 28:19
-And... and then...and then it hit me, obviously, that it was in alphabetical order.
+>> And... and then...and then it hit me, obviously, that it was in alphabetical order.
+>> 
 28:25
-And how else would you do it? >> NARRATOR: Paulson got right down to business.
+>> And how else would you do it? >> NARRATOR: Paulson got right down to business.
+>> 
 28:32
 >> Because it's Paulson, who's not a man who beats around the bush, it became clear relatively quickly what he was proposing.
+>> 
 28:41
 >> He says, "I've got here documents that say the U.S. government is going tomake an injection
+>> 
 28:46
-of capital into each oneof your companies." >> NARRATOR: Paulson was aboutto spend $125 billion
+>> of capital into each oneof your companies." >> NARRATOR: Paulson was aboutto spend $125 billion
+>> 
 28:53
-of that TARP money from Congress. >> They go through in a very, very rapid way that each of us
+>> of that TARP money from Congress. >> They go through in a very, very rapid way that each of us
+>> 
 29:03
-is going to take this taxpayer money, the TARP money.
+>> is going to take this taxpayer money, the TARP money.
+>> 
 29:10
 >> And he basically says,you can't leave this room until you agree to take this money.
+>> 
 29:16
 >> We're all going to do it for the good of the country, for the good of the system. And it's not really discretionary.
+>> 
 29:24
 >> NARRATOR: It was unprecedented. In return for billions of dollars, the government would take an ownership stake in the banks.
+>> 
 29:32
-Some bankers fought back. >> That was a very contentiousmeeting, lots of questions,
+>> Some bankers fought back. >> That was a very contentiousmeeting, lots of questions,
+>> 
 29:40
-lots of doubts. >> NARRATOR: Richard Kovacevich, chairman of Wells Fargo, led the charge.
+>> lots of doubts. >> NARRATOR: Richard Kovacevich, chairman of Wells Fargo, led the charge.
+>> 
 29:48
 >> Kovacevich stood up and said, "I don't want the money. "I don't need the money. "I don't want the money. I want to have nothing to do with this."
+>> 
 29:56
 >> NARRATOR: But Ken Lewis tooka different view. >> Ken Lewis says, "It's our patriotic duty to do this.
+>> 
 30:01
-Let's stop fighting, do this deal right this moment." >> We are so intertwined with the U.S.
+>> Let's stop fighting, do this deal right this moment." >> We are so intertwined with the U.S.
+>> 
 30:08
-that it's hard to separate what's good for the United States and what's good for Bank of America.
+>> that it's hard to separate what's good for the United States and what's good for Bank of America.
+>> 
 30:13
-And so, don't do it on the basis of being... us being told, do it on the basis that things could get a lot worse
+>> And so, don't do it on the basis of being... us being told, do it on the basis that things could get a lot worse
+>> 
 30:19
-in America, and therefore,for us. And they're almost one in the same.
+>> in America, and therefore,for us. And they're almost one in the same.
+>> 
 30:25
 >> NARRATOR: Lewis also knewthat he could expect two TARP shares, Merrill Lynch's and his own.
+>> 
 30:32
 >> He also said, "Look, guys, we all know how this is going to end. We're going to sign this piece of paper."
+>> 
 30:38
-So he played a little bit of the elder statesmen role, explaining reality,
+>> So he played a little bit of the elder statesmen role, explaining reality,
+>> 
 30:45
-although they all understood reality quite well. >> NARRATOR: And if any bank didn't sign on,
+>> although they all understood reality quite well. >> NARRATOR: And if any bank didn't sign on,
+>> 
 30:50
-Paulson had a potent weapon. >> There's a threat in the background.
+>> Paulson had a potent weapon. >> There's a threat in the background.
+>> 
 30:56
-If you don't get with the program and if you don't sign this piece of paper, tomorrow morning you could turn on the television
+>> If you don't get with the program and if you don't sign this piece of paper, tomorrow morning you could turn on the television
+>> 
 31:01
-and see Hank Paulson talking about your bank in a negative way, and that's going to destroy you.
+>> and see Hank Paulson talking about your bank in a negative way, and that's going to destroy you.
+>> 
 31:08
 >> NARRATOR: Paulson's notes, prepared for the meeting, show he gave the bankers no choice.
+>> 
 31:14
 >> If a capital infusion is not appealing, you should be aware that your regulator will require it in any circumstance.
+>> 
 31:22
 >> NARRATOR: Paulson gave each man a single piece of paper spelling out the conditions.
+>> 
 31:28
 >> Before they had to leave town that night, they were told, "Return this document with your signature on it."
+>> 
 31:33
-And all nine of them did so.
+>> And all nine of them did so.
+>> 
 31:41
 >> NARRATOR: The next day, Paulson told the country about his new wayof doing business. >> Today we are taking decisive actions
+>> 
 31:50
-to protect the U.S. economy. >> NARRATOR: In one day, everything had changed.
+>> to protect the U.S. economy. >> NARRATOR: In one day, everything had changed.
+>> 
 31:58
 >> ...that the Treasury will purchase equity stakes in a wide variety of banks and thrifts.
+>> 
 32:05
 >> I think we nationalized the banks in the U.S. on that day. Seriously. Substantially nationalized them.
+>> 
 32:12
-The government got a lot of sayin how they're run, a lot of constraints, a lot of responsibilities,
+>> The government got a lot of sayin how they're run, a lot of constraints, a lot of responsibilities,
+
 32:18
-a lot of downside risk was taken on that day. >> Government owning a stake in any private U.S. company..."
+>> a lot of downside risk was taken on that day. >> Government owning a stake in any private U.S. company..."
 
 8-26-2025
 
