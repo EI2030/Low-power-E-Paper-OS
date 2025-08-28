@@ -7,7 +7,7 @@ https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-
 
 "But to critics of the deal, it seems weird for the US to swoop in and take stake in a company that doesn't need government assistance. The only recent precedent was the US temporarily taking stake in key companies considered vital to the economy that risked going under during the 2008 financial crisis.
 
-Compare that to the Intel deal, where Tan has made it clear that Intel, while struggling to compete with rivals, "didn't need the money," Reuters noted—largely due to SoftBank purchasing $2 billion in Intel shares in the days prior to the US agreement being reached. Instead, the US is incentivized to take the stake to help further Trump's mission to quickly build up a domestic chip manufacturing supply chain that can keep the US a global technology leader at the forefront of AI innovation.
+Compare that to the Intel deal, where Tan has made it clear that Intel, while struggling to compete with rivals, *"didn't need the money,"* Reuters noted—largely due to SoftBank purchasing $2 billion in Intel shares in the days prior to the US agreement being reached. Instead, the US is incentivized to take the stake to help further Trump's mission to quickly build up a domestic chip manufacturing supply chain that can keep the US a global technology leader at the forefront of AI innovation.
 
 Investors told Reuters that it's unusual for the US to take this much control over a company that's not in crisis, noting that "this level of tractability was not usually associated with relations between businesses and Washington."
 
@@ -131,13 +131,15 @@ https://youtu.be/sYmGNetu-UU?t=1622
 >> NARRATOR: It was unprecedented. In return for billions of dollars, the government would take an ownership stake in the banks.
 >> 
 29:32
->> Some bankers fought back. >> That was a very contentiousmeeting, lots of questions,
+>> Some bankers fought back. >> That was a very contentious meeting, lots of questions,
 >> 
 29:40
->> lots of doubts. >> NARRATOR: Richard Kovacevich, chairman of Wells Fargo, led the charge.
+
+ lots of doubts. >> NARRATOR: Richard Kovacevich, chairman of Wells Fargo, led the charge.
 >> 
 29:48
->> Kovacevich stood up and said, "I don't want the money. "I don't need the money. "I don't want the money. I want to have nothing to do with this."
+>> 
+ Kovacevich stood up and said, "I don't want the money. *"I don't need the money.* "I don't want the money. I want to have nothing to do with this."
 >> 
 29:56
 >> NARRATOR: But Ken Lewis tooka different view. >> Ken Lewis says, "It's our patriotic duty to do this.
