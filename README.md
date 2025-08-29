@@ -233,7 +233,7 @@ https://www.reddit.com/r/wallstreetbets/
 
 https://en.wikipedia.org/wiki/R/wallstreetbets except where instead of trading money over speculative stocks, the trading of information, similar to wall street bets can still be influential if the platform is influential. 
 
-I am thinking of developing an app, called Fantasy Foundry. But I learned that it is a website for Tabletop RPGS: https://www.fantasyfoundry.store/ so I could be infringing on a trademark- (it rhymes like fantasy football, and can imply there is a free option, which would be ideally the goal of the app- to allow people to vote on a future chip idea or product- whether it is a memory chip or a logic chip.
+I am thinking of developing an app, called Fantasy Foundry. But I learned that it is a website for Tabletop RPGS: https://www.fantasyfoundry.store/ so I could be infringing on a trademark- (it rhymes like fantasy football, and can imply there is a free option, which would be ideally the goal of the app- to allow people to vote on a future chip idea or product- whether it is a memory chip or a logic chip. Update: I let CoPilot outline the app: https://github.com/copilot/c/30e01fb0-32e8-4d3e-87c7-ad3aae176146 https://github.com/hatonthecat/FantasyFoundry/blob/main/README.md 
 
 Maybe Fantasy Semiconductor.  There is a twitter account https://x.com/Semiconductor24 <img width="487" height="77" alt="image" src="https://github.com/user-attachments/assets/3b133dff-0b74-4773-9f5e-ce777efca58b" /> Though they appear to include real stories..
 
