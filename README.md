@@ -251,9 +251,8 @@ Timeline of crowdsourcing examples
 "In popular culture
 In the movie The Big Short, which is based on Michael Lewis' book by the same name, an ISDA Master Agreement is referred to as a "hunting license", reserved only for the "big boys" (i.e. institutional investors). Originally devised with the banks and other institutional players in mind, the doors were opened to ultra-high net worth individuals. The maximum licenses at any point peaked at 3000.[3]" https://en.wikipedia.org/wiki/ISDA_Master_Agreement#In_popular_culture
 
-<img width="991" height="295" alt="image" src="https://github.com/user-attachments/assets/0a9f7ca4-ac57-4399-b767-212ebde46ba8" />
-
 <img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/007c2536-fb5a-4f10-b6c8-59de8fed71b8" />
+
 ** 
 
 https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pro-or-the-snapdragon-8-gen-2
@@ -262,7 +261,9 @@ https://en.softonic.com/articles/what-costs-more-to-manufacture-the-apple-a17-pr
 
 ** "It’s noteworthy that, despite being manufactured using TSMC’s 3nm process and facing performance issues, Apple managed to produce these chips for only $20 more for the latest version. It’s possible that the tech giant was able to reduce this cost by _increasing shipping volumes._" (emphasis added)
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/2cf966ef-7e81-43e3-a079-d589243fa390" />
+
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/d8cc105e-b4c7-403f-aab7-f34b7759f7a5" />
+
 
 Want to buy the most energy efficiency DRAM in the world without unilaterally spending [$725 million](https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/README.md#chart)? Groupon the change you want to see in the world. (I'm sure Ghandi would overlook the commercialization of his [quote](https://jenniferlphillips.com/blog/2021/2/24/origin-story-be-the-change), considering Apple appropriated him in the [1997 Ad campaign](http://youtube.com/watch?v=9-ZB2O8azI8&pp=0gcJCRsBo7VqN5tD) using public domain stock footage (He also got to license John Lennon's music because, well, he was neighbors with Yoko Ono at the Dakota). Now they are no longer the underdog, but as big as any multinational tech company organization can get.
 
