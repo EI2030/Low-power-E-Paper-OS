@@ -206,6 +206,14 @@ https://mlumiste.com/technical/liveportrait-compression/ 22Kb/s
 
 RAM:
 ---
+DRAM
+--
+2T0C (2 transistor, 0 capacitor) DRAM https://www.youtube.com/watch?v=ITdkH7PCu74
+
+Possibly EUV/2D via imec ^ ? See: v
+
+https://optics.org/news/15/8/17
+
 https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world
 
 https://raaam-tech.com/technology/
@@ -490,13 +498,7 @@ die area, but allows us to achieve the best energy
 efficiency for a target throughput for parallel workloads, limited primarily by the energy consumed by
 inter-unit communications." 
 
-DRAM
---
-2T0C (2 transistor, 0 capacitor) DRAM https://www.youtube.com/watch?v=ITdkH7PCu74
 
-Possibly EUV/2D via imec ^ ? See: v
-
-https://optics.org/news/15/8/17
 
 Chip Design and Circuit Simulation software
 --
