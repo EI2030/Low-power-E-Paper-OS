@@ -66,6 +66,12 @@ Modern Laptop (cached)	46 seconds	                                04 minutes, 57
 https://github.com/lowtechmag/solar_v2
 https://github.com/lowtechmag/solar (archived)
 
+https://solarprotocol.net/
+
+"The Solar Protocol network reconfigures internet protocols using a kind of
+natural rather than artificial intelligence. The network routes internet
+traffic according to the logic of the sun, where page requests are sent to
+whichever server is enjoying the most sunlight at the time."
 
 Recently encountering an actual copy of Paint Shop Pro, I was relieved to find a very simple image image tool that calculates the size of the converted file prior to conversion. For example, a 1MB 24-bit color file could be converted to 16 colors and 50KB, drastically reducing the page loading times for 
 simple content. This can be one of the most convenient tools for generating webpage content, and doesn't require using guesswork in MSPaint or websites that do the conversion for you.
