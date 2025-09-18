@@ -630,6 +630,8 @@ https://web.eece.maine.edu/~vweaver/papers/iccd09/ll_document.pdf
 https://j-core.org/talks/japan-2015.pdf
 https://web.eece.maine.edu/~vweaver/papers/iccd09/iccd09_density.pdf
 https://lists.j-core.org/pipermail/j-core/
+https://en.wikipedia.org/wiki/Transistor_count#Microprocessors
+https://web.archive.org/web/20160423084425/http://www.hotchips.org/wp-content/uploads/hc_archives/hc05/3_Tue/HC05.S8/HC05.8.1-Matsubara-Hitachi-HARP-1.pdf
 
 Quark
 https://en.wikipedia.org/wiki/Intel_Quark
@@ -681,6 +683,7 @@ This section (indeed, the whole page) is all about ideas -- not about deals with
 
 X86
 --
+https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal
 
 https://www.xtof.info/intel80386.html 
 
@@ -695,7 +698,9 @@ https://web.archive.org/web/20090216221141/http://www.transmeta.com/tech/microip
 https://www.eetimes.com/microsoft-brings-vista-to-developing-world-pcs/
 
 https://en.wikipedia.org/wiki/Terminate-and-stay-resident_program
-
+https://www.nvidia.com/en-us/drivers/uli-m6117c/  
+https://www.dmp.com.tw/app/webcamera/pdf/m6117d.pdf 
+https://en.wikipedia.org/wiki/ALi_Corporation
 
 https://en.wikipedia.org/wiki/List_of_discontinued_x86_instructions#Instructions_specific_to_ALi/Nvidia/DM&P_M6117_MCUs 
 
