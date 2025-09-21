@@ -1743,6 +1743,12 @@ https://web.archive.org/web/20220531105341/https://ownyourbits.com/2019/02/02/wh
 https://github.com/hermanhermitage/videocoreiv
 
 
+GPU
+--
+Ask HN: How were graphics card drivers programmed back in the 90s?  https://news.ycombinator.com/item?id=45292821
+
+https://www.haiku-os.org/legacy-docs/benewsletter/Issue4-8.html 
+
 ----
 Plan 9 and related Resources
 ----
