@@ -6,6 +6,9 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 https://alexroddie.substack.com/p/experiments-in-deconvergence-it-starts (07-2025)
 
+https://www.scirp.org/journal/paperinformation?paperid=125952 Critical Reflections on the Deconvergence of Information and Communications Technology
+January 2023 Intelligent Information Management 15(04):243-258 School of Communication, The Hang Seng University of Hong Kong, Hong Kong, China.
+
 8-28-2025
 --
 
