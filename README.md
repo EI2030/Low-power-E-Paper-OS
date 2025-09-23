@@ -1,6 +1,11 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+9-23-2025
+--
+
+https://alexroddie.substack.com/p/experiments-in-deconvergence-it-starts (07-2025)
+
 8-28-2025
 --
 
