@@ -729,6 +729,15 @@ https://people.cs.pitt.edu/~jacklange/teaching/cs3510-s14/papers/cnk.pdf
 
 https://flint.cs.yale.edu/certikos/framework.html
 
+OS
+--
+
+https://imgur.com/gallery/jurix-linux-1996-disk-image-from-historical-linux-collection-O4KuqqD
+
+https://archiveos.org/jurix/ 
+
+https://sourceforge.net/projects/oldlinuxdistributionarchive/files/jurix/jurix-19960501/install/ 
+
 5-16-2007
 --
 
