@@ -1,6 +1,31 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+10-3-2025
+--
+
+https://fortune.com/2025/10/02/nuclear-fusion-online-commercial-ai-power/ Solar powered laptops are always going to be 30 years away, unless basic assumptions about performance and feature-creep are re-appraised.
+
+<img width="1375" height="510" alt="image" src="https://github.com/user-attachments/assets/b2625233-2ddc-4ca4-8b84-cec6bc42c4c6" />
+
+Assembly language can power hundreds of apps on 8-9MB RAM: https://youtu.be/3Lp3UYytpdc  https://youtu.be/LX_3K22yFec 
+
+https://kolibrios.org/en/
+
+https://en.wikipedia.org/wiki/KolibriOS
+
+"About KolibriOS from Kalibri Wiki :
+KolibriOS is an open source operating system with a monolithic preemptive kernel, video drivers, for 32-bit x86 architecture computers, developed and maintained by The KolibriOS Project Team. KolibriOS is a fork of MenuetOS, written entirely in FASM (assembly language). However, C, C++, Free Pascal, Forth, among other high-level languages and compilers, can also be used in user application development.
+English, Russian and German versions are available." 
+
+"By circumstance. KolibriOS doesn't support any of WiFi/Bluetooth/GSM/3G/LTE, and only certain video cards (most video cards in KolibriOS work only via VESA). Usually the proprietary BLOBs come with the above devices, but since KolibriOS doesn't support those, we have almost no BLOBs too (no BLOBs in basic image / ISO, and only a few BLOBs in separately downloaded video drivers)." https://board.kolibrios.org/viewtopic.php?p=59322#p59322 (2014)
+
+https://web.archive.org/web/20140129225037/http://www.unixmen.com/kolibrios-an-operating-system-on-a-144mb-floppy/ 
+
+https://www.dedoimedo.com/computers/kolibrios.html (2012)
+
+https://www.xda-developers.com/kolibri-os-test-run/ (2024) 
+
 9-23-2025
 --
 
