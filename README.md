@@ -1,6 +1,11 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+10-6-2025
+--
+
+https://www.wsj.com/tech/personal-tech/flip-phone-digital-camera-28a118dd
+
 10-3-2025
 --
 
