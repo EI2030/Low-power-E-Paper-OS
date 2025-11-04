@@ -1,6 +1,17 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+11-3-2025
+--
+
+https://semiengineering.com/the-next-big-thing/
+
+_"What the ESL crowd missed was the massive gain that comes from compounding little gains. I am still somewhat blinkered by going for the big win (that would probably make me a bad gambler), but content recently gathered for a couple of articles has provided examples of how those small gains are a better use of time and money than gambling on the next big thing._
+
+_The first example is from Marc Swinnen at Ansys, who talked about power optimization. I had asked about the amount of power being wasted in a typical design. “In the past, I have talked to customers about this very problem. I might tell them that using my tool will save them 10%, 15% power. Their response might be, ‘That’s not going to make my day. That’s not worth it to me. Then there is another technique. What will that save me? I tell them that it will save you 5% or 7%. That’s not worth my time.’ Every technique was shot down because it wasn’t worth their time. And at the end they say, how is it that my competitor can manage to get these really low-power designs? Because they pay attention to power at every single step along the way, even the small increments, it all adds up. You can disregard the small contributions at every step, but in the end, it’s like going on a diet. Any particular cookie, any particular walk, isn’t going to make a big difference, but it all adds up over time. And that’s how you achieve a result — by being conscientious at every step.”_
+
+_Many others agree this is the only way to achieve a low-power design, except some add that it only takes one bad cookie to spoil the whole thing. A very power-efficient piece of hardware cannot provide the expected savings if bad software is put on it, especially if it doesn’t use the very features that the hardware inserted to make it power efficient. Lots of small improvements can make a very big difference."_
+
 10-6-2025
 --
 
