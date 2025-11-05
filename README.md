@@ -1,5 +1,9 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
+11-5-2025
+--
+
+https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
 
 11-3-2025
 --
