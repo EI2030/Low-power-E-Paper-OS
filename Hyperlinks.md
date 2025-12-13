@@ -657,6 +657,20 @@ https://cdrdv2.intel.com/v1/dl/getContent/334715
 https://cdrdv2.intel.com/v1/dl/getContent/335278
 https://lcamtuf.substack.com/p/random-objects-intel-edison
 https://github.com/edison-fw
+https://www.eetimes.com/intel-quark-runs-on-roof-raises-questions/ 
+
+"Designers will not be allowed to customize the Quark core. They can only connect third-party blocks to its fabric. Intel will allow some process tweaks for some customers, he added." 
+
+"Having 64-bit capability would differentiate Intel's Quark from a world of 32-bit ARM M-series microcontrollers as well as a host of proprietary architectures from Microchip, Renesas, and others. In this scenario both Intel and Apple use 64-bit addressability as a performance edge against an entrenched ARM world.
+
+A 64-bit address space can bolster performance even if it is not used to enable more the four Gbytes of main memory a 32-bit part can address, said Glaskowsky. A wider architecture can enable better communications and video processing without exceeding the 4 GByte limit, he noted."
+
+Intel, I don't even need 512MB. I'd like to license the Edison/Quark/Claremont so people in Peru can solar power linux without needing an electrical grid in rural, mountainous areas. 256MB of RAM would use more than 50mW. Foundries today at 16nm FinFet might be able to run a full Windows 98 and Linux 2.6 (see this Playlist https://www.youtube.com/watch?v=tPzTjkfVJ7E&list=PLKvMTg3KKwP0Aqw4-2e8nMCDqeFNAM331) on just 16MB RAM and use just 10mW of power with a tiny solar panel the size of a credit card. 
+
+The Millionaire Next Door: The Surprising Secrets of America's Wealthy
+by Thomas J. Stanley Ph.D. and William D. Danko Ph.D  | 1998 1st Edition - the main premise of the book is spend less than you earn. The same logic applies to a laptop energy consumption.
+
+
 
 https://www.youtube.com/watch?v=VsUF_CBJq50 
 https://fuse.wikichip.org/news/2519/intel-labs-builds-a-neuromorphic-system-with-64-to-768-loihi-chips-8-million-to-100-million-neurons/
