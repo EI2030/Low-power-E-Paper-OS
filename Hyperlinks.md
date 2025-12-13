@@ -633,6 +633,12 @@ https://lists.j-core.org/pipermail/j-core/
 https://en.wikipedia.org/wiki/Transistor_count#Microprocessors
 https://web.archive.org/web/20160423084425/http://www.hotchips.org/wp-content/uploads/hc_archives/hc05/3_Tue/HC05.S8/HC05.8.1-Matsubara-Hitachi-HARP-1.pdf
 
+https://www.youtube.com/watch?v=xEN-WOonAN8 Linux Plumbers Conference 2025 Tokyo 12-11-2025
+
+https://drive.google.com/file/d/1dluaB0rpR1m2Wp1ATUJgFpHMtS2tYhBR/view?usp=sharing 1080p - 1.5GB Full 9hrs
+
+https://drive.google.com/file/d/178-_NWT8c4prNxKUMuj30PJbrDIwRhtA/view?usp=drive_link 720p -  915MB Full 9hrs
+
 Quark
 https://en.wikipedia.org/wiki/Intel_Quark
 https://en.wikipedia.org/wiki/Intel_Quark#List_of_processors  "Atlas Peak" Quark SE C1000 
