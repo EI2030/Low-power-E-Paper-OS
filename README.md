@@ -1,5 +1,18 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
+
+12-16-2025
+--
+
+Linux Programming Tip: avoiding the use of ellipses allows a program to use far less memory.
+
+"1. In Programming (C, C++, Python, R) 
+
+In several programming languages used in Linux environments, an ellipsis (...) in a function signature signifies that the function accepts a variable number of arguments. 
+Example (C/C++): The standard printf function is declared as int printf(const char* format, ...); where the ellipsis allows it to take many different arguments.
+"No Ellipses" Function: A function without an ellipsis in its definition has a fixed number and type of parameters, which allows the compiler to perform strict type-checking and argument counting. "
+
+
 11-5-2025
 --
 
