@@ -1,6 +1,11 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+12-16-2025 (separate post)
+---
+
+https://inavoyage.blogspot.com/2025/12/the-state-of-stateless-linux-oses.html
+
 12-16-2025
 --
 
