@@ -12,6 +12,8 @@ In several programming languages used in Linux environments, an ellipsis (...) i
 Example (C/C++): The standard printf function is declared as int printf(const char* format, ...); where the ellipsis allows it to take many different arguments.
 "No Ellipses" Function: A function without an ellipsis in its definition has a fixed number and type of parameters, which allows the compiler to perform strict type-checking and argument counting. "
 
+I imagine these grammatical techniques were more prevalent in the 1970s and 1980s, but became forgotten or obscure as time went on due to increasing memory capacities.
+
 
 11-5-2025
 --
