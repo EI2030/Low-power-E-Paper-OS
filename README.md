@@ -14,6 +14,7 @@ Example (C/C++): The standard printf function is declared as int printf(const ch
 
 I imagine these grammatical techniques were more prevalent in the 1970s and 1980s, but became forgotten or obscure as time went on due to increasing memory capacities.
 
+learncpp.com/cpp-tutorial/ellipsis-and-why-to-avoid-them/
 
 11-5-2025
 --
