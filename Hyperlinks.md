@@ -413,6 +413,8 @@ CPU and background:
 NTV & STV:
 ---
 
+https://www.upbeattechtw.com/
+
 https://cmosedu.com/cmos1/BSIM4_manual.pdf (3.1-3.2) Channel Charge and
 Subthreshold Swing Models
 
