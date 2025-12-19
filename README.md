@@ -1,6 +1,13 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+12-19-2025
+--
+
+[The Smartest Companies are in the Same Room, but are not Building New Products Together...for you
+](https://inavoyage.blogspot.com/2025/12/the-smartest-companies-are-in-same-room.html
+)
+
 12-16-2025 (separate post)
 ---
 
