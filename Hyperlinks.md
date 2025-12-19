@@ -1243,6 +1243,28 @@ https://www.ti.com/lit/ug/tidu398/tidu398.pdf
 
 https://www.mouser.com/ProductDetail/ZF/AFIG-0007?qs=KnNyCueLKRVo%252BCLj1DZFyQ%3D%3D
 
+![17661530303351718695058115664670](https://github.com/user-attachments/assets/8d163623-0a1a-4dcd-9d14-6ddac01e0794)
+
+https://meet.onio.com/ces
+
+Most keyboards run on batteries.
+
+Or they’re plugged in.
+
+This one runs on something… lighter.
+
+👉 https://meet.onio.com/ces
+📍 Booth 60821
+🇪🇺 European Innovation Council Pavilion, Venetian Expo, Hall G"
+
+
+
+
+hashtag#EICatCES2026
+Activate to view larger image,
+
+
+
 i3C
 ---
 https://en.wikipedia.org/wiki/I3C_(bus)
