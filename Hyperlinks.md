@@ -1884,6 +1884,7 @@ https://git.yoctoproject.org/
 
 https://git.yoctoproject.org/meta-intel-quark/
 https://git.yoctoproject.org/meta-intel-edison/
+https://layers.openembedded.org/layerindex/branch/master/layers/
 
 https://github.com/AcceleratedLinux/accelerated-linux
 https://events19.linuxfoundation.org/wp-content/uploads/2017/12/BoF-Accelerated-Linux-Build-System-Jeff-Shaw-Digi-International.pdf
