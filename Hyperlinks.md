@@ -1880,6 +1880,11 @@ https://en.wikipedia.org/wiki/Embeddable_Linux_Kernel_Subset
 https://www.youtube.com/watch?v=eooviN1SdQ8
 "ELKS (Embeddable Linux Kernel Subset, a 16-bit no-MMU Linux) on customized Amstrad PC 2086"
 
+https://git.yoctoproject.org/ 
+
+https://git.yoctoproject.org/meta-intel-quark/
+https://git.yoctoproject.org/meta-intel-edison/
+
 https://github.com/AcceleratedLinux/accelerated-linux
 https://events19.linuxfoundation.org/wp-content/uploads/2017/12/BoF-Accelerated-Linux-Build-System-Jeff-Shaw-Digi-International.pdf
 
