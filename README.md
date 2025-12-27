@@ -1,6 +1,13 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+12-27-2025
+--
+
+https://github.com/hatonthecat/Pokey-Linux/tree/main/XServers Xwoaf in 16MB RAN 
+
+https://www.youtube.com/watch?v=GkATOFdkScI
+
 12-19-2025
 --
 
