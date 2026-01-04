@@ -2539,6 +2539,16 @@ https://arxiv.org/abs/2402.04291
 Miscellaneous and unrelated links:
 --
 
+https://github.com/femtofox/Femtofox_Community_Hardware
+
+https://www.etsy.com/listing/1861858340/femtofox-pro-alpha-v11-kit-compact-arm?show_sold_out_detail=1&ref=nla_listing_details
+
+https://www.cnx-software.com/2025/02/21/femtofox-pro-v1-lora-and-meshtastic-development-board-runs-linux-based-foxbuntu-on-rockchip-rv1103-soc/
+
+https://www.amazon.com/s?k=Luckfox+Pico+Mini&i=electronics 
+
+https://www.cnx-software.com/2023/08/30/luckfox-pico-rockchip-rv1103-cortex-a7-risc-v-camera-board-comes-with-an-optional-ethernet-port/ Cortex-A7, 64MB DDR2 <0.4W
+
 https://youtu.be/3EPTfOTC4Jw?t=885 Double-precision floating point in video games (an excellent demonstration of a glitch in aligning flippers in Space Cadet Pinball and boxes in Minecraft, pre-64 bit patch) 
 
 http://www.catb.org/jargon/html/overgeneralization.html 
