@@ -213,6 +213,8 @@ https://mlumiste.com/technical/liveportrait-compression/ 22Kb/s
 RAM:
 ---
 
+https://www.avalanche-technology.com/wp-content/uploads/1G-8Gb-QED-96-Ball-Dual-QSPI-Serial-J_1-January_08_2026.pdf
+
 2T0C (2 transistor, 0 capacitor) DRAM https://www.youtube.com/watch?v=ITdkH7PCu74
 
 Possibly EUV/2D via imec ^ ? See: v
