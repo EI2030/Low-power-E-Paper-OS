@@ -215,6 +215,11 @@ RAM:
 
 https://www.avalanche-technology.com/wp-content/uploads/1G-8Gb-QED-96-Ball-Dual-QSPI-Serial-J_1-January_08_2026.pdf
 
+<img width="965" height="608" alt="ram" src="https://github.com/user-attachments/assets/58479495-3ba9-4e0d-b9d0-89a5f86a1f75" />
+
+<img width="1208" height="684" alt="image" src="https://github.com/user-attachments/assets/3333d644-4ac1-41a4-8795-9826ba3b66b8" />
+
+
 2T0C (2 transistor, 0 capacitor) DRAM https://www.youtube.com/watch?v=ITdkH7PCu74
 
 Possibly EUV/2D via imec ^ ? See: v
