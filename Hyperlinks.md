@@ -219,6 +219,7 @@ https://www.avalanche-technology.com/wp-content/uploads/1G-8Gb-QED-96-Ball-Dual-
 
 <img width="1208" height="684" alt="image" src="https://github.com/user-attachments/assets/3333d644-4ac1-41a4-8795-9826ba3b66b8" />
 
+https://www.micron.com/products/memory/dram-components/lpddr5x 0.5V! - minimum density is 16Gb (2GB sticks). If only they were made in 128Mb-512Nb sticks... the power consumption would be very low (<20mW)
 
 2T0C (2 transistor, 0 capacitor) DRAM https://www.youtube.com/watch?v=ITdkH7PCu74
 
