@@ -651,6 +651,46 @@ https://drive.google.com/file/d/178-_NWT8c4prNxKUMuj30PJbrDIwRhtA/view?usp=drive
 
 Quark
 --
+
+https://www.cnx-software.com/2015/11/06/intel-unveils-three-new-micro-controllers-for-iot-quark-d1000-quark-d2000-and-quark-se/
+
+https://www.electromaker.io/shop/product/quark-d2000-32-bit-mcu-32mhz 
+https://www.mouser.com/datasheet/2/612/quark-d2000-datasheet-948803.pdf
+
+Intel Quark D1000 product page is up, where you can read a shorter features summary, and access the datasheet and a user guide. Intel still publishes TDP for Quark, and it might be the first true low power Intel micro-controller with 0.025W TDP @ 33MHz, and 1.6mW configurable TDP @ 1 MHz. Intel expects D1000 MCU to target “battery-powered and line-powered sensors to provide secure, intelligent processing for wired and wireless real-world  applications at the edge”. no MMU, 
+
+ontrary to previous Quark processor and the upcoming D2000 and SE processors, D1000 is not compatible with x86 instructions set, and features the following:
+
+    32-bit Harvard CISC CPU @ 33 MHz with single cycle barrel shifter, two cycle multiplier, multi-cycle divider, integrated 32-bit timer, programmable interrupt controller, and JTAG debugger.
+    128-bit wide 32 kB code flash and 8 kB ROM
+    32-bit wide 8 kB SRAM and 4 kB data flash
+    Osciallators
+        20-33 MHz crystal oscillator for low jitter precision frequency and 4-32 MHz silicon oscillator for reduced power.
+        32 kHz low power crystal oscillator and real-time clock
+    Peripherals and IOs
+        19-channel 12-bit 2.4 MSps SAR ADC
+        6x high-speed and 13x low-power comparators
+        32-bit watchdog timer
+        2x 32-bit general purpose timers with independent clock frequencies.
+        24x general purpose I/O with edge detection and interrupt capability.
+        16 Mbps SPI master and slave interfaces supporting Motorola SPI, Texas Instruments SSP and National Semiconductor Microwire formats.
+        I2C master/slave interface supporting both 100 kbps standard and 400 kbps fast modes.
+        2x UARTs with hardware handshaking.
+        24x ESD-protected versatile digital I/O buffers with high current drive and programmable direction, slew rate, and pull-up control.
+        19x ESD-protected analog inputs sharing the same pins as digital I/O for fast wake up from digital or analog input signals.
+    Low Power Features
+        Sleep regimes down to 1.5 μA.
+        Wake up in as little as 2.0 μs.
+        Active regimes down to 320 μA.
+        300 μA low quiescent current linear VR for low power sleep regimes and 50 mA buck VR for active regimes and off chip devices.
+    Power Supply Range – 1.62-3.63 V.
+    Temperature Range – -40°C to 85°C
+    Package – QFN40; 6×6 mm
+
+https://www.mouser.com/pdfdocs/intelquarkproductbriefv3.PDF X1000, also no MMU.
+https://www.intel.com/content/dam/support/us/en/documents/processors/quark/sb/329678_intelquarkcore_hwrefman_002.pdf
+https://cdrdv2-public.intel.com/841431/quarkproductbrief_329675_003.pdf 
+
 https://en.wikipedia.org/wiki/Intel_Quark
 https://en.wikipedia.org/wiki/Intel_Quark#List_of_processors  "Atlas Peak" Quark SE C1000 
 https://elinux.org/images/c/c6/Guedes.pdf
