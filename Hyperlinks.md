@@ -1265,6 +1265,8 @@ https://rdotdisplays.com/articles/how-to-drive-displays
 
 https://hackaday.com/2025/01/18/a-pda-from-an-esp32/
 
+https://medium.com/@calebgucciardi/256-colours-are-all-you-need-b2637055c999
+
 Keyboards (possibly low enough PS/2 input consumption for solar power)
 --
 
