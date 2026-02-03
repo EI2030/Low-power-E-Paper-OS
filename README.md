@@ -1,6 +1,17 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+2-3-2026
+--
+
+https://www.eembc.org/ulpmark/ulp-cm/scores.php
+
+" In 1997, EDN saw a dire need to unify the dozens of embedded processor vendors so it created the "EDN Embedded Microprocessor Benchmark Consortium". When EDN and EEMBC parted ways in 2012, EEMBC kept that extra "E" because the name had come to represent an important fixture in the embedded world."
+
+"The primary audience for the scores yielded by EEMBC benchmarks are companies creating systems that rely on embedded microcontrollers and microprocessors: everything from smartphones to solar panels. Although such manufacturers typically have their own proprietary benchmarks, EEMBC provides an attractive alternative to all the complexities of purchasing hardware, setting it up, and then running all the measurements on a candidate group of processors. The EEMBC benchmark suites allow manufacturers to avoid this cumbersome process by providing a uniform, rigorously defined standard of measurement that makes it easier for them to compare alternative solutions. This benefits not only the large manufacturers but everyone in the ecosystem of developers, integrators, and smaller enterprises that may or may not have access to proprietary benchmarks of their own or someone else."
+
+This benchmark is the most relevant for a solar powered motherboard, with one addition- MIPS/W per _glyph_ would allow a variety of operating systems and could indirectly be a benchmark for efficiency, even if instructions per second are lower- since the glyphs are a human readable benchmark, and transmitting more glyphs per instruction would score higher than nondescript instructions, especially ones that transfer fewer glyphs. A glyph-focused benchmark might not always be the best of course, and would be useful when compared amongst a variety of other benchmarks. 
+
 12-27-2025
 --
 
