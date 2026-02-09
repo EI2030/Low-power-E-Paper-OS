@@ -23,7 +23,7 @@ But Pinker said the phenomenon of common knowledge goes far beyond academia, sha
 
 “When one of us sees something and another one sees it and each sees the other one seeing it, that generates all of these levels implicitly,” he said. “It’s inherently psychological.”"
 
-Seeing these recent bluesky & articles addressing epistemic literacy & common knowledge, I've been thinking about how scientific, academic, or even private industry funding towards product development aims to shape common knowledge or expectations. In the AI example, the blue sky post quotes a March 05th, 2025 episode of Mystery AI Hype Theatre 3000: https://www.buzzsprout.com/2126417/episodes/16735740
+Seeing these recent bluesky posts & articles addressing epistemic literacy & common knowledge, I've been thinking about how scientific, academic, or even private industry funding towards product development aims to shape common knowledge or expectations. In the AI example, the blue sky post quotes a March 05th, 2025 episode of Mystery AI Hype Theatre 3000: https://www.buzzsprout.com/2126417/episodes/16735740
 
 I've been wondering whether the One Laptop Per Child aligned more with a "common knowledge" framework than one that was identitarian to the core. The reason I want to bring it up is that if I were to present two types of funding options for a research & development department: Identitarians can opt for a smaller research grant that alignes with "their people" (identity can refer to any one of Title VII: race, color, religion, sex, national origin, disability, or age), but also extend to new protections such as LGBTI, or work towards a "pooled" grant that addresses common knowledge and goals. 
 
