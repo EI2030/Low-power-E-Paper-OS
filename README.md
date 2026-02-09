@@ -1,6 +1,75 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+2-9-2026
+--
+
+A Common Knowledge Solar Laptop?
+
+https://bsky.app/profile/alexhanna.bsky.social/post/3me7wntzxnc26 "Authority is contextual. Academic librarian Raina Bloom 
+@mmelibrarian.bsky.social on how “AI” developers ignore how people actually become informed. From Ep. 51 of Mystery AI Hype Theater 3000, “The War on Knowledge”. 
+
+https://www.ala.org/acrl/standards/ilframework "Framework for Information Literacy for Higher Education"
+
+https://www.thecrimson.com/article/2025/11/13/pinker-cancel-culture-iop/ 
+
+"On Wednesday, Pinker pointed to his own scholarship on “common knowledge” — information that is accepted as widely known. He argued that common knowledge is core to upholding social norms, as people tend to share an understanding of acceptable public behavior. But he said that overpolicing norms fuels cancel culture and hinders intellectual debate.
+
+“We tend to be attentive to people broaching the norm, particularly in a public forum, and if they do, there is a need to prop up the norm by making it common knowledge that you can’t get away with breaching that norm,” he said.
+
+But Pinker said the phenomenon of common knowledge goes far beyond academia, shaping every aspect of “human coordination” — from currency and language to the power of governments.
+
+“Common knowledge, in this technical sense, refers to the state in which I know something. You know it. I know that you know it. You know that I know it. I know that you know that I know that you know it, and so on ad infinitum,” Pinker said.
+
+“When one of us sees something and another one sees it and each sees the other one seeing it, that generates all of these levels implicitly,” he said. “It’s inherently psychological.”"
+
+Seeing these recent bluesky & articles addressing epistemic literacy & common knowledge, I've been thinking about how scientific, academic, or even private industry funding towards product development aims to shape common knowledge or expectations. In the AI example, the blue sky post quotes a March 05th, 2025 episode of Mystery AI Hype Theatre 3000: https://www.buzzsprout.com/2126417/episodes/16735740
+
+I've been wondering whether the One Laptop Per Child aligned more with a "common knowledge" framework than one that was identitarian to the core. The reason I want to bring it up is that if I were to present two types of funding options for a research & development departmnent: Identitarians can opt for a smaller research grant that alignes with "their people" (identity can refer to any one of Title VII: race, color, religion, sex, national origin, disability, or age), but also extend to new protections such as LGBTI, or work towards a "pooled" grant that addresses common knowledge and goals. 
+
+For example, say in 2005, MIT's Media Lab and OLPC, instead of being funded by private donors was offered federal funding to develop a universal laptop that could be used in all K-12 schools, as well as colleges (replacing the Chromebooks)
+
+For reference,
+
+"One Laptop per Child (OLPC) was a non-profit initiative founded in 2005 by Nicholas Negroponte with roughly $20–$25 million in initial funding from major corporate partners, including Google, AMD, Red Hat, and News Corporation. Aimed at providing low-cost laptops for education in developing nations, it faced significant funding cuts, reducing its budget from $12 million to $5 million in 2008–2009."
+
+Since taxpayer dollars would be spent towards developing a product, it would have to serve all Americans in a way that doesn't conflict with Title VII. But what if academic funding instead divvied the pie in a way that was not only less utilitarian in providing an educational tool that helped students learn common knowledge, but also actively worked against it?
+
+Hypothetically, 18 identitarian groups each apply for on average, for 55 million dollar grants, distributed across universities that have local chapters in a $1 billion dollar educational technology initiative
+
+<img width="854" height="877" alt="image" src="https://github.com/user-attachments/assets/230c0996-7990-40f1-9f72-77b2da9f7b6e" />
+
+Obviously, this type of funding shouldn't refer to cultural studies or departments that do not depend on high tech, but engineering departments actively contracting with Big Tech to develop new and leading edge products- ones that don't have a conflict of interest with an educational mission. But in practice, how can that be determined? Isn't contracting with a leading edge foundry and fabless chip company going to lead to a conflict of interest, since OLPC-like projects- a non-profit, admittedly, was still affiliated with the MIT Media lab, and yet, had corporate sponsors that tried to influence it in five different directions?
+
+The reason I bring this up is, hypothetically developing a performant solar laptop today could cost $1 billion dollars, using 3nm transistors, all new display components, interfaces, and drivers, but developing it according to identitarian wishes might not be able to muster that amount of funding because no single group can agree on the shades of green, or teal.
+
+<img width="489" height="207" alt="image" src="https://github.com/user-attachments/assets/35488f51-d627-4885-8685-f363705dee06" />
+
+The argument can be made that recognizing a common language is antithetical to sovereignty claims, especially to unceded territories. Yet those that work within the system implicitly benefit from said common knowledge frameworks. Perhaps the presumption about common knowledge frameworks is that there is a perception that it fences people out, rather than fences people in.
+
+https://www.nytimes.com/2023/12/12/world/africa/africa-french-language.html
+
+_"“If French becomes more mixed, then visions of the world it carries will change,” said Josué Guébo, an Ivorian poet and philosopher. “And if Africa influences French from a linguistic point of view, it will likely influence it from an ideological one.”"_
+
+French is a happy host for Creole languages. I don't see how English or any other dominant language can't accomodate some mix of other language- there already are examples, such as Spanglish. Thus a common framework laptop isn't necessarily an exlusionary device, but one adataptable for inclusion.
+
+_"Today, more than a third of Ivorians speak French, according to the International Organization of the Francophonie. In Tunisia and the Democratic Republic of Congo — the world’s largest French-speaking country — it is more than half._
+
+_But in many Francophone countries, governments struggle to hire enough French-speaking teachers._
+
+_“African children are still learning in French in extremely difficult conditions,” said Francine Quéméner, a program specialist in charge of language policies at the International Organization of the Francophonie. “They must learn to count, write, read in a language they don’t fully grasp, with teachers who themselves don’t always feel secure speaking French.”_
+
+_Still, Ms. Quéméner said French had long escaped France’s control._
+
+_“French is an African language and belongs to Africans,” she said. “The decentralization of the French language is a reality.”_
+
+_“French is about to make a big leap, and she’s wondering how it’s going to go,” Mr. Laferrière said of the French language. “But she’s excited about where she’s headed.”_
+
+_He paused, stared at the Seine through the window, and corrected himself._
+
+_“They, not she. They are now multiple versions of French that speak for themselves. And that is the greatest proof of its vitality.”_
+
+
 2-3-2026
 --
 
