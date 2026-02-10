@@ -25,7 +25,7 @@ But Pinker said the phenomenon of common knowledge goes far beyond academia, sha
 
 Seeing these recent bluesky posts & articles addressing epistemic literacy & common knowledge, I've been thinking about how scientific, academic, or even private industry funding towards product development aims to shape common knowledge or expectations. In the AI example, the blue sky post quotes a March 05th, 2025 episode of Mystery AI Hype Theatre 3000: https://www.buzzsprout.com/2126417/episodes/16735740
 
-I've been wondering whether the One Laptop Per Child aligned more with a "common knowledge" framework than one that was identitarian to the core. The reason I want to bring it up is that if I were to present two types of funding options for a research & development department: Identitarians can opt for a smaller research grant that alignes with "their people" (identity can refer to any one of Title VII: race, color, religion, sex, national origin, disability, or age), but also extend to new protections such as LGBTI, or work towards a "pooled" grant that addresses common knowledge and goals. 
+I've been wondering whether the One Laptop Per Child aligned more with a "common knowledge" framework than one that was indentity politics-based to the core. The reason I want to bring it up is that if I were to present two types of funding options for a research & development department: Identity politics can opt for a smaller research grant that alignes with "their people" (identity can refer to any one of Title VII: race, color, religion, sex, national origin, disability, or age), but also extend to new protections such as LGBTI, or work towards a "pooled" grant that addresses common knowledge and goals. To which extent was funding allocated in this way? I don't know. It seemed that way, at least in broad strokes..
 
 For example, say in 2005, MIT's Media Lab and OLPC, instead of being funded by private donors was offered federal funding to develop a universal laptop that could be used in all K-12 schools, as well as colleges (replacing the Chromebooks)
 
@@ -35,7 +35,7 @@ For reference,
 
 Since taxpayer dollars would be spent towards developing a product, it would have to serve all Americans in a way that doesn't conflict with Title VII. But what if it turned out that academic funding instead divvied the pie in a way that was not only less utilitarian in providing an educational tool that helped students learn common knowledge, but also actively worked against it? For a long while, that seemed to be the case. https://www.thecrimson.com/article/2026/1/3/garber-faculty-activism-podcast/
 
-Hypothetically, imagine 18 identitarian groups each apply for on average, for 55 million dollar grants, distributed across universities that have local chapters in a $1 billion dollar educational technology initiative
+Hypothetically, imagine 18 identity politics groups each apply for on average, for 55 million dollar grants, distributed across universities that have local chapters in a $1 billion dollar educational technology initiative
 
 <img width="854" height="877" alt="image" src="https://github.com/user-attachments/assets/230c0996-7990-40f1-9f72-77b2da9f7b6e" />
 
