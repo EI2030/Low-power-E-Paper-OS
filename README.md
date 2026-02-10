@@ -33,15 +33,15 @@ For reference,
 
 "One Laptop per Child (OLPC) was a non-profit initiative founded in 2005 by Nicholas Negroponte with roughly $20–$25 million in initial funding from major corporate partners, including Google, AMD, Red Hat, and News Corporation. Aimed at providing low-cost laptops for education in developing nations, it faced significant funding cuts, reducing its budget from $12 million to $5 million in 2008–2009."
 
-Since taxpayer dollars would be spent towards developing a product, it would have to serve all Americans in a way that doesn't conflict with Title VII. But what if academic funding instead divvied the pie in a way that was not only less utilitarian in providing an educational tool that helped students learn common knowledge, but also actively worked against it?
+Since taxpayer dollars would be spent towards developing a product, it would have to serve all Americans in a way that doesn't conflict with Title VII. But what if it turned out that academic funding instead divvied the pie in a way that was not only less utilitarian in providing an educational tool that helped students learn common knowledge, but also actively worked against it? For a long while, that seemed to be the case. https://www.thecrimson.com/article/2026/1/3/garber-faculty-activism-podcast/
 
-Hypothetically, 18 identitarian groups each apply for on average, for 55 million dollar grants, distributed across universities that have local chapters in a $1 billion dollar educational technology initiative
+Hypothetically, imagine 18 identitarian groups each apply for on average, for 55 million dollar grants, distributed across universities that have local chapters in a $1 billion dollar educational technology initiative
 
 <img width="854" height="877" alt="image" src="https://github.com/user-attachments/assets/230c0996-7990-40f1-9f72-77b2da9f7b6e" />
 
 Obviously, this type of funding shouldn't refer to cultural studies or departments that do not depend on high tech, but engineering departments actively contracting with Big Tech to develop new and leading edge products- ones that don't have a conflict of interest with an educational mission. But in practice, how can that be determined? Isn't contracting with a leading edge foundry and fabless chip company going to lead to a conflict of interest, since OLPC-like projects- a non-profit, admittedly, was still affiliated with the MIT Media lab, and yet, had corporate sponsors that tried to influence it in five different directions?
 
-The reason I bring this up is, hypothetically developing a performant solar laptop today could cost $1 billion dollars, using 1.4nm transistors, all new display components, interfaces, and drivers, but developing it according to identitarian wishes might not be able to muster that amount of funding because no single group can agree on the shades of green, or teal.
+The reason I bring this up is, hypothetically developing a performant solar laptop today could cost $1 billion dollars, using 1.4nm transistors, all new display components, interfaces, and drivers, but developing it according to identitarian wishes might not be able to muster that amount of collaborative synergy because no single group can agree on the shades of green, or teal. They might develop 18 different smaller technologies, but none as groundbreaking as energy autarkic computing.
 
 <img width="489" height="207" alt="image" src="https://github.com/user-attachments/assets/35488f51-d627-4885-8685-f363705dee06" />
 
