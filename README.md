@@ -1,6 +1,11 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+2-11-2026
+--
+
+https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem
+
 2-9-2026
 --
 
