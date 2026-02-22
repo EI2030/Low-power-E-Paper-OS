@@ -1315,7 +1315,15 @@ This one runs on something… lighter.
 hashtag#EICatCES2026
 Activate to view larger image,
 
+Simple Phones
+--
+"Energy aware"/ "Energy sobriety" 
+https://www.inria.fr/en/smolphone
+https://inria.hal.science/hal-04156447
 
+"The SmolPhone project is an action research on the topic of low-tech in the domain of IT systems. Its practical aspects consist in designing a sort of low- tech smartphone offering some services of a classical smartphone with a one-week battery lifetime. The goal is not to optimize a typical smartphone but rather to reconsider the smartphone design space, exploring unusual architectures and evaluating the set of features that should be part of long-lasting smartphones, and devise relevant hardware for such concerns.
+
+The goal of this exploratory action is to unlock several technical blockers by conceiving a hardware & software development environment that could later be leveraged by researchers in the domain of frugal computing"
 
 i3C
 ---
