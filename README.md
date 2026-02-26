@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=Ie9-kgxKjIc
 
 https://www.youtube.com/watch?v=-3BWaUcpQRU https://mstdn.jp/@landley/116134666430118741"
 
-Meta and Microsoft acquired nuclear power plants but California is requiring age verification on all OSes in 2027. When a state wants to pride itself over solar but can't manufacturer a 486 chip (1.2m transistors) that can run on solar power because the NSA requires a transistor dense backdoor (Intel Management Engine + ThinThread) and bloated software that doxes its users, then it's not Dems that care about the environment either. https://en.wikipedia.org/wiki/A_Good_American [https://en.wikipedia.org/wiki/Intel_Management_Engine
+Meta and Microsoft acquired nuclear power plants but California is requiring age verification on all OSes in 2027. When a state wants to pride itself over solar but can't manufacturer a 486 chip (1.2m transistors) that can run on solar power because the NSA requires a transistor dense backdoor (Intel Management Engine + ThinThread) and bloated software that doxes its users, then it's not Dems that care about the environment either. https://en.wikipedia.org/wiki/A_Good_American [https://en.wikipedia.org/wiki/Intel_Management_Engine https://substack.com/@trossbach/p-67559528
+
 ](https://en.wikipedia.org/wiki/Intel_Management_Engine#Hardware)
 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043
 
