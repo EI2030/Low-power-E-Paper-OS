@@ -1,6 +1,15 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+<img width="609" height="313" alt="17721165861004714581115164643429" src="https://github.com/user-attachments/assets/9a3f18c3-4c37-4359-86b2-4ed58cedf58b" />
+
+https://mstdn.jp/@nina_kali_nina@tech.lgbt/116059790816091527 2-12-2026
+
+"Ayyyy, Forbes 1929, interview with Edison, saying solar is the future, and coal and oil suck:
+
+"For one thing, Edison believes the time is coming when mankind will draw electrical energy on a large scale directly from the sun. Ever since the age of steam started the world to rolling at a heightened speed, so far as man is concerned, we have been drawing on the bank account of old sunlight. Coal is sun energy which was stored long ago in vegetation, petroleum is the same thing stored in low forms of animal life. But like all bank accounts they can be overdrawn."
+
+
 2-25-2026
 
 "Did project 2025 specifically list "eliminating general purpose computing"?
