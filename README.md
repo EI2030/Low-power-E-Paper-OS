@@ -1,6 +1,18 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+2-25-2026
+
+"Did project 2025 specifically list "eliminating general purpose computing"?
+
+https://www.youtube.com/watch?v=5MZfGq5F1NU
+
+https://www.youtube.com/watch?v=Ie9-kgxKjIc
+
+https://www.youtube.com/watch?v=-3BWaUcpQRU https://mstdn.jp/@landley/116134666430118741"
+
+Meta and Microsoft acquired nuclear power plants but California is requiring extra age verification on all OSes in 2027. When a state wants to pride itself over solar but cant manufacturer a 486 chip that can run on solar power because the NSA requires a transistor dense backdoor and bloated software that doxes its users, then its not Dems that care about the environment either.
+
 2-11-2026
 --
 
