@@ -2313,7 +2313,7 @@ Hyperbole asides, A balanced tech media like the Wired, The Verge, Ars Technica,
 https://social.coop/@epilepticrabbit/116097201976577471 (more recent repost). The "bored by tech" journos are actually uninterested in covering low level languages and hardware architecture at the ISA-level because that doesn't manke attractive copy. but in the open source and libre chip design. that's actually where all the interesting development is.
 
 
-Thoughts ON FOSS
+Thoughts on FOSS
 --
 Also, the reason the free software foundation isn't super enthusiastic about open soirce hardware is libre hardware emphasizes the right to price your services (which isn't wrong), while open hardware emphasizes low remanufacturable cost once the source is shared. thus, BSD-like open hardware licenses like CERN are likely to get more aupport because there is likely someone who will volunteer their free time to a project, whereas a GPL hardware developer might wait til the price is right. In other words, they might not develop  something unless they're paid a certain amount, and the rest of the interested community will be waiting on that bottleneck. It also won't stop someone from stealing the code and not sharing it (like in the case of ffmpeg's and Rockchip, but that's another story https://news.ycombinator.com/item?id=46394327 (and obviously wrong to do that, at least when making money off it).
 
