@@ -39,7 +39,7 @@ https://en.wikipedia.org/wiki/Intelligence_amplification because AI is a human d
 i have probably written as much as Bostrom or Yudkowky on the topic:
 https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer
 
-https://en.wikipedia.org/wiki/Eliezer_Yudkowsky yet i believe that over production of differential technology development towards slow tech is resilient as a failsafe/redundancy against such scenarios.
+https://en.wikipedia.org/wiki/Eliezer_Yudkowsky yet i believe that overproduction of differential technology development towards slow tech is resilient as a failsafe/redundancy against such scenarios.
 
 https://en.wikipedia.org/wiki/Differential_technological_development
 
