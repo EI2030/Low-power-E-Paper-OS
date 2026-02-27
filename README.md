@@ -1,6 +1,15 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+2-26-27
+--
+
+the best way for Democrats to help a new generation learn how to use computers is to exempt computers made before 1995 from age verification because they'll actually learn a useful skill- reading: 
+
+https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
+
+during the Safety conversation is the media. there was all this talk about a compute limit. yet, no floor is the limit from regulation because assembling online in groups of three has no disenfranchised history behind it.
+
 2-26-2026
 --
 
