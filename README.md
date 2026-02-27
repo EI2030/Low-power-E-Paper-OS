@@ -6,7 +6,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 the best way for Democrats to help a new generation learn how to use computers is to exempt computers made before 1995 and modern equivalents in terms of DMIPS (Dhrystone millions instructions per second) from age verification because they'll actually learn a useful skill- reading: 
 
-https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/ ChromeOS is a web-centric OS. lynxOS doesn't exist...yet. 
+https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/ ChromeOS is a web-centric OS. lynxOS doesn't exist...yet. https://en.wikipedia.org/wiki/Lynx_(web_browser)
 
 during the AI Safety conversation in the media, there was all this talk about a compute limit. yet, no floor is the limit from regulation because assembling online in groups of three has no disenfranchised history behind it.
 
