@@ -4,7 +4,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 2-26-27
 --
 
-the best way for Democrats to help a new generation learn how to use computers is to exempt computers made before 1995 from age verification because they'll actually learn a useful skill- reading: 
+the best way for Democrats to help a new generation learn how to use computers is to exempt computers made before 1995 and modern equivalents in terms of MIPS (millions instructions per second) from age verification because they'll actually learn a useful skill- reading: 
 
 https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/ ChromeOS is a web-centeic OS. lynxOS doesn't exist...yet. 
 
