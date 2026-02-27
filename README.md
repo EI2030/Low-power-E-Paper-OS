@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Eliezer_Yudkowsky yet i believe that over producti
 
 https://en.wikipedia.org/wiki/Differential_technological_development
 
-besides, if you had the choice, wouldn't a solar powerable Pentium be more useful than a paperclip for everyone? im not assuming AI is giving us the choice, nor am misinterpreting the purpose or hypothetical paperclip maximizer. im suggesting as Howard Zinn wrote, "you can't be neutral in a moving train." (funding a faaang company to utilize ever more energy consumption is not neutral. buying an new iphone 18 or 19 in 2027 is not neutral)
+besides, if you had the choice, wouldn't a solar powerable Pentium be more useful than a paperclip for everyone? im not assuming AI is giving us the choice, nor am misinterpreting the purpose or hypothetical paperclip maximizer. im suggesting as Howard Zinn wrote, "you can't be neutral in a moving train." (funding a faaang company to utilize ever more energy consumption is not neutral. buying a new iphone 18 or 19 in 2027 or an RTX 4090 is not neutral)
 
 <img width="609" height="313" alt="17721165861004714581115164643429" src="https://github.com/user-attachments/assets/9a3f18c3-4c37-4359-86b2-4ed58cedf58b" />
 
