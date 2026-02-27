@@ -6,7 +6,24 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 https://www.culpium.com/p/tsmcs-n2-node-is-almost-booked-out Nvidia surpasses Apple in leading edge reservations 
 
-https://www.techpowerup.com/341127/nvidia-buys-usd-5b-worth-of-intel-rtx-igpus-coming-to-x86-shares-up-25#:~:text=NVIDIA%20and%20Intel%20today%20announced,CPUs%20in%20some%20HGX%20systems.  i wonder, with Nvidia having the most cash on hand for both 1.4-1.8nm chips and access, if not an outright license to x86, could they pay for a few wafers at the leading edge to continue the Quark tradition of node shrinking the Pentium? 600nm P54C in 1994->32nm in 2011 ->1.8nm in 2027?
+https://www.techpowerup.com/341127/nvidia-buys-usd-5b-worth-of-intel-rtx-igpus-coming-to-x86-shares-up-25#:~:text=NVIDIA%20and%20Intel%20today%20announced,CPUs%20in%20some%20HGX%20systems.  i wonder, with Nvidia having the most cash on hand for both 1.4-1.8nm chips and access, if not an outright license to x86, could they pay for a few wafers at the leading edge to continue the Quark tradition of node shrinking the Pentium? 600nm P54C in 1994->32nm in 2011 ->1.8nm in 2027? 
+
+one would need 51,000 300mm wafers to produce 3billion 1mm^2 Pentiums with 20 MB RAM. 
+
+https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.html not that that many OLPCs would be needed...
+
+but the tendency of datacenters construction to produce AI tokens/products could be viewed as i telligence convergence: https://en.wikipedia.org/wiki/Instrumental_convergence
+
+and i prefer Intelligence amplification over artificial intelligence. an olpc is IA.
+
+https://en.wikipedia.org/wiki/Intelligence_amplification because AI is a human driven form of the paperclip maximizer: https://en.wikipedia.org/wiki/Universal_Paperclips
+
+i have probably written as much as Bostrom or Yudkowky on the topic:
+https://en.wikipedia.org/wiki/Instrumental_convergence#Paperclip_maximizer
+
+https://en.wikipedia.org/wiki/Eliezer_Yudkowsky yet i believe that over production of differential technology development towards slow tech is resilient as a failsafe/redundancy against such scenarios.
+
+https://en.wikipedia.org/wiki/Differential_technological_development
 
 <img width="609" height="313" alt="17721165861004714581115164643429" src="https://github.com/user-attachments/assets/9a3f18c3-4c37-4359-86b2-4ed58cedf58b" />
 
