@@ -2305,9 +2305,16 @@ A little bit of a handicap encourages each generation not to become super depend
 
 https://www.youtube.com/watch?v=WCdDKPonXXA <- 1996 PC that had more information than an empty internet device today
 
+
+Media coverage thoughts on Big Tech
+--
 Hyperbole asides, A balanced tech media like the Wired, The Verge, Ars Technica, ExtremeTech would cover 10% software, 10% hardware, 10% Superconductors, 10% particle physics, 10% climatology, 10% astrophysics, 10% biology, 10% culture/politics, 10% business, and 10% pure mathematics (you can see where my bias leans, some of this was humor-intended). Instead it's 95% leading FAANG company releasing incremental product/feature XYZ. sentiment echoed: https://www.threads.com/@neil.cybart/post/C_0mBaEv1-T?xmt=AQGzzwSPPkozoerDUOhTLGvzP1T_x9G6S-F8gyT7yTlgeQ
+
 https://social.coop/@epilepticrabbit/116097201976577471 (more recent repost). The "bored by tech" journos are actually uninterested in covering low level languages and hardware architecture at the ISA-level because that doesn't manke attractive copy. but in the open source and libre chip design. that's actually where all the interesting development is.
 
+
+Thoughts ON FOSS
+--
 Also, the reason the free software foundation isn't super enthusiastic about open soirce hardware is libre hardware emphasizes the right to price your services (which isn't wrong), while open hardware emphasizes low remanufacturable cost once the source is shared. thus, BSD-like open hardware licenses like CERN are likely to get more aupport because there is likely someone who will volunteer their free time to a project, whereas a GPL hardware developer might wait til the price is right. In other words, they might not develop  something unless they're paid a certain amount, and the rest of the interested community will be waiting on that bottleneck. It also won't stop someone from stealing the code and not sharing it (like in the case of ffmpeg's and Rockchip, but that's another story https://news.ycombinator.com/item?id=46394327 (and obviously wrong to do that, at least when making money off it).
 
 This project aligns more with BSD, mainly because hardware affordability is intrinsically an economic barreier in some regions, and the goal is to develop basic computing that doesn't require overly restrictive licensing. That said, there is a lot of good GPL software and hardware out there. It's more akin to a luxury belief:https://en.wikipedia.org/wiki/Luxury_belief 
