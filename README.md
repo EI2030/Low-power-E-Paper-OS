@@ -14,7 +14,7 @@ https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.h
 
 but the tendency of datacenters construction to produce AI tokens/products could be viewed as instrumental convergence: https://en.wikipedia.org/wiki/Instrumental_convergence
 
-and i prefer Intelligence amplification over artificial intelligence. an olpc is IA.
+and i prefer Intelligence amplification over artificial intelligence. an OLPC is IA.
 
 https://en.wikipedia.org/wiki/Intelligence_amplification because AI is a human driven form of the paperclip maximizer: https://en.wikipedia.org/wiki/Universal_Paperclips
 
@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Eliezer_Yudkowsky yet i believe that over producti
 
 https://en.wikipedia.org/wiki/Differential_technological_development
 
-besides, if you had the choice, wouldn't a solar powerable Pentium be more useful than a paperclip for everyone? im not assuming AI is giving us the choice, nor am misinterpreting the purpose or hypothetical paperclip maximizer. im sugging as Howard Zinn wrote, "you can't be neutral in a moving train." (funding a faaang company to utilize ever more energy consumption)
+besides, if you had the choice, wouldn't a solar powerable Pentium be more useful than a paperclip for everyone? im not assuming AI is giving us the choice, nor am misinterpreting the purpose or hypothetical paperclip maximizer. im suggesting as Howard Zinn wrote, "you can't be neutral in a moving train." (funding a faaang company to utilize ever more energy consumption)
 
 <img width="609" height="313" alt="17721165861004714581115164643429" src="https://github.com/user-attachments/assets/9a3f18c3-4c37-4359-86b2-4ed58cedf58b" />
 
