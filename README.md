@@ -10,6 +10,8 @@ https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all
 
 during the AI Safety conversation in the media, there was all this talk about a compute limit. yet, no floor is the limit from regulation because assembling online in groups of three has no disenfranchised history behind it. /s
 
+https://lunduke.substack.com/p/midnightbsd-responds-to-californias
+
 2-26-2026
 --
 
