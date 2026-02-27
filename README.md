@@ -1,7 +1,7 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
-2-26-27
+2-27-26
 --
 
 the best way for Democrats to help a new generation learn how to use computers is to exempt computers made before 1995 and modern equivalents in terms of DMIPS (Dhrystone millions instructions per second) from age verification because they'll actually learn a useful skill- reading: 
