@@ -25,6 +25,8 @@ https://en.wikipedia.org/wiki/Eliezer_Yudkowsky yet i believe that over producti
 
 https://en.wikipedia.org/wiki/Differential_technological_development
 
+besides, if you had the choice, wouldn't a solar powerable Pentium be more useful than a paperclip for everyone? 
+
 <img width="609" height="313" alt="17721165861004714581115164643429" src="https://github.com/user-attachments/assets/9a3f18c3-4c37-4359-86b2-4ed58cedf58b" />
 
 https://mstdn.jp/@nina_kali_nina@tech.lgbt/116059790816091527 2-12-2026
