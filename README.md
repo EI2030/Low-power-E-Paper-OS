@@ -12,6 +12,13 @@ during the AI Safety conversation in the media, there was all this talk about a 
 
 https://lunduke.substack.com/p/midnightbsd-responds-to-californias
 
+https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286
+
+https://news.ycombinator.com/item?id=47181753 
+
+https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043 applies to any OS with an internet connection or an app store (which includes even OSes like FreeDOS and DB48X calculators.
+
+
 2-26-2026
 --
 
