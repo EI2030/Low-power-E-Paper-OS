@@ -8,7 +8,7 @@ the best way for Democrats to help a new generation learn how to use computers i
 
 https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/
 
-during the Safety conversation is the media. there was all this talk about a compute limit. yet, no floor is the limit from regulation because assembling online in groups of three has no disenfranchised history behind it.
+during the AI Safety conversation in the media, there was all this talk about a compute limit. yet, no floor is the limit from regulation because assembling online in groups of three has no disenfranchised history behind it.
 
 2-26-2026
 --
