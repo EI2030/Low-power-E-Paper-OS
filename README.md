@@ -12,7 +12,7 @@ one would need 51,000 300mm wafers to produce 3billion 1mm^2 Pentiums with 20 MB
 
 https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.html not that that many OLPCs would be needed...
 
-but the tendency of datacenters construction to produce AI tokens/products could be viewed as i telligence convergence: https://en.wikipedia.org/wiki/Instrumental_convergence
+but the tendency of datacenters construction to produce AI tokens/products could be viewed as instrumental convergence: https://en.wikipedia.org/wiki/Instrumental_convergence
 
 and i prefer Intelligence amplification over artificial intelligence. an olpc is IA.
 
