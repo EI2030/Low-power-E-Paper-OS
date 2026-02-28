@@ -18,6 +18,8 @@ https://news.ycombinator.com/item?id=47181753
 
 https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043 applies to any OS with an internet connection or an app store (which includes even OSes like FreeDOS and DB48X calculators)
 
+https://medium.com/@cupofcat/the-death-of-curiosity-96b6a09328b6  "The engineers who will thrive — regardless of generation, regardless of era — are those who maintain genuine curiosity about how things work, not just how to make them work. But the industry’s task is not to find these people and recruit them. It is to stop building environments that extinguish the curiosity they arrive with."
+
 
 2-26-2026
 --
