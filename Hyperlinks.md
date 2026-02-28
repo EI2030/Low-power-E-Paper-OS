@@ -1162,6 +1162,30 @@ https://www.cnx-software.com/2020/09/17/ambiq-apollo-4-mcu-3%C2%B5a-mhz/
 4 μA/MHz executing from SRAM
 1.5 μA low power sleep mode with RTC and 8KB SRAM retention"
 
+https://pulp-platform.org/efclwinter2026/ 
+
+https://pulp-platform.org/docs/efclseminar2026/01_Frank_Gurkaynak.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/02_Phillippe_Sauter.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/03_Yichao_Zhang_Diyou_Shen.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/Lecture1_SystemVerilog.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/Lecture2_Synthesis_Floorplan.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/track1_ex/ex01.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/track1_ex/ex01.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/track1_ex/ex03.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/track1_ex/ex04.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/track1_ex/ex05.pdf
+
+https://pulp-platform.org/docs/efclseminar2026/track1_ex/ex06.pdf
+
 ---
 Displays:
 ----
