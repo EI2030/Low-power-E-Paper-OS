@@ -1534,7 +1534,7 @@ Senator Pastore: I think it's wonderful. I think it's wonderful. Looks like you 
 
 If it appears my pet project is vastly incomparable to a public national TV program that needs funding, I beg to differ. Today, public tax dollars are spent on vanity projects that serve special-interest groups without ensuring that the money is not wasted on largely redundant overhead (popups, bloated websites, horrible user-interfaces)
 
-https://userinyerface.com/ A perfect exercise in discombobulation)
+https://userinyerface.com/ A perfect exercise in discombobulation) see [3-2 post](https://github.com/EI2030/Low-power-E-Paper-OS?tab=readme-ov-file#3-2-2026)
 
 The need for a public, no-frills, no-nonsense internet pipeworks should have already been built yesterday. As George Carlin once said "As you swim the river of life, do the breast stroke. It helps to clear the turds from your path." 
 
