@@ -1,6 +1,11 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-2-2026
+--
+
+Marketing in the 2nd Quarter of the 21st Century: https://www.youtube.com/watch?v=T4Upf_B9RLQ
+
 2-27-26
 --
 
