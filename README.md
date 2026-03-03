@@ -1,6 +1,13 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-03-2026
+--
+
+"For the entirety of modern economic history, human intelligence has been the scarce input. Capital was abundant (or at least, replicable). Natural resources were finite but substitutable. Technology improved slowly enough that humans could adapt. Intelligence, the ability to analyze, decide, create, persuade, and coordinate, was the thing that could not be replicated at scale." 2-22-2026 https://www.citriniresearch.com/p/2028gic
+
+https://www.bloomberg.com/opinion/articles/2026-03-03/ai-future-more-like-rubber-less-like-indigo?embedded-checkout=true
+
 3-2-2026
 --
 
