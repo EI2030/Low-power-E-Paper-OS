@@ -1,6 +1,26 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-5-2026
+--
+
+https://boingboing.net/2026/03/02/californias-age-verification-law-could-regulate-every-linux-command.html
+
+"The bill's own legislative committee flagged this as "overbreadth," noting that even a basic alarm clock or calculator app would fall under its scope, with no clear line between regulated and unregulated software. The bill passed anyway."
+
+"While the bill moved through the legislature, the OSI, FSF, Software Freedom Conservancy, and Linux Foundation all sat it out — no testimony, no public analysis, no formal opposition on the record. The 2026 session is the window to fix it."
+
+Because they're not geeks, they're bureaucrats.
+
+https://www.techradar.com/computing/software/californias-age-verification-law-is-proving-controversial-heres-what-you-need-to-know-and-why-some-linux-distros-are-in-the-firing-line
+
+https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law
+
+https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash
+
+Our brigntest tech companies can't even put their brains together to build a solar powered phone or laptop to help the people of Ukraine communicate during power outages but have no problem saddling their chips with enshittified instruction set architecture with realtime display, metadata, screen recording, and x, y mouse cursor coordinate telemetry for mass data collection.
+
+
 3-4-2026
 --
 
