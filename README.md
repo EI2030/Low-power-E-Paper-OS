@@ -42,7 +42,7 @@ You might be wondering, is this a reactionary post? it might be more accurate to
 
 "If two bodies exert forces on each other, these forces have the same magnitude but opposite directions." 3rd Law of Motion. 
 
-If the world designates an inane on one's ability to communicate, it will receive an equal an opposite humiliation. If you set the dosage, I produce a satire of equal efficacy.
+If the world designates an inane restriction on one's ability to communicate, it will receive an equal and opposite humiliation. If you set the dosage, I produce a satire of equal efficacy.
 
 
 3-4-2026
