@@ -10,7 +10,7 @@ https://boingboing.net/2026/03/02/californias-age-verification-law-could-regulat
 
 "While the bill moved through the legislature, the OSI, FSF, Software Freedom Conservancy, and Linux Foundation all sat it out — no testimony, no public analysis, no formal opposition on the record. The 2026 session is the window to fix it."
 
-Because they're not geeks, they're bureaucrats.
+Because they're not geeks anymore, they're bureaucrats.
 
 https://www.techradar.com/computing/software/californias-age-verification-law-is-proving-controversial-heres-what-you-need-to-know-and-why-some-linux-distros-are-in-the-firing-line
 
@@ -20,6 +20,19 @@ https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-califor
 
 Our brigntest tech companies can't even put their brains together to build a solar powered phone or laptop to help the people of Ukraine communicate during power outages but have no problem saddling their chips with enshittified instruction set architecture with realtime display, metadata, screen recording, and x, y mouse cursor coordinate telemetry for mass data collection.
 
+https://thedailyeconomy.org/article/californias-age-verification-law-is-a-civil-liberties-test/
+
+"Compared with federal proposals such as the Kids Online Safety Act (KOSA) or laws already passed in Texas and Utah, California’s approach is arguably less intrusive because it does not require document uploads or biometric verification. But it still creates a permanent age-classification layer built directly into the device, which is a disaster for civil liberties. "
+
+https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash
+
+https://www.tomshardware.com/software/operating-systems/california-introduces-age-verification-law
+
+https://reason.com/2026/03/04/computer-scientists-caution-against-internet-age-verification-mandates/
+
+https://www.eteknix.com/california-to-introduces-age-verification-law-for-all-operating-systems/
+
+Add all those old OSes to the digital bonfire. America's Reich can't be bothered with the intricaies of computer science history. some might say they belong in a museum! where's Indiana Jones when you need him?
 
 3-4-2026
 --
