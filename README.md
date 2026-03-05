@@ -38,6 +38,13 @@ Add all those old OSes to the digital bonfire. America's Reich can't be bothered
 
 If so, then I'm looking for a job as a permanent guest in residence an energy efficient OS Dev museum, so i can continue my research. Solar autarky before bloatware verification. Or maybe my best abode is a human zoo: https://www.theguardian.com/uk/2005/aug/26/artsnews
 
+You might be wondering, is this a reactionary post? it might be more accurate to call it a Newtonian post.
+
+"If two bodies exert forces on each other, these forces have the same magnitude but opposite directions." 3rd Law of Motion. 
+
+If the world designates an inane on one's ability to communicate, it will receive an equal an opposite humiliation. If you set the dosage, I produce a satire of equal efficacy.
+
+
 3-4-2026
 --
 
