@@ -1,6 +1,17 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-4-2026
+--
+
+https://www.politico.eu/article/age-check-social-media-scientist-warning/
+
+"In an open letter, 371 security and privacy academics across 29 countries said the technologies being rolled out are not effective and carry significant risks."
+
+"Using technologies like cryptography to solve the problem risks centralizing tools in the hands of the few companies that can deploy them at scale, the experts warn.
+
+They also warn of the risks that governments would ban virtual private networks to stop people from getting around age bans. VPNs are frequently used by people looking to protect their identities from authoritarian regimes."
+
 3-03-2026
 --
 
