@@ -34,6 +34,10 @@ https://www.eteknix.com/california-to-introduces-age-verification-law-for-all-op
 
 Add all those old OSes to the digital bonfire. America's Reich can't be bothered with the intricacies of computer science history. some might say they belong in a museum! where's Indiana Jones when you need him?
 
+![17727162234997875924002877157792](https://github.com/user-attachments/assets/b46abb20-8841-4a37-b829-85a418979e0b)
+
+If so, then I'm looking for a job as a permanent guest in residence an energy efficient OS Dev museum, so i can continue my research. Solar autarky before bloatware verification. Or maybe my best abode is a human zoo: https://www.theguardian.com/uk/2005/aug/26/artsnews
+
 3-4-2026
 --
 
