@@ -22,7 +22,7 @@ https://landley.net/notes-2010.html#19-07-2010
 
 Despite having reached out to the FSF about open and solar hardware, they find very little utility or priority in the initiative. Software shouldn't take priority over hardware because they're both part of technology and technology as a whole comes first.
 
-The last thing I'd want to do if I ever became famous is join a committee. "I refuse to join any club that would have me as a member." -Groucho Marx 
+The last thing I'd want to do if I ever became famous is start or join a committee. "I refuse to join any club that would have me as a member." -Groucho Marx 
 
 Since the FSF is too busy auctioning merch, they can't be bothered with this topic.
 
