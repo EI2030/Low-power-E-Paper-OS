@@ -32,13 +32,14 @@ https://reason.com/2026/03/04/computer-scientists-caution-against-internet-age-v
 
 https://www.eteknix.com/california-to-introduces-age-verification-law-for-all-operating-systems/
 
-Add all those old OSes to the digital bonfire. America's Reich can't be bothered with the intricacies of computer science history. some might say they belong in a museum! where's Indiana Jones when you need him?
+Add all those old OSes to the digital bonfire. America's Reich can't be bothered with the intricacies of computer science history. Some might say they belong in a museum! Where's Indiana Jones when you need him?
 
-![17727162234997875924002877157792](https://github.com/user-attachments/assets/b46abb20-8841-4a37-b829-85a418979e0b)
 
-If so, then I'm looking for a job as a permanent guest in residence an energy efficient OS Dev museum, so i can continue my research. Solar autarky before bloatware verification. Or maybe my best abode is a human zoo: https://www.theguardian.com/uk/2005/aug/26/artsnews
+![17727611007042694283174828927155](https://github.com/user-attachments/assets/9306776e-37ee-4fb3-990c-d625c11b8cfa)
 
-You might be wondering, is this a reactionary post? it might be more accurate to call it a Newtonian post.
+If so, then I'm looking for a job as a permanent guest in residence at an energy efficient OS Dev museum, so i can continue my research. Solar autarky before bloatware verification. Or maybe my best abode is a human zoo: https://www.theguardian.com/uk/2005/aug/26/artsnews
+
+You might be wondering if it might be more accurate to call it a Newtonian post.
 
 "If two bodies exert forces on each other, these forces have the same magnitude but opposite directions." 3rd Law of Motion. 
 
