@@ -1,6 +1,29 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-6-2026
+-
+
+3 years ago i started the Free Energy Foundation (not incorporated officially) as a somewhat rhetorical or parodic analogue to the FSF:
+https://github.com/hatonthecat/Free-Energy-Foundation?tab=readme-ov-file
+
+https://mstdn.jp/@landley/116053144600956577
+"Feb 11
+Rob Landley
+@landley
+"Oh but the FSF wouldn't be that crazy"... Yes they are. All the time.
+
+https://lwn.net/Articles/1055053/
+
+"The FSF is a political organization with a software arm that exists solely to promote their politics. Calling the FSF a software publisher is like calling the jehovah's witnesses a print publisher because they print and distribute pamphlets."
+
+https://landley.net/notes-2010.html#19-07-2010
+
+
+Despite having reached out to the FSF about open and solar hardware, they find very little utility or priority in the initiative. Software shouldn't take priority over hardware because they're both part of technology and technology as a whole comes first.
+
+The last thing I'd want to do if I ever became famous is join a committee. "I refuse to join any club that would have me as a member." -Groucho Marx Since the FSF is too busy auditioning merch, they can't be bothered with this topic.
+
 3-5-2026
 --
 
