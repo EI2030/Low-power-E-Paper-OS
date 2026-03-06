@@ -46,6 +46,11 @@ You might be wondering if it might be more accurate to call it a Newtonian post.
 If the world designates an inane restriction on one's ability to communicate, it will receive an equal and opposite humiliation. If you set the dosage, I produce a satire of equal efficacy.
 
 
+![17727617263511361304560631926983](https://github.com/user-attachments/assets/6fe7ce31-9d91-48d3-ace1-fb8e762395da)
+
+![17727617474925144504113390665392](https://github.com/user-attachments/assets/69aa489a-2bba-4fd8-8fb0-6b65cf89ba56)
+
+
 3-4-2026
 --
 
