@@ -47,7 +47,9 @@ Our brigntest tech companies can't even put their brains together to build a sol
 
 https://thedailyeconomy.org/article/californias-age-verification-law-is-a-civil-liberties-test/
 
-"Compared with federal proposals such as the Kids Online Safety Act (KOSA) or laws already passed in Texas and Utah, California’s approach is arguably less intrusive because it does not require document uploads or biometric verification. But it still creates a permanent age-classification layer built directly into the device, which is a disaster for civil liberties. "
+"Compared with federal proposals such as the Kids Online Safety Act (KOSA) or laws already passed in Texas and Utah, California’s approach is arguably less intrusive because it does not require document uploads or biometric verification. But it still creates a permanent age-classification layer built directly into the device, which is a disaster for civil liberties." 
+
+There's no safe level of security that an additional layer of verification can add. Crytography algorithms often get broken. 
 
 https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash
 
@@ -62,9 +64,9 @@ Add all those old OSes to the digital bonfire. America's Reich can't be bothered
 
 ![17727611007042694283174828927155](https://github.com/user-attachments/assets/9306776e-37ee-4fb3-990c-d625c11b8cfa)
 
-If so, then I'm looking for a job as a permanent guest in residence at an energy efficient OS Dev museum, so i can continue my research. Solar autarky before bloatware verification. Or maybe my best abode is a human zoo: https://www.theguardian.com/uk/2005/aug/26/artsnews
+If so, then I'm looking for a job as a permanent guest in residence at an energy efficient OS Dev museum, so i can continue my research. Solar autarky, not bloatware verification. Or maybe my best abode is a human zoo: https://www.theguardian.com/uk/2005/aug/26/artsnews
 
-You might be wondering if it might be more accurate to call it a Newtonian post.
+You might be wondering if this is a reactionary post. It might be more accurate to call it a Newtonian post.
 
 "If two bodies exert forces on each other, these forces have the same magnitude but opposite directions." 3rd Law of Motion. 
 
