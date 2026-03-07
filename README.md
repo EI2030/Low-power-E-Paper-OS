@@ -27,6 +27,29 @@ The power it receives is optimized because a coin cell CMOS could provide a slow
 
 Other power sources: https://en.wikipedia.org/wiki/Power_over_Ethernet
 
+Minix creator's 2017 letter to Intel: https://www.cs.vu.nl/~ast/intel/ on its use in intel ME.
+
+"An Open Letter to Intel
+Dear Mr. Krzanich,
+
+Thanks for putting a version of MINIX inside the ME-11 management engine chip used on almost all recent desktop and laptop computers in the world. I guess that makes MINIX the most widely used computer operating system in the world, even more than Windows, Linux, or MacOS. And I didn't even know until I read a press report about it. Also here and here and here and here and here (in Dutch), and a bunch of other places.
+
+I knew that Intel had some potential interest in MINIX several years ago when one of your engineering teams contacted me about some secret internal project and asked a large number of technical questions about MINIX, which I was happy to answer. I got another clue when your engineers began asking me to make a number of changes to MINIX, for example, making the memory footprint smaller and adding #ifdefs around pieces of code so they could be statically disabled by setting flags in the main configuration file. This made it possible to reduce the memory footprint even more by selectively disabling a number of features not always needed, such as floating point support. This made the system, which was already very modular since nearly all of the OS runs as a collection of separate processes (normally in user mode), all of which can be included or excluded in a build, as needed, even more modular.
+
+Also a hint was the discussion about the license. I (implicitly) gathered that the fact that MINIX uses the Berkeley license was very important. I have run across this before, when companies have told me that they hate the GPL because they are not keen on spending a lot of time, energy, and money modifying some piece of code, only to be required to give it to their competitors for free. These discussions were why we put MINIX out under the Berkeley license in 2000 (after prying it loose from my publisher).
+
+After that intitial burst of activity, there was radio silence for a couple of years, until I read in the media (see above) that a modified version of MINIX was running on most x86 computers, deep inside one of the Intel chips. This was a complete surprise. I don't mind, of course, and was not expecting any kind of payment since that is not required. There isn't even any suggestion in the license that it would be appreciated.
+
+The only thing that would have been nice is that after the project had been finished and the chip deployed, that someone from Intel would have told me, just as a courtesy, that MINIX was now probably the most widely used operating system in the world on x86 computers. That certainly wasn't required in any way, but I think it would have been polite to give me a heads up, that's all."
+
+If nothing else, this bit of news reaffirms my view that the Berkeley license provides the maximum amount of freedom to potential users. If they want to publicize what they have done, fine. By all means, do so. If there are good reasons not to release the modfied code, that's fine with me, too.
+
+Yours truly,
+
+Andrew S. Tanenbaum"
+
+So Intel likes using its Quark for themselves, but not consumers to benefit from its 25mW power consumption (as low as 1mW at 2MHz). apAnd one that makes solar or trickle/ambient power very convenient. Actions speak louder than words (what's on the menu).
+
 3-6-2026
 -
 
