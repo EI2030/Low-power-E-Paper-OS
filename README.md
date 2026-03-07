@@ -1,6 +1,32 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-7-2026
+--
+
+"Intel ME 11 architecture overview 
+Starting with the PCH 100 Series, Intel has completely redesigned the PCH chip. The architecture of embedded microcontrollers was switched from ARCompact by ARC to x86. The Minute IA (MIA) 32-bit microcontroller was chosen as the basis; it is used in Intel Edison microcomputers and SoCs Quark and based on a rather old scalar Intel 486 microprocessor with the addition of a set of instructions (ISA) from the Pentium processor. However, for the PCH, Intel manufactures this core with 22-nm semiconductor technology, making the microcontroller highly energy-efficient. There are three such cores in the new PCH: Management Engine (ME), Integrated Sensors Hub (ISH), and Innovation Engine (IE). The latter two can be enabled or disabled depending on the PCH model and the target platform; the ME core is always enabled.
+
+Figure 5. Three x86 processors in the PCH
+
+<img width="975" height="448" alt="17728778308122927928805455119376" src="https://github.com/user-attachments/assets/0ee0fa6a-1239-4667-97c9-e79070d5337d" />
+
+Such an overhaul required changing ME software as well. In particular, MINIX was chosen as the basis for the operating system (previously, ThreadX RTOS had been used). Now ME firmware includes a full-fledged operating system with processes, threads, memory manager, hardware bus driver, file system, and many other components. A hardware cryptoprocessor supporting SHA256, AES, RSA, and HMAC is now integrated into ME. User processes access hardware via a local descriptor table (LDT). The address space of a process is also organized through an LDT—it is just part of the global address space of the kernel space whose boundaries are specified in a local descriptor. Therefore, the kernel does not need to switch between the memory of different processes (changing page directories), as compared to Microsoft Windows or Linux, for instance."
+
+https://web.archive.org/web/20201201175708/http://blog.ptsecurity.com/2017/08/disabling-intel-me.html?m=1
+
+"Highly efficient" is 25mW at 33MHz. According to the Wikipedia page, it can run even when the PC is off but plugged in or connected to battery. 
+
+"The Intel Management Engine always runs as long as the motherboard is receiving power, even when the computer is turned off. This issue can be mitigated with the deployment of a hardware device which is able to disconnect all connections to mains power as well as all internal forms of energy storage. The Electronic Frontier Foundation and some security researchers have voiced concern that the Management Engine is a backdoor.
+
+Intel's main competitor, AMD, has incorporated the equivalent AMD Secure Technology (formally called Platform Security Processor) in virtually all of its post-2013 CPUs."
+
+https://en.wikipedia.org/wiki/Intel_Management_Engine 
+
+The power it receives is optimized because a coin cell CMOS could provide a slow trickle of power, or "phantom power"-like DC curcuit which microphones and PSUs use: https://en.wikipedia.org/wiki/Phantom_power
+
+Other power sources: https://en.wikipedia.org/wiki/Power_over_Ethernet
+
 3-6-2026
 -
 
