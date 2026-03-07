@@ -4,6 +4,16 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 3-6-2026
 -
 
+More articles referencing California's flawed bill:
+
+https://blog.system76.com/post/system76-on-age-verification
+
+https://www.biometricupdate.com/202603/californias-os-based-age-verification-law-challenges-open-source-community
+
+https://hackaday.com/2026/03/05/californias-problematic-attempt-to-add-age-verification-to-software/
+
+https://www.politico.com/news/2026/02/21/online-age-newsom-social-media-00791870
+
 3 years ago i started the Free Energy Foundation (not incorporated officially) as a somewhat rhetorical or parodic analogue to the FSF:
 https://github.com/hatonthecat/Free-Energy-Foundation?tab=readme-ov-file
 
