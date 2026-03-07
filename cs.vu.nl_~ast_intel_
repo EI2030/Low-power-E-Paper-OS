@@ -1,0 +1,187 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.cs.vu.nl/~ast/intel/
+Subject: 
+Date: Sat, 7 Mar 2026 04:35:49 -0600
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GijWQxgqEnew7KGau0NeBm5i7zZIncU7gzFZotGZ3i----"
+
+
+------MultipartBoundary--GijWQxgqEnew7KGau0NeBm5i7zZIncU7gzFZotGZ3i----
+Content-Type: text/html
+Content-ID: <frame-9ABFC5DFE57931B3C3F7D86F0E0EE521@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.cs.vu.nl/~ast/intel/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" media="all" href="https://www.cs.vu.nl/~ast/style6.css" type="text/css">
+</head>
+
+<body>
+<div class="small-body">
+  <table width="880" cellspacing="0" cellpadding="10" summary="">
+
+    <tbody><tr>
+      <td>
+	<h1>An Open Letter to Intel</h1>
+<hr>
+<p>Dear Mr. Krzanich,</p>
+
+<p>Thanks for putting a version of MINIX inside the ME-11 management engine chip used on almost all recent desktop and laptop computers in the world.
+I guess that makes MINIX the most widely used computer operating system in the world, even more than Windows, Linux, or MacOS. And I didn't even know until I read a
+<a href="https://www.networkworld.com/article/3236064/servers/minix-the-most-popular-os-in-the-world-thanks-to-intel.html" target="_blank">press report</a>
+about it.
+Also
+<a href="https://www.techpowerup.com/238514/intel-cpu-on-chip-management-engine-runs-on-minix" target="_blank">here</a>
+and
+<a href="https://hexus.net/tech/news/software/111857-intel-management-engine-runs-minix-3-os/" target="_blank">here</a>
+and
+<a href="http://blog.ptsecurity.com/2017/08/disabling-intel-me.html" target="_blank">here</a>
+and 
+<a href="https://liveatpc.com/widely-used-os-world-least-known/" target="_blank">here</a>
+and
+<a href="http://webwereld.nl/security/101772-het-populairste-besturingssysteem-ter-wereld-is---minix" target="_blank"> here</a> (in Dutch),
+and a bunch of other places.</p>
+
+<p>I knew that Intel had some potential interest in MINIX several years ago when one of your engineering teams contacted me about some secret internal project and asked a large number
+of technical questions about MINIX, which I was happy to answer. I got another clue when your engineers began asking me to make a number of
+changes to MINIX, for example, making the memory footprint smaller and adding #ifdefs around pieces of code so they could be statically disabled by setting flags in the main configuration file.
+This made it possible to reduce the memory footprint even more by selectively disabling a number of features not always needed, such as floating point support.
+This made the system, which was already very modular since nearly all of the OS runs as a collection of separate processes (normally in user mode), all of which can be
+included or excluded in a build, as needed, even more modular.</p>
+
+<p>Also a hint was the discussion about the license. I (implicitly) gathered that the fact that MINIX uses the Berkeley license was very important.
+I have run across this before, when companies have told me that they hate the GPL because they are not keen on spending a lot of time, energy, and money
+modifying some piece of code, only to be required to give it to their competitors for free. These discussions were why we put MINIX out under the
+Berkeley license in 2000 (after prying it loose from my publisher).</p>
+
+<p>After that intitial burst of activity, there was radio silence for a couple of years, until I read in the media (see above) that a modified version of MINIX was running
+on most x86 computers, deep inside one of the Intel chips. This was a complete surprise.
+I don't mind, of course, and was not expecting any kind of payment since that is not required. There isn't even any suggestion in the license that it would be  appreciated.</p>
+
+<p>The only thing that would have been nice is that after the project had been finished and the chip deployed, that someone from Intel
+would have told me, just as a courtesy, that MINIX was now probably the most widely used operating system in the world on x86 computers.
+That certainly wasn't required in any way, but I think it would have been polite to give me a heads up, that's all.</p>
+<p>If nothing else, this bit of news reaffirms my view that the Berkeley license provides the maximum amount of freedom to potential users.
+If they want to publicize what they have done, fine. By all means, do so. If there are good reasons not to release the modfied code, that's fine
+with me, too.</p>
+
+<p>Yours truly,</p>
+
+<p>Andrew S. Tanenbaum</p>
+<hr>
+<p>Note added later: Some people have pointed out online that if MINIX had a GPL license, Intel might not have used it since then
+it would have had to publish the modifications to the code. Maybe yes, maybe no, but the modifications were no doubt technical issues
+involving which mode processes run in, etc. My understanding, however, is that the small size and modular microkernel structure were the
+primary attractions. 
+Many people (including me) don't like the idea of an all-powerful management engine in there at all (since it is a possible security hole and a dangerous idea in the first place), but 
+that is Intel's business decision and a separate issue from the code it runs. A company as big as Intel could obviously write its own OS if it had to.
+My point is that big companies with lots of resources and expertise sometimes use microkernels, especially in embedded systems. The L4 microkernel has been running inside smartphone chips for years.
+I certainly hope Intel did thorough security hardening and testing before deploying the chip, since apparently an older version
+of MINIX was used.
+Older versions were primarily for education and newer ones were for high availability. Military-grade security
+was never a goal.</p>
+
+<p>Second note added later: The online discussion got completely
+sidetracked from my original points as noted above.
+For the record, I would like to
+state that when Intel contacted me, they didn't
+say what they were working on. Companies rarely talk about future
+products without NDAs. I figured it was
+a new Ethernet chip or graphics chip or something like that. 
+If I had suspected
+they might be building a spy engine, I certainly wouldn't have cooperated,
+even though all they wanted was reducing the memory footprint (= chip area for them).
+I think creating George Orwell's 1984 is an extremely bad idea, even if Orwell
+was off by about 30 years. 
+People should have complete control over their own computers, not Intel
+and not the government.
+In the U.S. the Fourth Amendment makes it very clear that the government
+is forbidden from searching anyone's property without a search warrant.
+Many other countries have privacy laws that are in the same spirit.
+Putting a possible spy in every computer is a terrible development.
+</p>
+<hr>
+
+        <p><a href="http://www.cs.vu.nl/~ast">Back to my home page</a></p>
+      </td>
+    </tr>
+
+
+  </tbody></table>
+
+<!-- Google analytics start -->
+
+<!-- Google analytics end -->
+
+<!-- Start of StatCounter Code for Default Guide -->
+
+<!--
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - StatCounter" href="http://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11513980/0/081e6244/1/" alt="Web
+Analytics Made Easy - StatCounter"></a></div></noscript>
+-->
+<!-- End of StatCounter Code for Default Guide -->
+
+
+
+</div>
+
+
+</body></html>
+------MultipartBoundary--GijWQxgqEnew7KGau0NeBm5i7zZIncU7gzFZotGZ3i----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.cs.vu.nl/~ast/style6.css
+
+@charset "utf-8";
+
+html, body { margin: 0px 0px 5px 10px; background-color: rgb(11, 33, 90); }
+
+html, body, div, p, ul, li, table, td, tr, dt { color: rgb(255, 255, 255); font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+html, body, table, div, p { font-size: 14px; }
+
+.vubgcolor { background-color: rgb(11, 33, 90); }
+
+a:link { color: rgb(74, 231, 255); font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+a:visited { color: rgb(170, 170, 170); font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+a:hover { color: rgb(255, 255, 187); font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+h1, h2, h3, h4, h5, h6, b, strong { color: rgb(247, 189, 66); font-family: Verdana, Arial, Helvetica, sans-serif; }
+
+h1, .h1size { font-size: 24px; }
+
+h2, .h2size { font-size: 20px; }
+
+h3, .h3size { font-size: 18px; }
+
+h4, h5, h6, .h4size, .h5size, .h6size { font-size: 14px; }
+
+td.footer { color: rgb(102, 102, 204); background-color: rgb(247, 189, 66); font-weight: bold; text-align: center; }
+
+a.footer:link { color: rgb(102, 102, 204); text-decoration: none; }
+
+a.footer:visited { color: rgb(102, 102, 204); text-decoration: none; }
+
+a.footer:hover { color: rgb(255, 255, 204); text-decoration: none; }
+
+hr { background-color: rgb(0, 0, 255); color: rgb(86, 148, 206); height: 2px; }
+
+.center { text-align: center; }
+
+.right { text-align: right; }
+
+.left { text-align: left; }
+
+.notavailable { color: rgb(153, 153, 153); text-decoration: line-through; }
+
+.hidden { visibility: hidden; }
+
+.medium { font-size: 14px; font-weight: bold; color: rgb(247, 219, 66); }
+------MultipartBoundary--GijWQxgqEnew7KGau0NeBm5i7zZIncU7gzFZotGZ3i------
