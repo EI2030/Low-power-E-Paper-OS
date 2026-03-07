@@ -48,7 +48,7 @@ Yours truly,
 
 Andrew S. Tanenbaum"
 
-So Intel likes using its Quark for themselves, but not consumers to benefit from its 25mW power consumption (as low as 1mW at 2MHz). apAnd one that makes solar or trickle/ambient power very convenient. Actions speak louder than words (what's on the menu).
+So Intel likes using its Quark for themselves, but not consumers to benefit from its 25mW power consumption (as low as 1mW at 2MHz). And one that makes solar or trickle/ambient power very convenient. Actions speak louder than words (what's on the menu, and what's not sold separately).
 
 3-6-2026
 -
