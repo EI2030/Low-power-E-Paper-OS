@@ -54,6 +54,8 @@ https://www.reddit.com/r/privacy/comments/1361sjp/intel_me_inside/ a comment men
 
 ![Screenshot_20260307-103912~2](https://github.com/user-attachments/assets/ac379d4c-1dbd-4c9c-a374-a0ad92c59072)
 
+<img width="2164" height="992" alt="image" src="https://github.com/user-attachments/assets/193bd6c2-5bc5-494f-8bff-52740829023b" />
+
 from USENIX ATC '21/OSDI '21 "Joint Keynote Address-It's Time for Operating Systems to Rediscover Hardware" [https://www.youtube.com/watch?v=36myc8wQhLo](https://youtu.be/36myc8wQhLo?t=986)
 
 3-6-2026
