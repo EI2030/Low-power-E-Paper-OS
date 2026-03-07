@@ -69,7 +69,7 @@ https://reason.com/2026/03/04/computer-scientists-caution-against-internet-age-v
 
 https://www.eteknix.com/california-to-introduces-age-verification-law-for-all-operating-systems/
 
-Add all those old OSes to the digital bonfire. America's Reich can't be bothered with the intricacies of computer science history. Some might say they belong in a museum! Where's Indiana Jones when you need him?
+Add all those old OSes to the digital linux CD [bonfire](https://youtu.be/D-0YQRb4_ho?t=57). America's Reich can't be bothered with the intricacies of computer science history. Some might say they belong in a [museum](https://www.youtube.com/watch?v=yXyPvhISkRQ&t=1s)! Where's Indiana Jones when you need him?
 
 
 ![17727611007042694283174828927155](https://github.com/user-attachments/assets/9306776e-37ee-4fb3-990c-d625c11b8cfa)
