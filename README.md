@@ -13,7 +13,7 @@ Figure 5. Three x86 processors in the PCH
 
 Such an overhaul required changing ME software as well. In particular, MINIX was chosen as the basis for the operating system (previously, ThreadX RTOS had been used). Now ME firmware includes a full-fledged operating system with processes, threads, memory manager, hardware bus driver, file system, and many other components. A hardware cryptoprocessor supporting SHA256, AES, RSA, and HMAC is now integrated into ME. User processes access hardware via a local descriptor table (LDT). The address space of a process is also organized through an LDT—it is just part of the global address space of the kernel space whose boundaries are specified in a local descriptor. Therefore, the kernel does not need to switch between the memory of different processes (changing page directories), as compared to Microsoft Windows or Linux, for instance."
 
-https://web.archive.org/web/20201201175708/http://blog.ptsecurity.com/2017/08/disabling-intel-me.html?m=1
+from: https://web.archive.org/web/20201201175708/http://blog.ptsecurity.com/2017/08/disabling-intel-me.html?m=1
 
 "Highly efficient" is 25mW at 33MHz. According to the Wikipedia page, it can run even when the PC is off but plugged in or connected to battery. 
 
