@@ -50,6 +50,8 @@ Andrew S. Tanenbaum"
 
 So Intel likes using its Quark for themselves, but not consumers to benefit from its 25mW power consumption (as low as 1mW at 2MHz). And one that makes solar or trickle/ambient power very convenient. Actions speak louder than words (what's on the menu, and what's not sold separately).
 
+https://www.reddit.com/r/privacy/comments/1361sjp/intel_me_inside/ a comment mentions traffic analysis not detecting any TCP/IP from the Intel ME, which has its own network stack. A plausible reason could be most new routers have a built in Management engine-only router and send packets without blinking LEDs or displaying them on the console (192.168. etc). but this would require the power consumption of the typical packet to be measured to ensure its not hiding the data transmission. possible that it is sent with other data encrypted so it cant be seen or distinguished from other spikes of data transfer.
+
 3-6-2026
 -
 
