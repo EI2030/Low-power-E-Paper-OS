@@ -122,7 +122,7 @@ https://www.tomshardware.com/software/operating-systems/california-introduces-ag
 
 https://9to5linux.com/ubuntu-fedora-linux-mint-eye-age-verification-amid-california-law-backlash
 
-Our brigntest tech companies can't even put their brains together to build a solar powered phone or laptop to help the people of Ukraine communicate during power outages but have no problem saddling their chips with enshittified instruction set architecture with realtime display, metadata, screen recording, and x, y mouse cursor coordinate telemetry for mass data collection.
+Our brightest tech companies can't even put their brains together to build a solar powered phone or laptop to help the people of Ukraine communicate during power outages but have no problem saddling their chips with enpoopified instruction set architecture with realtime display, metadata, screen recording, and x, y mouse cursor coordinate telemetry for mass data collection.
 
 https://thedailyeconomy.org/article/californias-age-verification-law-is-a-civil-liberties-test/
 
