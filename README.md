@@ -4,6 +4,18 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 3-7-2026
 --
 
+from a 01-05-2012 NY Times Opinion article: "For example, at one time if you didn’t have a horse it was hard to make a living. But the important right in that case was the right to make a living, not the right to a horse. Today, if I were granted a right to have a horse, I’m not sure where I would put it."
+
+I wonder if Vint Cerf misunderstood or misinterpreted the meaning of right. A right to have something doesn't mean he has to acquire or receive a horse. It just means that a capable government or organization could offer one for anyone who needs it.
+
+Similar to a food pantry. A food pantry doesn't require people to pick up food if they don't need it. But of course the food pantry shouldn't be counted on because as a typically private service, it is under no obligation to ensure food is available- it is also a more important human need than internet. But if a government could theoretically meets a manufacturing capacity for certain things- like basic, "no frills" cell phones and laptops, not to the exclusion of more important needs, then it could provide internet and computing devices where it is sought.
+
+“Whether local or global, the above examples feed into notions that the Internet is now an essential, public service and therefore public policies must be enacted to ensure people can access it. Following this logic, if someone is denied access to the Internet they are therefore also denied full citizenship and participation in civic life.  On one hand we can laud States for enshrining a new right or set of basic public services, but on the other hand we should question if this is actually a good thing. Even Vint Cerf, one of the “fathers of the Internet” proposes caution in an op-ed: “improving the Internet is just one means, albeit an important one, by which to improve the human condition. It must be done with an appreciation for the civil and human rights that deserve protection—without pretending that access itself is such a right.”
+
+https://web.archive.org/web/20160623203537/https://www.nytimes.com/2012/01/05/opinion/internet-access-is-not-a-human-right.html 
+
+https://web.archive.org/web/20160629063136/http://latimesblogs.latimes.com/technology/2011/06/united-nations-report-internet-access-is-a-human-right.html
+
 "Intel ME 11 architecture overview 
 Starting with the PCH 100 Series, Intel has completely redesigned the PCH chip. The architecture of embedded microcontrollers was switched from ARCompact by ARC to x86. The Minute IA (MIA) 32-bit microcontroller was chosen as the basis; it is used in Intel Edison microcomputers and SoCs Quark and based on a rather old scalar Intel 486 microprocessor with the addition of a set of instructions (ISA) from the Pentium processor. However, for the PCH, Intel manufactures this core with 22-nm semiconductor technology, making the microcontroller highly energy-efficient. There are three such cores in the new PCH: Management Engine (ME), Integrated Sensors Hub (ISH), and Innovation Engine (IE). The latter two can be enabled or disabled depending on the PCH model and the target platform; the ME core is always enabled.
 
