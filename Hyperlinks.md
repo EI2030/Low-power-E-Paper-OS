@@ -754,6 +754,9 @@ This section (indeed, the whole page) is all about ideas -- not about deals with
 
 X86
 --
+
+https://nand2mario.github.io/posts/2026/80386_protection/ (new Verilog 386 being developed)
+
 https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal
 
 https://www.xtof.info/intel80386.html 
