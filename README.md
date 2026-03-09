@@ -12,6 +12,8 @@ Similar to a food pantry. A food pantry doesn't require people to pick up food i
 
 “Whether local or global, the above examples feed into notions that the Internet is now an essential, public service and therefore public policies must be enacted to ensure people can access it. Following this logic, if someone is denied access to the Internet they are therefore also denied full citizenship and participation in civic life.  On one hand we can laud States for enshrining a new right or set of basic public services, but on the other hand we should question if this is actually a good thing. Even Vint Cerf, one of the “fathers of the Internet” proposes caution in an op-ed: “improving the Internet is just one means, albeit an important one, by which to improve the human condition. It must be done with an appreciation for the civil and human rights that deserve protection—without pretending that access itself is such a right.”
 
+https://www.rhizomatica.org/keeping-it-analog-a-framework-for-opting-out-of-connectivity/
+
 https://web.archive.org/web/20160623203537/https://www.nytimes.com/2012/01/05/opinion/internet-access-is-not-a-human-right.html 
 
 https://web.archive.org/web/20160629063136/http://latimesblogs.latimes.com/technology/2011/06/united-nations-report-internet-access-is-a-human-right.html
