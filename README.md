@@ -8,6 +8,8 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 https://lunduke.substack.com/p/illinois-joins-age-verification-for 
 
+https://itsfoss.com/news/midnightbsd-age-verification/
+
 3-7-2026
 --
 
