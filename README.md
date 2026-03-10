@@ -1,6 +1,13 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-10-2026
+--
+
+"Data Has Weight, Laws Have Teeth, Linux Has Jokes | Linux Out Loud 122" 58 minute podcast https://dlnxtend.com/220 
+
+https://lunduke.substack.com/p/illinois-joins-age-verification-for 
+
 3-7-2026
 --
 
