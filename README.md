@@ -1,6 +1,23 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+3-11-2026
+--
+
+https://www.theregister.com/2026/03/10/foss_age_verification_2/
+
+_"We mentioned that one of the more insightful commentaries that we've read was "System76 on Age Verification Laws" by CEO Carl Richell. System76 is one of the most visible companies in the world that makes PCs specifically to run Linux, and The Register first mentioned Richell all the way back in 2009._
+
+_Yesterday, he tweeted some encouraging news:_
+
+_"Today, I met with Colorado Senator Matt Ball, co-author of Colorado OS Age Attestation Bill SB26-051._
+
+_Sen. Ball suggested excluding open source software from the bill. This appears to be a real possibility._
+
+_Amendments are expected for the CA age attestation bill. It's my hope we can move fast enough to influence excluding open source in the CA bill amendments._
+
+_No illusions, it's an uphill battle, but we have an open door to advocate for the open source community."_
+
 3-10-2026
 --
 
