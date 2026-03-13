@@ -1170,7 +1170,9 @@ Intel provides the transistors, AUO/Asus/Samsung makes the bright [LCDS](https:/
 
 ![image](https://github.com/user-attachments/assets/4d549c1e-e76d-465f-ac16-c4bd03698c2d)
 
-https://www.reddit.com/r/Monitors/comments/10xk5y9/comment/j7toytc/
+([MPAA PG rating, Raiders of the Lost Ark (1981)](https://www.youtube.com/shorts/IwHEKKjr5Y8) ("Don't Look Marion, Keep your Eyes shut!")
+
+https://www.reddit.com/r/Monitors/comments/10xk5y9/comment/j7toytc/ 
 
 This [Tumblr post](https://swarmik.tumblr.com/post/164890487174/monochrome-and-color-passive-matrix-lcd-screens) belongs in a museum!  
 
