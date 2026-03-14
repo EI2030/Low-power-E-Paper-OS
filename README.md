@@ -2549,6 +2549,8 @@ https://www.youtube.com/watch?v=ORrNvS79chM
 
 To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Newtonian (not Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow).
 
+https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2019/02/www_electronicdesign_com_sites_electronicdesign.com_files_Rako_Subthreshold_Fig1.png?auto=format,compress&fit=max&q=45?w=950&width=950
+
 And Intel, as Nina Zheng has written, has modus operandus of secrecy (https://ninazeng.substack.com/p/words-which-stop-thought [2]). What is omitted is not unfalsifiable. The burden of scientific discovery rests on the community that wishes to improve its access to technology without necessarily supporting non-free technologies. Paying for the services for a foundry to manufacture chips at TSMC or Global Foundries might require signing NDAS, but for the purpose of having chips that are devoid of backdoor, they can certainly be audited after production. Preventing high performance chips isn't the goal of the Free Energy Foundation. It's merely informing the user that they have more options- autarkic options to power their computer/laptop. 
 
 Stallman also emphasizes playful cleverness (https://youtu.be/ucXYWG0vqqk?t=70) in many of his talks and interviews as early as the Revolution OS movie in the early 00's. 
