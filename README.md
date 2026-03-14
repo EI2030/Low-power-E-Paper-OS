@@ -2610,6 +2610,6 @@ My expository might not be lighthearted enough to to be considered playful, but 
 The Fifth Software Freedom (now offering 25% more freedom!)
 --
 
-"The freedom for software developers and users to reject any large and new software projects that disproportionately benefits the have power outlets over the have not power outlets,  unless an autarkic operating system and hardware chip can be provided. The method of this is advocay is analogous to collective bargaining." 
+"The freedom for software developers and users to reject any large and new software projects that disproportionately benefits the have power outlets over the have not power outlets,  unless an autarkic operating system and hardware chip/SoC can be provided (either in free VLSI designs or physical manufacturing). The method of this is advocacy is analogous to collective bargaining." 
 
 The wording of this freedom is likely to change to refine its definitions so as to enhance its freedom-capabilities and intentions.
