@@ -3,7 +3,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF high priority site or on the FSF because software is not the penultimate goal of technology. They might care about [libre](https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers) video drivers and libre mobile operating systens, but energy consumption goals is not on their totem pole. 
 
-1 hour, 19 minutes, 35 seconds (Q&A w/ Richard Stallman 01-2026)
+1 hour, 19 minutes, 35 seconds (Q&A w/ Richard Stallman 01-2026): https://www.youtube.com/watch?v=YDxPJs1EPS4&t=5808s
 
 Q: "Why are you so confident that free softwares are good are good and in important?"
 
