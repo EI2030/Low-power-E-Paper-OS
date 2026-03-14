@@ -2514,7 +2514,7 @@ First of all, I never said free hardware is feudal but of course he wasn't think
 
    from https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers
 
-One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until as Barack Obama in his Eulogy for Jesse Jackson last week said, 
+One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until a clear and economical process to manufacture free and autarkic hardware, as Barack Obama in his Eulogy for Jesse Jackson last week said, 
 
 "6:40:52
 
@@ -2592,6 +2592,6 @@ has to be admitted that we have no definite evidence that there is no such theor
 
 https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf
 
-Perhaps Wigner's paper could have been titled, The reasonable unseriousness of including a joke about a circle's ratio's relevance to statistics"
+Perhaps Wigner's paper could have been titled, "The reasonable unseriousness of including a joke about a circle's ratio's relevance to statistics"
 
 My expository might not be lighthearted enough to to be considered playful, but perhaps you can [sweeten](https://en.wikipedia.org/wiki/Sweet_crude_oil) this [sour](https://en.wikipedia.org/wiki/Sour_crude_oil ) crude oil writing: 
