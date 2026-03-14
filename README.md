@@ -2547,7 +2547,7 @@ But like so many of his generation, so many extraordinary civil rights leaders i
 
 https://www.youtube.com/watch?v=ORrNvS79chM 
 
-To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Newtonian (not Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow).
+To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Aristotelian (not Newtonian, Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow).
 
 https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2019/02/www_electronicdesign_com_sites_electronicdesign.com_files_Rako_Subthreshold_Fig1.png?auto=format,compress&fit=max&q=45?w=950&width=950
 
