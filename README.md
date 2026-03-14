@@ -2502,7 +2502,17 @@ To clarify, I understand that manufactured silicon can't be modified after it is
 
 First of all, I never said free hardware is feudal but of course he wasn't thinking of me. What is so potentially ignorant of this statement is that the systems he is describing are far advanced an optional than anything a free energy system could ask for in this decade. 802.11ac, Wifi, Radios (not 802.3cg or other low power LoRAWAN/LoReA), and especially Video Graphics, the luxury of the 21st Century and late 90s:
 
+"If you are a developer with driver hacking experience, here are a few specific needs that may be good starting points for work within this broad category:
 
+    Video processing units (VPUs) are often the last hurdle to a fully free system on a chip (SoC). By replacing these nonfree dependencies, we can make low-power devices that respect users' freedoms. The Coda9 VPU requires proprietary firmware, which is preventing the Freescale iMX6 from coming entirely with free software. For more information about this visit Rhombus Tech's page about the processor.
+    The Freedreno project aims to implement a free software driver for Qualcomm's Adreno graphics hardware. You can contribute. Note that Adreno requires nonfree firmware independent of the driver.
+    The Vivante GC line of chipsets provide 3D rendering for some mobile devices such as laptops. This includes the GPUs used in the i.MX6 and i.MX8 chipsets. Get involved with the Etnaviv project here.
+    You can help the Radeon project develop a replacement for the nonfree firmware in AMD graphics cards.
+    You can support Nouveau, a project creating free replacements for proprietary drivers for nVidia cards.
+    Lima and Panfrost are free software drivers for ARM Mali GPUs. You can help.
+    Many Wi-Fi chipsets have free software drivers for GNU/Linux but require proprietary firmware blobs loaded at run-time. Developers with experience with wireless firmware may consider freeing these firmwares, such as the firmware from Broadcom and Marvell SDIO chips.
+
+   from https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers
 
 One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until as Barack Obama in his Eulogy for Jesse Jackson last week said, 
 
@@ -2533,3 +2543,55 @@ https://www.youtube.com/watch?v=ORrNvS79chM
 To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Newtonian (not Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow).
 
 And Intel, as Nina Zheng has written, has modus operandus of secrecy (https://ninazeng.substack.com/p/words-which-stop-thought [2]). What is omitted is not unfalsifiable. The burden of scientific discovery rests on the community that wishes to improve its access to technology without necessarily supporting non-free technologies. Paying for the services for a foundry to manufacture chips at TSMC or Global Foundries might require signing NDAS, but for the purpose of having chips that are devoid of backdoor, they can certainly be audited after production. Preventing high performance chips isn't the goal of the Free Energy Foundation. It's merely informing the user that they have more options- autarkic options to power their computer/laptop. 
+
+Stallman also emphasizes playful cleverness (https://youtu.be/ucXYWG0vqqk?t=70) in many of his talks and interviews as early as the Revolution OS movie in the early 00's. 
+
+"Chapter 3: What does the term "hacker" mean to you?
+1:19
+1 minute, 19 seconds
+programs a hacker is someone who enjoys playful cleverness not necessarily with computers but computers are a very good
+1:28
+1 minute, 28 seconds
+medium for playful cleverness because you can build things that will build other things can be tremendous fun you
+1:35
+1 minute, 35 seconds
+can make things that are useful but in doing so you can be clever so if you're
+1:41
+1 minute, 41 seconds
+inclined to enjoy being playfully clever programming and computers in general give you lots of opportunities to do
+1:50
+1 minute, 50 seconds
+so but hacking is not limited to working with computers uh and if you look in"
+
+This repository is a playful hack on the Free Software Foundation, which was playful hack on copyright (copyleft).
+
+The Free Energy Foundation is somewhat of a bottom up approach to hardware design, but it does not seek to veto all free hardware designs unless they are autarkic capable. It merely requests to ability to discuss and vote on the important matters that the bearded linux veterans wish to control. 
+
+What I think gets forgotten is that Physics continues to discover new frontiers, and Mathematics continues to find reasonable or unreasonable new explanations of the universe: 
+
+"There is a story about two friends, who were classmates in high school, talking about their jobs.
+One of them became a statistician and was working on population trends. He showed a reprint to his
+former classmate. The reprint started, as usual, with the Gaussian distribution and the statistician
+explained to his former classmate the meaning of the symbols for the actual population, for the
+average population, and so on. His classmate was a bit incredulous and was not quite sure whether
+the statistician was pulling his leg. "How can you know that?" was his query. "And what is this
+symbol here?" "Oh," said the statistician, "this is pi." "What is that?" "The ratio of the
+circumference of the circle to its diameter." "Well, now you are pushing your joke too far," said the
+classmate, "surely the population has nothing to do with the circumference of the circle."
+
+Naturally, we are inclined to smile about the simplicity of the classmate’s approach. Nevertheless,
+when I heard this story, I had to admit to an eerie feeling because, surely, the reaction of the
+classmate betrayed only plain common sense. I was even more confused when, not many days later,
+someone came to me and expressed his bewilderment [The remark to be quoted was made by F.
+Werner when he was a student in Princeton.] with the fact that we make a rather narrow selection
+when choosing the data on which we test our theories. "How do we know that, if we made a theory
+which focuses its attention on phenomena we disregard and disregards some of the phenomena now
+commanding our attention, that we could not build another theory which has little in common with
+the present one but which, nevertheless, explains just as many phenomena as the present theory?" It
+has to be admitted that we have no definite evidence that there is no such theory."
+
+https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf
+
+Perhaps Wigner's paper could have been titled, The reasonable unseriousness of including a joke about a circle's ratio's relevance to statistics"
+
+My expository might not be lighthearted enough to to be considered playful, but perhaps you can [sweeten](https://en.wikipedia.org/wiki/Sweet_crude_oil) this [sour](https://en.wikipedia.org/wiki/Sour_crude_oil ) crude oil writing: 
