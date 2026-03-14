@@ -9,7 +9,9 @@ Q: "Why are you so confident that free softwares are good are good and in import
 
 "Well, free free programs tend to be good because if users like them, users will work on them to make them good. There have been some some examples showing that we do a very good job of developing things. And if you don't think we did a good enough job, please dig in and make it better."
 
-This project is, with or without your support. In fact, if this project is able to achieve some of its goals, the FSF could expand its recruitment efforts to more than a billion additional users across the globe. If they thought more outside the box.
+This project is, with or without your support. In fact, if this project is able to achieve some of its goals, the FSF could expand its recruitment efforts to more than a billion additional users across the globe. If they thought more outside the box. 
+
+*Note*: This page, excluding supplemental files is 99.5MB in size. It can take a while to load. Although I add it to the description, I not everyone will be able to see that (e.g. hyperlinked) in advance.
 
 3-11-2026
 --
