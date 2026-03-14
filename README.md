@@ -2449,4 +2449,82 @@ Also, the reason the free software foundation isn't super enthusiastic about ope
 
 This project aligns more with BSD, mainly because hardware affordability is intrinsically an economic barrier in some regions, and the goal is to develop basic computing that doesn't require overly restrictive licensing. That said, there is a lot of good GPL software and hardware out there. It's more akin to a luxury belief:https://en.wikipedia.org/wiki/Luxury_belief and i know: luxury beliefs aren't necessarily real, except when one can't afford them..
 
+Regarding the FSF's [Four Freedoms](https://en.wikipedia.org/wiki/The_Free_Software_Definition):
 
+The modern definition states that a program is free software if it grants users the following four essential freedoms:[10]
+
+        The freedom to run the program as you wish, for any purpose (freedom 0).
+        The freedom to study how the program works, and change it to make it do what you wish (freedom 1). Access to the source code is a precondition for this.
+        The freedom to redistribute copies so you can help others (freedom 2).
+        The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+A Free Energy Foundation would be able to reconcile with the FSF if a fifth Freedom were added, namely energy autarky being allowed to negotiated chip design in leading edge foundries a scalable architecture that does not set a priority to a higher TDP. In other words, if the FSF's four freedoms were like the UN Security Council (now being challenged in its authority by the Board of Peace, which is another story too long to get into here), then the energy TDP is like a permenent fifth member that has veto power over a concerted effort to design a free hardware system. In Stallmans's 01-2026 lecture, he speculates that open hardware might be 30 years away, but if you scroll up to the Fusion article suggesting the same thing, that reality is completely false. Free and Open source advocates have the self-determination to effect change, and they should not be beholden to influential, more misleading philosophers who are not up to date on the advances in open foundry space such as those at Skywater and IHG: https://tinytapeout.com/ https://www.musesemi.com/shared-block-tapeout-pricing 
+
+"1 hour, 24 minutes, 47 seconds
+How do you apply the free software principles to the hardware side? Well,
+1:24:51
+for the most part, we don't. Uh because hardware and software can both be used
+to design carrying out a certain computation. But there's a crucial difference about soft about hardware
+which is that it's you can't change what's inside a chip not the physical structure. Uh it's it's feasible to
+
+change a program and distribute the change program and for people to install that in place of the previous version and so people should be free to do that.
+
+But since you can't do that for the circuitry in a chip, there's no point arguing that you must be permitted to do
+
+so. What use is being permitted to do something that's not feasible to do?
+
+But it also uh it's a mistake to ask whether a piece of hardware is free. A
+
+piece of hardware is likely to have different designs of different parts. It might have a circuit board which has a
+
+design. It might have say three or 50 chips in it. Each of which has a
+
+different design. Parts of the chip may be design different designs.
+
+The crucial the meaningful question is given a hardware design is it for you?
+
+But because of the fact you can't modify a piece of hardware, not if not if it's built in a high-tech way,
+
+uh your result is it's useless. It's feudal to demand that every chip that
+
+you get be made from free hardware designs. At least today it is. In 30
+
+years, we may have personal chip fabricators and then it would make sense to demand free hardware designs. So you
+
+could modify the design and make your own chip when it's feasible to modif.org/fosophy/free.
+
+/fosophy/freeh hardware designs.html."
+
+To clarify, I understand that manufactured silicon can't be modified after it is produced. For that one instance. That is not the objective of free designs (which rests in software source Verilog/VLSI, and mask designs (considered an artwork by legal definitions) rather than hardware). FPGAs and Coarse Grained Reconfigurable Arrays (CGRAs), however, do allow architectural changes after the chip is manufactured. But that is ALSO not the goal of free energy hardware. The goal of free energy hardware like autarkic solar or thermnoelectric generators and other energy harvesting devices is the freedom to integrate energy autarkic capabilities and not demand priority of energy intensive platforms which are just as much "feudal." Stallman calls it "feudal to demand that every chip that you get be made from free hardware designs." 
+
+First of all, I never said free hardware is feudal but of course he wasn't thinking of me. What is so potentially ignorant of this statement is that the systems he is describing are far advanced an optional than anything a free energy system could ask for in this decade. 802.11ac, Wifi, Radios (not 802.3cg or other low power LoRAWAN/LoReA), and especially Video Graphics, the luxury of the 21st Century and late 90s:
+
+One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until as Barack Obama in his Eulogy for Jesse Jackson last week said, 
+
+"6:40:52
+
+“A world designed to tell a child that he or she could only go so far.
+
+Yes, sir. that to think otherwise would be foolish or dangerous
+
+and that wisdom required you to accept your lot in life.
+
+And young Jesse refused to accept that verdict.
+
+He was a born leader, an athlete, a talker,
+
+knew how to talk, star quarterback,
+
+student body president.
+
+He could have succeeded within the confines that were determined for him and had a successful life.
+
+But like so many of his generation, so many extraordinary civil rights leaders in the late 50s and
+
+60s, that Joshua generation, he instinctively understood that individual success meant nothing unless everybody was free.”
+
+https://www.youtube.com/watch?v=ORrNvS79chM 
+
+To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Newtownian (not Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law).
+
+And Intel, as Nina Zheng has written, has modus operandus of secrecy. What is omitted is not unfalsifiable. The burden of scientific discovery rests on the community that wishes to improve its access to technology without necessarily supporting non-free technologies. Paying for the services for a foundry to manufacture chips at TSMC or Global Foundries might require signing NDAS, but for the purpose of having chips that are devoid of backdoor, they can certainly be audited after production. Preventing high performance chips isn't the goal of the Free Energy Foundation. It's merely informing the user that they have more options- autarkic options to power their computer/laptop. 
