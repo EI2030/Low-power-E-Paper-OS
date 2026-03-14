@@ -2502,6 +2502,8 @@ To clarify, I understand that manufactured silicon can't be modified after it is
 
 First of all, I never said free hardware is feudal but of course he wasn't thinking of me. What is so potentially ignorant of this statement is that the systems he is describing are far advanced an optional than anything a free energy system could ask for in this decade. 802.11ac, Wifi, Radios (not 802.3cg or other low power LoRAWAN/LoReA), and especially Video Graphics, the luxury of the 21st Century and late 90s:
 
+from https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers :
+
 "If you are a developer with driver hacking experience, here are a few specific needs that may be good starting points for work within this broad category:
 
     Video processing units (VPUs) are often the last hurdle to a fully free system on a chip (SoC). By replacing these nonfree dependencies, we can make low-power devices that respect users' freedoms. The Coda9 VPU requires proprietary firmware, which is preventing the Freescale iMX6 from coming entirely with free software. For more information about this visit Rhombus Tech's page about the processor.
@@ -2512,9 +2514,9 @@ First of all, I never said free hardware is feudal but of course he wasn't think
     Lima and Panfrost are free software drivers for ARM Mali GPUs. You can help.
     Many Wi-Fi chipsets have free software drivers for GNU/Linux but require proprietary firmware blobs loaded at run-time. Developers with experience with wireless firmware may consider freeing these firmwares, such as the firmware from Broadcom and Marvell SDIO chips.
 
-   from https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers
-   
+ 
    https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/lux.PNG 
+   
    https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.html where I recommend no more than 1-4MB of video RAM for autarkic design using commercially available (not necessarily affordable) 3nm w/HBM3e.
 
 One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until a clear and economical process to manufacture free and autarkic hardware, as Barack Obama in his Eulogy for Jesse Jackson last week said, 
