@@ -2621,4 +2621,6 @@ Much like impeachment in the U.S. House of Representatives is not based on any s
  Presser, Stephen B. "Essays on Article I: Impeachment". The Heritage Guide to the Constitution. Heritage Foundation. Archived from the original on August 30, 2019. Retrieved June 14, 2018.
  Tsirkin, Julie; Thorp V, Frank (April 17, 2024) (April 17, 2024). https://web.archive.org/web/20251114210042/https://www.heritage.org/constitution#!/articles/1/essays/11/impeachment
 
-The wording of this freedom is likely to change to refine its definitions so as to enhance its freedom-capabilities and intentions. You are also free to make a copy of this repository and mirror it on a more free code site, like Codeberg or GitLab.
+The wording of this 5th freedom is likely to change to refine its definitions so as to enhance its freedom-capabilities and intentions. It has not yet been presented to the FSF although I have not heard back from a previous email. 
+
+You are free to make a copy of this repository and mirror it on a more free code site, like Codeberg or GitLab.
