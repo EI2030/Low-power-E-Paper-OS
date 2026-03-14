@@ -98,6 +98,8 @@ So Intel likes using its Quark for themselves, but not consumers to benefit from
 
 https://www.reddit.com/r/privacy/comments/1361sjp/intel_me_inside/ a comment mentions traffic analysis not detecting any TCP/IP from the Intel ME, which has its own network stack. A plausible reason could be most new routers have a built in Management engine-only router and send packets without blinking LEDs or displaying them on the console (192.168. etc). but this would require the power consumption of the typical packet to be measured to ensure its not hiding the data transmission. possible that it is sent with other data encrypted so it cant be seen or distinguished from other spikes of data transfer.
 
+https://libreplanet.org/wiki/Group:Hardware/Strategies/ReverseEngineering
+
 ![Screenshot_20260307-103912~2](https://github.com/user-attachments/assets/ac379d4c-1dbd-4c9c-a374-a0ad92c59072)
 
 <img width="2164" height="992" alt="image" src="https://github.com/user-attachments/assets/193bd6c2-5bc5-494f-8bff-52740829023b" />
