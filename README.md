@@ -2517,7 +2517,9 @@ from https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers :
  
    https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/lux.PNG 
    
-   https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.html where I recommend no more than 1-4MB of video RAM for autarkic design using commercially available (not necessarily affordable) 3nm w/HBM3e.
+   https://inavoyage.blogspot.com/2026/01/the-nm10-chipset-backporting-to-pentium.html 
+   
+   ^where I recommend no more than 1-4MB of video RAM for autarkic design using commercially available (not necessarily affordable) 3nm w/HBM3e.
 
 One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until a clear and economical process to manufacture free and autarkic hardware, as Barack Obama in his Eulogy for Jesse Jackson last week said, 
 
@@ -2599,4 +2601,4 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf
 
 Perhaps Wigner's paper could have been titled, "The reasonable unseriousness of including a joke about a circle's ratio's relevance to statistics"
 
-My expository might not be lighthearted enough to to be considered playful, but perhaps you can [sweeten](https://en.wikipedia.org/wiki/Sweet_crude_oil) this [sour](https://en.wikipedia.org/wiki/Sour_crude_oil ) crude oil writing: 
+My expository might not be lighthearted enough to to be considered playful, but perhaps you can [sweeten](https://en.wikipedia.org/wiki/Sweet_crude_oil) this [sour](https://en.wikipedia.org/wiki/Sour_crude_oil ) crude oil writing.
