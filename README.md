@@ -2461,10 +2461,13 @@ The modern definition states that a program is free software if it grants users 
 A Free Energy Foundation would be able to reconcile with the FSF if a fifth Freedom were added, namely energy autarky being allowed to negotiated chip design in leading edge foundries a scalable architecture that does not set a priority to a higher TDP. In other words, if the FSF's four freedoms were like the UN Security Council (now being challenged in its authority by the Board of Peace, which is another story too long to get into here), then the energy TDP is like a permenent fifth member that has veto power over a concerted effort to design a free hardware system. In Stallmans's 01-2026 lecture, he speculates that open hardware might be 30 years away, but if you scroll up to the Fusion article suggesting the same thing, that reality is completely false. Free and Open source advocates have the self-determination to effect change, and they should not be beholden to influential, more misleading philosophers who are not up to date on the advances in open foundry space such as those at Skywater and IHG: https://tinytapeout.com/ https://www.musesemi.com/shared-block-tapeout-pricing 
 
 "1 hour, 24 minutes, 47 seconds
-How do you apply the free software principles to the hardware side? Well,
 1:24:51
+How do you apply the free software principles to the hardware side? Well,
+
 for the most part, we don't. Uh because hardware and software can both be used
+
 to design carrying out a certain computation. But there's a crucial difference about soft about hardware
+
 which is that it's you can't change what's inside a chip not the physical structure. Uh it's it's feasible to
 
 change a program and distribute the change program and for people to install that in place of the previous version and so people should be free to do that.
@@ -2499,6 +2502,8 @@ To clarify, I understand that manufactured silicon can't be modified after it is
 
 First of all, I never said free hardware is feudal but of course he wasn't thinking of me. What is so potentially ignorant of this statement is that the systems he is describing are far advanced an optional than anything a free energy system could ask for in this decade. 802.11ac, Wifi, Radios (not 802.3cg or other low power LoRAWAN/LoReA), and especially Video Graphics, the luxury of the 21st Century and late 90s:
 
+
+
 One really ought to ask Stallman and the FSF why he has for 10 years placed such an emphasis on graphically rich libre hardware when much of the world without power can't even get online with a 1978 Unix Terminal (or GNU/Linux) terminal from a 1991 486? The freedom to boycott 3D development until as Barack Obama in his Eulogy for Jesse Jackson last week said, 
 
 "6:40:52
@@ -2525,6 +2530,6 @@ But like so many of his generation, so many extraordinary civil rights leaders i
 
 https://www.youtube.com/watch?v=ORrNvS79chM 
 
-To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Newtownian (not Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law).
+To give Stallman the benefit of the doubt, he is woefully unaware of the leading edge's technological capabilities, thinks all technology today is still operating on linear or Newtownian (not Special Relativity, Quantum theory, or efficiencies brought about from Exponential thinking in near and sub threshold voltage due to the power law https://www.electronicdesign.com/technologies/analog/article/21807652/whats-all-this-subthreshold-stuff-anyhow).
 
 And Intel, as Nina Zheng has written, has modus operandus of secrecy. What is omitted is not unfalsifiable. The burden of scientific discovery rests on the community that wishes to improve its access to technology without necessarily supporting non-free technologies. Paying for the services for a foundry to manufacture chips at TSMC or Global Foundries might require signing NDAS, but for the purpose of having chips that are devoid of backdoor, they can certainly be audited after production. Preventing high performance chips isn't the goal of the Free Energy Foundation. It's merely informing the user that they have more options- autarkic options to power their computer/laptop. 
