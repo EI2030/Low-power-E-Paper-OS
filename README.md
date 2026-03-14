@@ -2612,4 +2612,6 @@ The Fifth Software Freedom (now offering 25% more freedom!)
 
 "The freedom for software developers and users to reject any large and new software projects (especially ones provided large commercial or governmental funding) that disproportionately benefits the have (grid-tied) power outlets over the have not power outlets,  unless an autarkic operating system and hardware chip/SoC code contribution or resource can be provided (either in free VLSI designs with libre source code- which includes EDA,TRL & Place & Route designs, then KiCAD+STL or physical manufacturing of open chips). The method of this is advocacy is analogous to collective bargaining." 
 
+The hardware/software contribution does not need to include lightweight client access to the intended project (such as a web portal)- such as a heavy database of content or software, but the ability to work on adjacent projects, but should encourage the lightweight availability of tools that can facilitate said software projects. 
+
 The wording of this freedom is likely to change to refine its definitions so as to enhance its freedom-capabilities and intentions. You are also free to make a copy of this repository and mirror it on a more free code site, like Codeberg or GitLab.
