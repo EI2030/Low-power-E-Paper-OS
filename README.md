@@ -2606,3 +2606,8 @@ https://webhomes.maths.ed.ac.uk/~v1ranick/papers/wigner.pdf
 Perhaps Wigner's paper could have been titled, "The reasonable unseriousness of including a joke about a circle's ratio's relevance to statistics"
 
 My expository might not be lighthearted enough to to be considered playful, but perhaps you can [sweeten](https://en.wikipedia.org/wiki/Sweet_crude_oil) this [sour](https://en.wikipedia.org/wiki/Sour_crude_oil ) crude oil writing.
+
+The Fifth Software Freedom (now offering 25% more freedom!)
+--
+
+"The freedom for software developers and users to reject any large and new software projects that disproportionately benefits the have power outlets over the have not power outlets,  unless an autarkic operating system and hardware chip can be provided. The method of this is advocay is analogous to collective bargaining. 
