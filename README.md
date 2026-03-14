@@ -1536,9 +1536,9 @@ The term enshittification was coined by Doctorow in a November 2022 blog post[1]
 
 In a 2024 article on ft.com, Doctorow extended the word with the term "enshittocene" to state that "'enshittification' is coming for absolutely everything".[[5]](https://web.archive.org/web/20240208152542/https://www.ft.com/content/6fb1602d-a08b-4a8c-bac0-047b7d64aba5)
 
-The beginning of an enshittification era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where feces is absent. Publically funded internet in the public interest.
+The beginning of an enshittification & AGI/ASI era necessitates a parallel internet infrastructure endeavor. Enter Minitel 2W. Local-first, internet where text and encyclopedias are prioritized over Advertisments, Algorithms, and antagonistic partisanship. One where feces is absent. Publically funded internet in the public interest.
 
-
+( 3/13/2026: When I wrote about infrastructure, this is exactly what I was referring to: https://www.youtube.com/watch?v=1oS35oWWl28 The ex-AI researchers talk about building infrastructure- what they might not realize is- power plants power all electronics, unless one is designed without a utility grid that isn't dependent on some AI mothership's commands. Hence, decentralized solar and renewable energy is one. The more solar powered communication devices- not just rooftop solar, but portable mobile devices, the better. )
 
 https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust NPR applied for and accepted tax-payer dollars. "I’ve Been at NPR for 25 Years. Here’s How We Lost America’s Trust.
 Uri Berliner, a veteran at the public radio institution, says the network lost its way when it started telling listeners how to think. By Uri Berliner April 9, 2024"
