@@ -1,7 +1,7 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
-https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF high priority site or on the FSF because software is not the penultimate goal of technology. They might care about video drivers and libre mobile operating systens, but energy consumption goals is not on their totem pole. 
+https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF high priority site or on the FSF because software is not the penultimate goal of technology. They might care about [libre](https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers) video drivers and libre mobile operating systens, but energy consumption goals is not on their totem pole. 
 
 3-11-2026
 --
