@@ -2644,6 +2644,54 @@ The Fifth Software Freedom (now offering 25% more freedom!)
 
 The hardware/software contribution does not need to include lightweight client access to the intended project (such as a web portal)- such as a heavy database of content or software, but the ability to work on adjacent projects, but should encourage the lightweight availability of tools that can facilitate said software projects. This freedom is not explicity prohibited by the other four freedoms, thus it is instead a strategic freedom that aims to limit the monopolization of information (information assymetry), which can equally be harmful in the same way that a large corporation that does much harm. It can be considered a realism, or realpolitik understanding of de-facto freedoms, rather than de-jure freedoms. 
 
+The definition of software harm according to the FSF may be quite broad and counter to the intuitiveness that many might initialy imagine. Nonetheless, the obscurity or secrecy of software being withheld from the user does have valid points towards a definition of harm. That said, prioritizing video driver development over increasing basic access is questionable at best and privileged at worst.
+
+Moving on, an excellent analysis of the FSF's guidance on avoiding surveillance firmware rests on a _very luxury belief_- the scarcity of 2009-era Thinkpads and the finite number of them available on Ebay or garage sale:
+
+"the hardware which remains
+
+In practice, it is difficult to get anything much more freedom-respecting than the Novena laptop. From a right-to-repair perspective, the Framework laptop is very good, but it still uses proprietary firmware. It is, however, built on a modern x86 CPU, and could be a reasonable target for corebooting, especially now that the embedded controller firmware’s source code has been released under a free license.
+
+However, because of the Intel ME, the Framework laptop will rightly never be RYF-certified. Instead, the FSF promotes buying old thinkpads from 2009 with Libreboot pre-installed. This is a total disservice to users, as a computer from 2009 is totally obsolete now, and as discussed above, Intel CPUs tend to be rather broken without their microcode updates.
+
+My advice is to ignore the RYF certification program, as it is actively harmful to the practical adoption of free software, and just buy whatever you can afford that will run a free OS well. At this point, total blob-free computing is a fool’s errand, so there are a lot of AMD Ryzen-based machines that will give you decent performance and GPU acceleration without the need for proprietary drivers. Vendors which use coreboot for their systems and open the source code for their embedded controllers should be at the front of the line. But the FSF will never suggest this as an option, because they have chosen unattainable ideological purity over the pragmatism of recommending what the market can actually provide."
+
+https://web.archive.org/web/20220124022719/https://ariadne.space/2022/01/22/the-fsfs-relationship-with-firmware-is-harmful-to-free-software-users/
+
+It is not a disservice, however, to recommend a slow or "obsolete" computer because it confers performance penalties- a 2009 laptop can still be very, very fast with the right lightweight operating system. What is a disservice is the FSF's dismissal and downprioritizing of free hardware development while also recommending a few lucky elite programmers with lots of time and money on their hands to scavenge the used market for laptops that can disable or never had an Intel Management or AMD Security Processor to begin with. This is just another reason to encourage the development of libre hardware chips (RISC-V, MIPS, J-Core, and even out of patent [486s](https://github.com/MiSTer-devel/ao486_MiSTer), which are not feudal because they are binary compatible with a lot of 32 bit software.
+
+Furthermore, one could make the argument that free software distributed willingly but blindly to parties, yet aware of the possibility that it be used for harm is also questionable:
+
+https://plume.pixie.town/~/NplLicensingForFreedomAndAgainstViolence/what-the-npl-is-for-and-why-i-created-it.html
+
+"Why I created it
+
+"Free Software, Free Society" is what FLOSS devs always look back to when describing the politics behind their software licensing, the copyleft framework for subverting copyright law for good rather than its evil origins. However, the phrase from Stallman's eponymous book has a glaring oversight when you look at the applications of FLOSS software in everyday life. Today, software licensed under the GPL, far from freeing society, provides the backend for tools of oppression from state biometric databases to the web infrastructure for ICE and associated contractors. Free Software is not actually equipped to Free Society, it is in many cases actively arming the oppressors. So the goal of the NPL is to take responsibility for free software's use in order to actually free society. IBM's computers did the number crunching during the holocaust, and god forbid nothing like that happens again, but should it happen it definitely should not be able to leverage software which was supposedly created to "free society". So I created a license which provides the same freedoms for anyone not taking part in activities which are violent or adjacent to violence to hopefully ensure, at least under a society enslaved to IP lawyers, that a FLOSS application isn't providing the framework for oppressors to use."
+
+Also see: https://plume.pixie.town/~/NplLicensingForFreedomAndAgainstViolence/a-reply-to-john-sullivan.html 
+
+_"Well in the above piece John Sullivan comes off as a bit caught off guard, repeating the same old "non-free" versus "free" rhetoric with not much in the form of constructive advice on where the movement should go in response. However, in the heat of the moment it appears a few desperate possible solutions get to be torn apart by me, so I'll try to keep it short here with replying to this nonsense. (Warning: The next few responses contain extreme sarcasm)_
+
+
+    With the ground rules of free software as the baseline, anyone can build systems to specifically promote ethical use.
+
+    ... We already have some such systems. For example, the FSF's Respects Your Freedom certification program...
+
+
+_For those reading this who are unfamiliar, the Respects Your Freedom (RYF) certification program is a program for certifying hardware products as only using entirely free software with a few additional requirements such as excluding those that are used to spy on their users. In order for something to be Free Software, however, it doesn't have to run on RYF-certified hardware from any such vendors, rendering this whole process entirely optional. So unless the FSF can get some nice promotional material out of it (cue Sarah McLachlan - In The Arms Of An Angel) and see some benefits within its already established framework through an entirely optional process to avoid alienating donors, sure! Ethical Capitalism to the rescue, right kids? I mean, it isn't like a certification program can actually prevent code from being used in a certain way, which is say, harmful to others. Geez, that almost makes it sound like a license would be better to absolutely ensure mandatory prevention of harm by software but lets not stray too far over there, lest we alienate corporate!_
+
+
+    Software engineers could also develop and propagate a code of ethics, the way other forms of engineering have.
+
+
+_I'm sure the fine folks working at Northrop Grumman, Raytheon, and Lockheed Martin would agree, seems to have worked for them. Actually, what are those other names I saw on the previously linked list of the top 25 U.S. Defense companies? Computer Sciences Corp, Hewlett-Packard? It is almost like many software engineers are already complicit in causing physical harm. Well, I'm sure we'll be able to change their minds by giving them a code of ethics on a handout, so no biggie!_
+
+
+    And, we've seen company tech workers organize together to refuse to make certain kinds of software; they could do more of this."
+
+    
+One could also compare the free software license to all the constitutional freedoms that 2nd Amendmenters claim about instruments of harm- "arms don't hurt people, people do" (and beyond)- thus the age verification laws can be seen, in many ways, as being even more restrictive than the 2nd amendment in suggesting that it is a harmful instrument that should be regulated. Some even thought that age two should be the new limit: https://www.youtube.com/watch?v=yKhEJIV6Y-Y As Crazed Israeli Commando Erran suggests Age 3 be the new limit because they call them the "terrible twos" for a reason. 
+
 Much like impeachment in the U.S. House of Representatives is not based on any specific infraction- legal scholars have noted that impeachment is purely a political decision. Impeach heavy, bloated software projects? There is no figure that free software could even impeach to make a difference. The problem of software and hardware freedom/access is largely a political barrier, not technical. 
 
 "Several impeached judges, including District Court Judge Walter Nixon, sought court intervention in their impeachment proceedings on these grounds. In Nixon v. United States (1993),[18] the Supreme Court determined that the federal judiciary could not review such proceedings, as matters related to impeachment trials are political questions and could not be resolved in the courts.[19]" 
