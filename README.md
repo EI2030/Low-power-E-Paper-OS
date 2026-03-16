@@ -2643,7 +2643,7 @@ Perhaps Wigner's paper could have been titled, "The reasonable unseriousness of 
 
 My expository might not be lighthearted enough to to be considered playful, but perhaps you can [sweeten](https://en.wikipedia.org/wiki/Sweet_crude_oil) this [sour](https://en.wikipedia.org/wiki/Sour_crude_oil ) crude oil writing.
 
-The Fifth Software Freedom (now offering 25% more freedom!)
+The Fifth Software Freedom ([now offering 25% more freedom!](https://www.unitpitt.ca/updates/25-more-pitt/))
 --
 
 "The freedom for software developers and users to reject any large and new software projects (especially ones provided large commercial or governmental funding, such as GPLv3 code contributed to servers at new datacenters) that disproportionately benefits the have (grid-tied and off grid) power outlets over the have not power outlets,  unless an autarkic operating system and hardware chip/SoC code contribution or resource can be provided (either in free VLSI designs with libre source code- which includes EDA,TRL & Place & Route designs, then KiCAD+STL or physical manufacturing of open chips). The method of this is advocacy is analogous to collective bargaining." 
