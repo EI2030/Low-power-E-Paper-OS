@@ -5,13 +5,13 @@ https://www.fsf.org/campaigns/priority-projects/ This project is not on the FSF 
 
 1 hour, 19 minutes, 35 seconds (Q&A w/ Richard Stallman 01-2026): https://www.youtube.com/watch?v=YDxPJs1EPS4&t=5808s
 
-Q: "Why are you so confident that free softwares are good are good and in important?"
+_"Q: Why are you so confident that free softwares are good are good and in important?"_
 
-"Well, free free programs tend to be good because if users like them, users will work on them to make them good. There have been some some examples showing that we do a very good job of developing things. And if you don't think we did a good enough job, please dig in and make it better."
+_"Well, free free programs tend to be good because if users like them, users will work on them to make them good. There have been some some examples showing that we do a very good job of developing things. And if you don't think we did a good enough job, please dig in and make it better."_
 
 This project is, with or without your support. In fact, if this project is able to achieve some of its goals, the FSF could expand its recruitment efforts to more than a billion additional users across the globe. If they thought more outside the box. 
 
-*Note*: This page, excluding supplemental files is 99.5MB in size. It can take a while to load. Although I add it to the description, I not everyone will be able to see that (e.g. hyperlinked) in advance.
+*Note*: This page, excluding supplemental files is 99.5MB in size. It can take a while to load. Although I add it to the description, not everyone will be able to see that (e.g. hyperlinked) in advance.
 
 3-16-2026
 --
