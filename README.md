@@ -2674,6 +2674,8 @@ Furthermore, one could make the argument that free software distributed willingl
 
 https://plume.pixie.town/~/NplLicensingForFreedomAndAgainstViolence/what-the-npl-is-for-and-why-i-created-it.html
 
+https://git.pixie.town/thufie/npl-builder 
+
 https://thufie.lain.haus/NPL.html
 
 "Why I created it
