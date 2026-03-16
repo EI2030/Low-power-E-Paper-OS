@@ -13,6 +13,36 @@ This project is, with or without your support. In fact, if this project is able 
 
 *Note*: This page, excluding supplemental files is 99.5MB in size. It can take a while to load. Although I add it to the description, I not everyone will be able to see that (e.g. hyperlinked) in advance.
 
+3-16-2026
+--
+
+"Guess who's behind the sudden rush of age verification legislation?
+
+In the US, #Meta is spending $26.3 Million to hire at least 86 Lobbyists from 40 lobbying firms, and lobbying in at least 45 states. It is confirmed that Meta wrote the Louisiana age verification bill.
+
+In the EU, Meta is spending ten million euros annually on lobbying, retaining 18 lobbying firms.
+
+Age verification isn't about protecting children; it's about attacking privacy. "
+
+https://tboteproject.com/ https://mastodon.scot/@simon_brooke/116234798326440338
+
+"Digital Childhood Alliance: A Shell Advocacy Group
+DCA is a 501(c)(4) advocacy group that Meta covertly funds. Bloomberg exposed the funding relationship in July 2025. Under oath at a Louisiana Senate committee hearing, Executive Director Casey Stefanski admitted receiving tech company funding but refused to name donors.
+
+DCA has no EIN in the IRS Business Master File, no incorporation record in any state registry searched (CO, DC, DE, VA, OpenCorporates), and no Form 990 on file.
+
+DCA's domain was registered December 18, 2024. The website was live and fully formed the next day - a 77-day pipeline to Utah SB-142 signing. Every blog post and testimony targets Apple and Google. Meta is never mentioned or criticized.
+
+DCA's coalition count inflated from 50+ to 140+ with only six organizations ever publicly named.
+
+ConnectSafely, a Meta-funded child safety group, classified tech company donations as "program service revenue" for nine consecutive years (2015-2023) to avoid Schedule B donor disclosure. In California, Meta supported AB-1043 while DCA opposed it, indicating DCA operates independently enough to break ranks with its funder."
+
+"investigation into how Meta Platforms built a multi-channel influence operation to pass age verification laws that shift regulatory burden from social media platforms onto Apple and Google's app stores." A tale of lobbying, astroterfing, and millions of dollars.
+
+https://github.com/upper-up/meta-lobbying-and-other-findings
+
+#USPol #UKPol #Internet #Meta https://loci.onl/@morix/116224084798497423 "
+
 3-11-2026
 --
 
