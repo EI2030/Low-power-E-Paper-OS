@@ -41,6 +41,12 @@ ConnectSafely, a Meta-funded child safety group, classified tech company donatio
 
 https://github.com/upper-up/meta-lobbying-and-other-findings
 
+https://www.phoronix.com/news/System76-Age-Verification-Laws 
+
+https://blog.system76.com/post/system76-on-age-verification "The challenges we face are neither technical nor legal. The only solution is to educate our children about life with digital abundance. Throwing them into the deep end when they’re 16 or 18 is too late. It’s a wonderful and weird world. Yes, there are dark corners. There always will be. We have to teach our children what to do when they encounter them and we have to trust them."
+
+https://substack.com/@newsteve/note/c-228652928 Bill Gates with Paul Allen
+
 #USPol #UKPol #Internet #Meta https://loci.onl/@morix/116224084798497423 "
 
 3-11-2026
