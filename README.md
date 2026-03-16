@@ -2674,6 +2674,8 @@ Furthermore, one could make the argument that free software distributed willingl
 
 https://plume.pixie.town/~/NplLicensingForFreedomAndAgainstViolence/what-the-npl-is-for-and-why-i-created-it.html
 
+https://thufie.lain.haus/NPL.html
+
 "Why I created it
 
 "Free Software, Free Society" is what FLOSS devs always look back to when describing the politics behind their software licensing, the copyleft framework for subverting copyright law for good rather than its evil origins. However, the phrase from Stallman's eponymous book has a glaring oversight when you look at the applications of FLOSS software in everyday life. Today, software licensed under the GPL, far from freeing society, provides the backend for tools of oppression from state biometric databases to the web infrastructure for ICE and associated contractors. Free Software is not actually equipped to Free Society, it is in many cases actively arming the oppressors. So the goal of the NPL is to take responsibility for free software's use in order to actually free society. IBM's computers did the number crunching during the holocaust, and god forbid nothing like that happens again, but should it happen it definitely should not be able to leverage software which was supposedly created to "free society". So I created a license which provides the same freedoms for anyone not taking part in activities which are violent or adjacent to violence to hopefully ensure, at least under a society enslaved to IP lawyers, that a FLOSS application isn't providing the framework for oppressors to use."
