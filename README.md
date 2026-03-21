@@ -2538,7 +2538,13 @@ could modify the design and make your own chip when it's feasible to modif.org/f
 
 To clarify, I understand that manufactured silicon can't be modified after it is produced. For that one instance. That is not the objective of free designs (which rests in software source Verilog/VLSI, and mask designs (considered an artwork by legal definitions) rather than hardware). FPGAs and Coarse Grained Reconfigurable Arrays (CGRAs), however, do allow architectural changes after the chip is manufactured. But that is ALSO not the goal of free energy hardware. The goal of free energy hardware like autarkic solar or thermoelectric generators, RF, and other energy harvesting devices is the freedom to integrate energy autarkic capabilities and not demand priority of energy intensive platforms which are just as much "feudal." Stallman calls it "feudal to demand that every chip that you get be made from free hardware designs." 
 
-First of all, I never said free hardware is feudal but of course he wasn't thinking of me. What is so potentially ignorant of this statement is that the systems he is describing are far advanced an optional than anything a free energy system could ask for in this decade. 802.11ac, Wifi, Radios (not 802.3cg or other low power LoRAWAN/LoReA), and especially Video Graphics, the luxury of the 21st Century and late 90s:
+First of all, I never said free hardware is feudal but of course he wasn't thinking of me. What is so potentially ignorant of this statement is that the systems he is describing are far more advanced an optional than anything a free energy system could ask for in this decade. Even a 2008 era Core 2 w/o Intel Management Engine has hundreds of millions of transistors.
+
+For example a Conroe has nearly 300,000 transitors: Core 2 Duo Conroe (dual-core 64-bit, large caches) 	291,000,000 	2006 	Intel 	65 nm 	143 mm2 	2,035,000  https://en.wikipedia.org/wiki/Transistor_count#Microprocessors 
+
+<img width="1051" height="721" alt="image" src="https://github.com/user-attachments/assets/60703cae-feff-4dc0-85e8-78ba6b033881" />
+
+802.11ac, Wifi, Radios (not 802.3cg or other low power LoRAWAN/LoReA), and especially PCI-express Video Graphics, are a luxury of the 21st Century and not the late 90s:
 
 from https://www.fsf.org/campaigns/priority-projects/hardware-firmware-drivers :
 
