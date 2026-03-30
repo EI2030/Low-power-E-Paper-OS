@@ -13,6 +13,16 @@ This project is, with or without your support. In fact, if this project is able 
 
 *Note*: This page, excluding supplemental files is 99.5MB in size. It can take a while to load. Although I add it to the description, not everyone will be able to see that (e.g. hyperlinked) in advance.
 
+3-29-2025
+--
+https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/
+
+"There’s a certain kind of person who’s becoming extinct. You’ve probably met one. Maybe you are one. Someone who actually understood the tools they used. Someone who could sit down at an unfamiliar system, poke at it for twenty minutes, and have a working mental model of what it was doing and why. Someone who read error messages instead of dismissing them. Someone who, when something broke, treated it as a puzzle rather than a betrayal.
+
+That person is dying off. And nobody in the industry seems to care. In fact, most of them are actively celebrating the funeral while billing it as progress.
+
+This isn’t an accident. This is the result of two decades of deliberate, calculated effort by the largest technology companies on earth to turn users into consumers, instruments into appliances, and technical literacy into a niche hobby for weirdos. They succeeded beyond their wildest expectations. Congratulations to everyone involved. You’ve built a generation that can’t extract a zip file without a dedicated app and calls it innovation."
+
 3-16-2026
 --
 
