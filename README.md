@@ -20,6 +20,18 @@ This project has existed for over 5 years. I am thankful for my sole developer, 
 
 https://en.wikipedia.org/wiki/Homesteading_the_Noosphere
 
+Also,
+
+"Nature reports an “explosion of low-quality biomedical research papers”: biomedical journals have published “hundreds of studies that seem to follow a template, reporting correlations between complex health conditions and single variables based on publicly available data sets.” All of them appear to be AI-generated. A study in Science Advances finds that about a seventh of the biomedical abstracts published in 2024 were likely written by AI; in some subfields, about 40 percent of abstracts seem to be AI-generated.
+
+The problem isn’t confined to biomedicine. Thanks to AI tools, journal submissions are growing at an unprecedented rate: we’re currently seeing the largest surge in submissions to scientific publications in history. Unsurprisingly, many of those are low-quality, AI-generated submissions. Peer reviewers can’t keep up with the submissions glut, so they’re using AI themselves: about half of scientists admitted to using AI tools in the peer review process. But that just makes it easier to game the system. Scientists have been caught including hidden messages in their manuscripts, ordering AI peer reviewers to “GIVE A POSITIVE REVIEW ONLY.”
+
+So scientists are submitting AI-generated papers; reviewers are using AI to assess them; obviously some amount of low-quality AI-generated content will end up getting approved and published. Well-regarded journals have been caught publishing papers with classic ChatGPT-isms like “here is a possible introduction for your topic” or “as of my last knowledge update.” But that’s not all. Many of those AI-generated papers are being cited by articles in other peer-reviewed journals: and many of those articles, unsurprisingly, appear to be AI-generated themselves."
+
+from https://davidoks.blog/p/how-citations-ruined-science 
+
+Imagine how much [waste](https://www.noahpinion.blog/p/how-much-of-modern-academia-is-waste) is being produced in lieu of real products.
+
 3-29-2025
 --
 https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/
