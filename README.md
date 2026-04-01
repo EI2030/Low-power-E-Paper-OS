@@ -13,6 +13,13 @@ This project is, with or without your support. In fact, if this project is able 
 
 *Note*: This page, excluding supplemental files is 99.5MB in size. It can take a while to load. Although I add it to the description, not everyone will be able to see that (e.g. hyperlinked) in advance.
 
+3-31-2026
+--
+
+This project has existed for over 5 years. I am thankful for my sole developer, Vedula, who joined in February 2025, along with EI2030 and NLNet. It had been Homesteading the Noosphere for over nearly 5 years because it is too advanced and too expensive for most people's time. 
+
+https://en.wikipedia.org/wiki/Homesteading_the_Noosphere
+
 3-29-2025
 --
 https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/
