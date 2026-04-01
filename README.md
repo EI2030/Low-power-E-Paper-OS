@@ -16,7 +16,7 @@ This project is, with or without your support. In fact, if this project is able 
 3-31-2026
 --
 
-This project has existed for over 5 years. I am thankful for my sole developer, Vedula, who joined in February 2025, along with EI2030 and NLNet. It had been Homesteading the Noosphere for over nearly 5 years because it is too advanced and too expensive for most people's time. 
+This project has existed for over 5 years. I am thankful for my sole developer, Vedula, who joined in February 2025, along with EI2030 and NLNet. It had been Homesteading the Noosphere for nearly 5 years because it is too advanced and too expensive for most people's time. 
 
 https://en.wikipedia.org/wiki/Homesteading_the_Noosphere
 
