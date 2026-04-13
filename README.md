@@ -6,7 +6,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 Nobody cares that Linux 7.1 doesn't support the 486 because people believe "open source" is synonymous with heavyweight X86_64 moving targets so that Intel can always prevent solar powered modern kernels. Wonderful trick you did there with that matador! just wave the muleta and the bull runs toward it! 
 
-Yet 41 years ago the 386 was released and no one is willing to manufacture it even though the patent expired. if it is legally in the clear, along with 2006 era chips, then why not create a gofundme legal defense fund in case it is ever contested? it should be a pledge fund, so that one only has to donate IF Intel sues for manufacturing a legal, expired 486. Software freedom Conservancy,EFF/ FSF cant be bothered with that? boo hoo!
+Yet 41 years ago the 386 was released and no one is willing to manufacture it even though the patent expired. if it is legally in the clear, along with 2006 era chips, then why not create a gofundme legal defense fund in case it is ever contested? it should be a pledge fund, so that one only has to donate IF Intel sues an open source group for manufacturing a legal, expired 486. Software freedom Conservancy,EFF/ FSF cant be bothered with that? boo hoo!
 
 https://www.linkedin.com/posts/atalibioschneider_opensource-linux-kernel-share-7447970200257413121-_VF6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABX8q28BPYC1AsJD-snQTaCrj_2Xl01KWz0
 
