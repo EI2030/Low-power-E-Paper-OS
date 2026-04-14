@@ -14,11 +14,25 @@ https://www.tomshardware.com/software/linux/linux-devs-start-removing-support-fo
 
 "Phronix notes that the patch should be merged in Linux 7.1, meaning users won’t be able to build an i486 kernel image. Then, barring an unexpected level of public uproar, the rest of the 486 support can be safely gutted."
 
-My opposition to them dropping linux support on the 486 isn't so much that I need to solar power a 486. It's that the foundries that I've talked to are afraid of manufacturing even an open source 386 because of the possibility of legal action, stating that even if I am right, would I be prepared to defend against a costly lawsuit? At the moment, no, but there's no reason why open source minded people can't start thinking about it. It clearely doesn't compete with the current lineup.
+My opposition to them dropping linux support on the 486 isn't so much that I need to solar power a 486. It's that the foundries that I've talked to are afraid of manufacturing even an open source 386 because of the possibility of legal action, stating that even if I am right, would I be prepared to defend against a costly lawsuit? At the moment, no, but there's no reason why open source minded people can't start thinking about it. It clearly doesn't compete with the current lineup:
 
 https://www.edn.com/cambridge-calling-the-rise-of-the-arm-clones/ "The most likely explanation of the lack of legal action is that ARM has chosen not to prosecute individuals and organizations producing ARM-compatible cores that do not compete directly with ARM's contemporary portfolio."
 
-It's also about Intel not offering anything that could be solar powered and run a modern linux, if they so choosed- For the time being, the Pentium still supports Linux 7.1, but eventually they might move to X86-S as they previously considered (Intel at least- which is x86 without any 32 bit instructions). But if they want to focus on a modern architecture, then they could make an Atom, which had 64 bit support. but nowadays it has to have a minimum amount of performance so that the nanny state and all the NASCAR sponsorships can have dedicated marketing analytics hardcoded on the die for dedicated telemetry.
+It's also about Intel not offering anything that could be solar powered and run a modern linux, if they so choosed- For the time being, the Pentium still supports Linux 7.1, but eventually they might move to X86-S as they previously considered (Intel at least- which is x86 without any 32 bit instructions). But if they want to focus on a modern architecture, then they could make an Atom, which had 64 bit support. But nowadays it has to have a minimum amount of performance so that the nanny state and all the NASCAR sponsorships can have dedicated marketing analytics hardcoded on the die for dedicated telemetry.
+
+![congress-nascar-jackets-sponsors-who-bought-them](https://github.com/user-attachments/assets/b368eb92-40cd-4ec7-b71d-28949aca3856)
+
+This is what your 3nm chip looks like under a microscope: 
+
+![luma-display-ad-tech-landscape-for-adexchanger](https://github.com/user-attachments/assets/896ce7bb-d800-4bee-8d25-28d9698b3548)
+
+![Apple-WWDC22-M2-chip-M1-chip-2up-220606_big jpg large](https://github.com/user-attachments/assets/8202aae4-0258-4666-8591-2b3b6e576297)
+
+The chips need to be that dense so all the analytics companies can have dedicated transistors! This is[ why we can't have nice things](https://english.stackexchange.com/questions/417320/what-is-the-origin-of-the-phrase-this-is-why-we-cant-have-nice-things#:~:text=It%20seems%20likely%20that%20comedian,apparently%20said%20it%20before%20the).
+
+
+
+
 
 ---
 
