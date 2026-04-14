@@ -22,6 +22,8 @@ It's also about Intel not offering anything that could be solar powered and run 
 
 ![congress-nascar-jackets-sponsors-who-bought-them](https://github.com/user-attachments/assets/b368eb92-40cd-4ec7-b71d-28949aca3856)
 
+https://www.reddit.com/r/pics/comments/l3ym8/should_politicians_wear_uniforms_like_nascar/ 
+
 This is what your 3nm chip looks like under a microscope: 
 
 ![luma-display-ad-tech-landscape-for-adexchanger](https://github.com/user-attachments/assets/896ce7bb-d800-4bee-8d25-28d9698b3548)
@@ -32,7 +34,7 @@ Actually, I meant this:
 
 The chips need to be that dense so all the analytics companies can have dedicated transistors! This is[ why we can't have nice things](https://english.stackexchange.com/questions/417320/what-is-the-origin-of-the-phrase-this-is-why-we-cant-have-nice-things#:~:text=It%20seems%20likely%20that%20comedian,apparently%20said%20it%20before%20the).
 
-
+Should semiconductor companies disclose all the ad companies that benefit from extra transistors and might collaborate with so the product's (if your purchase was free or subsidized, you are the product, not the customer) computer doesn't "appear" to run slow before needing to upgrade every few years?
 
 
 
