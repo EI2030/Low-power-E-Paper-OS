@@ -28,7 +28,7 @@ This is what your 3nm chip looks like under a microscope:
 
 ![luma-display-ad-tech-landscape-for-adexchanger](https://github.com/user-attachments/assets/896ce7bb-d800-4bee-8d25-28d9698b3548)
 
-Actually, I meant this:
+Actually, I meant this (I had you for a second):
 
 <img width="2560" height="1440" alt="Apple-M2-Pro-M2-Max-SOCs-gigapixel-standard-scale-4_00x-Custom" src="https://github.com/user-attachments/assets/deebdd19-3387-46e6-a22a-8250642d3bf9" />
 
