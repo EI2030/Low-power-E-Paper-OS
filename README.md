@@ -20,7 +20,7 @@ https://www.edn.com/cambridge-calling-the-rise-of-the-arm-clones/ "The most like
 
 It's also about Intel not offering anything that could be solar powered and run a modern linux, if they so choosed- For the time being, the Pentium still supports Linux 7.1, but eventually they might move to X86-S as they previously considered (Intel at least- which is x86 without any 32 bit instructions). But if they want to focus on a modern architecture, then they could make an Atom, which had 64 bit support. But nowadays it has to have a minimum amount of performance so that the nanny state and all the NASCAR sponsorships can have dedicated marketing analytics hardcoded on the die for dedicated telemetry.
 
-![congress-nascar-jackets-sponsors-who-bought-them](https://github.com/user-attachments/assets/b368eb92-40cd-4ec7-b71d-28949aca3856)
+![should-politicians-wear-uniforms-like-nascar-racers-sourced-v0-1vI6Xag-EwX0iOMgEgrPCO3GXsR5Wnvhbn2Hy0Ll3iY](https://github.com/user-attachments/assets/ae0a5893-fa45-4499-9208-1caa29eae898)
 
 https://www.reddit.com/r/pics/comments/l3ym8/should_politicians_wear_uniforms_like_nascar/ 
 
