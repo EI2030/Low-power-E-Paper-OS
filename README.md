@@ -26,6 +26,8 @@ This is what your 3nm chip looks like under a microscope:
 
 ![luma-display-ad-tech-landscape-for-adexchanger](https://github.com/user-attachments/assets/896ce7bb-d800-4bee-8d25-28d9698b3548)
 
+Ooops, I meant this:
+
 ![Apple-WWDC22-M2-chip-M1-chip-2up-220606_big jpg large](https://github.com/user-attachments/assets/8202aae4-0258-4666-8591-2b3b6e576297)
 
 The chips need to be that dense so all the analytics companies can have dedicated transistors! This is[ why we can't have nice things](https://english.stackexchange.com/questions/417320/what-is-the-origin-of-the-phrase-this-is-why-we-cant-have-nice-things#:~:text=It%20seems%20likely%20that%20comedian,apparently%20said%20it%20before%20the).
