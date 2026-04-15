@@ -14,7 +14,7 @@ https://jhalfmoon.com/dbc/2019/03/14/%E9%BB%84%E6%98%8F%E3%81%AEsoc4-amd%E3%80%8
 
 https://ascii.jp/elem/000/000/648/648702/
 
-
+https://www.pilothobbies.com/geobook/ https://retro.hackaday.com/ 
 
 4-13-2026
 --
