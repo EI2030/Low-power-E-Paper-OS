@@ -1,6 +1,21 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+4-14-2026
+--
+
+"The SC300 and SC310 combines a 32-bit, x86 compatible, low-voltage 25 MHz or 33 MHz Am386SX CPU with memory controller, PC/AT peripheral controllers, real-time clock, PLL clock generators and ISA bus interface. SC300 integrates in addition two PCMCIA 2.1 slots and a CGA-compatible LCD controller. Power consumption at 33 MHz was only 600 mW including CPU, memory controller and peripherals. In suspend mode consumption reduces to 0,17 mW.[5][6][7][2] The low budget 9,7" laptop Brother GeoBook NB60 uses a SC300[8]"
+
+https://en.wikipedia.org/wiki/AMD_%C3%89lan
+
+https://www.ardent-tool.com/CPU/docs/MPR/19931025/071404.pdf
+
+https://jhalfmoon.com/dbc/2019/03/14/%E9%BB%84%E6%98%8F%E3%81%AEsoc4-amd%E3%80%81elan-sc300-400-single-chip-pc-at/
+
+https://ascii.jp/elem/000/000/648/648702/
+
+
+
 4-13-2026
 --
 
