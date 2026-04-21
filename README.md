@@ -1,6 +1,17 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+4-21-2026
+--
+
+The Xerox Alto was called "A Time Machine" in Michael Hiltzik's 1999 book “The Dealers of Lightning”. They built it as a computer that would be ready 10 years into the future.
+
+Similarly, designing a new laptop today is a template for a 2nd generation laptop. When one designs a new laptop today, they are using the template from the first computer. That 2nd gen serves as a template for a 3rd generation laptop.
+
+In my FemtoTX project, I detail a solar powered 386 or 586 AS a template for a faster one.
+
+In order to believe a faster solar powered laptop is possible, it’s necessary to first build a “slow” one (by today’s plugged in standards).
+
 4-14-2026
 --
 
