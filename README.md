@@ -1,5 +1,10 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
+5-12-2026
+--
+
+<img width="424" height="177" alt="17786063689432880218486277022089" src="https://github.com/user-attachments/assets/41f28e56-1ce5-47dd-94e0-3eb04f3ea115" />
+
 
 4-21-2026
 --
