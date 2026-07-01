@@ -1,5 +1,12 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
+
+7-1-2026
+--
+
+Intel Management Engine instrumental analysis: https://pbx.sh/intelme_talk.pdf
+
+
 5-12-2026
 --
 
