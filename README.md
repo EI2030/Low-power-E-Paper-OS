@@ -1,6 +1,25 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+8-16-2026
+--
+RISC-V architecture is a LEGO set with no rhyme or reason across generations:
+https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV
+
+"the architecture with the famously-terrible encoding managed to preserve semantic stability across almost 50 years, while the clean-sheet architecture designed by people who had decades of hindsight apparently didn't manage to do it across five years"
+
+An incompatible architecture, that nonetheless can win on cost alone: https://rvembedded.com/blog_post/12/
+"It is going there because an embedded engineer in a 3rd world country can shine a cheap LED and see the transistors in the silicon, Infra-Red, In Situ (IRIS) Inspection of Silicon « bunnie's blog and get 50 chips with a debugger and free development tools for the price of a cup of coffee and shipped free. It also means that world class engineers can design MMUs onto chips that the gate keepers will never give a license for. "
+
+https://news.ycombinator.com/item?id=49321717 I will add that few RISC-V developers are really thinking in terms of a general purpose processor with many standardized components (since they are currently "optional"), and it suffers from the same thing linux distros do- lack of accessibility for all but the most technical, which is why Grinberg mentions Gentoo as a rescue:
+
+<img width="1536" height="1023" alt="image" src="https://github.com/user-attachments/assets/04c40576-877a-49f9-afbb-922e257a15d6" />
+
+Well done, Dmitri! Now, if only oprhan status 486 or ARMv5 chips could get a little generic status allowed.
+
+There is one such project: https://nand2mario.github.io/posts/2026/z486/ 
+
+
 7-1-2026
 --
 
