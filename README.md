@@ -15,7 +15,7 @@ https://news.ycombinator.com/item?id=49321717 I will add that few RISC-V develop
 
 <img width="1536" height="1023" alt="image" src="https://github.com/user-attachments/assets/04c40576-877a-49f9-afbb-922e257a15d6" />
 
-Well done, Dmitri! Now, if only oprhan status 486 or ARMv5 chips could get a little generic status allowed.
+Well done, Dmitri! Now, if only orphan status 486 or ARMv5 chips could get a little generic status allowed.
 
 There is one such project: https://nand2mario.github.io/posts/2026/z486/ 
 
