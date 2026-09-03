@@ -4,7 +4,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 9-3-2026
 --
 
-https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology
+https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology (significant RAM capacities for eDRAM and a solar chip seems like a highly relevant application for this project!)
 
 8-16-2026
 --
