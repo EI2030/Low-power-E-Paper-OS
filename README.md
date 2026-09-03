@@ -1,6 +1,11 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+9-3-2026
+--
+
+https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology
+
 8-16-2026
 --
 RISC-V architecture is a LEGO set with no rhyme or reason across generations:
