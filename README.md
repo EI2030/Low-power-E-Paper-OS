@@ -6,6 +6,11 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 https://www.imec-int.com/en/articles/disrupting-dram-roadmap-capacitor-less-igzo-dram-technology (significant RAM capacities for eDRAM and a solar chip seems like a highly relevant application for this project!)
 
+Unrelated: [Invisible companies](https://colossus.com/article/invisible-companies/)
+
+https://news.ycombinator.com/item?id=49521264
+
+
 8-16-2026
 --
 RISC-V architecture is a LEGO set with no rhyme or reason across generations:
