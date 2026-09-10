@@ -14,7 +14,7 @@ https://github.com/hatonthecat/solarcircuits/blob/main/Intel%20APX%20and%20x86S%
 Die Yield Breakdown
 Realistic Physical Layout (3 mm Edge Exclusion): 6,456 to 6,882 dies — accounts for a standard 3 mm non-usable wafer perimeter and a 0.1 mm dicing street (kerf) between dies."
 
-64 bit linux requires more RAM, but 64-128MB may suffice: http://tinycorelinux.net/ports.html
+64 bit linux requires more RAM, but 128MB may suffice: http://tinycorelinux.net/ports.html (it froze when I tried to install AbiWord, but also I also booted TinyCore from RAM, so installing to Disk wouldn't require as much memory- it would most likely load after installation to disk with 128MB).
 
 Other Core Ports
 – x86 Pure 64 –
@@ -23,6 +23,8 @@ Other Core Ports
  • Browse Pure 64 TCZs
  • Recently Updated Pure 64 TCZs
  • Support Forum
+
+[TinyCorePure64-17.1.webm](https://github.com/user-attachments/assets/cc0cefe5-7569-4c19-9ade-13be3e818490)
 
 
 9-3-2026
