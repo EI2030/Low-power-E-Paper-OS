@@ -14,6 +14,16 @@ https://github.com/hatonthecat/solarcircuits/blob/main/Intel%20APX%20and%20x86S%
 Die Yield Breakdown
 Realistic Physical Layout (3 mm Edge Exclusion): 6,456 to 6,882 dies — accounts for a standard 3 mm non-usable wafer perimeter and a 0.1 mm dicing street (kerf) between dies."
 
+64 bit linux requires more RAM, but 64-128MB may suffice: http://tinycorelinux.net/ports.html
+
+Other Core Ports
+– x86 Pure 64 –
+ • [Core Pure 64 Latest Build](http://tinycorelinux.net/17.x/x86_64/release/)
+ • Release Candidates
+ • Browse Pure 64 TCZs
+ • Recently Updated Pure 64 TCZs
+ • Support Forum
+
 
 9-3-2026
 --
