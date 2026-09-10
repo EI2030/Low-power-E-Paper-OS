@@ -10,6 +10,11 @@ Planar 2D is cheaper because it doesn't require stacking wafers.
 
 https://github.com/hatonthecat/solarcircuits/blob/main/Intel%20APX%20and%20x86S%20Modernization%20w-eDRAM.pdf 6.73mm^2 is approximately 2.59mm x2.59mm 
 
+"For chips with an area of 9.62 mm² (approximately 3.10 mm × 3.10 mm for a square die), a 300 mm wafer will yield between 6,450 and 7,130 gross dies, depending on edge exclusion limits and scribe street width.
+Die Yield Breakdown
+Realistic Physical Layout (3 mm Edge Exclusion): 6,456 to 6,882 dies — accounts for a standard 3 mm non-usable wafer perimeter and a 0.1 mm dicing street (kerf) between dies."
+
+
 9-3-2026
 --
 
