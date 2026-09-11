@@ -6,7 +6,7 @@ Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 20
 
 <img width="933" height="1075" alt="image" src="https://github.com/user-attachments/assets/c96c6e26-0955-41d5-bf3f-e6e23222f34c" />
 
-Planar 2D is cheaper because it doesn't require stacking wafers.
+Planar 2D is cheaper because it doesn't require stacking wafers. However, if 40nm 3D wafers cost less than one 2D 28nm...
 
 https://github.com/hatonthecat/solarcircuits/blob/main/Intel%20APX%20and%20x86S%20Modernization%20w-eDRAM.pdf 6.73mm^2 is approximately 2.59mm x2.59mm 
 
