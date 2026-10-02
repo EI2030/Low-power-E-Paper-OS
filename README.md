@@ -1,6 +1,10 @@
 Low-power-E-Paper-OS - The Ambitious Plan to Put a Solar Panel on a Laptop by 2030
 ---
 
+10-02-2026
+--
+https://newsteve.substack.com/p/paulina-borsook-the-critic-you-call
+
 9-10-2026
 --
 
